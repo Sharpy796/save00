@@ -1,0 +1,66 @@
+<Stats deaths="1" kills="86" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bat" value="16" >
+    </E>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="bomb" value="3" >
+    </E>
+    <E key="firebug" value="11" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="ghost_crystal" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="mine_scavenger" value="2" >
+    </E>
+    <E key="miner" value="6" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="3" >
+    </E>
+    <E key="potion_aggressive" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

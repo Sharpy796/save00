@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="110" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="beehive" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="dripper" value="2" >
+    </E>
+    <E key="duck" value="5" >
+    </E>
+    <E key="eye_bat" value="6" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="larva_crawler" value="3" >
+    </E>
+    <E key="longleg" value="37" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="poring" value="5" >
+    </E>
+    <E key="rat" value="24" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="3" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="stalker_ceiling" value="1" >
+    </E>
+    <E key="wizard_toxic" value="1" >
+    </E>
+    <E key="wizard_twin" value="1" >
+    </E>
+    <E key="worm_big" value="2" >
+    </E>
+    <E key="zombie_weak" value="8" >
+    </E>
+  </kill_map>
+</Stats>

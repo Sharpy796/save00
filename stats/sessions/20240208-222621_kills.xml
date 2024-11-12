@@ -1,0 +1,94 @@
+<Stats deaths="1" kills="85" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="fairy_big_discord" value="4" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="giant_centipede" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hideous_mass" value="4" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="phantom_a" value="2" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="polymorph_crystal" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="poring_magic" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scorpion" value="2" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="skullfly" value="2" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimespirit" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="spittrap_left" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="tesla_turret" value="1" >
+    </E>
+    <E key="wizard_duck" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_returner" value="2" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

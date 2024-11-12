@@ -1,0 +1,92 @@
+<Stats deaths="1" kills="85" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="boss_centipede_minion" value="1" >
+    </E>
+    <E key="crystal_physics" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist" value="2" >
+    </E>
+    <E key="fish_large" value="3" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="minipit" value="1" >
+    </E>
+    <E key="necrobot_super" value="1" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="11" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_shield" value="1" >
+    </E>
+    <E key="scavenger_smg" value="7" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skullfly" value="2" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="thundertrap_right" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="worm_skull" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

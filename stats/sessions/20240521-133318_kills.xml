@@ -1,0 +1,88 @@
+<Stats deaths="1" kills="193" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="5" >
+    </E>
+    <E key="dripping_oil" value="1" >
+    </E>
+    <E key="drone_mini" value="1" >
+    </E>
+    <E key="fairy_big" value="8" >
+    </E>
+    <E key="firebug" value="11" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fish" value="36" >
+    </E>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_fuzz" value="2" >
+    </E>
+    <E key="graham_miner_gasser" value="2" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="longleg" value="15" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="miniblob" value="4" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="pollen" value="28" >
+    </E>
+    <E key="poring" value="4" >
+    </E>
+    <E key="rat" value="7" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="9" >
+    </E>
+    <E key="scavenger_smg" value="7" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="zombie_weak" value="14" >
+    </E>
+  </kill_map>
+</Stats>

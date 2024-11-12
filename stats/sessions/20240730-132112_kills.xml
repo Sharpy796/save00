@@ -1,0 +1,16 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="fungus_giga | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="pollen_bloom" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+  </kill_map>
+</Stats>

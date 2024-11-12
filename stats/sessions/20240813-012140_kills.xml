@@ -1,0 +1,22 @@
+<Stats deaths="1" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="frog_big | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

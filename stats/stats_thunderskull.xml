@@ -1,0 +1,40 @@
+<Stats deaths="25" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="011000011a9632a8_base | " value="1" >
+    </E>
+    <E key="NULL | " value="1" >
+    </E>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="monk | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="7" >
+    </E>
+    <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="1" >
+    </E>
+    <E key="tank | $damage_explosion" value="1" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+  </kill_map>
+</Stats>

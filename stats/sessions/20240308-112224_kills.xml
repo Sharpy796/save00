@@ -1,0 +1,52 @@
+<Stats deaths="1" kills="31" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="radiobot | $damage_radioactive" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="beehive" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="3" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="larva_crawler" value="3" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skeleton" value="2" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="whisp" value="2" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

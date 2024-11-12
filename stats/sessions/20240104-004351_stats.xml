@@ -1,0 +1,56 @@
+<Stats BUILD_NAME="Noita-Build-Dec 31 2023-15:21:36" >
+  <stats biomes_visited_with_wands="23" damage_taken="69.0726" dead="1" death_count="0" death_pos.x="3614.07" death_pos.y="12536.8" enemies_killed="320" gold="4143" gold_all="10343" gold_infinite="0" healed="319.686" heart_containers="0" hp="100" items="31" kicks="196" killed_by=" | damage from material: lava" killed_by_extra="" places_visited="23" playtime="6652.92" playtime_str="1:50:52" projectiles_shot="17438" streaks="0" teleports="7" wands_edited="6" world_seed="71738510" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="23" damage_taken="57.6036" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="319" gold="4143" gold_all="10343" gold_infinite="0" healed="310.846" heart_containers="0" hp="100" items="29" kicks="196" killed_by="" killed_by_extra="" places_visited="23" playtime="6615.2" playtime_str="1:50:15" projectiles_shot="17113" streaks="0" teleports="7" wands_edited="6" world_seed="71738510" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="east $biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="east $biome_excavationsite" value="1" >
+    </E>
+    <E key="east $biome_fungicave" value="1" >
+    </E>
+    <E key="east $biome_winter" value="1" >
+    </E>
+    <E key="west $biome_boss_arena" value="1" >
+    </E>
+    <E key="west $biome_crypt" value="1" >
+    </E>
+    <E key="west $biome_desert" value="1" >
+    </E>
+    <E key="west $biome_excavationsite" value="1" >
+    </E>
+    <E key="west $biome_fungicave" value="1" >
+    </E>
+    <E key="west $biome_holymountain" value="1" >
+    </E>
+    <E key="west $biome_lava" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

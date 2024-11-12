@@ -1,0 +1,32 @@
+<Stats deaths="14" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="swarm_fly" value="3" >
+    </E>
+  </kill_map>
+</Stats>

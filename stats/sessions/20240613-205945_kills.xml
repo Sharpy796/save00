@@ -1,0 +1,82 @@
+<Stats deaths="1" kills="98" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="newsun_dark | $damage_darksun" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="archer" value="1" >
+    </E>
+    <E key="axeman" value="4" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="conduit" value="4" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="9" >
+    </E>
+    <E key="eye_monster" value="1" >
+    </E>
+    <E key="fairy_big" value="4" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="7" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="mexxi" value="1" >
+    </E>
+    <E key="miner_weak" value="7" >
+    </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
+    <E key="poring" value="5" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="skeleton" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="snowman" value="1" >
+    </E>
+    <E key="stalker" value="2" >
+    </E>
+    <E key="summoner" value="2" >
+    </E>
+    <E key="twig" value="1" >
+    </E>
+    <E key="twig_shot" value="1" >
+    </E>
+    <E key="zombie3" value="5" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

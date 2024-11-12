@@ -1,0 +1,44 @@
+<Stats deaths="0" kills="58" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bigbat" value="2" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="8" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="miner" value="6" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="13" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimespirit" value="2" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_swapper" value="2" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

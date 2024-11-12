@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="35" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="ant" value="6" >
+    </E>
+    <E key="ant_fire" value="8" >
+    </E>
+    <E key="ant_suffocate" value="1" >
+    </E>
+    <E key="apotheosis_ant_eggs" value="4" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="eye" value="1" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="fungus_big" value="1" >
+    </E>
+    <E key="hiisi_thief" value="2" >
+    </E>
+    <E key="physics_ragdoll_ai" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="radioactive_blob_trail" value="3" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+  </kill_map>
+</Stats>

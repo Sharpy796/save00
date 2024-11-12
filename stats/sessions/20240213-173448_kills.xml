@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: Cursed Liquid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="eye_bat" value="2" >
+    </E>
+    <E key="skeleton_lunar_new_year" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

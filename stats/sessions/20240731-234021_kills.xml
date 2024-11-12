@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="24" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="menace | $damage_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="eye_bat" value="2" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="larva_crawler" value="1" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="longleg_big" value="1" >
+    </E>
+    <E key="longleg_free" value="3" >
+    </E>
+    <E key="mexxi_triangle" value="1" >
+    </E>
+    <E key="slime_roller" value="1" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie3" value="1" >
+    </E>
+  </kill_map>
+</Stats>

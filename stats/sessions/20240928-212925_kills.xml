@@ -1,0 +1,22 @@
+<Stats deaths="1" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="22" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="bomb_small" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

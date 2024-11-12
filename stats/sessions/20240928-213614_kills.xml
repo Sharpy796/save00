@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="slimeshooter | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

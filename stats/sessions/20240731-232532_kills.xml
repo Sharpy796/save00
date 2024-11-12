@@ -1,0 +1,20 @@
+<Stats deaths="0" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="toxicmage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

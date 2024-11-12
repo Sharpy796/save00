@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="greed_ghost | Curse Of Vengeance" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="altar_skull" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="glue" value="2" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="ritualist_a" value="1" >
+    </E>
+    <E key="ritualist_b" value="1" >
+    </E>
+    <E key="ritualist_c" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

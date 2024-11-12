@@ -1,0 +1,92 @@
+<Stats deaths="1" kills="369" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="axeman" value="3" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="3" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fish" value="9" >
+    </E>
+    <E key="giant_energy" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goomonster" value="2" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="icicle_king" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="lavashot" value="1" >
+    </E>
+    <E key="long_ghost" value="1" >
+    </E>
+    <E key="longleg_pillar" value="1" >
+    </E>
+    <E key="longleg_pillar_two" value="1" >
+    </E>
+    <E key="lukki_weird" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="nautilus" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="physics_torch_stand_purple" value="3" >
+    </E>
+    <E key="pipe_bomb" value="298" >
+    </E>
+    <E key="player_drone_custom" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="ritualist_a" value="1" >
+    </E>
+    <E key="root_grower_branch" value="1" >
+    </E>
+    <E key="scavenger_electrocuter2" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="4" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="stone_crab" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

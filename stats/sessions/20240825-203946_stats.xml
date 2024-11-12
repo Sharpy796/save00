@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
+  <stats biomes_visited_with_wands="4" damage_taken="29.6985" dead="1" death_count="0" death_pos.x="-751.049" death_pos.y="4513.78" enemies_killed="315" gold="4623" gold_all="6683" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="60" kicks="231" killed_by=" | explosion" killed_by_extra="" places_visited="4" playtime="4474.92" playtime_str="1:14:34" projectiles_shot="3376" streaks="0" teleports="1" wands_edited="18" world_seed="726429188" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="4" damage_taken="19.2191" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="228" gold="5274" gold_all="6094" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="46" kicks="179" killed_by="" killed_by_extra="" places_visited="4" playtime="3225.63" playtime_str="0:53:45" projectiles_shot="2484" streaks="0" teleports="0" wands_edited="13" world_seed="726429188" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Blast Pit" value="1" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

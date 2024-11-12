@@ -1,0 +1,48 @@
+<Stats BUILD_NAME="Noita-Build-Aug 29 2023-21:55:22" >
+  <stats biomes_visited_with_wands="19" damage_taken="3549.4" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="6589" gold="36811" gold_all="98121" gold_infinite="0" healed="10457.3" heart_containers="0" hp="100" items="828" kicks="659" killed_by="" killed_by_extra="" places_visited="19" playtime="93672.2" playtime_str="26:01:12" projectiles_shot="590419" streaks="0" teleports="3" wands_edited="64" world_seed="2121086312" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="14" damage_taken="1811.18" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2536" gold="49400" gold_all="70190" gold_infinite="0" healed="6114.85" heart_containers="0" hp="100" items="592" kicks="551" killed_by="" killed_by_extra="" places_visited="14" playtime="71752.8" playtime_str="19:55:52" projectiles_shot="375055" streaks="0" teleports="1" wands_edited="45" world_seed="2121086312" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_mestari_secret" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_robobase" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+    <E key="east $biome_desert" value="1" >
+    </E>
+    <E key="east $biome_winter" value="1" >
+    </E>
+    <E key="west $biome_desert" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

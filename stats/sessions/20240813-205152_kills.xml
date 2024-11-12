@@ -1,0 +1,38 @@
+<Stats deaths="0" kills="53" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="coward" value="1" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="minipit" value="6" >
+    </E>
+    <E key="necrobot_super" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="20" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="3" >
+    </E>
+    <E key="scavenger_smg" value="6" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="worm_big" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

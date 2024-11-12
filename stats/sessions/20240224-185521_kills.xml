@@ -1,0 +1,60 @@
+<Stats deaths="1" kills="67" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="glue" value="2" >
+    </E>
+    <E key="homunculus" value="1" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="miniblob" value="13" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="2" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="zombie_weak" value="10" >
+    </E>
+  </kill_map>
+</Stats>

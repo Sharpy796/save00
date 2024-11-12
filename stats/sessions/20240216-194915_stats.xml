@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Build-Feb 12 2024-19:07:19" >
+  <stats biomes_visited_with_wands="5" damage_taken="14.7086" dead="1" death_count="0" death_pos.x="96.3088" death_pos.y="3844.05" enemies_killed="7" gold="713" gold_all="1318" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="26" kicks="31" killed_by=" | plasma beam" killed_by_extra="" places_visited="5" playtime="1357.18" playtime_str="0:22:37" projectiles_shot="477" streaks="0" teleports="0" wands_edited="4" world_seed="114398114" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="3" damage_taken="9.1178" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="39" gold_all="644" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="17" kicks="28" killed_by="" killed_by_extra="" places_visited="3" playtime="814.717" playtime_str="0:13:34" projectiles_shot="127" streaks="0" teleports="0" wands_edited="4" world_seed="114398114" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

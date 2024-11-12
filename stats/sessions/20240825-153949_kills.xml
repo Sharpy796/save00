@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="14" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | digested" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

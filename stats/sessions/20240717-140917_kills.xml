@@ -1,0 +1,64 @@
+<Stats deaths="0" kills="55" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="10" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="altar_skull" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="ent" value="1" >
+    </E>
+    <E key="eye_bat" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="2" >
+    </E>
+    <E key="hut" value="3" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="peasant" value="4" >
+    </E>
+    <E key="peasant_blue" value="2" >
+    </E>
+    <E key="peasant_red" value="3" >
+    </E>
+    <E key="physics_torch_stand_intro_old" value="1" >
+    </E>
+    <E key="ritualist_a" value="1" >
+    </E>
+    <E key="ritualist_b" value="1" >
+    </E>
+    <E key="ritualist_c" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="snowman" value="1" >
+    </E>
+    <E key="wizard_tiny" value="2" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="zombie_water" value="3" >
+    </E>
+  </kill_map>
+</Stats>

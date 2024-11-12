@@ -1,0 +1,18 @@
+<Stats deaths="0" kills="13" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="3" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

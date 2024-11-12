@@ -1,0 +1,50 @@
+<Stats deaths="1" kills="125" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="22" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="3" >
+    </E>
+    <E key="bomb" value="4" >
+    </E>
+    <E key="firebug" value="15" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="longleg" value="16" >
+    </E>
+    <E key="mine" value="2" >
+    </E>
+    <E key="miner" value="6" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter" value="5" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="slimespirit" value="2" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="11" >
+    </E>
+  </kill_map>
+</Stats>

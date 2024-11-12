@@ -1,0 +1,40 @@
+<Stats deaths="1" kills="52" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_sludge" value="1" >
+    </E>
+    <E key="acidshot_sludge" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="cocktail_gunpowder" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="longleg_mud" value="10" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="5" >
+    </E>
+    <E key="slimeshooter_sludge" value="3" >
+    </E>
+    <E key="toxicmage" value="2" >
+    </E>
+    <E key="toxicskull" value="1" >
+    </E>
+    <E key="zombie_water" value="12" >
+    </E>
+  </kill_map>
+</Stats>

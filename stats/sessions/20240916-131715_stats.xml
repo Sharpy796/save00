@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
+  <stats biomes_visited_with_wands="4" damage_taken="17.2967" dead="1" death_count="0" death_pos.x="-894.699" death_pos.y="2225.99" enemies_killed="49" gold="379" gold_all="519" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="37" kicks="92" killed_by="(Worse Enemies) Plasmastahiisi | projectile" killed_by_extra="" places_visited="4" playtime="1520.08" playtime_str="0:25:20" projectiles_shot="2508" streaks="0" teleports="0" wands_edited="14" world_seed="1888590219" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="3" damage_taken="5.69866" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="24" gold="339" gold_all="439" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="19" kicks="48" killed_by="" killed_by_extra="" places_visited="3" playtime="806.833" playtime_str="0:13:26" projectiles_shot="1591" streaks="0" teleports="0" wands_edited="11" world_seed="1888590219" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

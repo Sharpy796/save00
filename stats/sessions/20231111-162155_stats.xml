@@ -1,0 +1,26 @@
+<Stats BUILD_NAME="Noita-Build-Aug 29 2023-21:55:22" >
+  <stats biomes_visited_with_wands="8" damage_taken="55.6076" dead="1" death_count="0" death_pos.x="-811.601" death_pos.y="12120" enemies_killed="37" gold="1454" gold_all="2054" gold_infinite="0" healed="1.45" heart_containers="0" hp="100" items="59" kicks="32" killed_by=" | heavy impact" killed_by_extra=", while polymorphed to Hurtta" places_visited="8" playtime="1087.73" playtime_str="0:18:07" projectiles_shot="24" streaks="0" teleports="2" wands_edited="2" world_seed="1360184653" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="6" damage_taken="23.3833" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="15" gold="544" gold_all="544" gold_infinite="0" healed="1.45" heart_containers="0" hp="100" items="56" kicks="30" killed_by="" killed_by_extra="" places_visited="6" playtime="871.283" playtime_str="0:14:31" projectiles_shot="24" streaks="0" teleports="2" wands_edited="2" world_seed="1360184653" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

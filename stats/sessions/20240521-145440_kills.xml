@@ -1,0 +1,86 @@
+<Stats deaths="1" kills="127" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="5" >
+    </E>
+    <E key="bat" value="8" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="fairy_big" value="3" >
+    </E>
+    <E key="firebug" value="8" >
+    </E>
+    <E key="giant" value="2" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_fuzz" value="4" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
+    <E key="hisii_minecart_tnt" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="20" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_weak" value="6" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="pebble_physics" value="3" >
+    </E>
+    <E key="pollen" value="2" >
+    </E>
+    <E key="poring" value="4" >
+    </E>
+    <E key="rat" value="15" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="whisp" value="3" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="worm_tiny" value="2" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

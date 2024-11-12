@@ -1,0 +1,32 @@
+<Stats deaths="1" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="sneeker | $damage_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="toxicmage_barf" value="1" >
+    </E>
+  </kill_map>
+</Stats>

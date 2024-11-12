@@ -1,0 +1,76 @@
+<Stats deaths="1" kills="52" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bean_pod" value="1" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="boss_tnt" value="4" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
+    <E key="electric_bullet" value="3" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="2" >
+    </E>
+    <E key="floating_eye" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="2" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="kiwiki" value="1" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="scavenger_electrocuter2" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scavenger_undercover" value="1" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="summoner" value="1" >
+    </E>
+    <E key="welder" value="1" >
+    </E>
+  </kill_map>
+</Stats>

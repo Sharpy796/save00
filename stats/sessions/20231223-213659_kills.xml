@@ -1,0 +1,34 @@
+<Stats deaths="0" kills="31043" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="6" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="egg_worm" value="1" >
+    </E>
+    <E key="fly" value="5" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="pollen" value="31014" >
+    </E>
+    <E key="scavenger_clusterbomb" value="2" >
+    </E>
+    <E key="scavenger_poison" value="2" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

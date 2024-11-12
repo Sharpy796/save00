@@ -1,0 +1,28 @@
+<Stats deaths="99" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="011000011a9632a8_base | " value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="cloud_thunder | $damage_explosion" value="2" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="9" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="3" >
+    </E>
+    <E key="player | " value="4" >
+    </E>
+    <E key="player | $damage_drill" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="65" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

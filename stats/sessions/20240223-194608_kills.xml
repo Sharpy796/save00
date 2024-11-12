@@ -1,0 +1,48 @@
+<Stats deaths="1" kills="48" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="drone_face2" value="1" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="drone_mini" value="5" >
+    </E>
+    <E key="graham_miner_gasser" value="4" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_alcohol" value="1" >
+    </E>
+    <E key="scavenger_alcohol" value="1" >
+    </E>
+    <E key="scavenger_civilian" value="8" >
+    </E>
+    <E key="scavenger_electrocuter2" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_monster" value="1" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="smoke_bot" value="2" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="tank_flame_apotheosis" value="3" >
+    </E>
+    <E key="tesla_turret" value="1" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+  </kill_map>
+</Stats>

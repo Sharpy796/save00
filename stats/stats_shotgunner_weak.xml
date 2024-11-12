@@ -1,0 +1,48 @@
+<Stats deaths="100" kills="75" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="011000011a9632a8_base | " value="4" >
+    </E>
+    <E key="NULL | " value="6" >
+    </E>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="9" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="10" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="3" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="2" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
+    <E key="player | " value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="41" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="slimeshooter_weak" value="5" >
+    </E>
+    <E key="zombie_weak" value="62" >
+    </E>
+  </kill_map>
+</Stats>

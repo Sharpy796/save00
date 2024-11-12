@@ -1,0 +1,68 @@
+<Stats deaths="0" kills="126" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="chest_great_boss" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="duck" value="7" >
+    </E>
+    <E key="eye_bat" value="7" >
+    </E>
+    <E key="fairy_big" value="3" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hideous_mass_red" value="28" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="irtokki" value="1" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="longleg" value="21" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="peasant_blue" value="1" >
+    </E>
+    <E key="player_drone_custom" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="rat_birthday" value="1" >
+    </E>
+    <E key="sheep" value="7" >
+    </E>
+    <E key="sheep_bat" value="7" >
+    </E>
+    <E key="sheep_fly" value="7" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skeleton" value="4" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="zombie_weak" value="9" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,24 @@
+<Stats deaths="1" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="skeleton_lunar_new_year" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+  </kill_map>
+</Stats>

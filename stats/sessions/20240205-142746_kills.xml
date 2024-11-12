@@ -1,0 +1,98 @@
+<Stats deaths="1" kills="89" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="axeman" value="5" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="cryogen" value="1" >
+    </E>
+    <E key="drone_mini" value="1" >
+    </E>
+    <E key="fairy_big" value="4" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="giant" value="3" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="graham_fuzz" value="2" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="head_statue_physics" value="1" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
+    <E key="hisii_hobo" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="icicle_ceiling" value="1" >
+    </E>
+    <E key="invisiman" value="2" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="mutant_blob_ceiling" value="1" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="pebble_physics" value="5" >
+    </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slime_turret" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="summoner" value="2" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="twig" value="2" >
+    </E>
+    <E key="whisp" value="8" >
+    </E>
+    <E key="worm_tiny" value="2" >
+    </E>
+    <E key="zombie3" value="3" >
+    </E>
+  </kill_map>
+</Stats>

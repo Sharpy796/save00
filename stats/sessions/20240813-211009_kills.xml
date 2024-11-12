@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="124" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="iceskull" value="4" >
+    </E>
+    <E key="mine" value="9" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="pebble_physics" value="10" >
+    </E>
+    <E key="rat" value="20" >
+    </E>
+    <E key="scavenger_glue" value="5" >
+    </E>
+    <E key="scavenger_grenade" value="28" >
+    </E>
+    <E key="scavenger_leader" value="2" >
+    </E>
+    <E key="scavenger_smg" value="13" >
+    </E>
+    <E key="shotgunner" value="9" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="sniper" value="5" >
+    </E>
+    <E key="thundermage" value="3" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

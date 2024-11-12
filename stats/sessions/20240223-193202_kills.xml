@@ -1,0 +1,30 @@
+<Stats deaths="1" kills="20" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="slime_ghoul | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slime_leaker_weak" value="1" >
+    </E>
+    <E key="toxicmage_barf" value="6" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

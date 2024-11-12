@@ -1,0 +1,32 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="11" damage_taken="619.905" dead="1" death_count="0" death_pos.x="6396.23" death_pos.y="15163" enemies_killed="370" gold="1949" gold_all="2549" gold_infinite="0" healed="31.05" heart_containers="0" hp="100" items="30" kicks="128" killed_by=" | midas" killed_by_extra="" places_visited="11" playtime="7407.95" playtime_str="2:03:27" projectiles_shot="57" streaks="0" teleports="0" wands_edited="1" world_seed="1689654031" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="10" damage_taken="23.9295" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="347" gold="1755" gold_all="2355" gold_infinite="0" healed="28.8" heart_containers="0" hp="100" items="29" kicks="128" killed_by="" killed_by_extra="" places_visited="10" playtime="7333.25" playtime_str="2:02:13" projectiles_shot="56" streaks="0" teleports="0" wands_edited="1" world_seed="1689654031" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="Hiisi Village" value="1" >
+    </E>
+    <E key="Holy Temple" value="1" >
+    </E>
+    <E key="The Forge" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

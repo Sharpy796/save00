@@ -1,0 +1,182 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="86" damage_taken="1.80475e+031" dead="1" death_count="0" death_pos.x="9438.99" death_pos.y="13463.9" enemies_killed="5268" gold="2147483647" gold_all="7005922790201610239" gold_infinite="1" healed="1794.2" heart_containers="0" hp="100" items="2073" kicks="1462" killed_by="Minä | projectile" killed_by_extra="" places_visited="86" playtime="95793.4" playtime_str="26:36:33" projectiles_shot="356601" streaks="0" teleports="11" wands_edited="179" world_seed="334191843" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="82" damage_taken="12872.9" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5162" gold="2147483647" gold_all="3764084704962143359" gold_infinite="1" healed="1793.94" heart_containers="0" hp="100" items="1873" kicks="1246" killed_by="" killed_by_extra="" places_visited="82" playtime="90934.1" playtime_str="25:15:34" projectiles_shot="352779" streaks="0" teleports="11" wands_edited="131" world_seed="334191843" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_abandoned_assembly" value="1" >
+    </E>
+    <E key="$biome_ant_hell" value="1" >
+    </E>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_sky" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_darkness" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_desert_pit" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_evil_temple" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_ghost_secret" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_lava" value="1" >
+    </E>
+    <E key="$biome_lava_excavation" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_meat" value="1" >
+    </E>
+    <E key="$biome_mestari_secret" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_robobase" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_slime_hell" value="1" >
+    </E>
+    <E key="$biome_slime_hell_outpost" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_tower" value="1" >
+    </E>
+    <E key="$biome_toxic_worm_cave" value="1" >
+    </E>
+    <E key="$biome_underwater" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_vault_frozen" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="$biome_winter_caves" value="1" >
+    </E>
+    <E key="$biome_wizardcave" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+    <E key="east $biome_ant_hell" value="1" >
+    </E>
+    <E key="east $biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="east $biome_coalmine" value="3" >
+    </E>
+    <E key="east $biome_desert_pit" value="2" >
+    </E>
+    <E key="east $biome_evil_temple" value="1" >
+    </E>
+    <E key="east $biome_excavationsite" value="3" >
+    </E>
+    <E key="east $biome_fungicave" value="6" >
+    </E>
+    <E key="east $biome_holymountain" value="7" >
+    </E>
+    <E key="east $biome_orbroom" value="6" >
+    </E>
+    <E key="east $biome_rainforest" value="4" >
+    </E>
+    <E key="east $biome_rainforest_dark" value="2" >
+    </E>
+    <E key="east $biome_sandcave" value="1" >
+    </E>
+    <E key="east $biome_slime_hell" value="1" >
+    </E>
+    <E key="east $biome_snowcastle" value="4" >
+    </E>
+    <E key="east $biome_snowcave" value="4" >
+    </E>
+    <E key="east $biome_underground_forest" value="1" >
+    </E>
+    <E key="east $biome_vault" value="3" >
+    </E>
+    <E key="east $biome_wandcave" value="2" >
+    </E>
+    <E key="east $biome_winter_caves" value="1" >
+    </E>
+    <E key="east ???" value="4" >
+    </E>
+    <E key="west $biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="west $biome_coalmine" value="2" >
+    </E>
+    <E key="west $biome_desert_pit" value="1" >
+    </E>
+    <E key="west $biome_evil_temple" value="1" >
+    </E>
+    <E key="west $biome_excavationsite" value="2" >
+    </E>
+    <E key="west $biome_fungicave" value="3" >
+    </E>
+    <E key="west $biome_holymountain" value="4" >
+    </E>
+    <E key="west $biome_lava_excavation" value="1" >
+    </E>
+    <E key="west $biome_orbroom" value="4" >
+    </E>
+    <E key="west $biome_rainforest" value="1" >
+    </E>
+    <E key="west $biome_slime_hell" value="1" >
+    </E>
+    <E key="west $biome_snowcastle" value="2" >
+    </E>
+    <E key="west $biome_snowcave" value="2" >
+    </E>
+    <E key="west $biome_tower" value="1" >
+    </E>
+    <E key="west $biome_toxic_worm_cave" value="1" >
+    </E>
+    <E key="west $biome_underwater" value="1" >
+    </E>
+    <E key="west $biome_vault" value="1" >
+    </E>
+    <E key="west $biome_wandcave" value="2" >
+    </E>
+    <E key="west ???" value="2" >
+    </E>
+  </biomes_visited>
+</Stats>

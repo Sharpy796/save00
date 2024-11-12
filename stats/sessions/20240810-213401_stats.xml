@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="5" damage_taken="4.65834" dead="1" death_count="0" death_pos.x="-12104.1" death_pos.y="4880" enemies_killed="29" gold="169" gold_all="389" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="25" kicks="48" killed_by=" | damage from material: lava" killed_by_extra=", while polymorphed to Suhiseva lammas" places_visited="5" playtime="917.783" playtime_str="0:15:17" projectiles_shot="1436" streaks="0" teleports="0" wands_edited="7" world_seed="643154428" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

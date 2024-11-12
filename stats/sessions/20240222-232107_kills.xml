@@ -1,0 +1,38 @@
+<Stats deaths="1" kills="36" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="flesh_eye | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="enigma" value="1" >
+    </E>
+    <E key="eye_bat" value="6" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fish" value="11" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="knight_heart" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="longleg_gold" value="2" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="summoner" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="zombie3" value="4" >
+    </E>
+  </kill_map>
+</Stats>

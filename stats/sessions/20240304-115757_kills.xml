@@ -1,0 +1,350 @@
+<Stats deaths="1" kills="2979" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="newsun_dark | $damage_darksun" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="45" >
+    </E>
+    <E key="acidshot" value="19" >
+    </E>
+    <E key="alchemist" value="3" >
+    </E>
+    <E key="ant" value="9" >
+    </E>
+    <E key="arrowtrap_left" value="3" >
+    </E>
+    <E key="arrowtrap_right" value="5" >
+    </E>
+    <E key="assassin" value="10" >
+    </E>
+    <E key="barfer" value="3" >
+    </E>
+    <E key="bat" value="16" >
+    </E>
+    <E key="bigbat" value="5" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="bigzombie" value="13" >
+    </E>
+    <E key="bigzombiehead" value="12" >
+    </E>
+    <E key="bigzombietorso" value="10" >
+    </E>
+    <E key="blob" value="73" >
+    </E>
+    <E key="bloodcrystal_physics" value="6" >
+    </E>
+    <E key="bloom" value="40" >
+    </E>
+    <E key="boss_alchemist" value="1" >
+    </E>
+    <E key="boss_centipede_minion" value="25" >
+    </E>
+    <E key="boss_dragon" value="2" >
+    </E>
+    <E key="boss_meat" value="1" >
+    </E>
+    <E key="chest_mimic" value="4" >
+    </E>
+    <E key="confusespirit" value="1" >
+    </E>
+    <E key="coward" value="21" >
+    </E>
+    <E key="crystal_physics" value="5" >
+    </E>
+    <E key="dripping_oil" value="8" >
+    </E>
+    <E key="dripping_radioactive" value="8" >
+    </E>
+    <E key="dripping_water" value="8" >
+    </E>
+    <E key="dripping_water_heavy" value="2" >
+    </E>
+    <E key="drone_lasership" value="59" >
+    </E>
+    <E key="drone_physics" value="5" >
+    </E>
+    <E key="drone_shield" value="2" >
+    </E>
+    <E key="eel" value="1" >
+    </E>
+    <E key="egg_hollow" value="78" >
+    </E>
+    <E key="enlightened_alchemist" value="8" >
+    </E>
+    <E key="essence_eater" value="1" >
+    </E>
+    <E key="failed_alchemist" value="5" >
+    </E>
+    <E key="failed_alchemist_b" value="3" >
+    </E>
+    <E key="failed_alchemist_orb" value="4" >
+    </E>
+    <E key="firebug" value="8" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="firemage" value="9" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="firetrap_left" value="1" >
+    </E>
+    <E key="firetrap_right" value="1" >
+    </E>
+    <E key="fish" value="44" >
+    </E>
+    <E key="fish_giga" value="1" >
+    </E>
+    <E key="flamer" value="13" >
+    </E>
+    <E key="fly" value="92" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="frog_big" value="4" >
+    </E>
+    <E key="fungus" value="13" >
+    </E>
+    <E key="fungus_big" value="1" >
+    </E>
+    <E key="fungus_giga" value="1" >
+    </E>
+    <E key="fungus_projectile" value="2" >
+    </E>
+    <E key="gazer" value="10" >
+    </E>
+    <E key="ghost_crystal" value="4" >
+    </E>
+    <E key="giant" value="5" >
+    </E>
+    <E key="giantshooter" value="2" >
+    </E>
+    <E key="glue" value="42" >
+    </E>
+    <E key="goblin_bomb" value="5" >
+    </E>
+    <E key="healerdrone_physics" value="5" >
+    </E>
+    <E key="hpcrystal" value="5" >
+    </E>
+    <E key="icer" value="1" >
+    </E>
+    <E key="iceskull" value="14" >
+    </E>
+    <E key="lasergun" value="3" >
+    </E>
+    <E key="lasershooter" value="14" >
+    </E>
+    <E key="lavashot" value="2" >
+    </E>
+    <E key="longleg" value="22" >
+    </E>
+    <E key="lukki" value="38" >
+    </E>
+    <E key="lukki_creepy_long" value="9" >
+    </E>
+    <E key="lukki_dark" value="29" >
+    </E>
+    <E key="lukki_eggs" value="13" >
+    </E>
+    <E key="lukki_longleg" value="20" >
+    </E>
+    <E key="lukki_tiny" value="24" >
+    </E>
+    <E key="lurker" value="20" >
+    </E>
+    <E key="maggot" value="5" >
+    </E>
+    <E key="maggot_tiny" value="1" >
+    </E>
+    <E key="meatmaggot" value="5" >
+    </E>
+    <E key="mimic_physics" value="1" >
+    </E>
+    <E key="mine" value="1" >
+    </E>
+    <E key="mine_scavenger" value="8" >
+    </E>
+    <E key="miner" value="34" >
+    </E>
+    <E key="miner_chef" value="1" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="miner_hell" value="5" >
+    </E>
+    <E key="miner_weak" value="18" >
+    </E>
+    <E key="miniblob" value="538" >
+    </E>
+    <E key="missilecrab" value="9" >
+    </E>
+    <E key="monk" value="18" >
+    </E>
+    <E key="necrobot" value="3" >
+    </E>
+    <E key="necromancer" value="8" >
+    </E>
+    <E key="necromancer_shop" value="5" >
+    </E>
+    <E key="necromancer_super" value="10" >
+    </E>
+    <E key="orb_homing" value="30" >
+    </E>
+    <E key="pebble_physics" value="4" >
+    </E>
+    <E key="phantom_a" value="29" >
+    </E>
+    <E key="phantom_b" value="20" >
+    </E>
+    <E key="physics_torch_stand" value="8" >
+    </E>
+    <E key="physics_torch_stand_blue" value="3" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="potion" value="7" >
+    </E>
+    <E key="powder_stash" value="1" >
+    </E>
+    <E key="rat" value="54" >
+    </E>
+    <E key="roboguard" value="16" >
+    </E>
+    <E key="root_grower" value="14" >
+    </E>
+    <E key="root_grower_branch" value="8" >
+    </E>
+    <E key="scavenger_clusterbomb" value="33" >
+    </E>
+    <E key="scavenger_glue" value="29" >
+    </E>
+    <E key="scavenger_grenade" value="257" >
+    </E>
+    <E key="scavenger_heal" value="22" >
+    </E>
+    <E key="scavenger_invis" value="8" >
+    </E>
+    <E key="scavenger_leader" value="24" >
+    </E>
+    <E key="scavenger_mine" value="13" >
+    </E>
+    <E key="scavenger_poison" value="35" >
+    </E>
+    <E key="scavenger_shield" value="1" >
+    </E>
+    <E key="scavenger_smg" value="123" >
+    </E>
+    <E key="scorpion" value="5" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shooterflower" value="27" >
+    </E>
+    <E key="shotgunner" value="39" >
+    </E>
+    <E key="shotgunner_hell" value="4" >
+    </E>
+    <E key="shotgunner_weak" value="5" >
+    </E>
+    <E key="skullfly" value="22" >
+    </E>
+    <E key="skullrat" value="56" >
+    </E>
+    <E key="slimeshooter" value="18" >
+    </E>
+    <E key="slimeshooter_boss_limbs" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="8" >
+    </E>
+    <E key="slimespirit" value="4" >
+    </E>
+    <E key="sniper" value="44" >
+    </E>
+    <E key="sniper_hell" value="3" >
+    </E>
+    <E key="snowcrystal" value="4" >
+    </E>
+    <E key="spearbot" value="8" >
+    </E>
+    <E key="spidernest" value="1" >
+    </E>
+    <E key="spitmonster" value="6" >
+    </E>
+    <E key="spittrap_right" value="1" >
+    </E>
+    <E key="tank" value="27" >
+    </E>
+    <E key="tank_rocket" value="15" >
+    </E>
+    <E key="tank_super" value="1" >
+    </E>
+    <E key="tentacler" value="30" >
+    </E>
+    <E key="tentacler_small" value="37" >
+    </E>
+    <E key="thundermage" value="9" >
+    </E>
+    <E key="thundermage_big" value="1" >
+    </E>
+    <E key="thunderskull" value="18" >
+    </E>
+    <E key="thundertrap_left" value="1" >
+    </E>
+    <E key="tnt" value="2" >
+    </E>
+    <E key="turret_left" value="5" >
+    </E>
+    <E key="turret_right" value="5" >
+    </E>
+    <E key="walleye" value="7" >
+    </E>
+    <E key="wallmouth" value="7" >
+    </E>
+    <E key="wand_ghost" value="2" >
+    </E>
+    <E key="wizard_dark" value="12" >
+    </E>
+    <E key="wizard_hearty" value="2" >
+    </E>
+    <E key="wizard_homing" value="12" >
+    </E>
+    <E key="wizard_neutral" value="12" >
+    </E>
+    <E key="wizard_poly" value="7" >
+    </E>
+    <E key="wizard_returner" value="10" >
+    </E>
+    <E key="wizard_swapper" value="4" >
+    </E>
+    <E key="wizard_tele" value="5" >
+    </E>
+    <E key="wizard_twitchy" value="10" >
+    </E>
+    <E key="worm" value="8" >
+    </E>
+    <E key="worm_big" value="2" >
+    </E>
+    <E key="worm_end" value="2" >
+    </E>
+    <E key="worm_skull" value="2" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="wraith" value="1" >
+    </E>
+    <E key="wraith_glowing" value="4" >
+    </E>
+    <E key="zombie" value="21" >
+    </E>
+    <E key="zombie_weak" value="16" >
+    </E>
+  </kill_map>
+</Stats>

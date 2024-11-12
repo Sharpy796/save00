@@ -1,0 +1,16 @@
+<Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
+  <stats biomes_visited_with_wands="3" damage_taken="5.14392" dead="1" death_count="0" death_pos.x="-427.027" death_pos.y="1614.97" enemies_killed="57" gold="195" gold_all="210" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="25" kicks="79" killed_by="(Vanilla) Rynkkyhiisi | projectile" killed_by_extra="" places_visited="3" playtime="1154.18" playtime_str="0:19:14" projectiles_shot="2965" streaks="0" teleports="0" wands_edited="13" world_seed="683959909" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="2.2156" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5" gold="15" gold_all="30" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="13" kicks="22" killed_by="" killed_by_extra="" places_visited="2" playtime="254.383" playtime_str="0:04:14" projectiles_shot="397" streaks="0" teleports="0" wands_edited="6" world_seed="683959909" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

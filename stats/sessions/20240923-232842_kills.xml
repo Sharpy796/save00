@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="slimeshooter | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot_thunder" value="3" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="cocktail_radioactive" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="frog_giga" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="slimeshooter" value="5" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="zombie" value="3" >
+    </E>
+  </kill_map>
+</Stats>

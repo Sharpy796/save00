@@ -1,0 +1,184 @@
+<Stats BUILD_NAME="Noita-Build-Aug 29 2023-21:55:22" >
+  <stats biomes_visited_with_wands="87" damage_taken="129701" dead="1" death_count="0" death_pos.x="360.491" death_pos.y="37980.8" enemies_killed="80992" gold="2147483647" gold_all="2148908152" gold_infinite="1" healed="19940.5" heart_containers="0" hp="100" items="1704" kicks="2219" killed_by=" | Pimeys" killed_by_extra="" places_visited="87" playtime="148271" playtime_str="41:11:11" projectiles_shot="4008559" streaks="0" teleports="13" wands_edited="183" world_seed="1857890735" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="87" damage_taken="64047.3" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="80991" gold="2147483647" gold_all="2148872702" gold_infinite="1" healed="19878.9" heart_containers="0" hp="100" items="1700" kicks="2219" killed_by="" killed_by_extra="" places_visited="87" playtime="148016" playtime_str="41:06:55" projectiles_shot="3997464" streaks="0" teleports="13" wands_edited="183" world_seed="1857890735" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_ghost_secret" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_lava" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_mestari_secret" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_robobase" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_tower" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_vault_frozen" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="$biome_winter_caves" value="1" >
+    </E>
+    <E key="$biome_wizardcave" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+    <E key="east $biome_coalmine" value="6" >
+    </E>
+    <E key="east $biome_coalmine_alt" value="6" >
+    </E>
+    <E key="east $biome_crypt" value="2" >
+    </E>
+    <E key="east $biome_desert" value="1" >
+    </E>
+    <E key="east $biome_dragoncave" value="4" >
+    </E>
+    <E key="east $biome_excavationsite" value="8" >
+    </E>
+    <E key="east $biome_fungicave" value="6" >
+    </E>
+    <E key="east $biome_ghost_secret" value="3" >
+    </E>
+    <E key="east $biome_gold" value="1" >
+    </E>
+    <E key="east $biome_holymountain" value="8" >
+    </E>
+    <E key="east $biome_lake" value="2" >
+    </E>
+    <E key="east $biome_lava" value="1" >
+    </E>
+    <E key="east $biome_liquidcave" value="1" >
+    </E>
+    <E key="east $biome_mestari_secret" value="1" >
+    </E>
+    <E key="east $biome_orbroom" value="1" >
+    </E>
+    <E key="east $biome_pyramid" value="1" >
+    </E>
+    <E key="east $biome_rainforest" value="7" >
+    </E>
+    <E key="east $biome_rainforest_dark" value="5" >
+    </E>
+    <E key="east $biome_robobase" value="1" >
+    </E>
+    <E key="east $biome_snowcastle" value="7" >
+    </E>
+    <E key="east $biome_snowcave" value="7" >
+    </E>
+    <E key="east $biome_vault" value="7" >
+    </E>
+    <E key="east $biome_wandcave" value="2" >
+    </E>
+    <E key="east $biome_winter" value="2" >
+    </E>
+    <E key="east $biome_winter_caves" value="1" >
+    </E>
+    <E key="east ???" value="3" >
+    </E>
+    <E key="west $biome_boss_arena" value="2" >
+    </E>
+    <E key="west $biome_coalmine" value="4" >
+    </E>
+    <E key="west $biome_coalmine_alt" value="4" >
+    </E>
+    <E key="west $biome_crypt" value="3" >
+    </E>
+    <E key="west $biome_desert" value="6" >
+    </E>
+    <E key="west $biome_dragoncave" value="2" >
+    </E>
+    <E key="west $biome_excavationsite" value="4" >
+    </E>
+    <E key="west $biome_fungicave" value="3" >
+    </E>
+    <E key="west $biome_holymountain" value="4" >
+    </E>
+    <E key="west $biome_lake" value="2" >
+    </E>
+    <E key="west $biome_lava" value="1" >
+    </E>
+    <E key="west $biome_liquidcave" value="3" >
+    </E>
+    <E key="west $biome_orbroom" value="2" >
+    </E>
+    <E key="west $biome_pyramid" value="4" >
+    </E>
+    <E key="west $biome_rainforest" value="4" >
+    </E>
+    <E key="west $biome_rainforest_dark" value="2" >
+    </E>
+    <E key="west $biome_sandcave" value="1" >
+    </E>
+    <E key="west $biome_secret_lab" value="3" >
+    </E>
+    <E key="west $biome_snowcastle" value="4" >
+    </E>
+    <E key="west $biome_snowcave" value="4" >
+    </E>
+    <E key="west $biome_vault" value="4" >
+    </E>
+    <E key="west $biome_vault_frozen" value="2" >
+    </E>
+    <E key="west $biome_wandcave" value="2" >
+    </E>
+    <E key="west $biome_winter" value="2" >
+    </E>
+    <E key="west $biome_winter_caves" value="2" >
+    </E>
+    <E key="west ???" value="2" >
+    </E>
+  </biomes_visited>
+</Stats>

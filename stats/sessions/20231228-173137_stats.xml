@@ -1,0 +1,116 @@
+<Stats BUILD_NAME="Noita-Build-Dec 19 2023-18:38:23" >
+  <stats biomes_visited_with_wands="53" damage_taken="5811.41" dead="1" death_count="0" death_pos.x="179.374" death_pos.y="37928.6" enemies_killed="3101" gold="12580" gold_all="988800" gold_infinite="0" healed="43214.6" heart_containers="0" hp="100" items="385" kicks="530" killed_by=" | Pimeys" killed_by_extra=", while polymorphed to Suurtulikärpänen" places_visited="53" playtime="35368.3" playtime_str="9:49:28" projectiles_shot="314516" streaks="0" teleports="12" wands_edited="76" world_seed="455045646" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="24" damage_taken="77.8976" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="954" gold="22365" gold_all="240705" gold_infinite="0" healed="29.6" heart_containers="0" hp="100" items="193" kicks="281" killed_by="" killed_by_extra="" places_visited="24" playtime="14726.1" playtime_str="4:05:26" projectiles_shot="40157" streaks="0" teleports="0" wands_edited="41" world_seed="455045646" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_ghost_secret" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_lava" value="1" >
+    </E>
+    <E key="$biome_meat" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_vault_frozen" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="$biome_winter_caves" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+    <E key="west $biome_coalmine" value="1" >
+    </E>
+    <E key="west $biome_coalmine_alt" value="1" >
+    </E>
+    <E key="west $biome_crypt" value="1" >
+    </E>
+    <E key="west $biome_desert" value="1" >
+    </E>
+    <E key="west $biome_dragoncave" value="1" >
+    </E>
+    <E key="west $biome_excavationsite" value="1" >
+    </E>
+    <E key="west $biome_fun" value="1" >
+    </E>
+    <E key="west $biome_fungicave" value="1" >
+    </E>
+    <E key="west $biome_holymountain" value="1" >
+    </E>
+    <E key="west $biome_lake" value="1" >
+    </E>
+    <E key="west $biome_liquidcave" value="1" >
+    </E>
+    <E key="west $biome_orbroom" value="1" >
+    </E>
+    <E key="west $biome_pyramid" value="1" >
+    </E>
+    <E key="west $biome_rainforest" value="1" >
+    </E>
+    <E key="west $biome_sandcave" value="1" >
+    </E>
+    <E key="west $biome_secret_lab" value="1" >
+    </E>
+    <E key="west $biome_snowcastle" value="1" >
+    </E>
+    <E key="west $biome_snowcave" value="1" >
+    </E>
+    <E key="west $biome_vault" value="1" >
+    </E>
+    <E key="west $biome_vault_frozen" value="1" >
+    </E>
+    <E key="west $biome_winter" value="1" >
+    </E>
+    <E key="west $biome_winter_caves" value="1" >
+    </E>
+    <E key="west ???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

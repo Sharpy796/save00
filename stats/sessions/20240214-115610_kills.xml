@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="hisii_minecart | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="eye_bat_valentines" value="4" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="skeleton_carnevale" value="1" >
+    </E>
+    <E key="skeleton_valentines" value="2" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

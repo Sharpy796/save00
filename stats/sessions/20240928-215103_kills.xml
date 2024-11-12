@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="8" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="potion_aggressive" value="1" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+  </kill_map>
+</Stats>

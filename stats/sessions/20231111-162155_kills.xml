@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="37" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="drone_lasership" value="2" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="lukki_longleg" value="3" >
+    </E>
+    <E key="mimic_physics" value="1" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="skullrat" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler" value="3" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+  </kill_map>
+</Stats>

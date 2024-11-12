@@ -1,0 +1,24 @@
+<Stats deaths="1" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="potion_aggressive" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+  </kill_map>
+</Stats>

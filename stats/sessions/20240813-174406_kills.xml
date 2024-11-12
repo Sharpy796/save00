@@ -1,0 +1,36 @@
+<Stats deaths="0" kills="25" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="firebug" value="6" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

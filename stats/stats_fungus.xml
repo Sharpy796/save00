@@ -1,0 +1,38 @@
+<Stats deaths="71" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | " value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="27" >
+    </E>
+    <E key="NULL | $damage_fire" value="15" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="2" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
+    <E key="player | " value="1" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_ice" value="7" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+  </kill_map>
+</Stats>

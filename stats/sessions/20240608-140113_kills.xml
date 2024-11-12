@@ -1,0 +1,106 @@
+<Stats deaths="1" kills="197" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="bat" value="13" >
+    </E>
+    <E key="bigbat" value="3" >
+    </E>
+    <E key="bigfirebug" value="4" >
+    </E>
+    <E key="bubble_liquid" value="3" >
+    </E>
+    <E key="ccc_bat_psychic" value="4" >
+    </E>
+    <E key="ceiling_fungus" value="1" >
+    </E>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
+    <E key="coldshot_BoC_weak" value="3" >
+    </E>
+    <E key="fairy_big" value="7" >
+    </E>
+    <E key="firebug" value="11" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fish" value="20" >
+    </E>
+    <E key="forsaken_eye" value="2" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="gazer_greater_cold" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="goo_slug" value="7" >
+    </E>
+    <E key="hisii_minecart" value="1" >
+    </E>
+    <E key="icemage" value="4" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="2" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="playerghost" value="2" >
+    </E>
+    <E key="poring" value="3" >
+    </E>
+    <E key="rat" value="15" >
+    </E>
+    <E key="scavenger_grenade" value="10" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="7" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slime_leaker_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="6" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tentacler_big" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wandedit_crystal" value="1" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+    <E key="zombie_weak" value="11" >
+    </E>
+  </kill_map>
+</Stats>

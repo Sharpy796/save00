@@ -1,0 +1,46 @@
+<Stats BUILD_NAME="Noita-Build-Dec 31 2023-15:21:36" >
+  <stats biomes_visited_with_wands="18" damage_taken="387.664" dead="1" death_count="0" death_pos.x="273.732" death_pos.y="37685.8" enemies_killed="899" gold="2147483647" gold_all="2147491917" gold_infinite="1" healed="0" heart_containers="0" hp="100" items="158" kicks="225" killed_by=" | midas" killed_by_extra="" places_visited="18" playtime="12382.3" playtime_str="3:26:22" projectiles_shot="110980" streaks="0" teleports="2" wands_edited="27" world_seed="1814752170" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="6" damage_taken="7.50885" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="232" gold="1788" gold_all="3368" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="71" kicks="154" killed_by="" killed_by_extra="" places_visited="6" playtime="5629.63" playtime_str="1:33:49" projectiles_shot="11293" streaks="0" teleports="0" wands_edited="19" world_seed="1814752170" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lava" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

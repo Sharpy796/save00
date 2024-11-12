@@ -1,0 +1,66 @@
+<Stats deaths="1" kills="309" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="24" >
+    </E>
+    <E key="bigfirebug" value="6" >
+    </E>
+    <E key="drone_lasership" value="5" >
+    </E>
+    <E key="firebug" value="33" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="26" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="goblin_bomb" value="8" >
+    </E>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="iceskull" value="6" >
+    </E>
+    <E key="miner" value="12" >
+    </E>
+    <E key="monk" value="6" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="28" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="41" >
+    </E>
+    <E key="scavenger_heal" value="4" >
+    </E>
+    <E key="scavenger_leader" value="2" >
+    </E>
+    <E key="scavenger_smg" value="38" >
+    </E>
+    <E key="shotgunner" value="20" >
+    </E>
+    <E key="slime" value="1" >
+    </E>
+    <E key="slimeshooter" value="7" >
+    </E>
+    <E key="sniper" value="24" >
+    </E>
+    <E key="tank" value="7" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+  </kill_map>
+</Stats>

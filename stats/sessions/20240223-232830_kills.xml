@@ -1,0 +1,74 @@
+<Stats deaths="1" kills="42" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alien" value="1" >
+    </E>
+    <E key="altar_skull" value="1" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="3" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hut" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="knight_heart" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="monkey" value="1" >
+    </E>
+    <E key="peasant" value="2" >
+    </E>
+    <E key="peasant_blue" value="1" >
+    </E>
+    <E key="peasant_red" value="2" >
+    </E>
+    <E key="physics_torch_stand_intro_old" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="ritualist_a" value="1" >
+    </E>
+    <E key="ritualist_b" value="1" >
+    </E>
+    <E key="ritualist_c" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

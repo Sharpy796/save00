@@ -1,0 +1,40 @@
+<Stats deaths="1" kills="33" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="beam_from_sky | $damage_plasmabeam" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="chest_leggy" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="necromancer_shop" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

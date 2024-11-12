@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="3" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

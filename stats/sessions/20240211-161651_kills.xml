@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="necromancer_shop | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish" value="3" >
+    </E>
+    <E key="hisii_engineer" value="2" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+  </kill_map>
+</Stats>

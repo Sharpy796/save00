@@ -1,0 +1,36 @@
+<Stats deaths="0" kills="25" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="boss_dragon" value="1" >
+    </E>
+    <E key="boss_wizard" value="1" >
+    </E>
+    <E key="chest_mimic" value="1" >
+    </E>
+    <E key="duck" value="2" >
+    </E>
+    <E key="elk" value="1" >
+    </E>
+    <E key="maggot_tiny" value="1" >
+    </E>
+    <E key="miner_hell" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scorpion" value="2" >
+    </E>
+    <E key="shotgunner_hell" value="2" >
+    </E>
+    <E key="sniper_hell" value="2" >
+    </E>
+    <E key="wizard_orb_death" value="4" >
+    </E>
+    <E key="worm_big" value="2" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

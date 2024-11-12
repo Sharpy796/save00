@@ -1,0 +1,48 @@
+<Stats deaths="28" kills="23" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="1" >
+    </E>
+    <E key="player | " value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="thundermage_big | $damage_electricity" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="glue" value="5" >
+    </E>
+    <E key="iceskull" value="3" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="pollen" value="7" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="swarm_fly" value="4" >
+    </E>
+  </kill_map>
+</Stats>

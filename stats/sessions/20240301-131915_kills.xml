@@ -1,0 +1,42 @@
+<Stats deaths="0" kills="328" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="8" >
+    </E>
+    <E key="arrowtrap_right" value="1" >
+    </E>
+    <E key="bomb" value="4" >
+    </E>
+    <E key="egg_hollow" value="10" >
+    </E>
+    <E key="egg_monster" value="1" >
+    </E>
+    <E key="glitter_bomb" value="2" >
+    </E>
+    <E key="glue" value="6" >
+    </E>
+    <E key="lukki_eggs" value="1" >
+    </E>
+    <E key="mine" value="8" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="pipe_bomb" value="10" >
+    </E>
+    <E key="playerghost" value="256" >
+    </E>
+    <E key="potion" value="3" >
+    </E>
+    <E key="propane_tank" value="3" >
+    </E>
+    <E key="root_grower_branch" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="tnt" value="11" >
+    </E>
+  </kill_map>
+</Stats>

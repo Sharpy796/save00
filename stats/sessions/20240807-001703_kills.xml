@@ -1,0 +1,12 @@
+<Stats deaths="1" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="potion" value="5" >
+    </E>
+  </kill_map>
+</Stats>

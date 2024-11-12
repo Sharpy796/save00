@@ -1,0 +1,102 @@
+<Stats deaths="1" kills="116" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: poison gas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bat" value="6" >
+    </E>
+    <E key="bean_pod" value="5" >
+    </E>
+    <E key="beanpodupine" value="2" >
+    </E>
+    <E key="boss_tnt" value="2" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="eye_bat" value="3" >
+    </E>
+    <E key="fairy_big" value="4" >
+    </E>
+    <E key="fallen_alchemist" value="3" >
+    </E>
+    <E key="fire_crawler_blob" value="1" >
+    </E>
+    <E key="fire_crawler_sprite" value="1" >
+    </E>
+    <E key="firebug" value="7" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="fish" value="16" >
+    </E>
+    <E key="fly" value="2" >
+    </E>
+    <E key="forsaken_eye" value="2" >
+    </E>
+    <E key="frog_bot" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="3" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="knight" value="1" >
+    </E>
+    <E key="knight_heart" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="radioactive_blob" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slime" value="11" >
+    </E>
+    <E key="slime_ghoul" value="1" >
+    </E>
+    <E key="slime_roller" value="4" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_mega" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tank_flame_apotheosis" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="twig" value="1" >
+    </E>
+    <E key="whisp" value="2" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

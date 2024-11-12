@@ -1,0 +1,142 @@
+<Stats deaths="1" kills="192" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="archer" value="2" >
+    </E>
+    <E key="axeman" value="2" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="6" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="crawler" value="1" >
+    </E>
+    <E key="dripper" value="5" >
+    </E>
+    <E key="egg_mud" value="1" >
+    </E>
+    <E key="eye_monster" value="1" >
+    </E>
+    <E key="eye_shot" value="3" >
+    </E>
+    <E key="fairy_big" value="6" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="flesh_eye" value="1" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="fungus_smoking_creep" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="giant_old" value="1" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hisii_minecart" value="1" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="invisiman" value="2" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="knight_heart" value="1" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="19" >
+    </E>
+    <E key="longleg_gold" value="2" >
+    </E>
+    <E key="mexxi_triangle" value="14" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="mini_mimic" value="1" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="pebble_old" value="2" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="poring" value="7" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="summoner" value="2" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="thou" value="1" >
+    </E>
+    <E key="whisp" value="32" >
+    </E>
+    <E key="zombie3" value="1" >
+    </E>
+    <E key="zombie_weak" value="7" >
+    </E>
+  </kill_map>
+</Stats>

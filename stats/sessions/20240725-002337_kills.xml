@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="3" >
+    </E>
+    <E key="glue" value="2" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="4" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+  </kill_map>
+</Stats>

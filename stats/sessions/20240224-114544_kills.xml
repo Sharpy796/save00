@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="16" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="firebug" value="8" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="47" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="2" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
+    <E key="dripper" value="2" >
+    </E>
+    <E key="eye_bat" value="3" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="graham_fuzz" value="2" >
+    </E>
+    <E key="hisii_minecart" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="7" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

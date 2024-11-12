@@ -1,0 +1,16 @@
+<Stats BUILD_NAME="Noita-Build-Feb 12 2024-19:07:19" >
+  <stats biomes_visited_with_wands="3" damage_taken="4.83008" dead="1" death_count="0" death_pos.x="-310.876" death_pos.y="1913.58" enemies_killed="5" gold="351" gold_all="601" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="4" kicks="25" killed_by="Suurtulikärpänen | melee" killed_by_extra="" places_visited="3" playtime="536.05" playtime_str="0:08:56" projectiles_shot="419" streaks="0" teleports="0" wands_edited="3" world_seed="103438598" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="2.82608" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="160" gold_all="410" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="4" kicks="18" killed_by="" killed_by_extra="" places_visited="2" playtime="393.8" playtime_str="0:06:33" projectiles_shot="207" streaks="0" teleports="0" wands_edited="3" world_seed="103438598" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

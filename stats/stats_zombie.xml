@@ -1,0 +1,88 @@
+<Stats deaths="153" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | " value="8" >
+    </E>
+    <E key="NULL | $damage_drowning" value="9" >
+    </E>
+    <E key="NULL | $damage_explosion" value="34" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="NULL | $damage_melee" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="7" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="2" >
+    </E>
+    <E key="bat | $damage_melee" value="3" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="6" >
+    </E>
+    <E key="miner | $damage_melee" value="2" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="7" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="3" >
+    </E>
+    <E key="miniblob | $damage_melee" value="3" >
+    </E>
+    <E key="monk | $damage_projectile" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | " value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="25" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="rat | $damage_melee" value="2" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="4" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="5" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+    <E key="zombie | $damage_melee" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="frog" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

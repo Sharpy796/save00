@@ -1,0 +1,50 @@
+<Stats deaths="1" kills="41" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="archer | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alien" value="1" >
+    </E>
+    <E key="archer" value="1" >
+    </E>
+    <E key="bean_pod" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="4" >
+    </E>
+    <E key="eye_shot" value="3" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="flesh_eye" value="3" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="knight_heart" value="2" >
+    </E>
+    <E key="longleg" value="4" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="stalker_ceiling" value="1" >
+    </E>
+    <E key="welder" value="1" >
+    </E>
+    <E key="whisp" value="4" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

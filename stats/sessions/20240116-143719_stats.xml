@@ -1,0 +1,36 @@
+<Stats BUILD_NAME="Noita-Build-Jan 16 2024-15:35:10" >
+  <stats biomes_visited_with_wands="13" damage_taken="183.243" dead="1" death_count="0" death_pos.x="12389.5" death_pos.y="3253" enemies_killed="2035" gold="7463" gold_all="43883" gold_infinite="0" healed="56.35" heart_containers="0" hp="100" items="195" kicks="197" killed_by=" | damage from material: toxic rock" killed_by_extra=", while polymorphed to Hämis" places_visited="13" playtime="25472.2" playtime_str="7:04:32" projectiles_shot="257335" streaks="0" teleports="0" wands_edited="40" world_seed="2037047807" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="10" damage_taken="157.089" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1943" gold="7463" gold_all="43883" gold_infinite="0" healed="56.35" heart_containers="0" hp="100" items="160" kicks="158" killed_by="" killed_by_extra="" places_visited="10" playtime="21446.5" playtime_str="5:57:26" projectiles_shot="191092" streaks="0" teleports="0" wands_edited="33" world_seed="2037047807" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_toxic_worm_cave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

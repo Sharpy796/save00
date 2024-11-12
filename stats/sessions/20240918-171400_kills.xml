@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="57" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="giant" value="3" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="pebble_fire_physics" value="1" >
+    </E>
+    <E key="pebble_physics" value="5" >
+    </E>
+    <E key="pebble_thunder_physics" value="2" >
+    </E>
+    <E key="rat" value="12" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_grenade_weak" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_shield_weak" value="3" >
+    </E>
+    <E key="scavenger_smg" value="8" >
+    </E>
+    <E key="shotgunner_ice" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+  </kill_map>
+</Stats>

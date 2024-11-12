@@ -1,0 +1,104 @@
+<Stats deaths="1" kills="106" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="2" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="beehive" value="1" >
+    </E>
+    <E key="boss_tnt" value="4" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="commander" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="crawler" value="2" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="egg_hollow" value="2" >
+    </E>
+    <E key="electricskull" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="flesh_monster" value="1" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="giant_old" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="graham_fuzz" value="2" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hisii_engineer" value="2" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
+    <E key="pebble_old" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="scavenger_glue" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="7" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="skeleton" value="2" >
+    </E>
+    <E key="skullmage" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="snowman" value="1" >
+    </E>
+    <E key="stalker_ceiling" value="2" >
+    </E>
+    <E key="summoner" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_flame_apotheosis" value="2" >
+    </E>
+    <E key="whisp" value="11" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="zombie3" value="2" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

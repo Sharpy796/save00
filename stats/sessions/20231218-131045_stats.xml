@@ -1,0 +1,52 @@
+<Stats BUILD_NAME="Noita-Build-Dec 15 2023-13:51:57" >
+  <stats biomes_visited_with_wands="21" damage_taken="446.219" dead="1" death_count="0" death_pos.x="12472.3" death_pos.y="5198.53" enemies_killed="2593" gold="75585" gold_all="86905" gold_infinite="0" healed="459.45" heart_containers="0" hp="100" items="416" kicks="674" killed_by=" | damage from material: Water" killed_by_extra=", while polymorphed to Pikkutulikärpänen" places_visited="21" playtime="36091" playtime_str="10:01:31" projectiles_shot="254135" streaks="0" teleports="7" wands_edited="117" world_seed="1652500542" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="6" damage_taken="14.3368" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="245" gold="382" gold_all="2972" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="41" kicks="85" killed_by="" killed_by_extra="" places_visited="6" playtime="4857.05" playtime_str="1:20:57" projectiles_shot="21677" streaks="0" teleports="0" wands_edited="9" world_seed="1652500542" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,0 +1,26 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="8" damage_taken="20.6793" dead="1" death_count="0" death_pos.x="-153.812" death_pos.y="11438.5" enemies_killed="14" gold="1255" gold_all="1455" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="13" kicks="7" killed_by="(Apotheosis) Hirvittävämassa | fire" killed_by_extra=", while polymorphed to (Vanilla) Lentolammas" places_visited="8" playtime="666.333" playtime_str="0:11:06" projectiles_shot="325" streaks="0" teleports="0" wands_edited="5" world_seed="858780036" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="7" damage_taken="13.7512" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="14" gold="385" gold_all="585" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="12" kicks="7" killed_by="" killed_by_extra="" places_visited="7" playtime="553.433" playtime_str="0:09:13" projectiles_shot="324" streaks="0" teleports="0" wands_edited="5" world_seed="858780036" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

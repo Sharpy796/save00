@@ -1,0 +1,46 @@
+<Stats deaths="1" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="playerghost | $damage_physicshit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hisii_minecart" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="mimic_perk_twwe" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slime_turret" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="sneeker" value="2" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Build-Apr  6 2024-19:09:04" >
+  <stats biomes_visited_with_wands="5" damage_taken="290.144" dead="1" death_count="0" death_pos.x="2997.01" death_pos.y="1761.03" enemies_killed="9" gold="10" gold_all="10" gold_infinite="0" healed="32.5" heart_containers="0" hp="100" items="12" kicks="23" killed_by=" | damage from material: lava" killed_by_extra="" places_visited="5" playtime="1060.62" playtime_str="0:17:40" projectiles_shot="7089" streaks="0" teleports="0" wands_edited="2" world_seed="1201922936" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

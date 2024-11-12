@@ -1,0 +1,68 @@
+<Stats deaths="1" kills="654" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="8" >
+    </E>
+    <E key="arrowtrap_left" value="7" >
+    </E>
+    <E key="arrowtrap_right" value="7" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="dripping_oil" value="6" >
+    </E>
+    <E key="dripping_radioactive" value="3" >
+    </E>
+    <E key="dripping_water" value="2" >
+    </E>
+    <E key="dripping_water_heavy" value="1" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fish" value="13" >
+    </E>
+    <E key="fly" value="9" >
+    </E>
+    <E key="mine_scavenger" value="13" >
+    </E>
+    <E key="miner" value="17" >
+    </E>
+    <E key="necromancer" value="2" >
+    </E>
+    <E key="polyorb" value="5" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="root_grower" value="9" >
+    </E>
+    <E key="root_grower_branch" value="105" >
+    </E>
+    <E key="scavenger_grenade" value="27" >
+    </E>
+    <E key="scavenger_heal" value="6" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_smg" value="25" >
+    </E>
+    <E key="sheep" value="277" >
+    </E>
+    <E key="sheep_bat" value="40" >
+    </E>
+    <E key="sheep_fly" value="39" >
+    </E>
+    <E key="shotgunner" value="11" >
+    </E>
+    <E key="sniper" value="11" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+  </kill_map>
+</Stats>

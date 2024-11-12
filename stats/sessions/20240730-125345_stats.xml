@@ -1,0 +1,28 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="9" damage_taken="21.1988" dead="1" death_count="0" death_pos.x="3674.62" death_pos.y="13092.3" enemies_killed="7" gold="282" gold_all="592" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="16" kicks="42" killed_by="(Vanilla) Stevari | projectile" killed_by_extra="" places_visited="9" playtime="510.283" playtime_str="0:08:30" projectiles_shot="291" streaks="0" teleports="23" wands_edited="4" world_seed="1702862538" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="6" damage_taken="10.1643" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5" gold="282" gold_all="592" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="14" kicks="42" killed_by="" killed_by_extra="" places_visited="6" playtime="358.067" playtime_str="0:05:58" projectiles_shot="127" streaks="0" teleports="15" wands_edited="4" world_seed="1702862538" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Blast Pit" value="1" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+    <E key="Hiisi Village" value="1" >
+    </E>
+    <E key="Holy Temple" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="1" >
+    </E>
+    <E key="The Forge" value="1" >
+    </E>
+    <E key="Underground Swamp" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

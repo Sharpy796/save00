@@ -1,0 +1,52 @@
+<Stats deaths="1" kills="67" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | bzzt!" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="bubble_liquid" value="3" >
+    </E>
+    <E key="fairy_big" value="3" >
+    </E>
+    <E key="firebug" value="11" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hisii_giga_bomb" value="2" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="pylon_escium_lowhp" value="4" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

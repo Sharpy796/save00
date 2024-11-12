@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="drone_face2 | bzzt!" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="2" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="icicle_ceiling" value="3" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,22 @@
+<Stats deaths="1" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="bomb" value="3" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

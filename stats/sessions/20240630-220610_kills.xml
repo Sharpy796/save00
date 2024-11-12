@@ -1,0 +1,106 @@
+<Stats deaths="1" kills="89" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="alien" value="1" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bat" value="4" >
+    </E>
+    <E key="berserkspirit" value="1" >
+    </E>
+    <E key="bloom_ceiling" value="1" >
+    </E>
+    <E key="bluemancer" value="1" >
+    </E>
+    <E key="cargobot" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="confusespirit" value="3" >
+    </E>
+    <E key="drone_mini" value="3" >
+    </E>
+    <E key="drone_status_ailment" value="1" >
+    </E>
+    <E key="eye_bat" value="4" >
+    </E>
+    <E key="failed_alchemist" value="2" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="fairy_big_discord" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="2" >
+    </E>
+    <E key="flutterpede" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="ground_terror" value="2" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hisii_rocketshotgun" value="1" >
+    </E>
+    <E key="larva_crawler" value="9" >
+    </E>
+    <E key="long_ghost" value="2" >
+    </E>
+    <E key="longleg" value="11" >
+    </E>
+    <E key="lost_soul_big" value="1" >
+    </E>
+    <E key="lukki_weird" value="1" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="mexxi_triangle" value="1" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="scarab" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="3" >
+    </E>
+    <E key="skullspider_lukki_bomb_physics" value="1" >
+    </E>
+    <E key="slime_turret" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="smoke_bot" value="1" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="wizard_manaeater" value="1" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

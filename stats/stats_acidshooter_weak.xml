@@ -1,0 +1,22 @@
+<Stats deaths="11" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="player | " value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

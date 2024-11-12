@@ -1,0 +1,30 @@
+<Stats deaths="257" kills="166" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | " value="5" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="57" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="166" >
+    </E>
+    <E key="player | " value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_physics" value="166" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="12" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="arrowtrap_left" value="3" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="scorpion" value="6" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="wizard_weaken" value="1" >
+    </E>
+  </kill_map>
+</Stats>

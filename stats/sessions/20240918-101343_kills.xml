@@ -1,0 +1,94 @@
+<Stats deaths="0" kills="162" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="7" >
+    </E>
+    <E key="acidshot_thunder" value="1" >
+    </E>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="cocktail_fire" value="1" >
+    </E>
+    <E key="cocktail_gunpowder" value="1" >
+    </E>
+    <E key="cocktail_radioactive" value="1" >
+    </E>
+    <E key="firebug" value="14" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fish" value="14" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="6" >
+    </E>
+    <E key="frog_big" value="1" >
+    </E>
+    <E key="frog_giga" value="2" >
+    </E>
+    <E key="fungus" value="4" >
+    </E>
+    <E key="fungus_projectile" value="20" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="giantshooter" value="2" >
+    </E>
+    <E key="glue" value="6" >
+    </E>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_fire" value="5" >
+    </E>
+    <E key="miner_weak" value="6" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="pebble_fire_physics" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="radioactive_blob_thunder" value="1" >
+    </E>
+    <E key="rat" value="9" >
+    </E>
+    <E key="scavenger_glue_weak" value="5" >
+    </E>
+    <E key="scavenger_grenade" value="7" >
+    </E>
+    <E key="scavenger_shield_weak" value="2" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shotgunner_alt" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="9" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="spore_fungus_w" value="1" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="tnt" value="2" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+  </kill_map>
+</Stats>

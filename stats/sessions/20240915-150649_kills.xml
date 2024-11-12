@@ -1,0 +1,48 @@
+<Stats deaths="1" kills="92" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="15" >
+    </E>
+    <E key="bat" value="15" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="16" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="5" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="zombie" value="3" >
+    </E>
+  </kill_map>
+</Stats>

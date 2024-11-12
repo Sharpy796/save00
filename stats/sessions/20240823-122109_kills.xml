@@ -1,0 +1,50 @@
+<Stats deaths="0" kills="68" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="eye_bat" value="9" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="3" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="goo_slug" value="2" >
+    </E>
+    <E key="goomonster" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hisii_minecart_tnt" value="1" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="16" >
+    </E>
+    <E key="longleg_big" value="1" >
+    </E>
+    <E key="longleg_free" value="1" >
+    </E>
+    <E key="miner_weak" value="6" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="wizard_tiny" value="2" >
+    </E>
+    <E key="zombie_water" value="7" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb_small" value="2" >
+    </E>
+    <E key="hut" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="physics_torch_stand_intro_old" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+  </kill_map>
+</Stats>

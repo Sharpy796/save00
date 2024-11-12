@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Build-Apr 30 2024-00:44:54" >
+  <stats biomes_visited_with_wands="5" damage_taken="9.262" dead="1" death_count="0" death_pos.x="260.988" death_pos.y="3694.32" enemies_killed="71" gold="1113" gold_all="2873" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="71" kicks="202" killed_by=" | explosion" killed_by_extra="" places_visited="5" playtime="2034.52" playtime_str="0:33:54" projectiles_shot="1590" streaks="0" teleports="0" wands_edited="10" world_seed="1845738888" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Aquifer" value="1" >
+    </E>
+    <E key="Blast Pit" value="2" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+    <E key="Tainted Mines" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

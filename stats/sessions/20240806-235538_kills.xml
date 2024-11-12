@@ -1,0 +1,16 @@
+<Stats deaths="0" kills="51" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="26" >
+    </E>
+    <E key="fungus" value="18" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
+    <E key="potion_slime" value="3" >
+    </E>
+    <E key="potion_vomit" value="2" >
+    </E>
+  </kill_map>
+</Stats>

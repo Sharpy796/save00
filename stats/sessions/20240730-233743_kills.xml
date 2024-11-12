@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="electrolukki" value="1" >
+    </E>
+    <E key="graham_fuzz" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,18 @@
+<Stats deaths="7" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="swarm_fly" value="1" >
+    </E>
+  </kill_map>
+</Stats>

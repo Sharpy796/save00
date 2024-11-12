@@ -1,0 +1,28 @@
+<Stats deaths="1" kills="14" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="eye_bat" value="2" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="icicle_ceiling" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="skeleton_lunar_new_year" value="1" >
+    </E>
+    <E key="skeleton_oriental" value="1" >
+    </E>
+  </kill_map>
+</Stats>

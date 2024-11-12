@@ -1,0 +1,48 @@
+<Stats BUILD_NAME="Noita-Build-Dec 19 2023-18:38:23" >
+  <stats biomes_visited_with_wands="19" damage_taken="121.665" dead="1" death_count="0" death_pos.x="4411.36" death_pos.y="713.075" enemies_killed="1163" gold="12495" gold_all="28665" gold_infinite="0" healed="115.7" heart_containers="0" hp="100" items="148" kicks="251" killed_by="Sauvojen tuntija | projectile" killed_by_extra="" places_visited="19" playtime="19121.5" playtime_str="5:18:41" projectiles_shot="473816" streaks="0" teleports="23" wands_edited="50" world_seed="897472053" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="13" damage_taken="65.5756" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="880" gold="5972" gold_all="21812" gold_infinite="0" healed="17" heart_containers="0" hp="100" items="103" kicks="191" killed_by="" killed_by_extra="" places_visited="13" playtime="11657" playtime_str="3:14:17" projectiles_shot="280907" streaks="0" teleports="4" wands_edited="48" world_seed="897472053" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

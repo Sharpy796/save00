@@ -1,0 +1,30 @@
+<Stats deaths="1" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="eye_bat" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="mimic_explosive_box" value="3" >
+    </E>
+    <E key="player_evil" value="1" >
+    </E>
+    <E key="ritualist_c" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="water_pipe" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,40 @@
+<Stats deaths="1" kills="51" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="14" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="cocktail_radioactive" value="6" >
+    </E>
+    <E key="firebug" value="10" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="frog_giga" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miner" value="5" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade_weak" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scavenger_smg_weak" value="1" >
+    </E>
+    <E key="shotgunner_alt" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

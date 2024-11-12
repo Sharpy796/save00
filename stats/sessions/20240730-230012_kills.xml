@@ -1,0 +1,80 @@
+<Stats deaths="1" kills="90" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="zombie3 | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="3" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="2" >
+    </E>
+    <E key="eye_bat" value="11" >
+    </E>
+    <E key="eye_shot" value="2" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fairy_cheap" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="flesh_eye" value="1" >
+    </E>
+    <E key="goo_slug" value="3" >
+    </E>
+    <E key="goomonster" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hybrid" value="3" >
+    </E>
+    <E key="irtokki" value="1" >
+    </E>
+    <E key="larva_crawler" value="1" >
+    </E>
+    <E key="longleg" value="18" >
+    </E>
+    <E key="mexxi_triangle" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="mutant_blob" value="1" >
+    </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="5" >
+    </E>
+    <E key="slime" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="summoner" value="1" >
+    </E>
+    <E key="toxicmage" value="2" >
+    </E>
+    <E key="toxicmage_barf" value="1" >
+    </E>
+    <E key="toxicskull" value="1" >
+    </E>
+    <E key="twig" value="3" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie3" value="2" >
+    </E>
+    <E key="zombie_water" value="6" >
+    </E>
+  </kill_map>
+</Stats>

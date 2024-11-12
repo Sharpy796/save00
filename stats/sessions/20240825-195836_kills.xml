@@ -1,0 +1,50 @@
+<Stats deaths="1" kills="72" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="8" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="hisii_minecart_weak" value="1" >
+    </E>
+    <E key="hybrid" value="2" >
+    </E>
+    <E key="longleg" value="33" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="skeleton" value="2" >
+    </E>
+    <E key="slime_ghoul" value="1" >
+    </E>
+    <E key="slime_roller" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="summoner" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="toxicmage" value="2" >
+    </E>
+    <E key="toxicskull" value="2" >
+    </E>
+    <E key="zombie3" value="5" >
+    </E>
+    <E key="zombie_water" value="2" >
+    </E>
+  </kill_map>
+</Stats>

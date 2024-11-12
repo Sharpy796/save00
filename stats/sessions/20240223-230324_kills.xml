@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="36" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="homunculus | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alien" value="1" >
+    </E>
+    <E key="axeman" value="3" >
+    </E>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="boss_tnt" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="crawler" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="5" >
+    </E>
+    <E key="fairy_big" value="3" >
+    </E>
+    <E key="fire_crawler_blob" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="stalker" value="2" >
+    </E>
+    <E key="stalker_ceiling" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

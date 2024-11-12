@@ -1,0 +1,34 @@
+<Stats deaths="1" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="10" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="confusespirit" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+  </kill_map>
+</Stats>

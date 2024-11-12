@@ -1,0 +1,36 @@
+<Stats deaths="1" kills="35" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="eye_bat" value="1" >
+    </E>
+    <E key="fish" value="19" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="jellyfish" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="monkey" value="1" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="scavenger_trigger" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

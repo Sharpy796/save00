@@ -1,0 +1,36 @@
+<Stats deaths="17" kills="29" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="glue" value="4" >
+    </E>
+    <E key="pollen" value="2" >
+    </E>
+    <E key="rat" value="15" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

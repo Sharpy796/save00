@@ -1,0 +1,94 @@
+<Stats deaths="1" kills="164" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bat" value="14" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="2" >
+    </E>
+    <E key="bubble_liquid" value="4" >
+    </E>
+    <E key="ccc_bat_psychic" value="9" >
+    </E>
+    <E key="ceiling_fungus" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="19" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fish" value="14" >
+    </E>
+    <E key="forsaken_eye" value="2" >
+    </E>
+    <E key="giant" value="2" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
+    <E key="hisii_minecart" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="18" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="poring" value="6" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="7" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="thunderskull" value="2" >
+    </E>
+    <E key="wandedit_crystal" value="1" >
+    </E>
+    <E key="whisp" value="12" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie_weak" value="8" >
+    </E>
+  </kill_map>
+</Stats>

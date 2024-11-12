@@ -1,0 +1,12 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="failed_alchemist | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="potion" value="4" >
+    </E>
+  </kill_map>
+</Stats>

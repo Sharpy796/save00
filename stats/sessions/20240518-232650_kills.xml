@@ -1,0 +1,318 @@
+<Stats deaths="1" kills="1113" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="boss_wizard | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="14" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="ant" value="5" >
+    </E>
+    <E key="ant_fire" value="1" >
+    </E>
+    <E key="ant_suffocate" value="1" >
+    </E>
+    <E key="apotheosis_ant_eggs" value="1" >
+    </E>
+    <E key="bat" value="21" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="7" >
+    </E>
+    <E key="blob" value="6" >
+    </E>
+    <E key="blob_big" value="1" >
+    </E>
+    <E key="blob_mini" value="24" >
+    </E>
+    <E key="bloody_mimic" value="1" >
+    </E>
+    <E key="bloom" value="13" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="boss_alchemist" value="1" >
+    </E>
+    <E key="boss_dragon" value="1" >
+    </E>
+    <E key="boss_fire_lukki" value="1" >
+    </E>
+    <E key="bubble_liquid" value="16" >
+    </E>
+    <E key="ccc_bat_psychic" value="6" >
+    </E>
+    <E key="ceiling_fungus" value="8" >
+    </E>
+    <E key="ceiling_fungus_minion" value="6" >
+    </E>
+    <E key="coward" value="2" >
+    </E>
+    <E key="devourer_ghost" value="2" >
+    </E>
+    <E key="devourer_magic" value="2" >
+    </E>
+    <E key="dripping_oil" value="3" >
+    </E>
+    <E key="dripping_radioactive" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="drone_lasership" value="9" >
+    </E>
+    <E key="drone_mini" value="31" >
+    </E>
+    <E key="drone_status_ailment" value="1" >
+    </E>
+    <E key="eel" value="5" >
+    </E>
+    <E key="egg_robot" value="1" >
+    </E>
+    <E key="enchanted_duck" value="2" >
+    </E>
+    <E key="esoteric_being" value="2" >
+    </E>
+    <E key="failed_alchemist" value="3" >
+    </E>
+    <E key="fairy_big" value="8" >
+    </E>
+    <E key="fairy_big_discord" value="3" >
+    </E>
+    <E key="firebug" value="42" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="fireskull" value="7" >
+    </E>
+    <E key="fish" value="37" >
+    </E>
+    <E key="fish_large" value="3" >
+    </E>
+    <E key="fly" value="15" >
+    </E>
+    <E key="forsaken_eye" value="8" >
+    </E>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="fungus_smoking_creep" value="2" >
+    </E>
+    <E key="gazer" value="2" >
+    </E>
+    <E key="giant" value="2" >
+    </E>
+    <E key="giant_centipede" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="15" >
+    </E>
+    <E key="goo_slug" value="8" >
+    </E>
+    <E key="graham_fuzz" value="9" >
+    </E>
+    <E key="graham_miner_gasser" value="10" >
+    </E>
+    <E key="hamis_nest" value="4" >
+    </E>
+    <E key="hideous_mass" value="1" >
+    </E>
+    <E key="hiisi_thief" value="3" >
+    </E>
+    <E key="hisii_engineer" value="6" >
+    </E>
+    <E key="hisii_hobo" value="2" >
+    </E>
+    <E key="hisii_hobo_rich" value="1" >
+    </E>
+    <E key="hisii_rocketshotgun" value="1" >
+    </E>
+    <E key="iceskull" value="11" >
+    </E>
+    <E key="lasershooter" value="3" >
+    </E>
+    <E key="lavashot_weak" value="1" >
+    </E>
+    <E key="longleg" value="56" >
+    </E>
+    <E key="lukki" value="6" >
+    </E>
+    <E key="lukki_eggs" value="2" >
+    </E>
+    <E key="lukki_fire_miniboss" value="1" >
+    </E>
+    <E key="lukki_fire_miniboss_phase2" value="1" >
+    </E>
+    <E key="lukki_longleg" value="6" >
+    </E>
+    <E key="lukki_swarmling" value="9" >
+    </E>
+    <E key="lukki_tiny" value="11" >
+    </E>
+    <E key="lurker" value="5" >
+    </E>
+    <E key="mimic_explosive_box" value="2" >
+    </E>
+    <E key="mine_scavenger" value="3" >
+    </E>
+    <E key="miner" value="8" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="mini_mimic" value="1" >
+    </E>
+    <E key="miniblob" value="14" >
+    </E>
+    <E key="missilecrab" value="1" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="necromancer_super" value="4" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="phantom_b" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="7" >
+    </E>
+    <E key="physics_torch_stand_blue" value="4" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="poisonmushroom" value="6" >
+    </E>
+    <E key="polymorph_crystal" value="1" >
+    </E>
+    <E key="poring" value="7" >
+    </E>
+    <E key="poring_lukki_fake" value="1" >
+    </E>
+    <E key="poring_magic" value="1" >
+    </E>
+    <E key="pylon_escium" value="5" >
+    </E>
+    <E key="pylon_hex_water" value="5" >
+    </E>
+    <E key="pylon_protection_proj" value="2" >
+    </E>
+    <E key="pylon_vulnerability" value="3" >
+    </E>
+    <E key="rat" value="66" >
+    </E>
+    <E key="roboguard" value="6" >
+    </E>
+    <E key="root_grower" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="63" >
+    </E>
+    <E key="scavenger_heal" value="5" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_leader" value="4" >
+    </E>
+    <E key="scavenger_mine" value="2" >
+    </E>
+    <E key="scavenger_poison" value="5" >
+    </E>
+    <E key="scavenger_shield" value="1" >
+    </E>
+    <E key="scavenger_smg" value="38" >
+    </E>
+    <E key="seeker" value="4" >
+    </E>
+    <E key="sentry" value="2" >
+    </E>
+    <E key="shaman_greater_apotheosis" value="7" >
+    </E>
+    <E key="shooterflower" value="4" >
+    </E>
+    <E key="shotgunner" value="26" >
+    </E>
+    <E key="shotgunner_weak" value="10" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="4" >
+    </E>
+    <E key="slimeshooter" value="8" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="sniper" value="12" >
+    </E>
+    <E key="spidernest" value="1" >
+    </E>
+    <E key="star_child" value="1" >
+    </E>
+    <E key="sunken_creature" value="2" >
+    </E>
+    <E key="tank" value="15" >
+    </E>
+    <E key="tank_flame_apotheosis" value="9" >
+    </E>
+    <E key="tank_rocket" value="4" >
+    </E>
+    <E key="tentacler" value="9" >
+    </E>
+    <E key="tentacler_big" value="10" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+    <E key="tesla_turret" value="7" >
+    </E>
+    <E key="thundermage" value="2" >
+    </E>
+    <E key="thunderskull" value="14" >
+    </E>
+    <E key="triangle_gem" value="2" >
+    </E>
+    <E key="watermage" value="13" >
+    </E>
+    <E key="whisp" value="70" >
+    </E>
+    <E key="whisp_big" value="5" >
+    </E>
+    <E key="whisp_big_dash" value="1" >
+    </E>
+    <E key="wizard_corrupt_hearty" value="1" >
+    </E>
+    <E key="wizard_corrupt_wands" value="2" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="wizard_duck" value="1" >
+    </E>
+    <E key="wizard_jackofalltrades" value="8" >
+    </E>
+    <E key="wizard_orb_death" value="4" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="wizard_swapper" value="2" >
+    </E>
+    <E key="wizard_tele" value="2" >
+    </E>
+    <E key="wizard_transmutation" value="9" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="worm_big" value="2" >
+    </E>
+    <E key="worm_tiny" value="2" >
+    </E>
+    <E key="wraith_returner_apotheosis" value="2" >
+    </E>
+    <E key="zombie" value="6" >
+    </E>
+    <E key="zombie_weak" value="17" >
+    </E>
+  </kill_map>
+</Stats>
