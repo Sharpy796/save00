@@ -1,10 +1,10 @@
-<Stats deaths="103" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="176" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -22,21 +22,23 @@
     </E>
     <E key="player | $damage_melee" value="20" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="61" >
     </E>
-    <E key="player | $damage_slice" value="23" >
+    <E key="player | $damage_slice" value="29" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="2" >
+    <E key="shooterflower | $damage_projectile" value="7" >
+    </E>
+    <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="1" >
+    <E key="acidshooter" value="2" >
     </E>
     <E key="fly" value="1" >
     </E>
-    <E key="frog" value="1" >
+    <E key="frog" value="2" >
     </E>
     <E key="miniblob" value="3" >
     </E>
@@ -44,7 +46,7 @@
     </E>
     <E key="tentacler_small" value="1" >
     </E>
-    <E key="zombie" value="1" >
+    <E key="zombie" value="4" >
     </E>
   </kill_map>
 </Stats>

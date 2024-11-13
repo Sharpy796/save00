@@ -1,28 +1,30 @@
-<Stats deaths="153" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="197" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="34" >
+    <E key="NULL | $damage_explosion" value="47" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
-    <E key="NULL | $damage_melee" value="3" >
+    <E key="NULL | $damage_melee" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="7" >
+    <E key="NULL | damage from material: acid" value="9" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="2" >
+    <E key="NULL | damage from material: toxic rock" value="6" >
     </E>
     <E key="bat | $damage_melee" value="3" >
     </E>
-    <E key="fly | $damage_melee" value="1" >
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="4" >
     </E>
     <E key="miner | $damage_explosion" value="6" >
     </E>
@@ -44,9 +46,9 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="38" >
     </E>
-    <E key="player | $damage_slice" value="3" >
+    <E key="player | $damage_slice" value="5" >
     </E>
     <E key="rat | $damage_melee" value="2" >
     </E>
@@ -60,11 +62,15 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="5" >
     </E>
+    <E key="slimeshooter | $damage_melee" value="1" >
+    </E>
     <E key="sniper | $damage_projectile" value="1" >
     </E>
     <E key="tentacler_small | $damage_melee" value="2" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
     <E key="zombie | $damage_melee" value="2" >
     </E>
@@ -74,9 +80,9 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
-    <E key="miniblob" value="1" >
+    <E key="miniblob" value="3" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="11" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

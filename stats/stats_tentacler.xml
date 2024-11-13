@@ -1,10 +1,10 @@
-<Stats deaths="32" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="62" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
@@ -12,7 +12,9 @@
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="2" >
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="3" >
     </E>
     <E key="player | " value="1" >
     </E>
@@ -24,19 +26,27 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_projectile" value="32" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
     <E key="skullfly | $damage_fire" value="1" >
     </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="acidshot" value="2" >
     </E>
+    <E key="phantom_b" value="1" >
+    </E>
     <E key="pollen" value="14" >
     </E>
-    <E key="rat" value="1" >
+    <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

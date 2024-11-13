@@ -1,7 +1,17 @@
-<Stats deaths="0" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | physics body damaged" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
     <E key="tentacler_small" value="1" >
     </E>
   </kill_map>

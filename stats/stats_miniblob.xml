@@ -1,24 +1,38 @@
-<Stats deaths="267" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="628" kills="17" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="3" >
+    <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="36" >
+    <E key="NULL | $damage_electricity" value="67" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="81" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="30" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="8" >
+    <E key="ant | $damage_melee" value="11" >
     </E>
-    <E key="blob | $damage_melee" value="7" >
+    <E key="bigzombie | $damage_melee" value="1" >
     </E>
-    <E key="firemage | $damage_melee" value="1" >
+    <E key="blob | $damage_melee" value="8" >
+    </E>
+    <E key="firemage | $damage_explosion" value="1" >
+    </E>
+    <E key="firemage | $damage_melee" value="3" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
     </E>
     <E key="fly | $damage_melee" value="3" >
     </E>
     <E key="frog_big | $damage_melee" value="1" >
+    </E>
+    <E key="icer | $damage_explosion" value="1" >
     </E>
     <E key="miniblob | $damage_melee" value="5" >
     </E>
@@ -30,13 +44,31 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="218" >
     </E>
-    <E key="player | $damage_slice" value="22" >
+    <E key="player | $damage_slice" value="40" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="2" >
     </E>
     <E key="sniper | $damage_melee" value="3" >
     </E>
     <E key="sniper | $damage_projectile" value="2" >
+    </E>
+    <E key="spearbot | $damage_holy" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="5" >
+    </E>
+    <E key="thundermage | $damage_melee" value="4" >
     </E>
     <E key="thundermage_big | $damage_electricity" value="1" >
     </E>
@@ -48,9 +80,11 @@
     </E>
     <E key="wizard_swapper | $damage_explosion" value="6" >
     </E>
+    <E key="wizard_twitchy | $damage_projectile" value="2" >
+    </E>
     <E key="worm_skull | worm bite" value="37" >
     </E>
-    <E key="zombie | $damage_melee" value="1" >
+    <E key="zombie | $damage_melee" value="3" >
     </E>
   </death_map>
   <kill_map>
@@ -60,7 +94,7 @@
     </E>
     <E key="miniblob" value="5" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="6" >
     </E>
     <E key="sheep" value="1" >
     </E>

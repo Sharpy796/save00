@@ -1,40 +1,40 @@
-<Stats deaths="343" kills="108" player_kills="3" player_projectile_count="0" >
+<Stats deaths="396" kills="134" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="4" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="38" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="26" >
     </E>
-    <E key="NULL | $damage_physicshit" value="23" >
+    <E key="NULL | $damage_physicshit" value="26" >
     </E>
-    <E key="NULL | $damage_radioactive" value="33" >
+    <E key="NULL | $damage_radioactive" value="35" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="2" >
+    <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="2" >
+    <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
     <E key="NULL | damage from material: lava" value="7" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="1" >
+    <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
     <E key="bat | $damage_melee" value="1" >
     </E>
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="3" >
+    <E key="drone_lasership | $damage_projectile" value="4" >
     </E>
     <E key="firebug | $damage_fire" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="5" >
+    <E key="iceskull | $damage_explosion" value="8" >
     </E>
     <E key="iceskull | $damage_ice" value="2" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | " value="5" >
     </E>
-    <E key="player | $damage_explosion" value="22" >
+    <E key="player | $damage_explosion" value="24" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="71" >
+    <E key="player | $damage_projectile" value="95" >
     </E>
     <E key="player | $damage_slice" value="36" >
     </E>
@@ -70,9 +70,9 @@
     </E>
     <E key="slimeshooter | $damage_explosion" value="3" >
     </E>
-    <E key="sniper | $damage_projectile" value="4" >
+    <E key="sniper | $damage_projectile" value="5" >
     </E>
-    <E key="worm | worm bite" value="1" >
+    <E key="worm | worm bite" value="3" >
     </E>
     <E key="worm_big | worm bite" value="3" >
     </E>
@@ -86,17 +86,19 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="iceskull" value="4" >
+    <E key="fish" value="5" >
+    </E>
+    <E key="iceskull" value="6" >
     </E>
     <E key="player" value="3" >
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="75" >
+    <E key="rat" value="93" >
     </E>
     <E key="shotgunner" value="3" >
     </E>
-    <E key="slimeshooter" value="5" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="tnt" value="1" >
     </E>

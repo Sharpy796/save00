@@ -1,14 +1,28 @@
-<Stats deaths="2" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="lukki_dark | $damage_curse" value="1" >
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="2" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
+    <E key="player | $damage_projectile" value="7" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="scorpion" value="2" >
+    <E key="acidshooter" value="1" >
     </E>
-    <E key="tentacler" value="1" >
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="scorpion" value="3" >
+    </E>
+    <E key="tentacler" value="2" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>
