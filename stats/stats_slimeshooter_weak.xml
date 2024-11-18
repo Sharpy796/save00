@@ -1,4 +1,4 @@
-<Stats deaths="107" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="112" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="12" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="longleg | $damage_melee" value="1" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="slimeshooter_weak" value="3" >
     </E>
-    <E key="zombie_weak" value="20" >
+    <E key="zombie_weak" value="24" >
     </E>
   </kill_map>
 </Stats>

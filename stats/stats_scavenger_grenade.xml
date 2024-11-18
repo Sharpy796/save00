@@ -1,28 +1,28 @@
-<Stats deaths="690" kills="102" player_kills="1" player_projectile_count="0" >
+<Stats deaths="720" kills="109" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_electricity" value="13" >
     </E>
-    <E key="NULL | $damage_explosion" value="83" >
+    <E key="NULL | $damage_explosion" value="86" >
     </E>
-    <E key="NULL | $damage_fire" value="16" >
+    <E key="NULL | $damage_fire" value="18" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="42" >
+    <E key="NULL | $damage_physicshit" value="47" >
     </E>
-    <E key="NULL | $damage_radioactive" value="11" >
+    <E key="NULL | $damage_radioactive" value="12" >
     </E>
-    <E key="NULL | damage from material: acid" value="6" >
+    <E key="NULL | damage from material: acid" value="11" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="32" >
+    <E key="NULL | damage from material: freezing vapour" value="38" >
     </E>
     <E key="NULL | damage from material: toxic ice" value="1" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
+    <E key="missilecrab | $damage_explosion" value="1" >
+    </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
     <E key="orb_laseremitter_four | $damage_plasmabeam" value="2" >
@@ -56,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="204" >
+    <E key="player | $damage_projectile" value="209" >
     </E>
     <E key="player | $damage_slice" value="19" >
     </E>
@@ -76,7 +78,7 @@
     </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
-    <E key="thundermage | $damage_electricity" value="1" >
+    <E key="thundermage | $damage_electricity" value="2" >
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
@@ -98,7 +100,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="bigzombie" value="1" >
+    <E key="bigzombie" value="2" >
     </E>
     <E key="glue" value="1" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="63" >
+    <E key="rat" value="68" >
     </E>
     <E key="scavenger_heal" value="2" >
     </E>
@@ -120,7 +122,7 @@
     </E>
     <E key="shotgunner" value="1" >
     </E>
-    <E key="slimeshooter" value="1" >
+    <E key="slimeshooter" value="2" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>

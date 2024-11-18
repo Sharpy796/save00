@@ -1,4 +1,4 @@
-<Stats deaths="166" kills="167" player_kills="0" player_projectile_count="0" >
+<Stats deaths="173" kills="182" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="23" >
+    <E key="iceskull | $damage_explosion" value="24" >
     </E>
     <E key="player | " value="1" >
     </E>
@@ -28,19 +28,19 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="8" >
     </E>
-    <E key="scavenger_leader | $damage_projectile" value="3" >
+    <E key="scavenger_leader | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_smg | $damage_explosion" value="2" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="3" >
+    <E key="scavenger_smg | $damage_projectile" value="5" >
     </E>
     <E key="shotgunner | $damage_projectile" value="6" >
     </E>
-    <E key="sniper | $damage_explosion" value="1" >
+    <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="5" >
+    <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="tank | $damage_projectile" value="5" >
+    <E key="tank | $damage_projectile" value="6" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="3" >
     </E>
@@ -54,7 +54,7 @@
   <kill_map>
     <E key="glue" value="5" >
     </E>
-    <E key="iceskull" value="23" >
+    <E key="iceskull" value="24" >
     </E>
     <E key="pollen" value="39" >
     </E>
@@ -62,13 +62,13 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="51" >
+    <E key="rat" value="64" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
     <E key="scavenger_grenade" value="4" >
     </E>
-    <E key="scavenger_smg" value="8" >
+    <E key="scavenger_smg" value="9" >
     </E>
     <E key="shotgunner" value="10" >
     </E>

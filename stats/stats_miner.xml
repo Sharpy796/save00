@@ -1,24 +1,24 @@
-<Stats deaths="206" kills="56" player_kills="0" player_projectile_count="0" >
+<Stats deaths="221" kills="60" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
-    <E key="NULL | $damage_drowning" value="15" >
+    <E key="NULL | $damage_drowning" value="16" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_fire" value="18" >
+    <E key="NULL | $damage_fire" value="21" >
     </E>
-    <E key="NULL | $damage_physicshit" value="16" >
+    <E key="NULL | $damage_physicshit" value="19" >
     </E>
-    <E key="NULL | $damage_radioactive" value="20" >
+    <E key="NULL | $damage_radioactive" value="22" >
     </E>
-    <E key="NULL | damage from material: acid" value="2" >
+    <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="2" >
+    <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="3" >
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="bat | $damage_melee" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="firebug | $damage_melee" value="2" >
     </E>
-    <E key="miner | $damage_explosion" value="4" >
+    <E key="miner | $damage_explosion" value="5" >
     </E>
     <E key="miner | $damage_melee" value="1" >
     </E>
@@ -54,17 +54,19 @@
   <kill_map>
     <E key="acidshooter" value="1" >
     </E>
+    <E key="bat" value="1" >
+    </E>
     <E key="firebug" value="4" >
     </E>
-    <E key="miner" value="5" >
+    <E key="miner" value="6" >
     </E>
-    <E key="rat" value="32" >
+    <E key="rat" value="33" >
     </E>
     <E key="root_grower" value="1" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
-    <E key="shotgunner" value="3" >
+    <E key="shotgunner" value="4" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

@@ -1,20 +1,28 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="58" damage_taken="5228.82" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1928" gold="41045" gold_all="73135" gold_infinite="0" healed="6.6" heart_containers="0" hp="100" items="345" kicks="300" killed_by="" killed_by_extra="" places_visited="58" playtime="19031.2" playtime_str="5:17:11" projectiles_shot="219133" streaks="0" teleports="5" wands_edited="60" world_seed="1191296360" >
+  <stats biomes_visited_with_wands="75" damage_taken="84635.1" dead="1" death_count="0" death_pos.x="136.916" death_pos.y="38115.7" enemies_killed="2149" gold="2147483647" gold_all="2147656987" gold_infinite="1" healed="6.6" heart_containers="0" hp="100" items="399" kicks="300" killed_by=" | Pimeys" killed_by_extra="" places_visited="75" playtime="24461.1" playtime_str="6:47:41" projectiles_shot="418625" streaks="0" teleports="10" wands_edited="62" world_seed="1191296360" >
   </stats>
   <biome_baseline biomes_visited_with_wands="57" damage_taken="5226.36" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1910" gold="41044" gold_all="73134" gold_infinite="0" healed="6.6" heart_containers="0" hp="100" items="330" kicks="300" killed_by="" killed_by_extra="" places_visited="57" playtime="18480.5" playtime_str="5:08:00" projectiles_shot="199744" streaks="0" teleports="4" wands_edited="58" world_seed="1191296360" >
   </biome_baseline>
   <item_map>
   </item_map>
   <biomes_visited>
+    <E key="$biome_barren" value="1" >
+    </E>
     <E key="$biome_boss_arena" value="1" >
     </E>
+    <E key="$biome_boss_sky" value="1" >
+    </E>
     <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
     </E>
     <E key="$biome_coalmine" value="1" >
     </E>
     <E key="$biome_coalmine_alt" value="1" >
     </E>
     <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_darkness" value="1" >
     </E>
     <E key="$biome_desert" value="1" >
     </E>
@@ -41,6 +49,8 @@
     <E key="$biome_mestari_secret" value="1" >
     </E>
     <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_potion_mimics" value="1" >
     </E>
     <E key="$biome_pyramid" value="1" >
     </E>
@@ -74,31 +84,53 @@
     </E>
     <E key="???" value="1" >
     </E>
-    <E key="east $biome_coalmine" value="1" >
+    <E key="east $biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="east $biome_clouds" value="1" >
+    </E>
+    <E key="east $biome_coalmine" value="3" >
+    </E>
+    <E key="east $biome_coalmine_alt" value="1" >
     </E>
     <E key="east $biome_crypt" value="1" >
     </E>
-    <E key="east $biome_excavationsite" value="1" >
+    <E key="east $biome_desert" value="2" >
     </E>
-    <E key="east $biome_fungicave" value="1" >
+    <E key="east $biome_dragoncave" value="1" >
     </E>
-    <E key="east $biome_holymountain" value="1" >
+    <E key="east $biome_excavationsite" value="3" >
     </E>
-    <E key="east $biome_lake" value="1" >
+    <E key="east $biome_fungicave" value="3" >
     </E>
-    <E key="east $biome_rainforest" value="1" >
+    <E key="east $biome_ghost_secret" value="1" >
     </E>
-    <E key="east $biome_snowcastle" value="1" >
+    <E key="east $biome_holymountain" value="3" >
     </E>
-    <E key="east $biome_snowcave" value="1" >
+    <E key="east $biome_lake" value="3" >
     </E>
-    <E key="east $biome_vault" value="1" >
+    <E key="east $biome_lava" value="1" >
     </E>
-    <E key="east $biome_winter" value="1" >
+    <E key="east $biome_pyramid" value="1" >
+    </E>
+    <E key="east $biome_rainforest" value="3" >
+    </E>
+    <E key="east $biome_snowcastle" value="3" >
+    </E>
+    <E key="east $biome_snowcave" value="3" >
+    </E>
+    <E key="east $biome_vault" value="3" >
+    </E>
+    <E key="east $biome_vault_frozen" value="1" >
+    </E>
+    <E key="east $biome_watchtower" value="1" >
+    </E>
+    <E key="east $biome_winter" value="3" >
+    </E>
+    <E key="east ???" value="2" >
     </E>
     <E key="west $biome_coalmine" value="2" >
     </E>
-    <E key="west $biome_desert" value="2" >
+    <E key="west $biome_desert" value="3" >
     </E>
     <E key="west $biome_dragoncave" value="1" >
     </E>
@@ -120,7 +152,9 @@
     </E>
     <E key="west $biome_vault" value="2" >
     </E>
-    <E key="west $biome_watchtower" value="2" >
+    <E key="west $biome_watchtower" value="3" >
+    </E>
+    <E key="west ???" value="1" >
     </E>
   </biomes_visited>
 </Stats>

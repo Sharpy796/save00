@@ -1,4 +1,4 @@
-<Stats deaths="243" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="440" kills="34" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -6,15 +6,15 @@
     </E>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="36" >
+    <E key="NULL | $damage_explosion" value="40" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | damage from material: Water" value="23" >
+    <E key="NULL | damage from material: Water" value="25" >
     </E>
-    <E key="bat | $damage_melee" value="9" >
+    <E key="bat | $damage_melee" value="10" >
     </E>
     <E key="bigbat | $damage_melee" value="5" >
     </E>
@@ -44,6 +44,8 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="6" >
     </E>
+    <E key="sunegg | $damage_sun" value="189" >
+    </E>
   </death_map>
   <kill_map>
     <E key="bat" value="3" >
@@ -51,6 +53,8 @@
     <E key="firebug" value="5" >
     </E>
     <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="longleg" value="1" >
     </E>
     <E key="miner" value="4" >
     </E>

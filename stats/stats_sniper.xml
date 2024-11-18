@@ -1,4 +1,4 @@
-<Stats deaths="182" kills="164" player_kills="0" player_projectile_count="0" >
+<Stats deaths="198" kills="190" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,15 +8,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="19" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="21" >
     </E>
-    <E key="NULL | $damage_radioactive" value="11" >
+    <E key="NULL | $damage_radioactive" value="12" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="3" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
@@ -48,9 +48,9 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
-    <E key="player | $damage_slice" value="8" >
+    <E key="player | $damage_slice" value="9" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -72,9 +72,11 @@
   <kill_map>
     <E key="drone_lasership" value="2" >
     </E>
+    <E key="fish" value="11" >
+    </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="6" >
+    <E key="iceskull" value="8" >
     </E>
     <E key="miniblob" value="5" >
     </E>
@@ -82,19 +84,21 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="81" >
+    <E key="rat" value="91" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_smg" value="1" >
     </E>
-    <E key="shotgunner" value="5" >
+    <E key="shotgunner" value="6" >
     </E>
-    <E key="slimeshooter" value="13" >
+    <E key="slimeshooter" value="14" >
     </E>
     <E key="sniper" value="4" >
     </E>
     <E key="tank" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
     </E>
     <E key="thunderskull" value="1" >
     </E>

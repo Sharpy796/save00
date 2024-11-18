@@ -1,4 +1,4 @@
-<Stats deaths="244" kills="109" player_kills="0" player_projectile_count="0" >
+<Stats deaths="257" kills="124" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -10,19 +10,21 @@
     </E>
     <E key="NULL | $damage_explosion" value="20" >
     </E>
-    <E key="NULL | $damage_fire" value="19" >
+    <E key="NULL | $damage_fire" value="22" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="11" >
+    <E key="NULL | $damage_physicshit" value="13" >
     </E>
-    <E key="NULL | $damage_radioactive" value="13" >
+    <E key="NULL | $damage_radioactive" value="15" >
     </E>
-    <E key="NULL | damage from material: acid" value="3" >
+    <E key="NULL | damage from material: acid" value="4" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="4" >
+    </E>
+    <E key="acidshooter | $damage_melee" value="1" >
     </E>
     <E key="firemage_weak | $damage_explosion" value="1" >
     </E>
@@ -38,7 +40,9 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="102" >
+    <E key="player | $damage_projectile" value="104" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="6" >
     </E>
@@ -52,23 +56,25 @@
     </E>
     <E key="bat" value="1" >
     </E>
-    <E key="frog" value="1" >
+    <E key="frog" value="2" >
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>
-    <E key="longleg" value="7" >
+    <E key="longleg" value="11" >
     </E>
     <E key="miner_weak" value="5" >
     </E>
-    <E key="shotgunner_weak" value="1" >
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="skeleton" value="1" >
     </E>
     <E key="slimeshooter" value="2" >
     </E>
     <E key="slimeshooter_weak" value="4" >
     </E>
-    <E key="zombie" value="10" >
+    <E key="zombie" value="11" >
     </E>
-    <E key="zombie_weak" value="75" >
+    <E key="zombie_weak" value="81" >
     </E>
   </kill_map>
 </Stats>
