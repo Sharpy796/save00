@@ -1,4 +1,4 @@
-<Stats deaths="216" kills="74" player_kills="1" player_projectile_count="0" >
+<Stats deaths="224" kills="81" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="38" >
+    <E key="NULL | $damage_explosion" value="39" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
@@ -44,7 +44,7 @@
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="56" >
     </E>
     <E key="player | $damage_slice" value="17" >
     </E>
@@ -58,11 +58,11 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="6" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="3" >
+    <E key="slimeshooter | $damage_explosion" value="4" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="14" >
+    <E key="sniper | $damage_projectile" value="15" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
@@ -100,15 +100,15 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="49" >
+    <E key="rat" value="54" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
-    <E key="scavenger_smg" value="1" >
+    <E key="scavenger_smg" value="2" >
     </E>
     <E key="shotgunner" value="3" >
     </E>
-    <E key="slimeshooter" value="3" >
+    <E key="slimeshooter" value="4" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

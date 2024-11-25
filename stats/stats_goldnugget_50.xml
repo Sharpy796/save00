@@ -1,0 +1,22 @@
+<Stats deaths="28" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="parallel_tentacles | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_slice" value="5" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="deer" value="1" >
+    </E>
+    <E key="duck" value="1" >
+    </E>
+    <E key="sheep" value="3" >
+    </E>
+  </kill_map>
+</Stats>

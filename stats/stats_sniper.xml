@@ -1,4 +1,4 @@
-<Stats deaths="198" kills="190" player_kills="0" player_projectile_count="0" >
+<Stats deaths="202" kills="192" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_fire" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="21" >
+    <E key="NULL | $damage_physicshit" value="22" >
     </E>
     <E key="NULL | $damage_radioactive" value="12" >
     </E>
@@ -32,13 +32,15 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="1" >
+    <E key="iceskull | $damage_explosion" value="2" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
     </E>
     <E key="player | $damage_explosion" value="8" >
     </E>
@@ -48,7 +50,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="54" >
+    <E key="player | $damage_projectile" value="55" >
     </E>
     <E key="player | $damage_slice" value="9" >
     </E>
@@ -84,7 +86,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="91" >
+    <E key="rat" value="92" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
@@ -92,7 +94,7 @@
     </E>
     <E key="shotgunner" value="6" >
     </E>
-    <E key="slimeshooter" value="14" >
+    <E key="slimeshooter" value="15" >
     </E>
     <E key="sniper" value="4" >
     </E>

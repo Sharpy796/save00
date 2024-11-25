@@ -1,20 +1,20 @@
-<Stats deaths="1395" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1440" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="22" >
+    <E key="NULL | $damage_drowning" value="26" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="87" >
+    <E key="NULL | $damage_explosion" value="91" >
     </E>
-    <E key="NULL | $damage_fire" value="46" >
+    <E key="NULL | $damage_fire" value="51" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="49" >
+    <E key="NULL | $damage_physicshit" value="51" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -34,7 +34,9 @@
     </E>
     <E key="ant | $damage_melee" value="2" >
     </E>
-    <E key="bat | $damage_melee" value="14" >
+    <E key="archer | $damage_projectile" value="3" >
+    </E>
+    <E key="bat | $damage_melee" value="15" >
     </E>
     <E key="bigbat | $damage_melee" value="6" >
     </E>
@@ -58,6 +60,8 @@
     </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
+    <E key="forsaken_eye | $damage_projectile" value="2" >
+    </E>
     <E key="frog | $damage_melee" value="5" >
     </E>
     <E key="frog_big | $damage_melee" value="1" >
@@ -80,9 +84,9 @@
     </E>
     <E key="iceskull | $damage_explosion" value="9" >
     </E>
-    <E key="iceskull | $damage_ice" value="43" >
+    <E key="iceskull | $damage_ice" value="46" >
     </E>
-    <E key="iceskull | $damage_melee" value="12" >
+    <E key="iceskull | $damage_melee" value="13" >
     </E>
     <E key="lukki_minion | $damage_curse" value="2" >
     </E>
@@ -108,6 +112,8 @@
     </E>
     <E key="monk | $damage_projectile" value="6" >
     </E>
+    <E key="noita.fairmod_enemy_corrupted_02 | $damage_melee" value="2" >
+    </E>
     <E key="orb_laseremitter_four | $damage_plasmabeam" value="2" >
     </E>
     <E key="player | " value="9" >
@@ -122,7 +128,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="92" >
+    <E key="player | $damage_projectile" value="96" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -138,11 +144,11 @@
     </E>
     <E key="scavenger_glue | $damage_melee" value="6" >
     </E>
-    <E key="scavenger_glue | $damage_projectile" value="4" >
+    <E key="scavenger_glue | $damage_projectile" value="5" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="13" >
+    <E key="scavenger_grenade | $damage_melee" value="14" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="55" >
+    <E key="scavenger_grenade | $damage_projectile" value="56" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
@@ -150,7 +156,7 @@
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="34" >
+    <E key="scavenger_smg | $damage_explosion" value="35" >
     </E>
     <E key="scavenger_smg | $damage_melee" value="20" >
     </E>
@@ -158,7 +164,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="21" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="82" >
+    <E key="shotgunner | $damage_projectile" value="86" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="4" >
     </E>
@@ -168,13 +174,13 @@
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="32" >
+    <E key="slimeshooter | $damage_projectile" value="37" >
     </E>
     <E key="sniper | $damage_explosion" value="13" >
     </E>
     <E key="sniper | $damage_melee" value="16" >
     </E>
-    <E key="sniper | $damage_projectile" value="62" >
+    <E key="sniper | $damage_projectile" value="63" >
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>

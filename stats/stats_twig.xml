@@ -1,0 +1,14 @@
+<Stats deaths="64" kills="36" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="24" >
+    </E>
+    <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="twig | " value="36" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="twig" value="36" >
+    </E>
+  </kill_map>
+</Stats>

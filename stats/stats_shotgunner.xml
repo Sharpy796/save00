@@ -1,4 +1,4 @@
-<Stats deaths="416" kills="146" player_kills="3" player_projectile_count="0" >
+<Stats deaths="424" kills="152" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="42" >
+    <E key="NULL | $damage_explosion" value="43" >
     </E>
-    <E key="NULL | $damage_fire" value="26" >
+    <E key="NULL | $damage_fire" value="27" >
     </E>
     <E key="NULL | $damage_physicshit" value="32" >
     </E>
-    <E key="NULL | $damage_radioactive" value="36" >
+    <E key="NULL | $damage_radioactive" value="38" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
@@ -34,6 +34,8 @@
     </E>
     <E key="firebug | $damage_fire" value="2" >
     </E>
+    <E key="forsaken_eye | $damage_projectile" value="1" >
+    </E>
     <E key="iceskull | $damage_explosion" value="8" >
     </E>
     <E key="iceskull | $damage_ice" value="2" >
@@ -50,7 +52,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="98" >
+    <E key="player | $damage_projectile" value="101" >
     </E>
     <E key="player | $damage_slice" value="38" >
     </E>
@@ -90,13 +92,15 @@
     </E>
     <E key="fish" value="5" >
     </E>
-    <E key="iceskull" value="6" >
+    <E key="iceskull" value="7" >
+    </E>
+    <E key="noita.fairmod_enemy_corrupted_02" value="1" >
     </E>
     <E key="player" value="3" >
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="103" >
+    <E key="rat" value="107" >
     </E>
     <E key="shotgunner" value="3" >
     </E>

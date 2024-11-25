@@ -1,10 +1,10 @@
-<Stats deaths="720" kills="109" player_kills="1" player_projectile_count="0" >
+<Stats deaths="732" kills="111" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="10" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="13" >
     </E>
@@ -38,6 +38,8 @@
     </E>
     <E key="iceskull | $damage_ice" value="2" >
     </E>
+    <E key="iceskull | $damage_projectile" value="2" >
+    </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
     <E key="missilecrab | $damage_explosion" value="1" >
@@ -50,6 +52,8 @@
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
+    <E key="player | $damage_electricity" value="5" >
+    </E>
     <E key="player | $damage_explosion" value="69" >
     </E>
     <E key="player | $damage_fire" value="6" >
@@ -60,13 +64,15 @@
     </E>
     <E key="player | $damage_projectile" value="209" >
     </E>
-    <E key="player | $damage_slice" value="19" >
+    <E key="player | $damage_slice" value="22" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="4" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="6" >
     </E>
     <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_electrocuter2 | $damage_electricity" value="1" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
@@ -114,7 +120,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="68" >
+    <E key="rat" value="70" >
     </E>
     <E key="scavenger_heal" value="2" >
     </E>
