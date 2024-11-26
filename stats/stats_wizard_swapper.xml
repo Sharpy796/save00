@@ -1,4 +1,4 @@
-<Stats deaths="43" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="45" kills="12" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -19,6 +19,8 @@
     <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="slicing_blade | chop!" value="2" >
     </E>
     <E key="wizard_swapper | $damage_explosion" value="1" >
     </E>

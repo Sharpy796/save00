@@ -1,16 +1,20 @@
-<Stats deaths="362" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="372" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="16" >
+    <E key="NULL | $damage_drowning" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="51" >
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="53" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_melee" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: acid" value="10" >
     </E>
@@ -27,6 +31,8 @@
     <E key="bat | $damage_melee" value="3" >
     </E>
     <E key="blob | $damage_melee" value="5" >
+    </E>
+    <E key="conduit | $damage_melee" value="1" >
     </E>
     <E key="fly | $damage_melee" value="4" >
     </E>
@@ -50,6 +56,8 @@
     </E>
     <E key="player | " value="3" >
     </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_melee" value="4" >
@@ -58,7 +66,7 @@
     </E>
     <E key="player | $damage_slice" value="8" >
     </E>
-    <E key="rat | $damage_melee" value="2" >
+    <E key="rat | $damage_melee" value="3" >
     </E>
     <E key="roboguard | $damage_explosion" value="4" >
     </E>
@@ -71,6 +79,8 @@
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
     <E key="shotgunner | $damage_projectile" value="5" >
+    </E>
+    <E key="slicing_blade | chop!" value="1" >
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
@@ -90,6 +100,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
     <E key="elk" value="1" >
     </E>
     <E key="frog" value="1" >

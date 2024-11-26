@@ -1,6 +1,6 @@
-<Stats deaths="678" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="708" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="17" >
+    <E key="NULL | $damage_drowning" value="18" >
     </E>
     <E key="NULL | $damage_electricity" value="85" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="11" >
+    <E key="ant | $damage_melee" value="12" >
     </E>
     <E key="bigzombie | $damage_melee" value="1" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="219" >
+    <E key="player | $damage_projectile" value="222" >
     </E>
     <E key="player | $damage_slice" value="40" >
     </E>
@@ -59,6 +59,8 @@
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
     <E key="shooterflower | $damage_projectile" value="2" >
+    </E>
+    <E key="slicing_blade | chop!" value="25" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="6" >
     </E>

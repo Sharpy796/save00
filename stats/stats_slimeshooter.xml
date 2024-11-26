@@ -1,4 +1,4 @@
-<Stats deaths="224" kills="81" player_kills="1" player_projectile_count="0" >
+<Stats deaths="233" kills="85" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="39" >
+    <E key="NULL | $damage_explosion" value="42" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="iceskull | $damage_ice" value="4" >
     </E>
+    <E key="mexxi | $damage_projectile" value="1" >
+    </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
     <E key="miner_weak | $damage_explosion" value="2" >
@@ -44,7 +46,7 @@
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="56" >
+    <E key="player | $damage_projectile" value="61" >
     </E>
     <E key="player | $damage_slice" value="17" >
     </E>
@@ -90,7 +92,9 @@
     </E>
     <E key="blob" value="2" >
     </E>
-    <E key="fly" value="1" >
+    <E key="drone_mini" value="3" >
+    </E>
+    <E key="fly" value="2" >
     </E>
     <E key="miniblob" value="6" >
     </E>

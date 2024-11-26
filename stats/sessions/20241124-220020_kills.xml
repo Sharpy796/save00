@@ -1,10 +1,12 @@
-<Stats deaths="0" kills="130" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="132" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="archer" value="1" >
     </E>
-    <E key="axeman" value="1" >
+    <E key="axeman" value="2" >
     </E>
     <E key="bat" value="2" >
     </E>
@@ -21,6 +23,8 @@
     <E key="firebug" value="4" >
     </E>
     <E key="fish" value="4" >
+    </E>
+    <E key="forsaken_eye" value="1" >
     </E>
     <E key="goblin_bomb" value="2" >
     </E>

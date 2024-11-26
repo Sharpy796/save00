@@ -1,22 +1,24 @@
-<Stats deaths="732" kills="111" player_kills="1" player_projectile_count="0" >
+<Stats deaths="852" kills="123" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="11" >
+    <E key="NULL | $damage_drowning" value="12" >
     </E>
-    <E key="NULL | $damage_electricity" value="13" >
+    <E key="NULL | $damage_electricity" value="51" >
     </E>
-    <E key="NULL | $damage_explosion" value="86" >
+    <E key="NULL | $damage_explosion" value="94" >
     </E>
-    <E key="NULL | $damage_fire" value="18" >
+    <E key="NULL | $damage_fire" value="22" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="47" >
+    <E key="NULL | $damage_physicshit" value="49" >
     </E>
     <E key="NULL | $damage_radioactive" value="12" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="4" >
     </E>
     <E key="NULL | damage from material: acid" value="11" >
     </E>
@@ -50,9 +52,9 @@
     </E>
     <E key="player | " value="9" >
     </E>
-    <E key="player | $damage_drill" value="1" >
+    <E key="player | $damage_drill" value="4" >
     </E>
-    <E key="player | $damage_electricity" value="5" >
+    <E key="player | $damage_electricity" value="28" >
     </E>
     <E key="player | $damage_explosion" value="69" >
     </E>
@@ -62,7 +64,7 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="209" >
+    <E key="player | $damage_projectile" value="242" >
     </E>
     <E key="player | $damage_slice" value="22" >
     </E>
@@ -75,6 +77,8 @@
     <E key="scavenger_electrocuter2 | $damage_electricity" value="1" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
+    </E>
+    <E key="slicing_blade | chop!" value="4" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
@@ -108,6 +112,8 @@
   <kill_map>
     <E key="bigzombie" value="2" >
     </E>
+    <E key="frog_bot" value="2" >
+    </E>
     <E key="glue" value="1" >
     </E>
     <E key="iceskull" value="8" >
@@ -120,11 +126,13 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="70" >
+    <E key="rat" value="78" >
     </E>
     <E key="scavenger_heal" value="2" >
     </E>
-    <E key="scavenger_smg" value="2" >
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

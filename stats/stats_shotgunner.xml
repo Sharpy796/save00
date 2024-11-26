@@ -1,4 +1,4 @@
-<Stats deaths="424" kills="152" player_kills="3" player_projectile_count="0" >
+<Stats deaths="437" kills="155" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="43" >
+    <E key="NULL | $damage_explosion" value="44" >
     </E>
-    <E key="NULL | $damage_fire" value="27" >
+    <E key="NULL | $damage_fire" value="28" >
     </E>
-    <E key="NULL | $damage_physicshit" value="32" >
+    <E key="NULL | $damage_physicshit" value="33" >
     </E>
     <E key="NULL | $damage_radioactive" value="38" >
     </E>
@@ -36,13 +36,15 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="8" >
+    <E key="iceskull | $damage_explosion" value="9" >
     </E>
     <E key="iceskull | $damage_ice" value="2" >
     </E>
     <E key="miner | $damage_explosion" value="4" >
     </E>
     <E key="player | " value="5" >
+    </E>
+    <E key="player | $damage_electricity" value="3" >
     </E>
     <E key="player | $damage_explosion" value="24" >
     </E>
@@ -52,7 +54,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="101" >
+    <E key="player | $damage_projectile" value="106" >
     </E>
     <E key="player | $damage_slice" value="38" >
     </E>
@@ -69,6 +71,8 @@
     <E key="shotgunner | $damage_explosion" value="2" >
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slicing_blade | chop!" value="1" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="3" >
     </E>
@@ -100,7 +104,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="107" >
+    <E key="rat" value="110" >
     </E>
     <E key="shotgunner" value="3" >
     </E>

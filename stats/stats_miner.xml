@@ -1,4 +1,4 @@
-<Stats deaths="225" kills="60" player_kills="0" player_projectile_count="0" >
+<Stats deaths="235" kills="61" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
@@ -6,11 +6,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="8" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="22" >
+    <E key="NULL | $damage_fire" value="24" >
     </E>
     <E key="NULL | $damage_physicshit" value="20" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | $damage_radioactive" value="23" >
     </E>
@@ -36,17 +38,19 @@
     </E>
     <E key="player | " value="5" >
     </E>
+    <E key="player | $damage_electricity" value="3" >
+    </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
-    <E key="player | $damage_fire" value="7" >
+    <E key="player | $damage_fire" value="8" >
     </E>
     <E key="player | $damage_ice" value="3" >
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="52" >
+    <E key="player | $damage_projectile" value="53" >
     </E>
-    <E key="player | $damage_slice" value="22" >
+    <E key="player | $damage_slice" value="23" >
     </E>
     <E key="rat | $damage_melee" value="1" >
     </E>
@@ -56,7 +60,7 @@
     </E>
     <E key="bat" value="1" >
     </E>
-    <E key="firebug" value="4" >
+    <E key="firebug" value="5" >
     </E>
     <E key="miner" value="6" >
     </E>
