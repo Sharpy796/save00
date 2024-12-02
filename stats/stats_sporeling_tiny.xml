@@ -1,6 +1,12 @@
-<Stats deaths="4" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="10" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="4" >
+    </E>
+    <E key="blob_big | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_plasma | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>

@@ -1,4 +1,4 @@
-<Stats deaths="27" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="36" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -10,17 +10,23 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="6" >
+    <E key="NULL | run out of material" value="8" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="blindgazer | $damage_projectile" value="2" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="9" >
     </E>
-    <E key="player | $damage_slice" value="1" >
+    <E key="player | $damage_slice" value="2" >
     </E>
     <E key="player_ai | $damage_kick" value="1" >
+    </E>
+    <E key="sawbot | bzzt!" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
