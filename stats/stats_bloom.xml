@@ -1,4 +1,4 @@
-<Stats deaths="47" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="47" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -29,6 +29,8 @@
   </death_map>
   <kill_map>
     <E key="fly" value="1" >
+    </E>
+    <E key="lukki_fungus" value="1" >
     </E>
     <E key="physics_torch_stand" value="1" >
     </E>

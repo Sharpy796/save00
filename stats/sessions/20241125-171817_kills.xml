@@ -1,8 +1,8 @@
-<Stats deaths="0" kills="859" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="903" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="2" >
+    <E key="acidshooter" value="7" >
     </E>
     <E key="acidshot" value="1" >
     </E>
@@ -19,6 +19,8 @@
     <E key="apotheosis_ant_eggs" value="1" >
     </E>
     <E key="archer" value="1" >
+    </E>
+    <E key="arrowtrap_left" value="1" >
     </E>
     <E key="axeman" value="11" >
     </E>
@@ -47,6 +49,8 @@
     <E key="boss_alchemist" value="1" >
     </E>
     <E key="boss_dragon" value="1" >
+    </E>
+    <E key="boss_fire_lukki" value="1" >
     </E>
     <E key="boss_toxic_worm" value="1" >
     </E>
@@ -80,6 +84,10 @@
     </E>
     <E key="cyborg" value="1" >
     </E>
+    <E key="drill_clutter_bomb" value="1" >
+    </E>
+    <E key="drill_giant" value="3" >
+    </E>
     <E key="dripper" value="5" >
     </E>
     <E key="drone_face" value="3" >
@@ -111,6 +119,8 @@
     <E key="firebug" value="46" >
     </E>
     <E key="firebugnest" value="3" >
+    </E>
+    <E key="firemage_weak" value="1" >
     </E>
     <E key="fireskull" value="9" >
     </E>
@@ -150,6 +160,8 @@
     </E>
     <E key="goblin_bomb" value="11" >
     </E>
+    <E key="golem" value="1" >
+    </E>
     <E key="graham_fuzz" value="4" >
     </E>
     <E key="graham_miner_gasser" value="3" >
@@ -162,7 +174,7 @@
     </E>
     <E key="hisii_engineer" value="4" >
     </E>
-    <E key="hisii_hobo" value="1" >
+    <E key="hisii_hobo" value="2" >
     </E>
     <E key="hisii_hobo_rich" value="1" >
     </E>
@@ -199,6 +211,8 @@
     <E key="lavashooter" value="1" >
     </E>
     <E key="lavashot_weak" value="1" >
+    </E>
+    <E key="locust" value="2" >
     </E>
     <E key="longleg" value="32" >
     </E>
@@ -242,7 +256,7 @@
     </E>
     <E key="ooion" value="2" >
     </E>
-    <E key="peasant" value="3" >
+    <E key="peasant" value="4" >
     </E>
     <E key="pebble_old" value="1" >
     </E>
@@ -256,7 +270,7 @@
     </E>
     <E key="polyorb" value="1" >
     </E>
-    <E key="poring" value="6" >
+    <E key="poring" value="13" >
     </E>
     <E key="poring_lukki" value="3" >
     </E>
@@ -282,7 +296,7 @@
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scavenger_grenade" value="59" >
+    <E key="scavenger_grenade" value="72" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -312,7 +326,7 @@
     </E>
     <E key="shotgunner_weak" value="5" >
     </E>
-    <E key="skeleton" value="6" >
+    <E key="skeleton" value="7" >
     </E>
     <E key="slime_ghoul" value="1" >
     </E>
@@ -364,15 +378,19 @@
     </E>
     <E key="vial" value="1" >
     </E>
-    <E key="water_pipe_drain" value="1" >
+    <E key="water_pipe_drain" value="3" >
     </E>
     <E key="watermage" value="1" >
     </E>
-    <E key="whisp" value="86" >
+    <E key="waterskull" value="1" >
+    </E>
+    <E key="whisp" value="87" >
     </E>
     <E key="whisp_big" value="4" >
     </E>
     <E key="wizard_corrupt_hearty" value="3" >
+    </E>
+    <E key="wizard_dark" value="1" >
     </E>
     <E key="wizard_duck" value="1" >
     </E>
@@ -394,7 +412,7 @@
     </E>
     <E key="yoyoer" value="2" >
     </E>
-    <E key="zombie" value="1" >
+    <E key="zombie" value="2" >
     </E>
     <E key="zombie3" value="1" >
     </E>
