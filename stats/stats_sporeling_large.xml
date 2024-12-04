@@ -1,0 +1,12 @@
+<Stats deaths="4" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="giant_centipede | worm bite" value="2" >
+    </E>
+    <E key="player | chop!" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

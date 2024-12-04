@@ -1,20 +1,20 @@
-<Stats deaths="562" kills="123" player_kills="1" player_projectile_count="0" >
+<Stats deaths="580" kills="125" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="6" >
     </E>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="12" >
     </E>
     <E key="NULL | $damage_electricity" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="62" >
+    <E key="NULL | $damage_explosion" value="63" >
     </E>
-    <E key="NULL | $damage_fire" value="18" >
+    <E key="NULL | $damage_fire" value="19" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="38" >
+    <E key="NULL | $damage_physicshit" value="39" >
     </E>
     <E key="NULL | $damage_radioactive" value="7" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
+    <E key="locust_swarm | Locust bite" value="5" >
+    </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
     <E key="phantom_b | $damage_projectile" value="1" >
@@ -52,15 +54,17 @@
     </E>
     <E key="player | $damage_explosion" value="42" >
     </E>
-    <E key="player | $damage_fire" value="9" >
+    <E key="player | $damage_fire" value="11" >
     </E>
     <E key="player | $damage_ice" value="4" >
     </E>
     <E key="player | $damage_melee" value="41" >
     </E>
-    <E key="player | $damage_projectile" value="152" >
+    <E key="player | $damage_projectile" value="153" >
     </E>
     <E key="player | $damage_slice" value="19" >
+    </E>
+    <E key="player | chop!" value="3" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
@@ -73,6 +77,8 @@
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="5" >
     </E>
@@ -104,6 +110,8 @@
     </E>
     <E key="pebble_physics" value="1" >
     </E>
+    <E key="physics_torch_stand_blue" value="1" >
+    </E>
     <E key="player" value="1" >
     </E>
     <E key="pollen" value="9" >
@@ -113,6 +121,8 @@
     <E key="scavenger_heal" value="1" >
     </E>
     <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="thunderskull" value="2" >
     </E>

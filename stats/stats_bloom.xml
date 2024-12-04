@@ -1,40 +1,62 @@
-<Stats deaths="47" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="64" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="5" >
+    <E key="giant_centipede | worm bite" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_projectile" value="11" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
-    <E key="player | chop!" value="1" >
+    <E key="player | chop!" value="2" >
+    </E>
+    <E key="random_spell_chaotic | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_fire | $damage_fire" value="1" >
     </E>
     <E key="worm | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
+    <E key="fairy_big" value="1" >
+    </E>
     <E key="fly" value="1" >
+    </E>
+    <E key="fungus_tiny" value="1" >
     </E>
     <E key="lukki_fungus" value="1" >
     </E>
     <E key="physics_torch_stand" value="1" >
     </E>
+    <E key="pollen" value="13" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
     <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="3" >
     </E>
     <E key="swarm_fly" value="2" >
     </E>

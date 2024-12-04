@@ -1,14 +1,14 @@
-<Stats deaths="772" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="819" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="38" >
+    <E key="NULL | $damage_drowning" value="40" >
     </E>
     <E key="NULL | $damage_electricity" value="100" >
     </E>
-    <E key="NULL | $damage_explosion" value="94" >
+    <E key="NULL | $damage_explosion" value="102" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="30" >
+    <E key="NULL | $damage_physicshit" value="31" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | " value="3" >
     </E>
-    <E key="player | $damage_explosion" value="25" >
+    <E key="player | $damage_explosion" value="29" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -50,11 +50,13 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="224" >
+    <E key="player | $damage_projectile" value="225" >
     </E>
     <E key="player | $damage_slice" value="44" >
     </E>
-    <E key="player | chop!" value="2" >
+    <E key="player | bzzt!" value="4" >
+    </E>
+    <E key="player | chop!" value="29" >
     </E>
     <E key="roboguard | $damage_explosion" value="1" >
     </E>
@@ -107,6 +109,8 @@
   </death_map>
   <kill_map>
     <E key="blob" value="1" >
+    </E>
+    <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="fly" value="1" >
     </E>

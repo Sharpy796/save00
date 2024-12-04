@@ -1,4 +1,4 @@
-<Stats deaths="8" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="10" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -10,7 +10,9 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="1" >
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
@@ -18,7 +20,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="electric_bullet" value="13" >
+    <E key="electric_bullet" value="14" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

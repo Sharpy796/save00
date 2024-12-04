@@ -1,4 +1,4 @@
-<Stats deaths="39" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="42" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -24,9 +24,11 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_projectile" value="7" >
     </E>
-    <E key="player | $damage_slice" value="1" >
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="player | chop!" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
@@ -50,11 +52,13 @@
     </E>
     <E key="scavenger_glue" value="3" >
     </E>
-    <E key="scavenger_grenade" value="4" >
+    <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scorpion" value="2" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>

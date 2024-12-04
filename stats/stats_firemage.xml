@@ -1,4 +1,4 @@
-<Stats deaths="20" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="24" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_water" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="1" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="2" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
@@ -14,13 +14,23 @@
     </E>
     <E key="player | $damage_projectile" value="13" >
     </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | chop!" value="2" >
+    </E>
   </death_map>
   <kill_map>
     <E key="drone_lasership" value="1" >
     </E>
+    <E key="fungus_tiny" value="1" >
+    </E>
+    <E key="locust_swarm" value="1" >
+    </E>
     <E key="miniblob" value="4" >
     </E>
-    <E key="scorpion" value="2" >
+    <E key="scorpion" value="6" >
+    </E>
+    <E key="skullrat" value="1" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>

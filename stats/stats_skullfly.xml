@@ -1,8 +1,10 @@
-<Stats deaths="18" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="28" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
     <E key="NULL | $damage_fire" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -10,19 +12,43 @@
     </E>
     <E key="lukki_dark | $damage_curse" value="2" >
     </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | chop!" value="2" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_pale | worm bite" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="1" >
+    <E key="acidshooter" value="3" >
     </E>
     <E key="acidshot" value="2" >
     </E>
-    <E key="scorpion" value="3" >
+    <E key="locust_swarm" value="1" >
+    </E>
+    <E key="physics_torch_stand_blue" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="scorpion" value="4" >
     </E>
     <E key="tentacler" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="115" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="117" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -16,10 +16,14 @@
     </E>
     <E key="sunegg | $damage_sun" value="101" >
     </E>
+    <E key="tank_fire | $damage_explosion" value="2" >
+    </E>
     <E key="thundermage | $damage_electricity" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="bloom" value="1" >
+    </E>
     <E key="slimeshooter" value="1" >
     </E>
     <E key="slimeshooter_nontoxic" value="1" >

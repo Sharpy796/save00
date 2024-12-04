@@ -1,4 +1,4 @@
-<Stats deaths="356" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="358" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -25,6 +25,10 @@
     <E key="eel | worm bite" value="3" >
     </E>
     <E key="fish_giga | $animal_fish_giga" value="4" >
+    </E>
+    <E key="forgotten_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="forgotten_alchemist | $damage_projectile" value="1" >
     </E>
     <E key="necromancer_shop | $damage_explosion" value="9" >
     </E>

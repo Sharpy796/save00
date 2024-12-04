@@ -1,12 +1,24 @@
-<Stats deaths="2" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="6" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_transmutation | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_pale | worm bite" value="2" >
+    </E>
   </death_map>
   <kill_map>
     <E key="drone_mini" value="1" >
+    </E>
+    <E key="physics_torch_stand_purple" value="1" >
+    </E>
+    <E key="wizard_transmutation" value="1" >
+    </E>
+    <E key="worm_creepy" value="1" >
     </E>
   </kill_map>
 </Stats>
