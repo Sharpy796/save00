@@ -1,4 +1,4 @@
-<Stats deaths="589" kills="125" player_kills="1" player_projectile_count="0" >
+<Stats deaths="590" kills="126" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -19,6 +19,8 @@
     <E key="NULL | $damage_radioactive" value="7" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="5" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
@@ -108,6 +110,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
     <E key="fish_large" value="3" >
     </E>
     <E key="iceskull" value="8" >

@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="29" damage_taken="2105.9" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1497" gold="176955" gold_all="318475" gold_infinite="0" healed="85220" heart_containers="0" hp="100" items="309" kicks="803" killed_by="" killed_by_extra="" places_visited="29" playtime="31390" playtime_str="8:43:10" projectiles_shot="382883" streaks="0" teleports="1" wands_edited="75" world_seed="1977624701" >
+  <stats biomes_visited_with_wands="29" damage_taken="2106.55" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1499" gold="57260" gold_all="339880" gold_infinite="0" healed="85318.5" heart_containers="0" hp="100" items="309" kicks="803" killed_by="" killed_by_extra="" places_visited="29" playtime="34325.6" playtime_str="9:32:05" projectiles_shot="388971" streaks="0" teleports="2" wands_edited="75" world_seed="1977624701" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -54,7 +54,7 @@
     </E>
     <E key="Aquifer" value="1" >
     </E>
-    <E key="Blast Pit" value="6" >
+    <E key="Blast Pit" value="7" >
     </E>
     <E key="Crypt" value="1" >
     </E>
