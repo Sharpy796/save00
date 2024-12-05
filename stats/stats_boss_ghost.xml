@@ -1,14 +1,16 @@
-<Stats deaths="2" kills="39" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3" kills="84" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="acidshot" value="4" >
+    <E key="acidshot" value="8" >
     </E>
-    <E key="boss_ghost_polyp" value="33" >
+    <E key="boss_ghost_polyp" value="74" >
     </E>
     <E key="hpcrystal" value="1" >
     </E>

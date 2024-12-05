@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="34.9185" 
-    clouds_02_target="38.9509" 
+    clouds_01_target="33.2079" 
+    clouds_02_target="35.1122" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20241125-171817" 
     sky_sunset_alpha_target="1" 
-    time="0.519469" 
+    time="0.365997" 
     time_dt="1" 
-    time_total="40.6784" 
+    time_total="44.3804" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.319181" 
-    wind_speed="-19.151" 
+    wind="-0.179751" 
+    wind_speed="-10.7851" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -168,6 +168,14 @@
       <E 
         key="ACTION_APOTHEOSIS_NUKE_RAY_ENEMY" 
         value="data/entities/projectiles/deck/digger.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_PORTAL_LUKKI_BLUE_PORTAL" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_blue_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_PORTAL_LUKKI_GREEN_PORTAL" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_PORTAL_LUKKI_RED_PORTAL" 
@@ -343,7 +351,7 @@
       </E>
       <E 
         key="ACTION_COPITH_ACTION_INVERSION" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
       </E>
       <E 
         key="ACTION_COPITH_ALCOHOL_SHOT" 
@@ -391,11 +399,11 @@
       </E>
       <E 
         key="ACTION_COPITH_DUPLICATE_ACTION" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
       </E>
       <E 
         key="ACTION_COPITH_DUPLICATE_ACTION_3" 
-        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
       </E>
       <E 
         key="ACTION_COPITH_FEATHER_SHOT" 
@@ -471,7 +479,7 @@
       </E>
       <E 
         key="ACTION_COPITH_MINI_SHIELD" 
-        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
       </E>
       <E 
         key="ACTION_COPITH_NULL_TRAIL" 
@@ -522,6 +530,10 @@
         value="mods/copis_things/files/entities/projectiles/stored_shot.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_SUMMON_HAMIS" 
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_SUS_TRAIL" 
         value="mods/grahamsperks/files/spells/willowisp.xml" >
       </E>
@@ -564,6 +576,10 @@
       <E 
         key="ACTION_CRUMBLING_EARTH" 
         value="data/entities/projectiles/deck/crumbling_earth.xml" >
+      </E>
+      <E 
+        key="ACTION_CRUMBLING_EARTH_PROJECTILE" 
+        value="data/entities/projectiles/deck/bullet.xml" >
       </E>
       <E 
         key="ACTION_CURSE_WITHER_ELECTRICITY" 
@@ -738,6 +754,10 @@
         value="mods/grahamsperks/files/spells/teleport_fast.xml" >
       </E>
       <E 
+        key="ACTION_GRAHAM_TOGGLER_ALT" 
+        value="data/entities/projectiles/deck/swapper.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_TOGGLE_BLUE" 
         value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
       </E>
@@ -791,7 +811,7 @@
       </E>
       <E 
         key="ACTION_HOMING" 
-        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
       </E>
       <E 
         key="ACTION_HOMING_CURSOR" 
@@ -808,6 +828,14 @@
       <E 
         key="ACTION_HOOK" 
         value="data/entities/projectiles/deck/hook.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_END" 
+        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_HP" 
+        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
       </E>
       <E 
         key="ACTION_I_SHAPE" 
@@ -1055,7 +1083,7 @@
       </E>
       <E 
         key="ACTION_SLICING_BLADE" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_red_portal.xml" >
+        value="data/entities/projectiles/deck/luminous_drill.xml" >
       </E>
       <E 
         key="ACTION_SLIMEBALL" 
@@ -1211,7 +1239,7 @@
       </E>
       <E 
         key="ACTION_Y_SHAPE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/bullet.xml" >
       </E>
       <E 
         key="ACTION_ZERO_DAMAGE" 
@@ -1223,7 +1251,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="252712" >
+        value="272702" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -1235,11 +1263,11 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="1;SPELLBOUND_SNARK;-1|11;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|1;GRAHAM_BARREL;-1|1;BLACK_HOLE_DEATH_TRIGGER;0|2;BOMB;-1|1;RUBBER_BALL;-1|4;GRAHAM_BRAMBALL;-1|1;BUBBLESHOT_TRIGGER;-1|1;AIR_BULLET;-1|2;CHAINSAW;-1|1;COPITH_CHAOS_SPRITES;-1|2;LASER;-1|15;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;DIGGER;-1|11;GRENADE_LARGE;-1|1;CRUMBLING_EARTH;-1|1;GRAHAM_ECHO_BUBBLE;-1|2;TENTACLE_PORTAL;-1|1;BOUNCY_ORB_TIMER;-1|2;COPITH_SPECTRAL_HOOK;-1|2;EXPANDING_ORB;-1|1;FIREBOMB;-1|1;GRENADE_TIER_3;-1|7;DEATH_CROSS_BIG;-1|4;GRAHAM_GLOW_DART;-1|4;LANCE;-1|9;MOLDOS_HEALING_ARROW;20|1;HEAL_BULLET;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|1;MOLDOS_HIISI_SHOTGUN;-1|3;MOLDOS_HIISI_SNIPER;-1|2;TELEPORT_PROJECTILE_CLOSER;-1|2;SPELLBOUND_ICE_SHARD;-1|5;LIGHTNING;-1|4;CC_LOCAL_SHIFT;-1|1;COPITH_LUMINOUS_BLADE;-1|1;LASER_LUMINOUS_DRILL;-1|2;BULLET;-1|2;BULLET_TRIGGER;-1|1;HEAVY_BULLET_TRIGGER;-1|6;ROCKET;-1|11;COPITH_BOMB_SMALL;-1|1;GRAHAM_ORB_BLUE_TIMER;-1|9;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;COPITH_LASER_EMITTER_SMALL;-1|1;LASER_EMITTER;-1|2;SPORE_POD;-1|1;COPITH_RIPHOOK;-1|5;GRAHAM_SHOCK_DART;-1|6;MIST_SLIME;-1|16;SLIMEBALL;-1|2;BR_SHORTTELETRIGGER;-1|1;MOLDOS_SOUL_BOLT;-1|1;LIGHT_BULLET_TIMER;-1|1;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|1;SPITTER;-1|5;COPITH_STARLIGHT_AXE;-1|6;SPELLBOUND_STICKY_BOMB;-1|5;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|1;TNTBOX;-1|6;DISC_BULLET_BIGGER;-1|5;SUMMON_EGG;-1|1;BR_LONGTELETRIGGER;-1|2;GRAHAM_TOXIC_POTION;-1|5;BUCKSHOT;-1|2;MINE;-1|1;MINE_DEATH_TRIGGER;-1|7;GRAHAM_TELEPORT;-1|1;GRAHAM_WILLOWISP;-1|1;WORM_SHOT;9|1;COPITH_ZAP;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;APOTHEOSIS_BUNGAL_SHIFT;-1|1;APOTHEOSIS_MASS_MATERIA_CONVERSION;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|1;SPELLBOUND_GAS_SHOT_CONCRETE;-1|1;BLOODLUST;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;EXPLOSION_TINY;-1|1;COPITH_CONFETTI_TRAIL;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;DAMAGE;-1|1;ROCKET_DOWNWARDS;-1|1;SPELLBOUND_DUCK;-1|1;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;ARC_FIRE;-1|1;FIREBALL_RAY;-1|1;FLY_DOWNWARDS;-1|1;COPITH_ULT_PROTECTION;-1|2;FREEZE;-1|1;HITFX_EXPLOSION_SLIME_GIGA;-1|1;APOTHEOSIS_GLUE_CHARGE;-1|1;GRAHAM_GOLDEN;-1|1;GRAHAM_GRAB_BAG;-1|1;STATIC_TO_SAND;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;SPELLBOUND_HEAT_WAVE;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LIGHT_SHOT;-1|1;LIGHTNING_RAY;-1|1;COPITH_LOVELY_TRAIL;-1|1;MOON_POWER;-1|1;MATTER_EATER;9|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|2;ZERO_DAMAGE;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;PHASING_ARC;-1|1;PINGPONG_PATH;-1|2;LASER_EMITTER_FOCUS;-1|1;COPITH_MINI_SHIELD;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_RAINBOW_TRAIL;-1|1;DAMAGE_RANDOM;-1|2;MOLDOS_REAPING_SHOT;-1|1;LIFETIME_DOWN;-1|1;EXPLOSION_REMOVE;-1|1;HOMING_ROTATE;-1|1;HOMING_SHORT;-1|1;SPELLBOUND_SHRAPNEL_SHOT;-1|1;SINEWAVE;-1|1;SPELLBOUND_SLOW_PROJECTILES;-1|1;MOLDOS_SOUL_BOOST;-1|2;MOLDOS_SOUL_SPEED;-1|1;COPITH_SILVER_BULLET_ON_DEATH;-1|1;APOTHEOSIS_SPLIT_SPELL;-1|1;COPITH_SUS_TRAIL;-1|2;COPITH_TRANSMISSION_CAST;-1|1;CURSE_WITHER_PROJECTILE;-1|1;COPITH_DELAY_2;-1|6;SCATTER_2;-1|3;BURST_2;-1|1;APOTHEOSIS_SHAPE_WALL;-1|1;T_SHAPE;-1|1;I_SHAPE;-1|1;Y_SHAPE;-1|1;PENTAGRAM_SHAPE;-1|1;W_SHAPE;-1|2;COPITH_LINK_SHOT;-1|1;BURST_4;-1|4;COPITH_SCATTER_6;-1|2;COPITH_SWORD_FORMATION;-1|2;COPITH_DELAY_3;-1|3;SCATTER_3;-1|5;BURST_3;-1|1;GRAHAM_WOOD;-1|1;SEA_LAVA;-1|1;APOTHEOSIS_MATERIAL_SLIME;-1|1;APOTHEOSIS_MATERIAL_ALCOHOL;-1|1;APOTHEOSIS_CHI;-1|2;KANTELE_DIS;-1|1;KANTELE_G;-1|1;PHI;-1|1;RANDOM_SPELL;-1|1;IF_HP;-1|1;APOTHEOSIS_PORTAL_LUKKI_BLUE_PORTAL;-1|1;APOTHEOSIS_PORTAL_LUKKI_GREEN_PORTAL;-1||1;COPITH_LUNGE;-1|1;APOTHEOSIS_MASS_STATUS_URINE;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|1;APOTHEOSIS_MASS_STATUS_WET;-1|1;BR_REWARD_ALCHEMIST;-1|1;BR_REWARD_LIMBS;-1|1;GRAHAM_TOGGLER_ALT;-1|1;COPITH_ULT_DRAW_MANY;-1|1;APOTHEOSIS_MUSICAL_STRIKE;-1|1;APOTHEOSIS_REVERBERATION;-1|||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+        value="1;SPELLBOUND_SNARK;-1|11;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|1;GRAHAM_BARREL;-1|1;BLACK_HOLE_DEATH_TRIGGER;0|2;BOMB;-1|1;RUBBER_BALL;-1|4;GRAHAM_BRAMBALL;-1|1;BUBBLESHOT_TRIGGER;-1|1;AIR_BULLET;-1|2;CHAINSAW;-1|1;COPITH_CHAOS_SPRITES;-1|2;LASER;-1|15;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;DIGGER;-1|11;GRENADE_LARGE;-1|1;CRUMBLING_EARTH;-1|1;GRAHAM_ECHO_BUBBLE;-1|2;TENTACLE_PORTAL;-1|1;BOUNCY_ORB_TIMER;-1|2;COPITH_SPECTRAL_HOOK;-1|2;EXPANDING_ORB;-1|1;FIREBOMB;-1|1;FREEZING_GAZE;-1|2;GRENADE_TIER_3;-1|1;ROCKET_TIER_3;-1|5;SPITTER_TIER_3;-1|7;DEATH_CROSS_BIG;-1|4;GRAHAM_GLOW_DART;-1|4;LANCE;-1|9;MOLDOS_HEALING_ARROW;20|1;HEAL_BULLET;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|1;MOLDOS_HIISI_SHOTGUN;-1|3;MOLDOS_HIISI_SNIPER;-1|2;TELEPORT_PROJECTILE_CLOSER;-1|2;SPELLBOUND_ICE_SHARD;-1|5;LIGHTNING;-1|4;CC_LOCAL_SHIFT;-1|1;COPITH_LUMINOUS_BLADE;-1|1;LASER_LUMINOUS_DRILL;-1|2;BULLET;-1|2;BULLET_TRIGGER;-1|1;HEAVY_BULLET_TRIGGER;-1|6;ROCKET;-1|11;COPITH_BOMB_SMALL;-1|1;APOTHEOSIS_MUSICAL_STRIKE;-1|1;GRAHAM_ORB_BLUE_TIMER;-1|9;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;COPITH_LASER_EMITTER_SMALL;-1|1;LASER_EMITTER;-1|2;SPORE_POD;-1|1;COPITH_RIPHOOK;-1|5;GRAHAM_SHOCK_DART;-1|6;MIST_SLIME;-1|16;SLIMEBALL;-1|2;BR_SHORTTELETRIGGER;-1|1;MOLDOS_SOUL_BOLT;-1|1;LIGHT_BULLET_TIMER;-1|1;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|1;SPITTER;-1|5;COPITH_STARLIGHT_AXE;-1|6;SPELLBOUND_STICKY_BOMB;-1|5;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|1;TNTBOX;-1|6;DISC_BULLET_BIGGER;-1|5;SUMMON_EGG;-1|1;BR_LONGTELETRIGGER;-1|2;GRAHAM_TOXIC_POTION;-1|5;BUCKSHOT;-1|2;MINE;-1|1;MINE_DEATH_TRIGGER;-1|7;GRAHAM_TELEPORT;-1|1;GRAHAM_WILLOWISP;-1|1;WORM_SHOT;9|1;COPITH_ZAP;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;APOTHEOSIS_BUNGAL_SHIFT;-1|1;APOTHEOSIS_MASS_MATERIA_CONVERSION;-1|1;APOTHEOSIS_REVERBERATION;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|1;SPELLBOUND_GAS_SHOT_CONCRETE;-1|2;BLOODLUST;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;EXPLOSION_TINY;-1|1;COPITH_CONFETTI_TRAIL;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;DAMAGE;-1|1;ROCKET_DOWNWARDS;-1|1;SPELLBOUND_DUCK;-1|1;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;ARC_FIRE;-1|1;FIREBALL_RAY;-1|1;FLY_DOWNWARDS;-1|1;COPITH_ULT_PROTECTION;-1|2;FREEZE;-1|1;HITFX_EXPLOSION_SLIME_GIGA;-1|1;APOTHEOSIS_GLUE_CHARGE;-1|1;GRAHAM_GRAB_BAG;-1|1;STATIC_TO_SAND;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;SPELLBOUND_HEAT_WAVE;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LIGHT_SHOT;-1|1;LIGHTNING_RAY;-1|1;COPITH_LOVELY_TRAIL;-1|1;MOON_POWER;-1|1;MATTER_EATER;9|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|3;ZERO_DAMAGE;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;PHASING_ARC;-1|1;PINGPONG_PATH;-1|2;LASER_EMITTER_FOCUS;-1|1;COPITH_MINI_SHIELD;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_RAINBOW_TRAIL;-1|1;DAMAGE_RANDOM;-1|2;MOLDOS_REAPING_SHOT;-1|2;LIFETIME_DOWN;-1|1;EXPLOSION_REMOVE;-1|1;HOMING_ROTATE;-1|1;HOMING_SHORT;-1|1;SPELLBOUND_SHRAPNEL_SHOT;-1|1;SINEWAVE;-1|1;SPELLBOUND_SLOW_PROJECTILES;-1|1;MOLDOS_SOUL_BOOST;-1|2;MOLDOS_SOUL_SPEED;-1|1;COPITH_SILVER_BULLET_ON_DEATH;-1|1;APOTHEOSIS_SPLIT_SPELL;-1|1;COPITH_SUS_TRAIL;-1|2;COPITH_TRANSMISSION_CAST;-1|1;CURSE_WITHER_PROJECTILE;-1|1;COPITH_DELAY_2;-1|6;SCATTER_2;-1|3;BURST_2;-1|1;APOTHEOSIS_SHAPE_WALL;-1|1;T_SHAPE;-1|1;I_SHAPE;-1|1;Y_SHAPE;-1|1;PENTAGRAM_SHAPE;-1|1;W_SHAPE;-1|2;COPITH_LINK_SHOT;-1|1;BURST_4;-1|4;COPITH_SCATTER_6;-1|1;COPITH_ULT_DRAW_MANY;-1|2;COPITH_SWORD_FORMATION;-1|2;COPITH_DELAY_3;-1|3;SCATTER_3;-1|5;BURST_3;-1|1;GRAHAM_WOOD;-1|1;SEA_MIMIC;1|1;SEA_LAVA;-1|1;APOTHEOSIS_MATERIAL_SLIME;-1|1;APOTHEOSIS_MATERIAL_ALCOHOL;-1|1;RANDOM_SPELL;-1|1;APOTHEOSIS_KNOWLEDGE_OF_KINGS;0|1;COPITH_LUNGE;-1|1;APOTHEOSIS_MASS_STATUS_URINE;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|1;APOTHEOSIS_MASS_STATUS_WET;-1|1;BR_REWARD_ALCHEMIST;-1|1;BR_REWARD_LIMBS;-1|1;BR_REWARD_FORGOTTEN;-1|1;LIGHT_BULLET_TRIGGER_2;-1|1;COPITH_SUMMON_HAMIS;-1|1;SWAPPER_PROJECTILE;-1|1;SEA_ACID_GAS;-1|1;COPITH_ULTRAKILL;-1|1;HOMING;-1|||||||||||||||||||||||||||||||||||||||||||||||||||" >
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="1614086" >
+        value="1752724" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1251,19 +1279,27 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="252712" >
+        value="272702" >
+      </E>
+      <E 
+        key="GRAHAM_MAGIC_SKIN_CURSE" 
+        value="1" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
         value="1" >
       </E>
       <E 
+        key="GRAHAM_ROBOTS_COUNT" 
+        value="3" >
+      </E>
+      <E 
         key="GRAHAM_TECH_CHEST_COUNT_OPENED" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="GRAHAM_TOGGLE" 
-        value="null" >
+        value="0" >
       </E>
       <E 
         key="GRAHAM_TOGGLE2" 
@@ -1271,7 +1307,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="187" >
+        value="188" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -1318,11 +1354,19 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_GRAHAM_ROBOTS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_GRAHAM_SILLY_STRAW_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
         key="PERK_PICKED_INVISIBILITY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_ITEM_RADAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -1410,12 +1454,16 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_5" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_9" 
         value="1" >
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="22" >
+        value="23" >
       </E>
       <E 
         key="TEMPLE_PERK_DESTROY_CHANCE" 
@@ -1436,6 +1484,22 @@
       <E 
         key="apotheosis_king_secret_music" 
         value="1" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_blue_x" 
+        value="-3288" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_blue_y" 
+        value="3340" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_green_x" 
+        value="-76" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_green_y" 
+        value="6493" >
       </E>
       <E 
         key="apotheosis_markerportal_red_x" 
@@ -1483,7 +1547,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/homing_shooter.xml,data/entities/particles/tinyspark_white.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/homing_shooter.xml,data/entities/particles/tinyspark_white.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/copis_things/files/entities/misc/null_trail.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/light.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/copis_things/files/entities/misc/null_trail.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/light.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="graham_silly_straw_length" 
@@ -1602,6 +1666,14 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/fish_03.xml" 
+        value="$animal_fish_large" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/fish_04.xml" 
+        value="$animal_fish_large" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/flutterpede_hitbox.xml" 
         value="" >
       </E>
@@ -1634,8 +1706,16 @@
         value="$enemy_apotheosis_wizard_corrupt_hearty" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/fallen_alchemist.xml" 
+        value="$fallen_alchemist" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/liquidcave/potionmaster2.xml" 
         value="$potionmaster2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/wandmaster2.xml" 
+        value="$wandmaster2" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/mod/forge/wizard_nuke.xml" 
@@ -1814,6 +1894,14 @@
         value="$welder" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/sunken_cave/tesla_turret.xml" 
+        value="$enemy_apotheosis_tesla_turret" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/sunken_cave/watermage.xml" 
+        value="$enemy_apotheosis_watermage" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/twig_grower.xml" 
         value="" >
       </E>
@@ -1910,8 +1998,16 @@
         value="$enemy_apotheosis_hisii_engineer" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/icer.xml" 
+        value="$animal_icer" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/junkbot.xml" 
         value="$junkbot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/laserbot.xml" 
+        value="$laserbot" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/lavashooter.xml" 
@@ -1950,6 +2046,18 @@
         value="$animal_scavenger_glue" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_grenade.xml" 
+        value="$animal_scavenger_grenade" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_heal.xml" 
+        value="$animal_scavenger_heal" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_leader.xml" 
+        value="$animal_scavenger_leader" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_mine.xml" 
         value="$animal_scavenger_mine" >
       </E>
@@ -1964,6 +2072,14 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_radiolava.xml" 
         value="$scavenger_radiolava" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_robot.xml" 
+        value="$scavenger_robot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_smg.xml" 
+        value="$animal_scavenger_smg" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_trigger.xml" 
@@ -1995,6 +2111,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/turret_left.xml" 
+        value="$animal_turret" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/turret_right.xml" 
         value="$animal_turret" >
       </E>
       <E 
@@ -2114,6 +2234,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/new/small_meteor.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/orbs/orb_00.xml" 
         value="" >
       </E>
@@ -2202,6 +2326,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/musicstone.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/perk_reroll.xml" 
         value="" >
       </E>
@@ -2231,6 +2359,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/spell_refresh.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/sun/sunseed.xml" 
         value="" >
       </E>
       <E 
@@ -2530,6 +2662,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_mining_lamp.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/physics_pressure_tank.xml" 
         value="" >
       </E>
@@ -2610,6 +2746,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/potion_reinforced.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/physics/chain_torch_broken.xml" 
         value="" >
       </E>
@@ -2658,6 +2798,22 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mini_tanks/tank.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mini_tanks/tank_rocket.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mini_tanks/tank_super.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mini_tanks/toasterbot.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/grahamsperks/files/pickups/balloon.xml" 
         value="" >
       </E>
@@ -2687,6 +2843,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/dragon.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/ghost.xml" 
         value="" >
       </E>
       <E 
@@ -2778,6 +2938,10 @@
         value="1510275" >
       </E>
       <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_4" 
+        value="1704874" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_5" 
         value="1491676" >
       </E>
@@ -2787,23 +2951,23 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_7" 
-        value="1118613" >
+        value="1706640" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_1" 
-        value="1528478" >
+        value="1715958" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_2" 
-        value="1534394" >
+        value="1715958" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_3" 
-        value="1534394" >
+        value="1713044" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_4" 
-        value="1534394" >
+        value="1708203" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_5" 
@@ -2858,6 +3022,10 @@
         value="1456200" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_107_4" 
+        value="1708230" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_114_2" 
         value="1116540" >
       </E>
@@ -2906,6 +3074,14 @@
         value="890520" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_142_3" 
+        value="1715700" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_142_4" 
+        value="1715040" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_144_5" 
         value="1093260" >
       </E>
@@ -2932,6 +3108,26 @@
       <E 
         key="mods_grahamsdialogue_pool_0_14_4" 
         value="539580" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_155_5" 
+        value="1715490" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_155_6" 
+        value="1718700" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_156_2" 
+        value="1716180" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_156_3" 
+        value="1716180" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_156_4" 
+        value="1717110" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_166_2" 
@@ -2972,6 +3168,10 @@
       <E 
         key="mods_grahamsdialogue_pool_0_16_4" 
         value="24600" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_17_4" 
+        value="1618022" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_181_2" 
@@ -3051,7 +3251,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_24_3" 
-        value="1531830" >
+        value="1707150" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_24_4" 
@@ -3087,11 +3287,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_2" 
-        value="899190" >
+        value="1707660" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_3" 
-        value="350340" >
+        value="1712970" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_4" 
@@ -3139,23 +3339,23 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_2" 
-        value="117750" >
+        value="1745940" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_3" 
-        value="1115910" >
+        value="1746450" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_5" 
-        value="118290" >
+        value="1746870" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_6" 
-        value="1098270" >
+        value="1746210" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_7" 
-        value="118290" >
+        value="1746750" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_50_3" 
@@ -3235,7 +3435,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_5_3" 
-        value="518130" >
+        value="1712910" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_5_4" 
@@ -3247,7 +3447,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_63_4" 
-        value="914040" >
+        value="1711590" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_64_3" 
@@ -3263,7 +3463,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_4" 
-        value="1511820" >
+        value="1704180" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_67_3" 
@@ -3362,6 +3562,14 @@
         value="526020" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_89_2" 
+        value="1705410" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_89_4" 
+        value="1709940" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_8_3" 
         value="1491930" >
       </E>
@@ -3395,7 +3603,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_3" 
-        value="1528290" >
+        value="1716930" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_4" 
@@ -3450,6 +3658,10 @@
         value="843954" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_109_4" 
+        value="1638491" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_10_4" 
         value="446540" >
       </E>
@@ -3500,6 +3712,46 @@
       <E 
         key="mods_grahamsdialogue_pool_1_129_4" 
         value="910537" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_143_2" 
+        value="1708203" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_143_3" 
+        value="1715958" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_2" 
+        value="1718862" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_3" 
+        value="1718862" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_4" 
+        value="1718518" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_5" 
+        value="1718538" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_6" 
+        value="1718538" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_156_7" 
+        value="1718862" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_157_2" 
+        value="1717186" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_157_4" 
+        value="1717186" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_169_2" 
@@ -3680,6 +3932,10 @@
       <E 
         key="mods_grahamsdialogue_pool_1_28_4" 
         value="139715" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_2_3" 
+        value="1713042" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_34_2" 
@@ -3871,7 +4127,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_71_4" 
-        value="911195" >
+        value="1704205" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_72_2" 
@@ -3946,6 +4202,14 @@
         value="458798" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_82_2" 
+        value="1708097" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_82_3" 
+        value="1708097" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_83_4" 
         value="1308859" >
       </E>
@@ -4010,6 +4274,10 @@
         value="843941" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_106_3" 
+        value="1707583" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_10_3" 
         value="855853" >
       </E>
@@ -4047,15 +4315,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_141_2" 
-        value="1510885" >
+        value="1704057" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_141_3" 
-        value="1510819" >
+        value="1708202" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_141_4" 
-        value="1510737" >
+        value="1715966" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_143_4" 
@@ -4064,6 +4332,30 @@
       <E 
         key="mods_grahamsdialogue_pool_2_143_5" 
         value="1094682" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_2" 
+        value="1718334" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_3" 
+        value="1717517" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_4" 
+        value="1717510" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_5" 
+        value="1717526" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_6" 
+        value="1717521" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_154_7" 
+        value="1718136" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_16_3" 
@@ -4106,6 +4398,10 @@
         value="517585" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_2_2" 
+        value="1707472" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_39_2" 
         value="1515890" >
       </E>
@@ -4146,6 +4442,10 @@
         value="561598" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_6_4" 
+        value="1743583" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_73_2" 
         value="1431216" >
       </E>
@@ -4174,6 +4474,30 @@
         value="1492572" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_5_10_2" 
+        value="1719226" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_10_3" 
+        value="1732187" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_10_4" 
+        value="1733627" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_10_5" 
+        value="1733627" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_10_6" 
+        value="1730747" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_10_7" 
+        value="1733627" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_5_7_2" 
         value="643403" >
       </E>
@@ -4186,12 +4510,32 @@
         value="335312" >
       </E>
       <E 
+        key="new_enemies_aquatitan_spawn_in_chunk" 
+        value="650" >
+      </E>
+      <E 
         key="new_enemies_desert_skull_loaded" 
         value="1" >
       </E>
       <E 
+        key="new_enemies_devourer_spawn_in_chunk" 
+        value="1553" >
+      </E>
+      <E 
+        key="new_enemies_lake_chunks_loaded" 
+        value="27" >
+      </E>
+      <E 
         key="new_enemies_mod_load_done" 
         value="1" >
+      </E>
+      <E 
+        key="new_enemies_omegafish_spawn_in_chunk" 
+        value="479" >
+      </E>
+      <E 
+        key="new_enemies_piranha_spawn_in_chunk" 
+        value="1440" >
       </E>
       <E 
         key="new_enemies_player_evil_active" 
@@ -4211,11 +4555,11 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_red_portal.xml" >
+        value="mods/moldos_arsenal/files/entities/projectiles/healing_arrow/proj.xml" >
       </E>
       <E 
         key="random_twitch_user" 
-        value="CopiHuman,#8A2BE2,false,false,false:" >
+        value="theonetheonlyspoopyboi,#8A2BE2,false,false,false:CopiHuman,#8A2BE2,false,false,false:" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -4299,11 +4643,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_rainforest,_EMPTY_,$biome_dragoncave,$biome_holymount" >
+        value="$biome_snowcave,$biome_snowcastle,$biome_holymountain,$biome_rainforest,???,_EMP" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="173" >
+        value="210" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -5911,8 +6255,65 @@
       <string>
         apotheosis_card_unlocked_secret_knowledge_of_kings_complete_2
       </string>
+      <string>
+        new_action_apotheosis_portal_lukki_green_portal
+      </string>
+      <string>
+        new_kill_forgotten_alchemist
+      </string>
+      <string>
+        fishing_hut_a
+      </string>
+      <string>
+        mm_visited_chunk_89976
+      </string>
+      <string>
+        new_perk_picked_graham_robots
+      </string>
+      <string>
+        PERK_PICKED_GRAHAM_ROBOTS
+      </string>
+      <string>
+        fishing_hut_b
+      </string>
+      <string>
+        new_action_graham_toggler_alt
+      </string>
+      <string>
+        new_action_apotheosis_portal_lukki_blue_portal
+      </string>
+      <string>
+        new_kill_manadrain_crystal
+      </string>
+      <string>
+        new_kill_gazer_greater_cold
+      </string>
+      <string>
+        new_kill_musical_being_weak
+      </string>
+      <string>
+        br_killed_animal_boss_ghost
+      </string>
+      <string>
+        PERK_ITEM_RADAR
+      </string>
+      <string>
+        new_perk_picked_item_radar
+      </string>
+      <string>
+        PERK_PICKED_ITEM_RADAR
+      </string>
+      <string>
+        new_action_copith_summon_hamis
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>

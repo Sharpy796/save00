@@ -1,4 +1,4 @@
-<Stats deaths="580" kills="125" player_kills="1" player_projectile_count="0" >
+<Stats deaths="589" kills="125" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="63" >
+    <E key="NULL | $damage_explosion" value="64" >
     </E>
-    <E key="NULL | $damage_fire" value="19" >
+    <E key="NULL | $damage_fire" value="20" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="39" >
+    <E key="NULL | $damage_physicshit" value="40" >
     </E>
     <E key="NULL | $damage_radioactive" value="7" >
     </E>
@@ -30,7 +30,11 @@
     </E>
     <E key="bigzombie | $damage_melee" value="1" >
     </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
     <E key="evil_eye | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
@@ -54,13 +58,13 @@
     </E>
     <E key="player | $damage_explosion" value="42" >
     </E>
-    <E key="player | $damage_fire" value="11" >
+    <E key="player | $damage_fire" value="12" >
     </E>
     <E key="player | $damage_ice" value="4" >
     </E>
     <E key="player | $damage_melee" value="41" >
     </E>
-    <E key="player | $damage_projectile" value="153" >
+    <E key="player | $damage_projectile" value="155" >
     </E>
     <E key="player | $damage_slice" value="19" >
     </E>
@@ -90,7 +94,7 @@
     </E>
     <E key="thundermage | $damage_electricity" value="3" >
     </E>
-    <E key="thundermage | $damage_explosion" value="3" >
+    <E key="thundermage | $damage_explosion" value="4" >
     </E>
     <E key="thundermage_big | $damage_explosion" value="2" >
     </E>

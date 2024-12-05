@@ -1,10 +1,10 @@
-<Stats deaths="0" kills="1288" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1356" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="8" >
+    <E key="acidshooter" value="9" >
     </E>
-    <E key="acidshot" value="1" >
+    <E key="acidshot" value="4" >
     </E>
     <E key="alchemist" value="3" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="bigbat" value="1" >
     </E>
-    <E key="bigfirebug" value="3" >
+    <E key="bigfirebug" value="4" >
     </E>
     <E key="bigzombie" value="2" >
     </E>
@@ -63,6 +63,10 @@
     <E key="boss_dragon" value="1" >
     </E>
     <E key="boss_fire_lukki" value="1" >
+    </E>
+    <E key="boss_ghost" value="1" >
+    </E>
+    <E key="boss_ghost_polyp" value="19" >
     </E>
     <E key="boss_musical_ghost" value="1" >
     </E>
@@ -132,7 +136,11 @@
     </E>
     <E key="eradicator" value="1" >
     </E>
+    <E key="ethereal_being" value="6" >
+    </E>
     <E key="eye_bat" value="4" >
+    </E>
+    <E key="failed_alchemist" value="1" >
     </E>
     <E key="fairy_big" value="16" >
     </E>
@@ -156,9 +164,11 @@
     </E>
     <E key="flynest" value="1" >
     </E>
-    <E key="forsaken_eye" value="2" >
+    <E key="forgotten_alchemist" value="1" >
     </E>
-    <E key="frog_bot" value="33" >
+    <E key="forsaken_eye" value="4" >
+    </E>
+    <E key="frog_bot" value="34" >
     </E>
     <E key="frog_tiny" value="1" >
     </E>
@@ -176,7 +186,11 @@
     </E>
     <E key="gazer" value="1" >
     </E>
+    <E key="gazer_greater_cold" value="2" >
+    </E>
     <E key="gem_giant" value="1" >
+    </E>
+    <E key="ghost_crystal" value="2" >
     </E>
     <E key="ghostling" value="1" >
     </E>
@@ -204,13 +218,17 @@
     </E>
     <E key="hisii_engineer" value="4" >
     </E>
-    <E key="hisii_hobo" value="2" >
+    <E key="hisii_hobo" value="3" >
     </E>
     <E key="hisii_hobo_rich" value="1" >
     </E>
     <E key="hisii_rocketshotgun" value="1" >
     </E>
+    <E key="hpcrystal" value="2" >
+    </E>
     <E key="hybrid" value="1" >
+    </E>
+    <E key="icemage" value="5" >
     </E>
     <E key="icemage2" value="3" >
     </E>
@@ -272,7 +290,9 @@
     </E>
     <E key="mammoth" value="1" >
     </E>
-    <E key="mammoth_baby" value="1" >
+    <E key="mammoth_baby" value="2" >
+    </E>
+    <E key="manadrain_crystal" value="1" >
     </E>
     <E key="mantis" value="1" >
     </E>
@@ -302,6 +322,8 @@
     </E>
     <E key="musical_being" value="6" >
     </E>
+    <E key="musical_being_weak" value="1" >
+    </E>
     <E key="nautilus" value="1" >
     </E>
     <E key="necromancer" value="8" >
@@ -327,6 +349,8 @@
     <E key="player_ai_hitbox" value="2" >
     </E>
     <E key="player_evil" value="2" >
+    </E>
+    <E key="playerghost" value="1" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>
@@ -366,7 +390,7 @@
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scavenger_grenade" value="76" >
+    <E key="scavenger_grenade" value="81" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -378,7 +402,7 @@
     </E>
     <E key="scavenger_plasma" value="2" >
     </E>
-    <E key="scavenger_smg" value="40" >
+    <E key="scavenger_smg" value="43" >
     </E>
     <E key="scavenger_trigger" value="2" >
     </E>
@@ -422,6 +446,8 @@
     </E>
     <E key="sniper" value="8" >
     </E>
+    <E key="snowcrystal" value="1" >
+    </E>
     <E key="snowman" value="1" >
     </E>
     <E key="spearbot" value="1" >
@@ -446,7 +472,7 @@
     </E>
     <E key="tank_fire" value="1" >
     </E>
-    <E key="tank_flame_apotheosis" value="9" >
+    <E key="tank_flame_apotheosis" value="10" >
     </E>
     <E key="tank_rocket" value="1" >
     </E>
@@ -456,7 +482,9 @@
     </E>
     <E key="tentacler_small" value="2" >
     </E>
-    <E key="thundermage" value="3" >
+    <E key="thundermage" value="4" >
+    </E>
+    <E key="thunderskull" value="1" >
     </E>
     <E key="turret_left" value="1" >
     </E>
@@ -510,11 +538,11 @@
     </E>
     <E key="worm_pale" value="2" >
     </E>
-    <E key="worm_tiny" value="1" >
+    <E key="worm_tiny" value="2" >
     </E>
     <E key="yoyoer" value="4" >
     </E>
-    <E key="zombie" value="4" >
+    <E key="zombie" value="7" >
     </E>
     <E key="zombie3" value="1" >
     </E>

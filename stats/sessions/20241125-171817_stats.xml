@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="26" damage_taken="1992.39" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1417" gold="32335" gold_all="67665" gold_infinite="0" healed="63161.1" heart_containers="0" hp="100" items="230" kicks="803" killed_by="" killed_by_extra="" places_visited="26" playtime="26901.5" playtime_str="7:28:21" projectiles_shot="350844" streaks="0" teleports="1" wands_edited="69" world_seed="1977624701" >
+  <stats biomes_visited_with_wands="29" damage_taken="2105.9" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1497" gold="32892" gold_all="68612" gold_infinite="0" healed="85220" heart_containers="0" hp="100" items="309" kicks="803" killed_by="" killed_by_extra="" places_visited="29" playtime="29212.1" playtime_str="8:06:52" projectiles_shot="382883" streaks="0" teleports="1" wands_edited="75" world_seed="1977624701" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -22,7 +22,11 @@
     </E>
     <E key="$biome_fungicave" value="1" >
     </E>
+    <E key="$biome_ghost_secret" value="1" >
+    </E>
     <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
     </E>
     <E key="$biome_lava_excavation" value="1" >
     </E>
@@ -44,11 +48,13 @@
     </E>
     <E key="$biome_winter" value="1" >
     </E>
+    <E key="$biome_winter_caves" value="1" >
+    </E>
     <E key="???" value="1" >
     </E>
     <E key="Aquifer" value="1" >
     </E>
-    <E key="Blast Pit" value="5" >
+    <E key="Blast Pit" value="6" >
     </E>
     <E key="Crypt" value="1" >
     </E>
