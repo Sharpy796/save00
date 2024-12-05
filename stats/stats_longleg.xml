@@ -1,4 +1,4 @@
-<Stats deaths="653" kills="21" player_kills="1" player_projectile_count="0" >
+<Stats deaths="669" kills="21" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="41" >
+    <E key="NULL | $damage_explosion" value="43" >
     </E>
     <E key="NULL | $damage_fire" value="131" >
     </E>
@@ -34,6 +34,10 @@
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_fire" value="1" >
+    </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="firebug | $damage_melee" value="1" >
@@ -44,7 +48,11 @@
     </E>
     <E key="hazmat | $damage_melee" value="2" >
     </E>
+    <E key="hideous_mass | $damage_projectile" value="1" >
+    </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
+    </E>
+    <E key="kantele_d | " value="4" >
     </E>
     <E key="lukki | hit" value="3" >
     </E>
@@ -60,15 +68,17 @@
     </E>
     <E key="player | $damage_explosion" value="8" >
     </E>
-    <E key="player | $damage_fire" value="4" >
+    <E key="player | $damage_fire" value="6" >
     </E>
     <E key="player | $damage_projectile" value="238" >
     </E>
-    <E key="player | $damage_slice" value="12" >
+    <E key="player | $damage_slice" value="13" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="10" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="seeker | Etsijä's shock" value="3" >
     </E>
     <E key="shotgunner_weak | $damage_melee" value="4" >
     </E>
@@ -83,6 +93,8 @@
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="11" >
     </E>

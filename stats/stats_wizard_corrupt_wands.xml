@@ -1,0 +1,16 @@
+<Stats deaths="3" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="scorpion" value="6" >
+    </E>
+  </kill_map>
+</Stats>

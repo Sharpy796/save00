@@ -1,4 +1,4 @@
-<Stats deaths="55" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="55" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="rat" value="9" >
     </E>
-    <E key="scorpion" value="4" >
+    <E key="scorpion" value="5" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>
