@@ -55,12 +55,12 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20241125-171817" 
     sky_sunset_alpha_target="1" 
-    time="0.479886" 
+    time="0.999331" 
     time_dt="1" 
-    time_total="55.9596" 
+    time_total="55.9681" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.172923" 
+    wind="-0.172924" 
     wind_speed="-10.3755" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
@@ -1339,7 +1339,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="2186359" >
+        value="2186678" >
       </E>
       <E 
         key="BR_MODE" 
@@ -7179,6 +7179,12 @@
       </string>
       <string>
         water
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
       </string>
       <string>
         cc_dull_fungus

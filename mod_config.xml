@@ -151,4 +151,6 @@
   </Mod>
   <Mod enabled="0" name="noita.fairmod" settings_fold_open="1" workshop_item_id="3357618827" >
   </Mod>
+  <Mod enabled="0" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
+  </Mod>
 </Mods>
