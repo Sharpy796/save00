@@ -1,4 +1,4 @@
-<Stats deaths="581" kills="14" player_kills="1" player_projectile_count="0" >
+<Stats deaths="584" kills="14" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="16" >
     </E>
-    <E key="NULL | $damage_explosion" value="17" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
     <E key="NULL | $damage_fire" value="55" >
     </E>
@@ -32,9 +32,9 @@
     </E>
     <E key="goo_slug | $damage_melee" value="1" >
     </E>
-    <E key="longleg | $damage_melee" value="9" >
+    <E key="longleg | $damage_melee" value="10" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="56" >
+    <E key="miner_weak | $damage_explosion" value="57" >
     </E>
     <E key="miner_weak | $damage_melee" value="26" >
     </E>
