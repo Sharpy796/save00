@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1394" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1397" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -52,7 +52,7 @@
     </E>
     <E key="bloodmage_lesser" value="1" >
     </E>
-    <E key="bloom" value="2" >
+    <E key="bloom" value="3" >
     </E>
     <E key="boid" value="1" >
     </E>
@@ -394,6 +394,8 @@
     </E>
     <E key="sawbot" value="2" >
     </E>
+    <E key="scarab" value="1" >
+    </E>
     <E key="scavenger_alcohol" value="3" >
     </E>
     <E key="scavenger_civilian" value="13" >
@@ -458,7 +460,7 @@
     </E>
     <E key="sneeker" value="1" >
     </E>
-    <E key="sniper" value="8" >
+    <E key="sniper" value="9" >
     </E>
     <E key="snowcrystal" value="1" >
     </E>

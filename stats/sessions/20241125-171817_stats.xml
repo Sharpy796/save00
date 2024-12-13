@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="32" damage_taken="3022.68" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1539" gold="67951" gold_all="350571" gold_infinite="0" healed="85490.2" heart_containers="0" hp="100" items="312" kicks="803" killed_by="" killed_by_extra="" places_visited="32" playtime="36444.7" playtime_str="10:07:24" projectiles_shot="405703" streaks="0" teleports="3" wands_edited="75" world_seed="1977624701" >
+  <stats biomes_visited_with_wands="32" damage_taken="3027.24" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1542" gold="67591" gold_all="350616" gold_infinite="0" healed="85558.5" heart_containers="0" hp="100" items="316" kicks="803" killed_by="" killed_by_extra="" places_visited="32" playtime="37650.8" playtime_str="10:27:30" projectiles_shot="412954" streaks="0" teleports="3" wands_edited="78" world_seed="1977624701" >
   </stats>
   <biome_baseline biomes_visited_with_wands="31" damage_taken="2613.21" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1511" gold="65260" gold_all="347880" gold_infinite="0" healed="85336.4" heart_containers="0" hp="100" items="309" kicks="803" killed_by="" killed_by_extra="" places_visited="31" playtime="35091.4" playtime_str="9:44:51" projectiles_shot="392089" streaks="0" teleports="2" wands_edited="75" world_seed="1977624701" >
   </biome_baseline>
@@ -60,13 +60,13 @@
     </E>
     <E key="Aquifer" value="1" >
     </E>
-    <E key="Blast Pit" value="7" >
+    <E key="Blast Pit" value="8" >
     </E>
     <E key="Crypt" value="1" >
     </E>
     <E key="Hidden Grove" value="1" >
     </E>
-    <E key="The Forge" value="3" >
+    <E key="The Forge" value="4" >
     </E>
     <E key="Worm Tunnels" value="2" >
     </E>
