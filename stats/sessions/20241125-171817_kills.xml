@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1447" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1463" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -90,7 +90,7 @@
     </E>
     <E key="ceiling_fungus_minion" value="3" >
     </E>
-    <E key="chest_mimic" value="1" >
+    <E key="chest_mimic" value="2" >
     </E>
     <E key="commander" value="1" >
     </E>
@@ -128,7 +128,7 @@
     </E>
     <E key="drone_status_ailment" value="1" >
     </E>
-    <E key="eldari_big" value="1" >
+    <E key="eldari_big" value="2" >
     </E>
     <E key="electric_bullet" value="2" >
     </E>
@@ -158,7 +158,7 @@
     </E>
     <E key="firemage" value="1" >
     </E>
-    <E key="firemage_big" value="1" >
+    <E key="firemage_big" value="2" >
     </E>
     <E key="firemage_weak" value="1" >
     </E>
@@ -194,7 +194,7 @@
     </E>
     <E key="fungus_tiny" value="2" >
     </E>
-    <E key="gazer" value="2" >
+    <E key="gazer" value="3" >
     </E>
     <E key="gazer_greater_cold" value="2" >
     </E>
@@ -294,7 +294,7 @@
     </E>
     <E key="lukki_fungus" value="1" >
     </E>
-    <E key="lukki_ominous" value="3" >
+    <E key="lukki_ominous" value="7" >
     </E>
     <E key="lukki_tentacle_hungry" value="1" >
     </E>
@@ -370,6 +370,8 @@
     </E>
     <E key="physics_torch_stand_blue" value="2" >
     </E>
+    <E key="physics_torch_stand_purple" value="1" >
+    </E>
     <E key="player_ai_hitbox" value="2" >
     </E>
     <E key="player_decoy_hitbox" value="1" >
@@ -420,7 +422,7 @@
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scavenger_grenade" value="81" >
+    <E key="scavenger_grenade" value="82" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -445,6 +447,8 @@
     <E key="seed_shot" value="9" >
     </E>
     <E key="sentry" value="2" >
+    </E>
+    <E key="serpentor" value="1" >
     </E>
     <E key="shaman" value="1" >
     </E>
@@ -492,6 +496,8 @@
     </E>
     <E key="spidernest" value="2" >
     </E>
+    <E key="spitmonster" value="2" >
+    </E>
     <E key="sporeling" value="2" >
     </E>
     <E key="sporeling_tiny" value="8" >
@@ -522,9 +528,11 @@
     </E>
     <E key="thundermage" value="6" >
     </E>
-    <E key="thunderskull" value="1" >
+    <E key="thunderskull" value="2" >
     </E>
     <E key="turret_left" value="1" >
+    </E>
+    <E key="turret_right" value="1" >
     </E>
     <E key="twig" value="4" >
     </E>
@@ -588,7 +596,7 @@
     </E>
     <E key="worm_creepy" value="2" >
     </E>
-    <E key="worm_pale" value="2" >
+    <E key="worm_pale" value="3" >
     </E>
     <E key="worm_tiny" value="3" >
     </E>
