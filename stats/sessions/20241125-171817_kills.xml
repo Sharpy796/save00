@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1432" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1447" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -12,7 +12,7 @@
     </E>
     <E key="ant" value="2" >
     </E>
-    <E key="ant_fire" value="5" >
+    <E key="ant_fire" value="6" >
     </E>
     <E key="ant_suffocate" value="2" >
     </E>
@@ -294,17 +294,17 @@
     </E>
     <E key="lukki_fungus" value="1" >
     </E>
-    <E key="lukki_ominous" value="2" >
+    <E key="lukki_ominous" value="3" >
     </E>
     <E key="lukki_tentacle_hungry" value="1" >
     </E>
     <E key="lukki_tiny" value="2" >
     </E>
-    <E key="lukki_weird" value="2" >
+    <E key="lukki_weird" value="3" >
     </E>
-    <E key="lukki_white" value="2" >
+    <E key="lukki_white" value="4" >
     </E>
-    <E key="lurker" value="2" >
+    <E key="lurker" value="3" >
     </E>
     <E key="mammoth" value="1" >
     </E>
@@ -398,7 +398,7 @@
     </E>
     <E key="potionmaster2" value="1" >
     </E>
-    <E key="rat" value="7" >
+    <E key="rat" value="8" >
     </E>
     <E key="roboguard" value="3" >
     </E>
@@ -412,7 +412,7 @@
     </E>
     <E key="scavenger_alcohol" value="3" >
     </E>
-    <E key="scavenger_civilian" value="13" >
+    <E key="scavenger_civilian" value="14" >
     </E>
     <E key="scavenger_compressor" value="1" >
     </E>
@@ -460,7 +460,9 @@
     </E>
     <E key="skullrat" value="3" >
     </E>
-    <E key="skullspider_lukki_bomb_physics" value="1" >
+    <E key="skullspider" value="1" >
+    </E>
+    <E key="skullspider_lukki_bomb_physics" value="2" >
     </E>
     <E key="skygazer" value="1" >
     </E>
@@ -483,6 +485,8 @@
     <E key="sochaos" value="1" >
     </E>
     <E key="spearbot" value="1" >
+    </E>
+    <E key="spider" value="1" >
     </E>
     <E key="spider_crawler" value="3" >
     </E>
@@ -570,7 +574,7 @@
     </E>
     <E key="wizard_tiny" value="4" >
     </E>
-    <E key="wizard_transmutation" value="4" >
+    <E key="wizard_transmutation" value="6" >
     </E>
     <E key="wizard_trip" value="2" >
     </E>
@@ -580,13 +584,13 @@
     </E>
     <E key="worm" value="1" >
     </E>
-    <E key="worm_boil" value="4" >
+    <E key="worm_boil" value="5" >
     </E>
     <E key="worm_creepy" value="2" >
     </E>
     <E key="worm_pale" value="2" >
     </E>
-    <E key="worm_tiny" value="2" >
+    <E key="worm_tiny" value="3" >
     </E>
     <E key="wraith_returner_apotheosis" value="1" >
     </E>
