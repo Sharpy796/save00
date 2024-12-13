@@ -1,4 +1,4 @@
-<Stats deaths="197" kills="208" player_kills="0" player_projectile_count="0" >
+<Stats deaths="197" kills="210" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -70,6 +70,8 @@
   <kill_map>
     <E key="axeman" value="1" >
     </E>
+    <E key="fireskull" value="1" >
+    </E>
     <E key="glue" value="5" >
     </E>
     <E key="iceskull" value="28" >
@@ -101,6 +103,8 @@
     <E key="swarm_fly" value="13" >
     </E>
     <E key="thunderskull" value="1" >
+    </E>
+    <E key="wandmaster2" value="1" >
     </E>
     <E key="worm_big" value="2" >
     </E>

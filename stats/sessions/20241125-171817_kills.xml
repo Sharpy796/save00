@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1427" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1432" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -50,7 +50,7 @@
     </E>
     <E key="blob_titan" value="1" >
     </E>
-    <E key="bloodmage_lesser" value="1" >
+    <E key="bloodmage_lesser" value="2" >
     </E>
     <E key="bloom" value="3" >
     </E>
@@ -334,6 +334,8 @@
     </E>
     <E key="miniblob_throw" value="3" >
     </E>
+    <E key="mirror_physics" value="3" >
+    </E>
     <E key="monk" value="3" >
     </E>
     <E key="mosquito" value="1" >
@@ -560,7 +562,7 @@
     </E>
     <E key="wizard_nuke" value="2" >
     </E>
-    <E key="wizard_poly" value="2" >
+    <E key="wizard_poly" value="3" >
     </E>
     <E key="wizard_swapper" value="1" >
     </E>
