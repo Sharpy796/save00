@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1397" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1427" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -80,7 +80,7 @@
     </E>
     <E key="bouncer" value="2" >
     </E>
-    <E key="bubble_liquid" value="11" >
+    <E key="bubble_liquid" value="12" >
     </E>
     <E key="cargobot" value="1" >
     </E>
@@ -101,6 +101,8 @@
     <E key="crawler" value="2" >
     </E>
     <E key="cryogen" value="4" >
+    </E>
+    <E key="crystal_physics" value="1" >
     </E>
     <E key="cyborg" value="1" >
     </E>
@@ -126,13 +128,15 @@
     </E>
     <E key="drone_status_ailment" value="1" >
     </E>
+    <E key="eldari_big" value="1" >
+    </E>
     <E key="electric_bullet" value="2" >
     </E>
     <E key="electricskull" value="3" >
     </E>
     <E key="elephant" value="1" >
     </E>
-    <E key="enchanted_duck" value="1" >
+    <E key="enchanted_duck" value="2" >
     </E>
     <E key="enlightened_alchemist" value="1" >
     </E>
@@ -153,6 +157,8 @@
     <E key="firebugnest" value="3" >
     </E>
     <E key="firemage" value="1" >
+    </E>
+    <E key="firemage_big" value="1" >
     </E>
     <E key="firemage_weak" value="1" >
     </E>
@@ -176,7 +182,7 @@
     </E>
     <E key="frog_tiny" value="1" >
     </E>
-    <E key="fungus" value="6" >
+    <E key="fungus" value="7" >
     </E>
     <E key="fungus_big" value="2" >
     </E>
@@ -220,7 +226,7 @@
     </E>
     <E key="head_statue_physics" value="1" >
     </E>
-    <E key="hideous_mass" value="1" >
+    <E key="hideous_mass" value="2" >
     </E>
     <E key="hisii_engineer" value="4" >
     </E>
@@ -258,7 +264,7 @@
     </E>
     <E key="knight" value="2" >
     </E>
-    <E key="larva_crawler" value="6" >
+    <E key="larva_crawler" value="9" >
     </E>
     <E key="laserbot" value="2" >
     </E>
@@ -324,7 +330,7 @@
     </E>
     <E key="miner_weak" value="6" >
     </E>
-    <E key="miniblob" value="28" >
+    <E key="miniblob" value="32" >
     </E>
     <E key="miniblob_throw" value="3" >
     </E>
@@ -338,7 +344,7 @@
     </E>
     <E key="musical_being_weak" value="1" >
     </E>
-    <E key="nautilus" value="1" >
+    <E key="nautilus" value="3" >
     </E>
     <E key="necromancer" value="8" >
     </E>
@@ -354,13 +360,17 @@
     </E>
     <E key="pebble_physics" value="1" >
     </E>
-    <E key="phantom_a" value="2" >
+    <E key="phan" value="1" >
+    </E>
+    <E key="phantom_a" value="3" >
     </E>
     <E key="physics_torch_stand" value="1" >
     </E>
     <E key="physics_torch_stand_blue" value="2" >
     </E>
     <E key="player_ai_hitbox" value="2" >
+    </E>
+    <E key="player_decoy_hitbox" value="1" >
     </E>
     <E key="player_evil" value="2" >
     </E>
@@ -371,6 +381,8 @@
     <E key="pollen" value="19" >
     </E>
     <E key="pollen_bloom" value="1" >
+    </E>
+    <E key="polymorph_crystal" value="1" >
     </E>
     <E key="polyorb" value="3" >
     </E>
@@ -426,7 +438,7 @@
     </E>
     <E key="scorpio" value="2" >
     </E>
-    <E key="scorpion" value="3" >
+    <E key="scorpion" value="4" >
     </E>
     <E key="seed_shot" value="9" >
     </E>
@@ -444,7 +456,7 @@
     </E>
     <E key="skullfly" value="3" >
     </E>
-    <E key="skullrat" value="2" >
+    <E key="skullrat" value="3" >
     </E>
     <E key="skullspider_lukki_bomb_physics" value="1" >
     </E>
@@ -470,6 +482,8 @@
     </E>
     <E key="spearbot" value="1" >
     </E>
+    <E key="spider_crawler" value="3" >
+    </E>
     <E key="spidernest" value="2" >
     </E>
     <E key="sporeling" value="2" >
@@ -494,7 +508,7 @@
     </E>
     <E key="tank_rocket" value="1" >
     </E>
-    <E key="tentacler" value="3" >
+    <E key="tentacler" value="5" >
     </E>
     <E key="tentacler_big" value="2" >
     </E>
@@ -530,7 +544,7 @@
     </E>
     <E key="wizard_dark" value="2" >
     </E>
-    <E key="wizard_duck" value="2" >
+    <E key="wizard_duck" value="3" >
     </E>
     <E key="wizard_earthquake" value="1" >
     </E>
@@ -572,11 +586,15 @@
     </E>
     <E key="worm_tiny" value="2" >
     </E>
+    <E key="wraith_returner_apotheosis" value="1" >
+    </E>
     <E key="yoyoer" value="4" >
     </E>
     <E key="zombie" value="7" >
     </E>
     <E key="zombie3" value="1" >
+    </E>
+    <E key="zombie_giant" value="1" >
     </E>
     <E key="zombie_water" value="8" >
     </E>

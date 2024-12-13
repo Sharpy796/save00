@@ -1,12 +1,12 @@
-<Stats deaths="165" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="174" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="64" >
+    <E key="NULL | $damage_explosion" value="70" >
     </E>
     <E key="NULL | $damage_fire" value="32" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="player | $damage_drill" value="2" >
     </E>
-    <E key="player | $damage_electricity" value="2" >
+    <E key="player | $damage_electricity" value="3" >
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>

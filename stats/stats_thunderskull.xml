@@ -1,4 +1,4 @@
-<Stats deaths="110" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="113" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,6 +12,8 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="27" >
@@ -22,11 +24,15 @@
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
     <E key="gazer | $damage_projectile" value="3" >
     </E>
     <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="lukki_tentacle_hungry | $damage_projectile" value="1" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
