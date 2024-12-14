@@ -1,14 +1,14 @@
-<Stats deaths="1506" kills="30" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1572" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="26" >
+    <E key="NULL | $damage_drowning" value="30" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="100" >
+    <E key="NULL | $damage_explosion" value="104" >
     </E>
     <E key="NULL | $damage_fire" value="51" >
     </E>
@@ -19,6 +19,8 @@
     <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="4" >
     </E>
@@ -61,6 +63,8 @@
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
     <E key="drone_physics | $damage_projectile" value="3" >
+    </E>
+    <E key="eel | worm bite" value="2" >
     </E>
     <E key="firebug | $damage_fire" value="5" >
     </E>
@@ -144,7 +148,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="104" >
+    <E key="player | $damage_projectile" value="113" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -162,9 +166,9 @@
     </E>
     <E key="scavenger_glue | $damage_projectile" value="5" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="17" >
+    <E key="scavenger_grenade | $damage_melee" value="20" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="61" >
+    <E key="scavenger_grenade | $damage_projectile" value="66" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
@@ -177,6 +181,8 @@
     <E key="scavenger_smg | $damage_melee" value="20" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="39" >
+    </E>
+    <E key="seeker | Etsijä's shock" value="11" >
     </E>
     <E key="shotgunner | $damage_melee" value="21" >
     </E>
@@ -202,11 +208,15 @@
     </E>
     <E key="sniper_hell | $damage_projectile" value="10" >
     </E>
+    <E key="sunken_creature | $damage_explosion" value="3" >
+    </E>
+    <E key="sunken_creature | hit" value="6" >
+    </E>
     <E key="tank | $damage_explosion" value="9" >
     </E>
     <E key="tank | $damage_projectile" value="7" >
     </E>
-    <E key="tentacle_portal_npc | $damage_melee" value="1" >
+    <E key="tentacle_portal_npc | $damage_melee" value="2" >
     </E>
     <E key="tentacler | $damage_melee" value="7" >
     </E>
@@ -218,19 +228,29 @@
     </E>
     <E key="thundermage | $damage_melee" value="2" >
     </E>
-    <E key="thunderskull | $damage_electricity" value="2" >
+    <E key="thunderskull | $damage_electricity" value="3" >
     </E>
-    <E key="thunderskull | $damage_melee" value="1" >
+    <E key="thunderskull | $damage_explosion" value="1" >
+    </E>
+    <E key="thunderskull | $damage_melee" value="2" >
     </E>
     <E key="walleye | $damage_explosion" value="11" >
     </E>
     <E key="walleye | $damage_projectile" value="11" >
+    </E>
+    <E key="watermage | $damage_melee" value="1" >
+    </E>
+    <E key="watermage | $damage_projectile" value="3" >
+    </E>
+    <E key="wizard_corrupt_weaken | $damage_projectile" value="2" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="7" >
     </E>
     <E key="wizard_neutral | $damage_projectile" value="1" >
     </E>
     <E key="wizard_tele | $damage_projectile" value="9" >
+    </E>
+    <E key="wizard_transmutation | $damage_projectile" value="4" >
     </E>
     <E key="workshop_areadamage | $damage_holy_mountains_curse" value="1" >
     </E>
