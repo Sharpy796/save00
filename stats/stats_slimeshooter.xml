@@ -1,4 +1,4 @@
-<Stats deaths="234" kills="86" player_kills="1" player_projectile_count="0" >
+<Stats deaths="236" kills="86" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -23,6 +23,8 @@
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
     <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="boss_toxic_worm_minion | worm bite" value="2" >
     </E>
     <E key="drone_physics | $damage_projectile" value="1" >
     </E>

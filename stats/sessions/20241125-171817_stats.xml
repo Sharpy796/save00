@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="35" damage_taken="3231.64" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1689" gold="14251" gold_all="380576" gold_infinite="0" healed="86624" heart_containers="0" hp="100" items="392" kicks="816" killed_by="" killed_by_extra="" places_visited="35" playtime="45659.6" playtime_str="12:40:59" projectiles_shot="498411" streaks="0" teleports="10" wands_edited="82" world_seed="1977624701" >
+  <stats biomes_visited_with_wands="36" damage_taken="3865.99" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1782" gold="153817" gold_all="696492" gold_infinite="0" healed="86970.2" heart_containers="0" hp="100" items="416" kicks="816" killed_by="" killed_by_extra="" places_visited="36" playtime="48245.9" playtime_str="13:24:05" projectiles_shot="502727" streaks="0" teleports="31" wands_edited="83" world_seed="1977624701" >
   </stats>
   <biome_baseline biomes_visited_with_wands="31" damage_taken="2613.21" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1511" gold="65260" gold_all="347880" gold_infinite="0" healed="85336.4" heart_containers="0" hp="100" items="309" kicks="803" killed_by="" killed_by_extra="" places_visited="31" playtime="35091.4" playtime_str="9:44:51" projectiles_shot="392089" streaks="0" teleports="2" wands_edited="75" world_seed="1977624701" >
   </biome_baseline>
@@ -41,6 +41,8 @@
     <E key="$biome_potion_mimics" value="1" >
     </E>
     <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_robobase" value="1" >
     </E>
     <E key="$biome_secret_lab" value="1" >
     </E>

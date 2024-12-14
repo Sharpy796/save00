@@ -1,4 +1,4 @@
-<Stats deaths="28" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="28" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
@@ -23,6 +23,8 @@
   </death_map>
   <kill_map>
     <E key="iceskull" value="5" >
+    </E>
+    <E key="lavashot" value="1" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
