@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1638" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1821" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -112,9 +112,13 @@
     </E>
     <E key="crystal_physics" value="1" >
     </E>
+    <E key="crystal_wandsteal" value="4" >
+    </E>
     <E key="cyborg" value="1" >
     </E>
     <E key="darkghost" value="2" >
+    </E>
+    <E key="devourer_magic" value="2" >
     </E>
     <E key="draghoul" value="1" >
     </E>
@@ -152,13 +156,17 @@
     </E>
     <E key="enchanted_duck" value="2" >
     </E>
-    <E key="enlightened_alchemist" value="1" >
+    <E key="enlightened_alchemist" value="11" >
     </E>
     <E key="ent" value="2" >
     </E>
     <E key="eradicator" value="2" >
     </E>
     <E key="ethereal_being" value="7" >
+    </E>
+    <E key="eviltemple_tentacle_trap_left" value="10" >
+    </E>
+    <E key="eviltemple_tentacle_trap_right" value="8" >
     </E>
     <E key="eye_bat" value="4" >
     </E>
@@ -248,7 +256,7 @@
     </E>
     <E key="healerdrone_physics" value="1" >
     </E>
-    <E key="hideous_mass" value="2" >
+    <E key="hideous_mass" value="7" >
     </E>
     <E key="hisii_engineer" value="4" >
     </E>
@@ -308,7 +316,7 @@
     </E>
     <E key="locust" value="3" >
     </E>
-    <E key="longleg" value="47" >
+    <E key="longleg" value="56" >
     </E>
     <E key="longleg_projectile" value="1" >
     </E>
@@ -328,7 +336,7 @@
     </E>
     <E key="lukki_saw" value="1" >
     </E>
-    <E key="lukki_tentacle_hungry" value="1" >
+    <E key="lukki_tentacle_hungry" value="11" >
     </E>
     <E key="lukki_tiny" value="2" >
     </E>
@@ -342,7 +350,7 @@
     </E>
     <E key="mammoth_baby" value="2" >
     </E>
-    <E key="manadrain_crystal" value="2" >
+    <E key="manadrain_crystal" value="12" >
     </E>
     <E key="mantis" value="1" >
     </E>
@@ -367,6 +375,8 @@
     <E key="miniblob" value="32" >
     </E>
     <E key="miniblob_throw" value="3" >
+    </E>
+    <E key="miniboss_pit_02" value="2" >
     </E>
     <E key="minipit" value="1" >
     </E>
@@ -406,7 +416,7 @@
     </E>
     <E key="physics_torch_stand" value="1" >
     </E>
-    <E key="physics_torch_stand_blue" value="2" >
+    <E key="physics_torch_stand_blue" value="3" >
     </E>
     <E key="physics_torch_stand_purple" value="1" >
     </E>
@@ -498,7 +508,7 @@
     </E>
     <E key="seed_shot" value="9" >
     </E>
-    <E key="seeker" value="3" >
+    <E key="seeker" value="31" >
     </E>
     <E key="sentry" value="4" >
     </E>
@@ -586,7 +596,9 @@
     </E>
     <E key="thundermage" value="6" >
     </E>
-    <E key="thunderskull" value="11" >
+    <E key="thundermage_big" value="1" >
+    </E>
+    <E key="thunderskull" value="15" >
     </E>
     <E key="turret_left" value="1" >
     </E>
@@ -600,21 +612,31 @@
     </E>
     <E key="watermage" value="7" >
     </E>
-    <E key="waterskull" value="1" >
+    <E key="waterskull" value="2" >
     </E>
     <E key="whisp" value="87" >
     </E>
     <E key="whisp_big" value="4" >
     </E>
-    <E key="wizard_corrupt_hearty" value="3" >
+    <E key="wizard_corrupt_ambrosia" value="3" >
     </E>
-    <E key="wizard_corrupt_swapper" value="1" >
+    <E key="wizard_corrupt_hearty" value="16" >
     </E>
-    <E key="wizard_corrupt_teleport" value="3" >
+    <E key="wizard_corrupt_manaeater" value="5" >
     </E>
-    <E key="wizard_corrupt_wands" value="6" >
+    <E key="wizard_corrupt_neutral" value="14" >
     </E>
-    <E key="wizard_corrupt_weaken" value="9" >
+    <E key="wizard_corrupt_returner" value="1" >
+    </E>
+    <E key="wizard_corrupt_swapper" value="12" >
+    </E>
+    <E key="wizard_corrupt_teleport" value="13" >
+    </E>
+    <E key="wizard_corrupt_twitchy" value="6" >
+    </E>
+    <E key="wizard_corrupt_wands" value="14" >
+    </E>
+    <E key="wizard_corrupt_weaken" value="14" >
     </E>
     <E key="wizard_dark" value="2" >
     </E>
@@ -664,9 +686,13 @@
     </E>
     <E key="worm_pale" value="3" >
     </E>
+    <E key="worm_spine" value="1" >
+    </E>
     <E key="worm_tiny" value="3" >
     </E>
     <E key="wraith" value="1" >
+    </E>
+    <E key="wraith_alchemy_apotheosis" value="1" >
     </E>
     <E key="wraith_returner_apotheosis" value="1" >
     </E>
