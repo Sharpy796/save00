@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1632" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1638" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -274,7 +274,7 @@
     </E>
     <E key="icicle_king" value="2" >
     </E>
-    <E key="imp" value="2" >
+    <E key="imp" value="3" >
     </E>
     <E key="invisiman" value="6" >
     </E>
@@ -346,7 +346,7 @@
     </E>
     <E key="mantis" value="1" >
     </E>
-    <E key="menhir" value="4" >
+    <E key="menhir" value="5" >
     </E>
     <E key="mexxi" value="4" >
     </E>
@@ -552,7 +552,7 @@
     </E>
     <E key="spidernest" value="2" >
     </E>
-    <E key="spitmonster" value="10" >
+    <E key="spitmonster" value="11" >
     </E>
     <E key="sporeling" value="2" >
     </E>
@@ -586,7 +586,7 @@
     </E>
     <E key="thundermage" value="6" >
     </E>
-    <E key="thunderskull" value="10" >
+    <E key="thunderskull" value="11" >
     </E>
     <E key="turret_left" value="1" >
     </E>
@@ -622,7 +622,7 @@
     </E>
     <E key="wizard_earthquake" value="1" >
     </E>
-    <E key="wizard_firemage_greater" value="2" >
+    <E key="wizard_firemage_greater" value="3" >
     </E>
     <E key="wizard_hearty" value="1" >
     </E>
@@ -658,7 +658,7 @@
     </E>
     <E key="worm_creepy" value="2" >
     </E>
-    <E key="worm_end" value="1" >
+    <E key="worm_end" value="2" >
     </E>
     <E key="worm_mechanical" value="4" >
     </E>
