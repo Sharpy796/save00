@@ -1,4 +1,4 @@
-<Stats deaths="15" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="16" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -12,6 +12,8 @@
     </E>
     <E key="seeker | Etsijä's shock" value="1" >
     </E>
+    <E key="tentacle_portal_npc | $damage_melee" value="1" >
+    </E>
     <E key="wizard_transmutation | $damage_explosion" value="1" >
     </E>
     <E key="worm_pale | worm bite" value="2" >
@@ -22,7 +24,7 @@
     </E>
     <E key="physics_torch_stand_purple" value="1" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="7" >
     </E>
     <E key="wizard_transmutation" value="1" >
     </E>

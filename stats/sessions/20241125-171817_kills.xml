@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1504" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1541" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -122,13 +122,13 @@
     </E>
     <E key="drone_lasership" value="7" >
     </E>
-    <E key="drone_mini" value="30" >
+    <E key="drone_mini" value="31" >
     </E>
     <E key="drone_shield" value="2" >
     </E>
     <E key="drone_status_ailment" value="1" >
     </E>
-    <E key="eel" value="2" >
+    <E key="eel" value="4" >
     </E>
     <E key="eldari_big" value="2" >
     </E>
@@ -234,7 +234,7 @@
     </E>
     <E key="hisii_hobo" value="3" >
     </E>
-    <E key="hisii_hobo_rich" value="1" >
+    <E key="hisii_hobo_rich" value="5" >
     </E>
     <E key="hisii_rocketshotgun" value="1" >
     </E>
@@ -283,6 +283,8 @@
     <E key="locust" value="3" >
     </E>
     <E key="longleg" value="47" >
+    </E>
+    <E key="longleg_projectile" value="1" >
     </E>
     <E key="lukki_blue" value="1" >
     </E>
@@ -404,11 +406,11 @@
     </E>
     <E key="pylon_escium" value="2" >
     </E>
-    <E key="pylon_hex_water" value="1" >
+    <E key="pylon_hex_water" value="2" >
     </E>
     <E key="pylon_protection_proj" value="1" >
     </E>
-    <E key="rat" value="17" >
+    <E key="rat" value="27" >
     </E>
     <E key="roboguard" value="3" >
     </E>
@@ -461,6 +463,8 @@
     <E key="serpentor" value="1" >
     </E>
     <E key="shaman" value="1" >
+    </E>
+    <E key="shaman_greater_apotheosis" value="1" >
     </E>
     <E key="shooterflower" value="1" >
     </E>
@@ -532,15 +536,15 @@
     </E>
     <E key="tentacler" value="5" >
     </E>
-    <E key="tentacler_big" value="5" >
+    <E key="tentacler_big" value="6" >
     </E>
     <E key="tentacler_small" value="2" >
     </E>
-    <E key="tesla_turret" value="1" >
+    <E key="tesla_turret" value="2" >
     </E>
     <E key="thundermage" value="6" >
     </E>
-    <E key="thunderskull" value="5" >
+    <E key="thunderskull" value="8" >
     </E>
     <E key="turret_left" value="1" >
     </E>
@@ -552,7 +556,7 @@
     </E>
     <E key="water_pipe_drain" value="3" >
     </E>
-    <E key="watermage" value="3" >
+    <E key="watermage" value="7" >
     </E>
     <E key="waterskull" value="1" >
     </E>
@@ -566,9 +570,9 @@
     </E>
     <E key="wizard_corrupt_teleport" value="3" >
     </E>
-    <E key="wizard_corrupt_wands" value="4" >
+    <E key="wizard_corrupt_wands" value="6" >
     </E>
-    <E key="wizard_corrupt_weaken" value="3" >
+    <E key="wizard_corrupt_weaken" value="9" >
     </E>
     <E key="wizard_dark" value="2" >
     </E>

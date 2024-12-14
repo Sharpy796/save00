@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="32.8564" 
-    clouds_02_target="34.3235" 
+    clouds_01_target="52.7028" 
+    clouds_02_target="78.8606" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20241125-171817" 
     sky_sunset_alpha_target="1" 
-    time="0.376414" 
+    time="0.403497" 
     time_dt="1" 
-    time_total="67.5483" 
+    time_total="69.7702" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.172789" 
-    wind_speed="-10.3674" 
+    wind="-0.284451" 
+    wind_speed="-17.0679" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -135,7 +135,7 @@
       </E>
       <E 
         key="ACTION_APOTHEOSIS_ALT_FIRE_COT" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/field_support.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_BUNGAL_SHIFT" 
@@ -290,6 +290,10 @@
         value="mods/copis_things/files/entities/projectiles/pain_ray.xml" >
       </E>
       <E 
+        key="ACTION_BLOOD_MAGIC" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
         key="ACTION_BOMB" 
         value="data/entities/projectiles/bomb.xml" >
       </E>
@@ -367,7 +371,7 @@
       </E>
       <E 
         key="ACTION_BURST_4" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/white_hole.xml" >
       </E>
       <E 
         key="ACTION_CC_FIRE_TO_GREASE" 
@@ -414,6 +418,10 @@
         value="data/entities/projectiles/deck/mine.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_AVERAGE_MANA" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_BALANCE" 
         value="data/entities/projectiles/deck/digger.xml" >
       </E>
@@ -436,6 +444,10 @@
       <E 
         key="ACTION_COPITH_CIRCLE_EDIT_WANDS_EVERYWHERE" 
         value="mods/copis_things/files/entities/projectiles/circle_edit_wands_everywhere.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CONCRETEBALL" 
+        value="mods/copis_things/files/entities/projectiles/chunk_of_concrete.xml" >
       </E>
       <E 
         key="ACTION_COPITH_CONFETTI_TRAIL" 
@@ -507,7 +519,7 @@
       </E>
       <E 
         key="ACTION_COPITH_IF_ALT_FIRE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_COPITH_INVERT" 
@@ -535,15 +547,15 @@
       </E>
       <E 
         key="ACTION_COPITH_LUNGE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_COPITH_MANA_EFFICENCY" 
-        value="data/entities/projectiles/deck/powerdigger.xml" >
+        value="data/entities/projectiles/deck/white_hole.xml" >
       </E>
       <E 
         key="ACTION_COPITH_MANA_ENGINE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_COPITH_MINI_SHIELD" 
@@ -564,6 +576,10 @@
       <E 
         key="ACTION_COPITH_PAPER_SHOT" 
         value="data/entities/projectiles/deck/circle_water.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_PASSIVE_MANA" 
+        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
       </E>
       <E 
         key="ACTION_COPITH_POLY_PROPANE_TANK" 
@@ -682,6 +698,10 @@
         value="data/entities/projectiles/darkflame.xml" >
       </E>
       <E 
+        key="ACTION_DELAYED_SPELL" 
+        value="mods/copis_things/files/entities/projectiles/longleg_projectile.xml" >
+      </E>
+      <E 
         key="ACTION_DIGGER" 
         value="data/entities/projectiles/deck/digger.xml" >
       </E>
@@ -695,7 +715,7 @@
       </E>
       <E 
         key="ACTION_DIVIDE_2" 
-        value="" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_DRAW_3_RANDOM" 
@@ -750,12 +770,20 @@
         value="data/entities/projectiles/bomb_holy.xml" >
       </E>
       <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_GLITTERING_LIQUID" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
         key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_HYDROXIDE" 
         value="data/entities/projectiles/bomb_holy.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_BLOOD" 
         value="data/entities/projectiles/bomb_holy.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_FIRE" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_FREEZING_LIQUID" 
@@ -835,7 +863,7 @@
       </E>
       <E 
         key="ACTION_GRAHAM_PASSIVES" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_ROT" 
@@ -939,11 +967,11 @@
       </E>
       <E 
         key="ACTION_IF_END" 
-        value="data/entities/projectiles/deck/white_hole.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_IF_HALF" 
-        value="data/entities/projectiles/deck/kantele/kantele_g.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_IF_HP" 
@@ -1135,7 +1163,7 @@
       </E>
       <E 
         key="ACTION_NOLLA" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_ORBIT_FIREBALLS" 
@@ -1174,12 +1202,16 @@
         value="mods/Apotheosis/files/entities/projectiles/deck/musical_delayed_attack_end.xml" >
       </E>
       <E 
+        key="ACTION_RECHARGE" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
         key="ACTION_REGENERATION_FIELD" 
         value="data/entities/projectiles/deck/regeneration_field.xml" >
       </E>
       <E 
         key="ACTION_RESET" 
-        value="data/entities/projectiles/deck/white_hole.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_ROCKET_DOWNWARDS" 
@@ -1219,7 +1251,7 @@
       </E>
       <E 
         key="ACTION_SLICING_BLADE" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+        value="mods/boss_reworks/files/spells/reward_master.xml" >
       </E>
       <E 
         key="ACTION_SLIMEBALL" 
@@ -1415,7 +1447,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="381011" >
+        value="389422" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -1427,11 +1459,11 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="11;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|1;GRAHAM_BARREL;-1|1;BLACK_HOLE_DEATH_TRIGGER;3|2;BOMB;-1|1;RUBBER_BALL;-1|4;GRAHAM_BRAMBALL;-1|1;BUBBLESHOT_TRIGGER;-1|1;AIR_BULLET;-1|2;CHAINSAW;-1|1;COPITH_CHAOS_SPRITES;-1|2;LASER;-1|15;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;DISC_BULLET;-1|11;GRENADE_LARGE;-1|1;CRUMBLING_EARTH;-1|2;GRAHAM_ECHO_BUBBLE;-1|2;TENTACLE_PORTAL;-1|1;BOUNCY_ORB_TIMER;-1|2;COPITH_SPECTRAL_HOOK;-1|2;EXPANDING_ORB;-1|1;FIREBOMB;-1|1;FREEZING_GAZE;-1|2;GRENADE_TIER_3;-1|1;ROCKET_TIER_3;-1|5;SPITTER_TIER_3;-1|7;DEATH_CROSS_BIG;-1|1;GLITTER_BOMB;-1|4;GRAHAM_GLOW_DART;-1|4;LANCE;-1|9;GLUE_SHOT;-1|2;MOLDOS_HEALING_ARROW;0|1;HEAL_BULLET;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|1;MOLDOS_HIISI_SHOTGUN;-1|3;MOLDOS_HIISI_SNIPER;-1|2;TELEPORT_PROJECTILE_CLOSER;-1|2;SPELLBOUND_ICE_SHARD;-1|2;GRAHAM_INFERNAL_GLARE;-1|5;LIGHTNING;-1|4;CC_LOCAL_SHIFT;-1|1;COPITH_LUMINOUS_BLADE;-1|1;LUMINOUS_DRILL;-1|1;LASER_LUMINOUS_DRILL;-1|2;BULLET;-1|2;BULLET_TRIGGER;-1|1;HEAVY_BULLET;-1|1;HEAVY_BULLET_TRIGGER;-1|6;ROCKET;-1|11;COPITH_BOMB_SMALL;-1|1;APOTHEOSIS_MUSICAL_STRIKE;-1|1;GRAHAM_ORB_BLUE_TIMER;-1|9;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;COPITH_LASER_EMITTER_SMALL;-1|1;LASER_EMITTER;-1|2;SPORE_POD;-1|1;PROPANE_TANK;-1|1;TELEPORT_PROJECTILE_STATIC;-1|1;COPITH_RIPHOOK;-1|5;GRAHAM_SHOCK_DART;-1|6;MIST_SLIME;-1|16;SLIMEBALL;-1|1;MOLDOS_SOUL_BOLT;-1|1;LIGHT_BULLET_TRIGGER_2;-1|1;LIGHT_BULLET_TIMER;-1|1;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|1;SPITTER;-1|1;SPITTER_TIMER;-1|5;COPITH_STARLIGHT_AXE;-1|6;SPELLBOUND_STICKY_BOMB;-1|5;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|1;TNTBOX;-1|5;DISC_BULLET_BIGGER;-1|5;SUMMON_EGG;-1|1;SUMMON_HOLLOW_EGG;-1|1;SWAPPER_PROJECTILE;-1|1;BR_LONGTELETRIGGER;-1|1;MOLDOS_TOME_SLICE;-1|3;GRAHAM_TOXIC_POTION;-1|6;BUCKSHOT;-1|2;MINE;-1|1;MINE_DEATH_TRIGGER;-1|7;GRAHAM_TELEPORT;-1|1;GRAHAM_WILLOWISP;-1|1;WORM_SHOT;9|1;COPITH_ZAP;-1|1;SPELLBOUND_ASCENDANT_FIREBALL;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;APOTHEOSIS_BUNGAL_SHIFT_SPAM;-1|1;APOTHEOSIS_MASS_MATERIA_CONVERSION;-1|1;APOTHEOSIS_REVERBERATION;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|2;SPELLBOUND_BLACKHOLE_INFUSION;-1|1;SPELLBOUND_GAS_SHOT_CONCRETE;-1|2;BLOODLUST;-1|1;HOMING_SHOOTER;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;EXPLOSION_TINY;-1|1;COPITH_CONFETTI_TRAIL;-1|2;GRAHAM_CONNECTIONTRAIL;-1|1;DAMAGE;-1|1;ROCKET_DOWNWARDS;-1|1;SPELLBOUND_DUCK;-1|1;ELECTRIC_CHARGE;-1|1;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;ARC_FIRE;-1|1;ORBIT_FIREBALLS;-1|1;FIREBALL_RAY;-1|2;FLY_DOWNWARDS;-1|2;FREEZE;-1|1;HITFX_EXPLOSION_SLIME_GIGA;-1|1;APOTHEOSIS_SAWBLADE_BIG_RAY;-1|1;APOTHEOSIS_GLUE_CHARGE;-1|1;STATIC_TO_SAND;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;SPELLBOUND_HEAT_WAVE;-1|1;HOMING;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LIGHT_SHOT;-1|1;LIGHTNING_RAY;-1|1;COPITH_LOVELY_TRAIL;-1|2;COPITH_MANA_EFFICENCY;-1|1;MATTER_EATER;9|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|1;COPITH_NULL_TRAIL;-1|3;ZERO_DAMAGE;-1|1;ROCKET_OCTAGON;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;PHASING_ARC;-1|1;PINGPONG_PATH;-1|2;LASER_EMITTER_FOCUS;-1|1;COPITH_MINI_SHIELD;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_RAINBOW_TRAIL;-1|1;DAMAGE_RANDOM;-1|3;MOLDOS_REAPING_SHOT;-1|2;LIFETIME_DOWN;-1|1;RECHARGE;-1|1;EXPLOSION_REMOVE;-1|2;HOMING_ROTATE;-1|1;SPELLBOUND_SHRAPNEL_SHOT;-1|1;SINEWAVE;-1|1;MOLDOS_SOUL_BOOST;-1|2;MOLDOS_SOUL_SPEED;-1|1;COPITH_SILVER_BULLET_ON_DEATH;-1|1;APOTHEOSIS_SPLIT_SPELL;-1|1;COPITH_SUS_TRAIL;-1|2;COPITH_TRANSMISSION_CAST;-1|1;SPELLBOUND_VOID_SHOT;-1|1;CURSE_WITHER_PROJECTILE;-1|1;COPITH_DELAY_2;-1|6;SCATTER_2;-1|4;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|1;APOTHEOSIS_SHAPE_WALL;-1|1;T_SHAPE;-1|1;I_SHAPE;-1|2;CIRCLE_SHAPE;-1|1;PENTAGRAM_SHAPE;-1|1;W_SHAPE;-1|2;COPITH_LINK_SHOT;-1|1;COPITH_SCATTER_8;-1|5;COPITH_SCATTER_6;-1|2;COPITH_SWORD_FORMATION;-1|2;COPITH_DELAY_3;-1|3;SCATTER_3;-1|7;BURST_3;-1|1;GRAHAM_WOOD;-1|1;SEA_MIMIC;0|1;SEA_ACID_GAS;-1|1;SEA_LAVA;-1|1;APOTHEOSIS_MATERIAL_SLIME;-1|1;TOUCH_GRASS;3|1;APOTHEOSIS_MATERIAL_ALCOHOL;-1|2;ADD_DEATH_TRIGGER;-1|1;ADD_TIMER;-1|1;ADD_TRIGGER;-1|2;ALPHA;-1|1;CESSATION;-1|1;DRAW_3_RANDOM;-1|1;DIVIDE_2;-1|2;KANTELE_DIS;-1|1;COPITH_DUPLICATE_ACTION;-1|1;RANDOM_SPELL;-1|1;DUPLICATE;-1|1;APOTHEOSIS_KNOWLEDGE_OF_KINGS;0|1;ALL_SPELLS;1|1;COPITH_DUPLICATE_ACTION_3;-1|1;APOTHEOSIS_MASS_STATUS_URINE;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|1;APOTHEOSIS_MASS_STATUS_WET;-1|1;BR_REWARD_ALCHEMIST;-1|1;BR_REWARD_FORGOTTEN;-1|1;BR_REWARD_LIMBS;-1|1;APOTHEOSIS_SPELLS_TO_CATS;-1|1;COPITH_SUMMON_HAMIS;-1|1;TEMPORARY_PLATFORM;-1|1;GRAHAM_TOGGLER2;-1|1;MOLDOS_SNIPER_BEAM;-1|1;COPITH_ULTRAKILL;-1|1;TINY_GHOST;-1|1;SPELLBOUND_SNARK;-1|13;LANCE_HOLY;-1||||||||||||||||||" >
+        value="1;SPELLBOUND_SNARK;-1|11;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|1;GRAHAM_BARREL;-1|1;BLACK_HOLE_DEATH_TRIGGER;3|2;BOMB;-1|1;RUBBER_BALL;-1|4;GRAHAM_BRAMBALL;-1|1;BUBBLESHOT_TRIGGER;-1|1;AIR_BULLET;-1|1;CHAINSAW;-1|1;COPITH_CHAOS_SPRITES;-1|2;LASER;-1|15;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;DISC_BULLET;-1|11;GRENADE_LARGE;-1|1;CRUMBLING_EARTH;-1|2;GRAHAM_ECHO_BUBBLE;-1|2;TENTACLE_PORTAL;-1|1;BOUNCY_ORB_TIMER;-1|2;COPITH_SPECTRAL_HOOK;-1|2;EXPANDING_ORB;-1|1;FIREBOMB;-1|1;FREEZING_GAZE;-1|2;GRENADE_TIER_3;-1|1;ROCKET_TIER_3;-1|5;SPITTER_TIER_3;-1|7;DEATH_CROSS_BIG;-1|1;GLITTER_BOMB;-1|4;GRAHAM_GLOW_DART;-1|4;LANCE;-1|9;GLUE_SHOT;-1|2;MOLDOS_HEALING_ARROW;0|1;HEAL_BULLET;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|1;MOLDOS_HIISI_SHOTGUN;-1|3;MOLDOS_HIISI_SNIPER;-1|13;LANCE_HOLY;-1|2;TELEPORT_PROJECTILE_CLOSER;-1|2;SPELLBOUND_ICE_SHARD;-1|2;GRAHAM_INFERNAL_GLARE;-1|5;LIGHTNING;-1|4;CC_LOCAL_SHIFT;-1|1;COPITH_LUMINOUS_BLADE;-1|1;LUMINOUS_DRILL;-1|1;LASER_LUMINOUS_DRILL;-1|2;BULLET;-1|2;BULLET_TRIGGER;-1|1;HEAVY_BULLET;-1|1;HEAVY_BULLET_TRIGGER;-1|6;ROCKET;-1|11;COPITH_BOMB_SMALL;-1|1;APOTHEOSIS_MUSICAL_STRIKE;-1|1;GRAHAM_ORB_BLUE_TIMER;-1|9;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;COPITH_LASER_EMITTER_SMALL;-1|1;LASER_EMITTER;-1|2;SPORE_POD;-1|1;PROPANE_TANK;-1|1;TELEPORT_PROJECTILE_STATIC;-1|1;COPITH_RIPHOOK;-1|5;GRAHAM_SHOCK_DART;-1|6;MIST_SLIME;-1|16;SLIMEBALL;-1|1;MOLDOS_SOUL_BOLT;-1|1;LIGHT_BULLET_TRIGGER_2;-1|1;LIGHT_BULLET_TIMER;-1|1;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|1;SPITTER;-1|1;SPITTER_TIMER;-1|5;COPITH_STARLIGHT_AXE;-1|6;SPELLBOUND_STICKY_BOMB;-1|5;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|1;TNTBOX;-1|5;DISC_BULLET_BIGGER;-1|5;SUMMON_EGG;-1|2;SUMMON_HOLLOW_EGG;-1|2;SWAPPER_PROJECTILE;-1|1;BR_LONGTELETRIGGER;-1|1;MOLDOS_TOME_SLICE;-1|3;GRAHAM_TOXIC_POTION;-1|6;BUCKSHOT;-1|2;MINE;-1|1;MINE_DEATH_TRIGGER;-1|7;GRAHAM_TELEPORT;-1|1;GRAHAM_WILLOWISP;-1|1;WORM_SHOT;9|1;COPITH_ZAP;-1|1;SPELLBOUND_ASCENDANT_FIREBALL;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;DELAYED_SPELL;-1|1;APOTHEOSIS_BUNGAL_SHIFT_SPAM;-1|1;APOTHEOSIS_MASS_MATERIA_CONVERSION;-1|1;APOTHEOSIS_REVERBERATION;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|2;SPELLBOUND_BLACKHOLE_INFUSION;-1|1;SPELLBOUND_GAS_SHOT_CONCRETE;-1|2;BLOODLUST;-1|1;HOMING_SHOOTER;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;EXPLOSION_TINY;-1|1;COPITH_CONFETTI_TRAIL;-1|2;GRAHAM_CONNECTIONTRAIL;-1|1;DAMAGE;-1|1;ROCKET_DOWNWARDS;-1|1;SPELLBOUND_DUCK;-1|1;ELECTRIC_CHARGE;-1|1;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;ARC_FIRE;-1|1;ORBIT_FIREBALLS;-1|1;FIREBALL_RAY;-1|2;FLY_DOWNWARDS;-1|2;FREEZE;-1|1;HITFX_EXPLOSION_SLIME_GIGA;-1|1;APOTHEOSIS_SAWBLADE_BIG_RAY;-1|1;APOTHEOSIS_GLUE_CHARGE;-1|1;STATIC_TO_SAND;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;SPELLBOUND_HEAT_WAVE;-1|1;HOMING;-1|1;LIFETIME;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LIGHT;-1|1;LIGHT_SHOT;-1|1;LIGHTNING_RAY;-1|1;COPITH_LOVELY_TRAIL;-1|1;MOON_POWER;-1|2;COPITH_MANA_EFFICENCY;-1|1;COPITH_MANA_ENGINE;-1|3;GRAHAM_MANAHEART;-1|1;MATTER_EATER;9|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|1;COPITH_NULL_TRAIL;-1|3;ZERO_DAMAGE;-1|1;ROCKET_OCTAGON;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;PHASING_ARC;-1|1;PINGPONG_PATH;-1|2;LASER_EMITTER_FOCUS;-1|1;COPITH_MINI_SHIELD;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_RAINBOW_TRAIL;-1|1;DAMAGE_RANDOM;-1|3;MOLDOS_REAPING_SHOT;-1|3;LIFETIME_DOWN;-1|1;EXPLOSION_REMOVE;-1|2;HOMING_ROTATE;-1|1;SPELLBOUND_SHRAPNEL_SHOT;-1|1;SINEWAVE;-1|1;MOLDOS_SOUL_BOOST;-1|2;MOLDOS_SOUL_SPEED;-1|1;COPITH_SILVER_BULLET_ON_DEATH;-1|1;APOTHEOSIS_SPLIT_SPELL;-1|1;COPITH_SUS_TRAIL;-1|2;COPITH_TRANSMISSION_CAST;-1|1;SPELLBOUND_VOID_SHOT;-1|1;CURSE_WITHER_PROJECTILE;-1|1;COPITH_DELAY_2;-1|6;SCATTER_2;-1|4;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|1;APOTHEOSIS_SHAPE_WALL;-1|1;T_SHAPE;-1|1;I_SHAPE;-1|1;Y_SHAPE;-1|2;CIRCLE_SHAPE;-1|1;PENTAGRAM_SHAPE;-1|1;W_SHAPE;-1|2;COPITH_LINK_SHOT;-1|1;COPITH_SCATTER_8;-1|1;BURST_4;-1|5;COPITH_SCATTER_6;-1|2;COPITH_SWORD_FORMATION;-1|2;COPITH_DELAY_3;-1|3;SCATTER_3;-1|7;BURST_3;-1|1;COPITH_CONCRETEBALL;-1|1;GRAHAM_WOOD;-1|1;SEA_MIMIC;0|1;SEA_ACID_GAS;-1|1;SEA_LAVA;-1|1;APOTHEOSIS_MATERIAL_SLIME;-1|1;TOUCH_GRASS;3|1;APOTHEOSIS_MATERIAL_ALCOHOL;-1|2;ADD_DEATH_TRIGGER;-1|1;ADD_TIMER;-1|1;ADD_TRIGGER;-1|2;ALPHA;-1|1;CESSATION;-1|1;DRAW_3_RANDOM;-1|2;KANTELE_DIS;-1|1;COPITH_DUPLICATE_ACTION;-1|1;RANDOM_SPELL;-1|1;DUPLICATE;-1|1;APOTHEOSIS_KNOWLEDGE_OF_KINGS;0|1;ALL_SPELLS;1|1;COPITH_DUPLICATE_ACTION_3;-1|1;APOTHEOSIS_MASS_STATUS_URINE;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|1;APOTHEOSIS_MASS_STATUS_WET;-1|1;BR_REWARD_ALCHEMIST;-1|1;BR_REWARD_FORGOTTEN;-1|1;BR_REWARD_LIMBS;-1|1;APOTHEOSIS_SPELLS_TO_CATS;-1|2;COPITH_SUMMON_HAMIS;-1|1;TEMPORARY_PLATFORM;-1|1;GRAHAM_TOGGLER2;-1|3;MOLDOS_SNIPER_BEAM;-1|1;COPITH_ULTRAKILL;-1|1;TINY_GHOST;-1|1;RECHARGE;-1||||||||||" >
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="2642497" >
+        value="2739574" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1443,7 +1475,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="381011" >
+        value="389422" >
       </E>
       <E 
         key="GRAHAM_MAGIC_SKIN_CURSE" 
@@ -1471,7 +1503,7 @@
       </E>
       <E 
         key="GUN_ACTION_IF_HALF_STATUS" 
-        value="0" >
+        value="1" >
       </E>
       <E 
         key="HELPLESS_KILLS" 
@@ -1687,11 +1719,11 @@
       </E>
       <E 
         key="apotheosis_markerportal_blue_x" 
-        value="-19910" >
+        value="-22352" >
       </E>
       <E 
         key="apotheosis_markerportal_blue_y" 
-        value="9392" >
+        value="1488" >
       </E>
       <E 
         key="apotheosis_markerportal_green_x" 
@@ -1751,7 +1783,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/nolla.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/colour_invis.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/light.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="fungal_shift_iteration" 
@@ -3419,15 +3451,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_2" 
-        value="2183216" >
+        value="2648557" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_3" 
-        value="1775327" >
+        value="2653742" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_4" 
-        value="1891674" >
+        value="2648572" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_5" 
@@ -3435,7 +3467,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_6" 
-        value="1872861" >
+        value="2653742" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_7" 
@@ -3447,7 +3479,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_2" 
-        value="2523137" >
+        value="2651528" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_3" 
@@ -3459,7 +3491,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_5" 
-        value="2527207" >
+        value="2651106" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HOLDINGWAND_1" 
@@ -3495,7 +3527,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_5" 
-        value="2385150" >
+        value="2652240" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_6" 
@@ -3790,6 +3822,14 @@
         value="736860" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_182_2" 
+        value="2652510" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_183_2" 
+        value="2661630" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_184_2" 
         value="1497900" >
       </E>
@@ -3911,7 +3951,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_3" 
-        value="1712970" >
+        value="2659770" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_4" 
@@ -4031,7 +4071,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_5" 
-        value="1746870" >
+        value="2666460" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_6" 
@@ -4115,15 +4155,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_59_2" 
-        value="2640930" >
+        value="2647560" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_59_3" 
-        value="2641350" >
+        value="2653560" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_59_4" 
-        value="2636790" >
+        value="2653440" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_5_2" 
@@ -4143,7 +4183,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_61_4" 
-        value="2060820" >
+        value="2647170" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_62_4" 
@@ -4627,27 +4667,27 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_178_2" 
-        value="2638697" >
+        value="2652482" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_178_3" 
-        value="2638697" >
+        value="2652482" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_178_4" 
-        value="2638697" >
+        value="2652482" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_179_2" 
-        value="2070910" >
+        value="2647707" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_179_3" 
-        value="2070910" >
+        value="2647707" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_179_4" 
-        value="2070910" >
+        value="2647707" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_180_2" 
@@ -4675,27 +4715,27 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_2" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_3" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_4" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_5" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_6" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_182_7" 
-        value="2641676" >
+        value="2652584" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_184_2" 
@@ -5563,7 +5603,7 @@
       </E>
       <E 
         key="random_twitch_user" 
-        value="" >
+        value="r3ddgh0ul,#8f8f8f,false,false,false:" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -5659,11 +5699,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_underwater,_EMPTY_,$biome_lake,$biome_fungicave,$biom" >
+        value="$biome_holymountain,_EMPTY_,$biome_lava_excavation,$biome_snowcave,$biome_holymo" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="389" >
+        value="393" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -7571,6 +7611,36 @@
       <string>
         new_kill_wizard_corrupt_weaken
       </string>
+      <string>
+        new_kill_shaman_greater_apotheosis
+      </string>
+      <string>
+        apotheosis_temp_battery_donated
+      </string>
+      <string>
+        new_action_delayed_spell
+      </string>
+      <string>
+        new_action_copith_concreteball
+      </string>
+      <string>
+        new_kill_longleg_projectile
+      </string>
+      <string>
+        new_action_glimmers_expanded_colour_fire
+      </string>
+      <string>
+        new_action_glimmers_expanded_cc_colour_glittering_liquid
+      </string>
+      <string>
+        new_action_blood_magic
+      </string>
+      <string>
+        new_action_copith_average_mana
+      </string>
+      <string>
+        new_action_copith_passive_mana
+      </string>
     </flags>
     <changed_materials>
       <string>
@@ -7812,6 +7882,12 @@
       </string>
       <string>
         water
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
       </string>
       <string>
         cc_dull_fungus
@@ -10275,6 +10351,210 @@
       offset_animator_offset.y="0" 
       offset_x="72" 
       offset_y="150" 
+      rect_animation="" 
+      smooth_filtering="0" 
+      special_scale_x="1" 
+      special_scale_y="1" 
+      text="" 
+      transform_offset.x="0" 
+      transform_offset.y="0" 
+      ui_is_parent="0" 
+      update_transform="1" 
+      update_transform_rotation="1" 
+      visible="1" 
+      z_index="0.7" >
+    </SpriteComponent>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="" 
+    serialize="1" 
+    tags="" >
+    <_Transform 
+      position.x="-20737" 
+      position.y="1360" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+    <AudioLoopComponent 
+      _enabled="1" 
+      _tags="enabled_by_liquid" 
+      auto_play="0" 
+      auto_play_if_enabled="1" 
+      calculate_material_lowpass="0" 
+      event_name="misc/teleport_end_loop" 
+      file="data/audio/Desktop/misc.bank" 
+      play_on_component_enable="1" 
+      set_speed_parameter="0" 
+      set_speed_parameter_only_based_on_x_movement="0" 
+      set_speed_parameter_only_based_on_y_movement="0" 
+      volume_autofade_speed="0" >
+    </AudioLoopComponent>
+    <AudioLoopComponent 
+      _enabled="1" 
+      _tags="enabled_by_liquid" 
+      auto_play="0" 
+      auto_play_if_enabled="1" 
+      calculate_material_lowpass="0" 
+      event_name="misc/teleport_end_emitter_loop" 
+      file="data/audio/Desktop/misc.bank" 
+      play_on_component_enable="1" 
+      set_speed_parameter="0" 
+      set_speed_parameter_only_based_on_x_movement="0" 
+      set_speed_parameter_only_based_on_y_movement="0" 
+      volume_autofade_speed="0" >
+    </AudioLoopComponent>
+    <CollisionTriggerComponent 
+      _enabled="1" 
+      destroy_this_entity_when_triggered="0" 
+      height="100" 
+      radius="100" 
+      remove_component_when_triggered="0" 
+      required_tag="player_unit" 
+      self_trigger="0" 
+      skip_self_frames="0" 
+      timer_for_destruction="0" 
+      width="50" >
+    </CollisionTriggerComponent>
+    <LightComponent 
+      _enabled="1" 
+      b="255" 
+      blinking_freq="1" 
+      fade_out_time="0" 
+      g="118" 
+      offset_x="0" 
+      offset_y="0" 
+      r="255" 
+      radius="80" 
+      update_properties="0" >
+    </LightComponent>
+    <LuaComponent 
+      _enabled="1" 
+      call_init_function="0" 
+      enable_coroutines="0" 
+      execute_every_n_frame="-1" 
+      execute_on_added="0" 
+      execute_on_removed="0" 
+      execute_times="0" 
+      limit_all_callbacks="0" 
+      limit_how_many_times_per_frame="-1" 
+      limit_to_every_n_frame="-1" 
+      mLastExecutionFrame="-1" 
+      mModAppendsDone="0" 
+      mTimesExecutedThisFrame="0" 
+      remove_after_executed="0" 
+      script_audio_event_dead="" 
+      script_biome_entered="" 
+      script_collision_trigger_hit="data/scripts/buildings/ear_boss_spot.lua" 
+      script_collision_trigger_timer_finished="" 
+      script_damage_about_to_be_received="" 
+      script_damage_received="" 
+      script_death="" 
+      script_electricity_receiver_electrified="" 
+      script_electricity_receiver_switched="" 
+      script_enabled_changed="" 
+      script_inhaled_material="" 
+      script_interacting="" 
+      script_item_picked_up="" 
+      script_kick="" 
+      script_material_area_checker_failed="" 
+      script_material_area_checker_success="" 
+      script_physics_body_modified="" 
+      script_polymorphing_to="" 
+      script_portal_teleport_used="" 
+      script_pressure_plate_change="" 
+      script_shot="" 
+      script_source_file="" 
+      script_teleported="" 
+      script_throw_item="" 
+      script_wand_fired="" 
+      vm_type="SHARED_BY_MANY_COMPONENTS" >
+    </LuaComponent>
+    <ParticleEmitterComponent 
+      _enabled="1" 
+      airflow_force="0" 
+      airflow_scale="1" 
+      airflow_time="1" 
+      area_circle_radius.max="0" 
+      area_circle_radius.min="0" 
+      area_circle_sector_degrees="360" 
+      attractor_force="0" 
+      b2_force="0" 
+      collide_with_gas_and_fire="1" 
+      collide_with_grid="1" 
+      color="ff301934" 
+      color_is_based_on_pos="0" 
+      cosmetic_force_create="1" 
+      count_max="20" 
+      count_min="10" 
+      create_real_particles="1" 
+      custom_alpha="-1" 
+      custom_style="FIRE" 
+      delay_frames="0" 
+      direction_random_deg="0" 
+      draw_as_long="0" 
+      emission_chance="100" 
+      emission_interval_max_frames="2" 
+      emission_interval_min_frames="1" 
+      emit_cosmetic_particles="0" 
+      emit_only_if_there_is_space="0" 
+      emit_real_particles="0" 
+      emitted_material_name="spark_purple" 
+      emitter_lifetime_frames="-1" 
+      fade_based_on_lifetime="0" 
+      fire_cells_dont_ignite_damagemodel="0" 
+      friction="0" 
+      gravity.x="0" 
+      gravity.y="200" 
+      ignore_transform_updated_msg="0" 
+      image_animation_colors_file="" 
+      image_animation_emission_probability="1" 
+      image_animation_file="" 
+      image_animation_loop="1" 
+      image_animation_phase="0" 
+      image_animation_raytrace_from_center="0" 
+      image_animation_speed="1" 
+      image_animation_use_entity_rotation="0" 
+      is_emitting="1" 
+      is_trail="0" 
+      lifetime_max="1" 
+      lifetime_min="0.4" 
+      offset.x="0" 
+      offset.y="1" 
+      particle_single_width="1" 
+      render_back="1" 
+      render_on_grid="0" 
+      render_ultrabright="0" 
+      set_magic_creation="0" 
+      trail_gap="0" 
+      use_material_inventory="0" 
+      velocity_always_away_from_center="0" 
+      x_pos_offset_max="20" 
+      x_pos_offset_min="-20" 
+      x_vel_max="20" 
+      x_vel_min="-20" 
+      y_pos_offset_max="35" 
+      y_pos_offset_min="-50" 
+      y_vel_max="0" 
+      y_vel_min="0" >
+    </ParticleEmitterComponent>
+    <SpriteComponent 
+      _enabled="1" 
+      additive="0" 
+      alpha="1" 
+      emissive="0" 
+      fog_of_war_hole="0" 
+      has_special_scale="0" 
+      image_file="data/biome_impl/monument_odd.png" 
+      is_text_sprite="0" 
+      kill_entity_after_finished="0" 
+      never_ragdollify_on_death="0" 
+      next_rect_animation="" 
+      offset_animator_offset.x="0" 
+      offset_animator_offset.y="0" 
+      offset_x="37" 
+      offset_y="43" 
       rect_animation="" 
       smooth_filtering="0" 
       special_scale_x="1" 
