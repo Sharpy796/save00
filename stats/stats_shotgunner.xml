@@ -1,4 +1,4 @@
-<Stats deaths="437" kills="155" player_kills="3" player_projectile_count="0" >
+<Stats deaths="439" kills="161" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -62,6 +62,8 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
+    <E key="player_rng_items | $damage_slice" value="2" >
+    </E>
     <E key="rat | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
@@ -96,6 +98,8 @@
     </E>
     <E key="fish" value="5" >
     </E>
+    <E key="frog" value="4" >
+    </E>
     <E key="iceskull" value="7" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="1" >
@@ -114,7 +118,7 @@
     </E>
     <E key="tnt" value="1" >
     </E>
-    <E key="zombie" value="6" >
+    <E key="zombie" value="8" >
     </E>
   </kill_map>
 </Stats>
