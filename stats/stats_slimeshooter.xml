@@ -1,4 +1,4 @@
-<Stats deaths="236" kills="86" player_kills="1" player_projectile_count="0" >
+<Stats deaths="251" kills="96" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,9 +12,9 @@
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="7" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="1" >
+    <E key="NULL | damage from material: freezing liquid" value="3" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="1" >
     </E>
-    <E key="iceskull | $damage_ice" value="4" >
+    <E key="iceskull | $damage_ice" value="5" >
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
@@ -46,11 +46,11 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="8" >
+    <E key="player | $damage_explosion" value="13" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="61" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="player | $damage_slice" value="17" >
     </E>
@@ -68,11 +68,13 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="15" >
+    <E key="sniper | $damage_projectile" value="16" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
-    <E key="thundermage | $damage_electricity" value="2" >
+    <E key="thundermage | $damage_electricity" value="4" >
     </E>
     <E key="wizard_swapper | $damage_explosion" value="1" >
     </E>
@@ -110,13 +112,13 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="54" >
+    <E key="rat" value="63" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="shotgunner" value="3" >
+    <E key="shotgunner" value="4" >
     </E>
     <E key="slimeshooter" value="4" >
     </E>

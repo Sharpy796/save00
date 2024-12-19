@@ -1,4 +1,4 @@
-<Stats deaths="58" kills="37" player_kills="1" player_projectile_count="0" >
+<Stats deaths="64" kills="45" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
@@ -8,17 +8,19 @@
     </E>
     <E key="NULL | $damage_radioactive" value="1" >
     </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="7" >
+    <E key="player | $damage_explosion" value="11" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="20" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
@@ -36,13 +38,13 @@
     </E>
     <E key="glue" value="5" >
     </E>
-    <E key="iceskull" value="4" >
+    <E key="iceskull" value="5" >
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="pollen" value="7" >
+    <E key="pollen" value="8" >
     </E>
-    <E key="rat" value="5" >
+    <E key="rat" value="11" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>

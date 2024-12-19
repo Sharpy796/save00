@@ -1,4 +1,4 @@
-<Stats deaths="121" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="130" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,17 +8,17 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
-    <E key="NULL | $damage_radioactive" value="18" >
+    <E key="NULL | $damage_radioactive" value="22" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="2" >
+    <E key="NULL | damage from material: lava" value="3" >
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="4" >
+    <E key="player | $damage_explosion" value="6" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="goblin_bomb" value="3" >
     </E>
-    <E key="rat" value="13" >
+    <E key="rat" value="14" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

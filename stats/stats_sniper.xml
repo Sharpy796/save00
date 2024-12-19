@@ -1,16 +1,16 @@
-<Stats deaths="225" kills="197" player_kills="0" player_projectile_count="0" >
+<Stats deaths="241" kills="212" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="4" >
     </E>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="27" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="13" >
     </E>
     <E key="NULL | $damage_physicshit" value="22" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="60" >
+    <E key="player | $damage_projectile" value="63" >
     </E>
     <E key="player | $damage_slice" value="9" >
     </E>
@@ -68,17 +68,17 @@
     </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
-    <E key="thundermage | $damage_explosion" value="2" >
+    <E key="thundermage | $damage_explosion" value="6" >
     </E>
     <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>
-    <E key="worm_tiny | worm bite" value="1" >
+    <E key="worm_tiny | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
-    <E key="drone_lasership" value="2" >
+    <E key="drone_lasership" value="3" >
     </E>
     <E key="fish" value="11" >
     </E>
@@ -94,15 +94,15 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="93" >
+    <E key="rat" value="103" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="shotgunner" value="6" >
+    <E key="shotgunner" value="7" >
     </E>
-    <E key="slimeshooter" value="15" >
+    <E key="slimeshooter" value="16" >
     </E>
     <E key="sniper" value="4" >
     </E>
@@ -111,6 +111,8 @@
     <E key="thundermage" value="1" >
     </E>
     <E key="thunderskull" value="1" >
+    </E>
+    <E key="worm_tiny" value="2" >
     </E>
     <E key="zombie" value="1" >
     </E>

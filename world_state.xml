@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="44.2414" 
-    clouds_02_target="59.8725" 
+    clouds_01_target="58.2061" 
+    clouds_02_target="91.2105" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="2" 
-    fog="0" 
-    fog_target="0" 
+    day_count="14" 
+    fog="0.593399" 
+    fog_target="0.598391" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -41,7 +41,7 @@
     open_fog_of_war_everywhere="0" 
     perk_gold_is_forever="0" 
     perk_hp_drop_chance="0" 
-    perk_infinite_spells="0" 
+    perk_infinite_spells="1" 
     perk_rats_player_friendly="0" 
     perk_trick_kills_blood_money="0" 
     player_did_damage_over_1milj="0" 
@@ -51,43 +51,91 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0" 
-    rain_target="0" 
+    rain="0.593399" 
+    rain_target="0.598391" 
     session_stat_file="??STA/sessions/20241218-010631" 
     sky_sunset_alpha_target="1" 
-    time="0.308676" 
+    time="0.756036" 
     time_dt="1" 
-    time_total="1.73319" 
+    time_total="14.106" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.110459" 
-    wind_speed="-6.6276" 
+    wind="-0.3247" 
+    wind_speed="-19.4821" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="2" >
+        value="9" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="1" >
+        value="3" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
         value="8,1 1,-3 -9,7 -8,19 -18,28 -20,5 -1,31 20,31 19,5 6,3 19,-3" >
       </E>
       <E 
+        key="PERK_PICKED_MANA_FROM_KILLS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_SHIELD_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_UNLIMITED_SPELLS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_SHIELD_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="STEVARI_DEATHS" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_1307" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_4891" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_5" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="4" >
+        value="10" >
+      </E>
+      <E 
+        key="TEMPLE_PERK_REROLL_COUNT" 
+        value="3" >
+      </E>
+      <E 
+        key="TEMPLE_REROLL_PERK_INDEX" 
+        value="97" >
+      </E>
+      <E 
+        key="TEMPLE_SPAWN_GUARDIAN" 
+        value="1" >
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_coalmine_alt,$biome_holymountain,$biome_coalmine,_EMPTY_," >
+        value="$biome_holymountain,$biome_snowcave,$biome_excavationsite,$biome_coalmine,$biome" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="5" >
+        value="15" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -103,6 +151,9 @@
       <primitive>
         0
       </primitive>
+      <primitive>
+        3
+      </primitive>
     </orbs_found_thisrun>
     <flags>
       <string>
@@ -116,6 +167,75 @@
       </string>
       <string>
         PERK_DISSOLVE_POWDERS
+      </string>
+      <string>
+        new_action_fire_blast
+      </string>
+      <string>
+        PERK_MANA_FROM_KILLS
+      </string>
+      <string>
+        PERK_FOOD_CLOCK
+      </string>
+      <string>
+        PERK_ORBIT
+      </string>
+      <string>
+        new_perk_picked_mana_from_kills
+      </string>
+      <string>
+        PERK_PICKED_MANA_FROM_KILLS
+      </string>
+      <string>
+        PERK_FASTER_LEVITATION
+      </string>
+      <string>
+        PERK_PLAGUE_RATS
+      </string>
+      <string>
+        PERK_FREEZE_FIELD
+      </string>
+      <string>
+        PERK_GLASS_CANNON
+      </string>
+      <string>
+        PERK_SHIELD
+      </string>
+      <string>
+        PERK_BLEED_OIL
+      </string>
+      <string>
+        PERK_PICKED_SHIELD
+      </string>
+      <string>
+        PERK_TELEPORTITIS
+      </string>
+      <string>
+        PERK_PROJECTILE_SLOW_FIELD
+      </string>
+      <string>
+        PERK_STRONG_KICK
+      </string>
+      <string>
+        PERK_UNLIMITED_SPELLS
+      </string>
+      <string>
+        PERK_CORDYCEPS
+      </string>
+      <string>
+        PERK_FAST_PROJECTILES
+      </string>
+      <string>
+        PERK_PICKED_UNLIMITED_SPELLS
+      </string>
+      <string>
+        statue_hands_destroyed_1
+      </string>
+      <string>
+        new_action_larpa_downwards
+      </string>
+      <string>
+        new_action_hitfx_explosion_alcohol
       </string>
     </flags>
     <changed_materials>
