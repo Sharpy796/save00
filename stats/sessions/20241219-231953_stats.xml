@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="6" damage_taken="42.5241" dead="1" death_count="0" death_pos.x="-407.025" death_pos.y="5653.79" enemies_killed="327" gold="1514" gold_all="4474" gold_infinite="0" healed="0.8" heart_containers="0" hp="100" items="90" kicks="315" killed_by=" | explosion" killed_by_extra="" places_visited="6" playtime="10713.5" playtime_str="2:58:33" projectiles_shot="9985" streaks="0" teleports="33" wands_edited="25" world_seed="1111622970" >
+  <stats biomes_visited_with_wands="5" damage_taken="14.9445" dead="1" death_count="0" death_pos.x="465.848" death_pos.y="4228.52" enemies_killed="178" gold="680" gold_all="1630" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="22" kicks="64" killed_by="Ukko | electricity" killed_by_extra="" places_visited="5" playtime="2101.48" playtime_str="0:35:01" projectiles_shot="15574" streaks="0" teleports="0" wands_edited="15" world_seed="864131491" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -8,13 +8,11 @@
   <biomes_visited>
     <E key="$biome_coalmine" value="1" >
     </E>
-    <E key="$biome_coalmine_alt" value="1" >
-    </E>
     <E key="$biome_excavationsite" value="1" >
     </E>
-    <E key="$biome_holymountain" value="1" >
+    <E key="$biome_fungicave" value="1" >
     </E>
-    <E key="$biome_snowcastle" value="1" >
+    <E key="$biome_holymountain" value="1" >
     </E>
     <E key="$biome_snowcave" value="1" >
     </E>

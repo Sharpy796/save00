@@ -1,4 +1,4 @@
-<Stats deaths="14" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="16" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="7" >
     </E>
     <E key="worm | worm bite" value="1" >
     </E>
@@ -18,6 +18,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="goblin_bomb" value="1" >
+    </E>
     <E key="tank" value="1" >
     </E>
   </kill_map>
