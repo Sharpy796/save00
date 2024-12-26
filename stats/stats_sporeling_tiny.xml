@@ -1,8 +1,8 @@
-<Stats deaths="84" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="96" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="15" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
     <E key="NULL | $damage_fire" value="14" >
     </E>
@@ -10,11 +10,13 @@
     </E>
     <E key="NULL | $damage_projectile" value="7" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="10" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="blob_big | $damage_melee" value="1" >
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="blob_big | $damage_melee" value="3" >
     </E>
     <E key="bloom | $damage_projectile" value="3" >
     </E>
@@ -22,7 +24,7 @@
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="4" >
     </E>
     <E key="player | $damage_projectile" value="3" >
     </E>

@@ -1,16 +1,26 @@
-<Stats deaths="13" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="24" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="conduit | $damage_melee" value="1" >
     </E>
+    <E key="fallen_alchemist | $damage_projectile" value="1" >
+    </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
+    </E>
     <E key="longleg | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="1" >
+    <E key="miner_weak | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="8" >
+    <E key="miner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="14" >
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="2" >
     </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="1" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="eye_bat" value="1" >
+    </E>
   </kill_map>
 </Stats>

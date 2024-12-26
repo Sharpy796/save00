@@ -1,0 +1,22 @@
+<Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
+  <stats biomes_visited_with_wands="6" damage_taken="16.1024" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="404" gold="4273" gold_all="4843" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="52" kicks="166" killed_by="" killed_by_extra="" places_visited="6" playtime="6281.63" playtime_str="1:44:41" projectiles_shot="20141" streaks="0" teleports="12" wands_edited="19" world_seed="291979230" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="4" damage_taken="3.97167" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="96" gold="1056" gold_all="1186" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="20" kicks="45" killed_by="" killed_by_extra="" places_visited="4" playtime="1959.62" playtime_str="0:32:39" projectiles_shot="2164" streaks="0" teleports="0" wands_edited="10" world_seed="291979230" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="Aquifer" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>
