@@ -1,4 +1,4 @@
-<Stats deaths="83" kills="20" player_kills="1" player_projectile_count="0" >
+<Stats deaths="85" kills="20" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
@@ -53,6 +53,8 @@
     <E key="thundermage | $damage_explosion" value="2" >
     </E>
     <E key="thundermage | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>

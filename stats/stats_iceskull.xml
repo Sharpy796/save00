@@ -1,4 +1,4 @@
-<Stats deaths="197" kills="215" player_kills="0" player_projectile_count="0" >
+<Stats deaths="202" kills="220" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
@@ -30,9 +30,11 @@
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_fire" value="4" >
+    <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="54" >
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="55" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -78,13 +80,15 @@
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
+    <E key="player_ai_hitbox" value="1" >
+    </E>
     <E key="pollen" value="39" >
     </E>
     <E key="potion" value="3" >
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="74" >
+    <E key="rat" value="77" >
     </E>
     <E key="scavenger_glue" value="5" >
     </E>
@@ -94,7 +98,7 @@
     </E>
     <E key="scavenger_smg" value="10" >
     </E>
-    <E key="shotgunner" value="11" >
+    <E key="shotgunner" value="12" >
     </E>
     <E key="slimeshooter" value="4" >
     </E>

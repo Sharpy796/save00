@@ -1,4 +1,4 @@
-<Stats deaths="89" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="101" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -6,13 +6,13 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="53" >
+    <E key="NULL | run out of material" value="58" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -26,7 +26,9 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="11" >
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -35,6 +37,8 @@
     <E key="player_ai | $damage_kick" value="1" >
     </E>
     <E key="sawbot | bzzt!" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>

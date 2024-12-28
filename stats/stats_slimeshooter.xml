@@ -1,4 +1,4 @@
-<Stats deaths="238" kills="86" player_kills="1" player_projectile_count="0" >
+<Stats deaths="240" kills="87" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="player | $damage_explosion" value="8" >
     </E>
-    <E key="player | $damage_fire" value="6" >
+    <E key="player | $damage_fire" value="7" >
     </E>
     <E key="player | $damage_projectile" value="63" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="15" >
+    <E key="sniper | $damage_projectile" value="16" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
@@ -110,7 +110,7 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="54" >
+    <E key="rat" value="55" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
