@@ -1,4 +1,4 @@
-<Stats deaths="560" kills="41" player_kills="0" player_projectile_count="0" >
+<Stats deaths="593" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="51" >
+    <E key="NULL | $damage_explosion" value="54" >
     </E>
     <E key="NULL | $damage_physicshit" value="17" >
     </E>
@@ -26,6 +26,8 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
+    <E key="lukki_fire_tiny | $damage_curse" value="5" >
+    </E>
     <E key="miner | $damage_explosion" value="2" >
     </E>
     <E key="miner | $damage_melee" value="3" >
@@ -40,7 +42,7 @@
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="110" >
+    <E key="player | $damage_projectile" value="134" >
     </E>
     <E key="player | $damage_slice" value="24" >
     </E>
@@ -54,6 +56,8 @@
     </E>
     <E key="sunegg | $damage_sun" value="189" >
     </E>
+    <E key="triangle_gem | $damage_projectile" value="1" >
+    </E>
     <E key="whisp_big | $damage_fire" value="2" >
     </E>
   </death_map>
@@ -62,7 +66,7 @@
     </E>
     <E key="firebug" value="5" >
     </E>
-    <E key="goblin_bomb" value="2" >
+    <E key="goblin_bomb" value="4" >
     </E>
     <E key="longleg" value="1" >
     </E>
@@ -76,7 +80,7 @@
     </E>
     <E key="slimeshooter" value="1" >
     </E>
-    <E key="whisp" value="6" >
+    <E key="whisp" value="7" >
     </E>
   </kill_map>
 </Stats>

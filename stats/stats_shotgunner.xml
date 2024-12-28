@@ -1,10 +1,10 @@
-<Stats deaths="467" kills="159" player_kills="3" player_projectile_count="0" >
+<Stats deaths="480" kills="159" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -12,11 +12,13 @@
     </E>
     <E key="NULL | $damage_fire" value="28" >
     </E>
-    <E key="NULL | $damage_physicshit" value="35" >
+    <E key="NULL | $damage_physicshit" value="36" >
     </E>
     <E key="NULL | $damage_radioactive" value="39" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
@@ -58,7 +60,9 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="121" >
+    <E key="player | $damage_projectile" value="128" >
+    </E>
+    <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_slice" value="38" >
     </E>
@@ -79,6 +83,8 @@
     <E key="slicing_blade | chop!" value="1" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="3" >
+    </E>
+    <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>

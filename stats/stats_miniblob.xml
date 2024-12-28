@@ -1,10 +1,10 @@
-<Stats deaths="839" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="922" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="49" >
+    <E key="NULL | $damage_drowning" value="53" >
     </E>
     <E key="NULL | $damage_electricity" value="100" >
     </E>
-    <E key="NULL | $damage_explosion" value="106" >
+    <E key="NULL | $damage_explosion" value="115" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -32,11 +32,15 @@
     </E>
     <E key="flamer | $damage_explosion" value="1" >
     </E>
-    <E key="fly | $damage_melee" value="3" >
+    <E key="fly | $damage_melee" value="5" >
     </E>
     <E key="frog_big | $damage_melee" value="3" >
     </E>
     <E key="icer | $damage_explosion" value="1" >
+    </E>
+    <E key="jungle_flower | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_fungus | hit" value="4" >
     </E>
     <E key="miniblob | $damage_melee" value="6" >
     </E>
@@ -52,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="226" >
+    <E key="player | $damage_projectile" value="283" >
     </E>
     <E key="player | $damage_slice" value="44" >
     </E>
@@ -100,11 +104,15 @@
     </E>
     <E key="thunderskull | $damage_melee" value="2" >
     </E>
+    <E key="triangle_gem | $damage_projectile" value="1" >
+    </E>
     <E key="wizard_dark | $damage_projectile" value="2" >
     </E>
     <E key="wizard_swapper | $damage_explosion" value="6" >
     </E>
     <E key="wizard_twitchy | $damage_projectile" value="2" >
+    </E>
+    <E key="worm | worm bite" value="5" >
     </E>
     <E key="worm_skull | worm bite" value="37" >
     </E>

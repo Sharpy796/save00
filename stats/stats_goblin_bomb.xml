@@ -1,4 +1,4 @@
-<Stats deaths="124" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="138" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,9 +12,9 @@
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
-    <E key="NULL | $damage_radioactive" value="19" >
+    <E key="NULL | $damage_radioactive" value="20" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="12" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
@@ -22,19 +22,21 @@
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
-    <E key="firebug | $damage_fire" value="2" >
+    <E key="firebug | $damage_fire" value="4" >
     </E>
     <E key="goblin_bomb | $damage_explosion" value="3" >
+    </E>
+    <E key="lukki_fire_tiny | $damage_curse" value="1" >
     </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="4" >
+    <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="24" >
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="12" >
     </E>

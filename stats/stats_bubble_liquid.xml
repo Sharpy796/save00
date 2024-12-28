@@ -1,8 +1,10 @@
-<Stats deaths="101" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="107" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -18,6 +20,8 @@
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
     </E>
+    <E key="drone_face | $damage_slice" value="1" >
+    </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
@@ -28,7 +32,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="15" >
+    <E key="player | $damage_projectile" value="17" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -44,7 +48,7 @@
     </E>
     <E key="sniper | $damage_projectile" value="1" >
     </E>
-    <E key="wizard_corrupt_hearty | $damage_projectile" value="1" >
+    <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>

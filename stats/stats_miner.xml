@@ -1,4 +1,4 @@
-<Stats deaths="257" kills="65" player_kills="0" player_projectile_count="0" >
+<Stats deaths="263" kills="67" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="15" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="27" >
     </E>
-    <E key="NULL | $damage_physicshit" value="23" >
+    <E key="NULL | $damage_physicshit" value="25" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -29,6 +29,8 @@
     <E key="firebug | $damage_fire" value="2" >
     </E>
     <E key="firebug | $damage_melee" value="2" >
+    </E>
+    <E key="graham_miner_gasser | $damage_radioactive" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="6" >
     </E>
@@ -62,6 +64,8 @@
     </E>
     <E key="firebug" value="5" >
     </E>
+    <E key="frog_bot" value="1" >
+    </E>
     <E key="miner" value="7" >
     </E>
     <E key="rat" value="33" >
@@ -73,6 +77,8 @@
     <E key="shotgunner" value="4" >
     </E>
     <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tnt" value="1" >
     </E>
     <E key="waterskull" value="2" >
     </E>

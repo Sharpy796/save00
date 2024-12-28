@@ -1,4 +1,4 @@
-<Stats deaths="298" kills="54" player_kills="0" player_projectile_count="0" >
+<Stats deaths="337" kills="61" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,17 +6,23 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="48" >
+    <E key="NULL | $damage_explosion" value="59" >
     </E>
     <E key="NULL | $damage_holy" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="11" >
     </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
     <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="blob | $damage_explosion" value="4" >
     </E>
     <E key="blob | $damage_melee" value="4" >
     </E>
     <E key="frog_big | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_fungus | hit" value="6" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -28,7 +34,7 @@
     </E>
     <E key="player | $damage_melee" value="21" >
     </E>
-    <E key="player | $damage_projectile" value="64" >
+    <E key="player | $damage_projectile" value="80" >
     </E>
     <E key="player | $damage_slice" value="41" >
     </E>
@@ -48,19 +54,27 @@
     </E>
     <E key="wizard_swapper | $damage_explosion" value="3" >
     </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
     <E key="worm_skull | worm bite" value="8" >
     </E>
   </death_map>
   <kill_map>
-    <E key="blob" value="4" >
+    <E key="blob" value="8" >
+    </E>
+    <E key="blob_mini" value="1" >
     </E>
     <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="fish" value="2" >
     </E>
+    <E key="fungus_tiny" value="1" >
+    </E>
     <E key="longleg" value="1" >
     </E>
     <E key="miniblob" value="12" >
+    </E>
+    <E key="poisonmushroom" value="1" >
     </E>
     <E key="rat" value="20" >
     </E>
