@@ -1,10 +1,10 @@
-<Stats deaths="1660" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1667" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="33" >
+    <E key="NULL | $damage_drowning" value="37" >
     </E>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="bigfirebug | $damage_projectile" value="4" >
     </E>
-    <E key="blob | $damage_melee" value="20" >
+    <E key="blob | $damage_melee" value="21" >
     </E>
     <E key="boss_dragon | $damage_projectile" value="1" >
     </E>
@@ -132,7 +132,7 @@
     </E>
     <E key="miner_hell | $damage_melee" value="4" >
     </E>
-    <E key="miniblob | $damage_melee" value="9" >
+    <E key="miniblob | $damage_melee" value="10" >
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
@@ -265,6 +265,8 @@
     <E key="worm | worm bite" value="10" >
     </E>
     <E key="worm_big | worm bite" value="17" >
+    </E>
+    <E key="worm_fungal | worm bite" value="1" >
     </E>
     <E key="worm_tiny | worm bite" value="21" >
     </E>

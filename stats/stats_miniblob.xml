@@ -1,10 +1,10 @@
-<Stats deaths="922" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1072" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="53" >
+    <E key="NULL | $damage_drowning" value="60" >
     </E>
-    <E key="NULL | $damage_electricity" value="100" >
+    <E key="NULL | $damage_electricity" value="101" >
     </E>
-    <E key="NULL | $damage_explosion" value="115" >
+    <E key="NULL | $damage_explosion" value="126" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -20,9 +20,19 @@
     </E>
     <E key="ant | $damage_melee" value="12" >
     </E>
+    <E key="attack_drone | $damage_projectile" value="4" >
+    </E>
     <E key="bigzombie | $damage_melee" value="1" >
     </E>
     <E key="blob | $damage_melee" value="12" >
+    </E>
+    <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="cargobot | $damage_explosion" value="2" >
+    </E>
+    <E key="cargobot | $damage_projectile" value="1" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="5" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -48,7 +58,7 @@
     </E>
     <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="29" >
+    <E key="player | $damage_explosion" value="35" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -56,7 +66,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="283" >
+    <E key="player | $damage_projectile" value="388" >
     </E>
     <E key="player | $damage_slice" value="44" >
     </E>
@@ -68,11 +78,11 @@
     </E>
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_glue | $damage_melee" value="3" >
+    <E key="scavenger_glue | $damage_melee" value="4" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="2" >
+    <E key="shooterflower | $damage_projectile" value="3" >
     </E>
     <E key="skullrat | $damage_melee" value="3" >
     </E>
@@ -89,6 +99,10 @@
     <E key="spearbot | $damage_holy" value="1" >
     </E>
     <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_fire2 | $damage_explosion" value="2" >
+    </E>
+    <E key="tentacle_portal_npc | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_electricity" value="2" >
     </E>
@@ -114,6 +128,8 @@
     </E>
     <E key="worm | worm bite" value="5" >
     </E>
+    <E key="worm_fungal | worm bite" value="2" >
+    </E>
     <E key="worm_skull | worm bite" value="37" >
     </E>
     <E key="zombie | $damage_melee" value="8" >
@@ -132,7 +148,9 @@
     </E>
     <E key="miniblob" value="6" >
     </E>
-    <E key="rat" value="9" >
+    <E key="poisonmushroom" value="1" >
+    </E>
+    <E key="rat" value="10" >
     </E>
     <E key="scorpion" value="1" >
     </E>

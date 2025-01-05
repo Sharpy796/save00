@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="22" damage_taken="90.0193" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="975" gold="11290" gold_all="14995" gold_infinite="0" healed="2399.8" heart_containers="0" hp="100" items="329" kicks="698" killed_by="" killed_by_extra="" places_visited="22" playtime="15525.9" playtime_str="4:18:45" projectiles_shot="65340" streaks="0" teleports="22" wands_edited="40" world_seed="291979230" >
+  <stats biomes_visited_with_wands="27" damage_taken="362.119" dead="1" death_count="0" death_pos.x="1905.52" death_pos.y="12162.5" enemies_killed="1522" gold="13149" gold_all="34884" gold_infinite="0" healed="4433.31" heart_containers="0" hp="100" items="443" kicks="975" killed_by="(Vanilla) Maadoittajamestari | projectile" killed_by_extra=", while polymorphed to (Vanilla) Lentolammas" places_visited="27" playtime="22018.5" playtime_str="6:06:58" projectiles_shot="133231" streaks="0" teleports="24" wands_edited="63" world_seed="291979230" >
   </stats>
   <biome_baseline biomes_visited_with_wands="11" damage_taken="30.4165" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="620" gold="6853" gold_all="9983" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="187" kicks="419" killed_by="" killed_by_extra="" places_visited="11" playtime="10196" playtime_str="2:49:56" projectiles_shot="41446" streaks="0" teleports="17" wands_edited="29" world_seed="291979230" >
   </biome_baseline>
@@ -9,6 +9,8 @@
     <E key="$biome_ant_hell" value="1" >
     </E>
     <E key="$biome_barren" value="1" >
+    </E>
+    <E key="$biome_boss_arena" value="1" >
     </E>
     <E key="$biome_coalmine_alt" value="1" >
     </E>
@@ -28,17 +30,23 @@
     </E>
     <E key="$biome_lava_excavation" value="1" >
     </E>
+    <E key="$biome_orbroom" value="1" >
+    </E>
     <E key="$biome_potion_mimics" value="1" >
     </E>
     <E key="$biome_pyramid" value="1" >
     </E>
     <E key="$biome_rainforest" value="1" >
     </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
     <E key="$biome_secret_lab" value="1" >
     </E>
     <E key="$biome_snowcastle" value="1" >
     </E>
     <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
     </E>
     <E key="$biome_watchtower" value="1" >
     </E>
@@ -48,7 +56,9 @@
     </E>
     <E key="Hiisi Village" value="3" >
     </E>
-    <E key="Overgrown Laboratory" value="1" >
+    <E key="Holy Temple" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="2" >
     </E>
   </biomes_visited>
 </Stats>

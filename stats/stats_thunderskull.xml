@@ -1,4 +1,4 @@
-<Stats deaths="140" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="146" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="16" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -36,6 +36,8 @@
     </E>
     <E key="iceskull | $damage_explosion" value="1" >
     </E>
+    <E key="junkbot | Junk bot's Slice" value="1" >
+    </E>
     <E key="lukki_tentacle_hungry | $damage_projectile" value="2" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
@@ -46,9 +48,11 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="41" >
     </E>
     <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="scavenger_electrocuter2 | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
@@ -78,6 +82,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="blindgazer" value="1" >
+    </E>
     <E key="gazer" value="1" >
     </E>
     <E key="miniblob" value="3" >

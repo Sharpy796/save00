@@ -1,10 +1,10 @@
-<Stats deaths="735" kills="21" player_kills="1" player_projectile_count="0" >
+<Stats deaths="741" kills="21" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="20" >
+    <E key="NULL | $damage_drowning" value="21" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
@@ -72,6 +72,8 @@
     </E>
     <E key="miner_weak | $damage_melee" value="7" >
     </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
     <E key="player | " value="9" >
     </E>
     <E key="player | $damage_explosion" value="8" >
@@ -105,6 +107,10 @@
     <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="11" >
+    </E>
+    <E key="wraith_returner_apotheosis | $damage_explosion" value="3" >
+    </E>
+    <E key="wraith_returner_apotheosis | $damage_projectile" value="1" >
     </E>
     <E key="zombie_weak | $damage_melee" value="8" >
     </E>
