@@ -1,14 +1,18 @@
-<Stats deaths="11" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_radioactive" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
     <E key="drone_face | $damage_slice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="7" >
     </E>
   </death_map>
   <kill_map>

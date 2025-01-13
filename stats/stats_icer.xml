@@ -1,13 +1,15 @@
-<Stats deaths="6" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="7" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>
+    <E key="glue" value="14" >
+    </E>
     <E key="healerdrone_physics" value="1" >
     </E>
     <E key="miniblob" value="1" >

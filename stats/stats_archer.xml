@@ -1,14 +1,24 @@
-<Stats deaths="5" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="4" >
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="archer | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="5" >
     </E>
   </death_map>
   <kill_map>
+    <E key="archer" value="1" >
+    </E>
     <E key="frog" value="1" >
     </E>
     <E key="rat" value="3" >
+    </E>
+    <E key="skeleton" value="1" >
     </E>
   </kill_map>
 </Stats>

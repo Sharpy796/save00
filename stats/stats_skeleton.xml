@@ -1,36 +1,48 @@
-<Stats deaths="39" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="71" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="4" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
+    <E key="NULL | damage from material: (new_enemies) weak acid" value="1" >
+    </E>
+    <E key="archer | $damage_projectile" value="1" >
+    </E>
     <E key="conduit | $damage_melee" value="2" >
     </E>
-    <E key="fallen_alchemist | $damage_projectile" value="1" >
+    <E key="fallen_alchemist | $damage_projectile" value="2" >
     </E>
     <E key="hisii_minecart_weak | $damage_projectile" value="1" >
     </E>
-    <E key="longleg | $damage_melee" value="1" >
+    <E key="longleg | $damage_melee" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="5" >
+    <E key="miner_weak | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="17" >
+    <E key="miner_weak | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
     <E key="playerghost | $damage_melee" value="2" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    <E key="shotgunner_weak | $damage_projectile" value="4" >
+    </E>
+    <E key="skeleton | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
     <E key="eye_bat" value="1" >
     </E>
     <E key="longleg" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
     </E>
   </kill_map>
 </Stats>

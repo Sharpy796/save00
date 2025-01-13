@@ -1,0 +1,194 @@
+<Stats deaths="1" kills="304" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="alien" value="3" >
+    </E>
+    <E key="archer" value="1" >
+    </E>
+    <E key="assassin" value="1" >
+    </E>
+    <E key="axeman" value="4" >
+    </E>
+    <E key="balloon" value="2" >
+    </E>
+    <E key="bat" value="12" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="booze" value="2" >
+    </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="crawler" value="3" >
+    </E>
+    <E key="cyborg" value="1" >
+    </E>
+    <E key="dripper" value="2" >
+    </E>
+    <E key="drone2" value="1" >
+    </E>
+    <E key="drone_face2" value="2" >
+    </E>
+    <E key="duck" value="9" >
+    </E>
+    <E key="enchanted_duck" value="1" >
+    </E>
+    <E key="eye_bat" value="5" >
+    </E>
+    <E key="fairy_big" value="5" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="11" >
+    </E>
+    <E key="flamer" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="frog_bot" value="1" >
+    </E>
+    <E key="fungus_smoking_creep" value="1" >
+    </E>
+    <E key="glue" value="35" >
+    </E>
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="goo_slug" value="3" >
+    </E>
+    <E key="graham_fuzz" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="ground_terror" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="icer" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="knight" value="6" >
+    </E>
+    <E key="longleg" value="35" >
+    </E>
+    <E key="mexxi" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner_alcohol" value="3" >
+    </E>
+    <E key="miner_axe" value="2" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="miner_weak" value="9" >
+    </E>
+    <E key="monkey" value="2" >
+    </E>
+    <E key="mummy" value="3" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="nautilus" value="1" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="nova" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="powder_stash" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="sawbot" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_oiler" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="sheep" value="5" >
+    </E>
+    <E key="sheep_bat" value="6" >
+    </E>
+    <E key="sheep_fly" value="16" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="singularitor" value="1" >
+    </E>
+    <E key="skeleton" value="6" >
+    </E>
+    <E key="slime_ghoul" value="2" >
+    </E>
+    <E key="slime_roller" value="5" >
+    </E>
+    <E key="slime_turret" value="3" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="toilet_paper" value="2" >
+    </E>
+    <E key="welder" value="1" >
+    </E>
+    <E key="whisp" value="21" >
+    </E>
+    <E key="wizard_copeseethmald" value="1" >
+    </E>
+    <E key="wizard_duck" value="1" >
+    </E>
+    <E key="wizard_earthquake" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="wizard_z_poly_miniboss" value="1" >
+    </E>
+    <E key="yoyoer" value="2" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_water" value="3" >
+    </E>
+  </kill_map>
+</Stats>

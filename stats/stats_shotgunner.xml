@@ -1,10 +1,10 @@
-<Stats deaths="480" kills="159" player_kills="3" player_projectile_count="0" >
+<Stats deaths="488" kills="161" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="8" >
+    <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="36" >
     </E>
-    <E key="NULL | $damage_radioactive" value="39" >
+    <E key="NULL | $damage_radioactive" value="41" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="128" >
+    <E key="player | $damage_projectile" value="131" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
-    <E key="shotgunner | $damage_explosion" value="3" >
+    <E key="shotgunner | $damage_explosion" value="4" >
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="rat" value="112" >
     </E>
-    <E key="shotgunner" value="4" >
+    <E key="shotgunner" value="5" >
     </E>
     <E key="slimeshooter" value="6" >
     </E>
@@ -126,7 +126,7 @@
     </E>
     <E key="tnt" value="1" >
     </E>
-    <E key="zombie" value="6" >
+    <E key="zombie" value="7" >
     </E>
   </kill_map>
 </Stats>

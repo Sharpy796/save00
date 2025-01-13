@@ -1,4 +1,4 @@
-<Stats deaths="202" kills="220" player_kills="0" player_projectile_count="0" >
+<Stats deaths="202" kills="222" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
-    <E key="scavenger_smg" value="10" >
+    <E key="scavenger_smg" value="11" >
     </E>
     <E key="shotgunner" value="12" >
     </E>
@@ -105,6 +105,8 @@
     <E key="sniper" value="2" >
     </E>
     <E key="swarm_fly" value="13" >
+    </E>
+    <E key="tentacler_small" value="1" >
     </E>
     <E key="thunderskull" value="1" >
     </E>

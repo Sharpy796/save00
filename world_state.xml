@@ -1,0 +1,825 @@
+<Entity 
+  _version="1" 
+  name="unknown" 
+  serialize="0" 
+  tags="world_state" >
+  <_Transform 
+    position.x="0" 
+    position.y="0" 
+    rotation="0" 
+    scale.x="1" 
+    scale.y="1" >
+  </_Transform>
+  <WorldStateComponent 
+    DEBUG_LOADED_FROM_AUTOSAVE="0" 
+    DEBUG_LOADED_FROM_OLD_VERSION="0" 
+    ENDING_HAPPINESS="0" 
+    ENDING_HAPPINESS_FRAMES="0" 
+    ENDING_HAPPINESS_HAPPENING="0" 
+    EVERYTHING_TO_GOLD="0" 
+    INFINITE_GOLD_HAPPENING="0" 
+    _enabled="1" 
+    clouds_01_target="71.8298" 
+    clouds_02_target="121.783" 
+    consume_actions="1" 
+    damage_flash_multiplier="1" 
+    day_count="0" 
+    fog="0" 
+    fog_target="0" 
+    global_genome_relations_modifier="0" 
+    gore_multiplier="1" 
+    gradient_sky_alpha_target="0" 
+    intro_weather="0" 
+    is_initialized="1" 
+    lightning_count="0" 
+    mFlashAlpha="0" 
+    material_everything_to_gold="gold" 
+    material_everything_to_gold_static="gold_static" 
+    mods_have_been_active_during_this_run="1" 
+    next_cut_through_world_id="0" 
+    next_portal_id="1" 
+    open_fog_of_war_everywhere="0" 
+    perk_gold_is_forever="0" 
+    perk_hp_drop_chance="0" 
+    perk_infinite_spells="0" 
+    perk_rats_player_friendly="0" 
+    perk_trick_kills_blood_money="0" 
+    player_did_damage_over_1milj="0" 
+    player_did_infinite_spell_count="0" 
+    player_living_with_minus_hp="0" 
+    player_polymorph_count="0" 
+    player_polymorph_random_count="0" 
+    player_spawn_location.x="0" 
+    player_spawn_location.y="0" 
+    rain="0.00498829" 
+    rain_target="0" 
+    session_stat_file="??STA/sessions/20250112-231430" 
+    sky_sunset_alpha_target="1" 
+    time="0.494469" 
+    time_dt="1" 
+    time_total="2.92933" 
+    trick_kill_gold_multiplier="2" 
+    twitch_has_been_active_during_this_run="1" 
+    wind="-0.35979" 
+    wind_speed="-21.5875" 
+    wind_speed_sin="3" 
+    wind_speed_sin_t="10" >
+    <lua_globals>
+      <E 
+        key="ACTION_BOMB" 
+        value="data/entities/projectiles/bomb.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_WARPTELEDEATHTRIGGER" 
+        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_BRAMBALL_TRIGGER" 
+        value="mods/grahamsperks/files/spells/bramball.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_LUMINOUS_DRILL" 
+        value="data/entities/projectiles/deck/luminous_drill.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_HIISI_SHOTGUN" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_UPGRADE_TOME" 
+        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+      </E>
+      <E 
+        key="ACTION_ROCKET" 
+        value="data/entities/projectiles/deck/rocket.xml" >
+      </E>
+      <E 
+        key="ACTION_RUBBER_BALL" 
+        value="data/entities/projectiles/deck/rubber_ball.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_BLACKHOLE_INFUSION" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_Y_SHAPE" 
+        value="mods/grahamsperks/files/spells/bramball.xml" >
+      </E>
+      <E 
+        key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
+        value="1043" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_is_open" 
+        value="0" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_spells_refreshed" 
+        value="1" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_stored_spells" 
+        value="2;Y_SHAPE;-1|1;MOLDOS_TOME_MAGIC;-1|2;TOXIC_SPEW;-1|2;GRAHAM_BRAMBALL_TRIGGER;-1|1;MOLDOS_TOME_SHOT;-1|2;LASER_LUMINOUS_DRILL;-1|3;RUBBER_BALL;-1|1;MOLDOS_UPGRADE_TOME;-1|1;SPELLBOUND_GAS_SHOT;-1|1;BURST_2;-1|4;BR_WARPTELEDEATHTRIGGER;-1|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+      </E>
+      <E 
+        key="BR_BOSS_RUSH_FRAME_NOW" 
+        value="117086" >
+      </E>
+      <E 
+        key="BR_MODE" 
+        value="Normal" >
+      </E>
+      <E 
+        key="BR_SHUFFLE_RUSH" 
+        value="false" >
+      </E>
+      <E 
+        key="GLOBAL_CAST_STATE" 
+        value="1043" >
+      </E>
+      <E 
+        key="GRAHAM_ONEOFFS" 
+        value="1" >
+      </E>
+      <E 
+        key="GRAHAM_TOGGLE" 
+        value="null" >
+      </E>
+      <E 
+        key="GRAHAM_TOGGLE2" 
+        value="null" >
+      </E>
+      <E 
+        key="HOLY_MOUNTAIN_DEPTH" 
+        value="2" >
+      </E>
+      <E 
+        key="HOLY_MOUNTAIN_VISITS" 
+        value="1" >
+      </E>
+      <E 
+        key="InventoryBags_active_item_tab" 
+        value="1" >
+      </E>
+      <E 
+        key="InventoryBags_active_storage_version" 
+        value="1" >
+      </E>
+      <E 
+        key="InventoryBags_active_wand_tab" 
+        value="4" >
+      </E>
+      <E 
+        key="InventoryBags_is_open" 
+        value="0" >
+      </E>
+      <E 
+        key="ORB_MAP_STRING" 
+        value="8,1 1,-3 -9,7 -8,19 -18,2 -20,5 -1,31 20,31 19,5 6,3 19,-3 41,14 -42,18 36,32 -41,2" >
+      </E>
+      <E 
+        key="PERK_PICKED_GRAHAM_WIZARDS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PLAYER_HALO_LEVEL" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_1307" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_NEXT_PERK_INDEX" 
+        value="4" >
+      </E>
+      <E 
+        key="apotheosis_tabletghost_count" 
+        value="3" >
+      </E>
+      <E 
+        key="config_lib_mod_button_reservation" 
+        value="15" >
+      </E>
+      <E 
+        key="config_lib_open" 
+        value="false" >
+      </E>
+      <E 
+        key="config_mod_button_tr_max" 
+        value="15" >
+      </E>
+      <E 
+        key="conga_red_sand_effect_amount" 
+        value="0" >
+      </E>
+      <E 
+        key="copis_things_mod_button_reservation" 
+        value="0" >
+      </E>
+      <E 
+        key="copis_things_version" 
+        value="0.51" >
+      </E>
+      <E 
+        key="current_vote_type" 
+        value="event" >
+      </E>
+      <E 
+        key="extra_entities" 
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+      </E>
+      <E 
+        key="grahamsdialogue.buffer" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/slime_turret.xml" 
+        value="$slime_turret" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/twig_grower.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/altar_skull.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/hut.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/mod/water_pipe.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/mod/water_pipe_drain.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/physics_worm_deflector_base.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/physics_worm_deflector_crystal.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_a.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_b.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_c.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_d.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_00.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/apotheosis/egg_fairy.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_worm.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/evil_eye.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_fullhp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_fullhp_temple.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/moon.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/perk_reroll.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/potion.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/spell_refresh.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/wands/level_01/wand_003.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/wands/level_01/wand_010.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/wands/level_01/wand_012.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/player.xml" 
+        value="DEBUG_NAME:player" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/projectiles/glue.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/dripping_water.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/mod/suspended_crystal.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/keg.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/temple_lantern.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_oil.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_radioactive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_water.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_box_explosive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_brewing_stand.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_02.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_03.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_04.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_seamine.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_torch_stand_intro_old.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_container.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/temple_statue_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/temple_statue_02.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/suspended_tank_fire.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/arcane_alchemy/items/vials/vial.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/chemical_curiosities/props/physics_barrel_grease.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/soulrefresh/thing.xml" 
+        value="" >
+      </E>
+      <E 
+        key="linking_fungal_shift" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_local_shift" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_bomb" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_boss" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_chest" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_enemy" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_fireball_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_healer_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_laser_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_normal_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_perk" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_potion" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_punch_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_random_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_slow_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_spell" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_wand" 
+        value="false" >
+      </E>
+      <E 
+        key="mod_button_tr_current" 
+        value="0" >
+      </E>
+      <E 
+        key="mod_button_tr_width" 
+        value="0" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_7" 
+        value="17759" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_16_3" 
+        value="13290" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_16_4" 
+        value="14370" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_1_2" 
+        value="4140" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_1_3" 
+        value="82860" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_3" 
+        value="22710" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_4" 
+        value="25830" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_5" 
+        value="25860" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_6" 
+        value="23340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_7" 
+        value="84240" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_5_2" 
+        value="15630" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_5_3" 
+        value="15510" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_5_4" 
+        value="15360" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_8_2" 
+        value="9270" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_10_4" 
+        value="9336" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_6_4" 
+        value="84156" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_6_3" 
+        value="83086" >
+      </E>
+      <E 
+        key="new_enemies_mod_load_done" 
+        value="1" >
+      </E>
+      <E 
+        key="projectile_filename" 
+        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+      </E>
+      <E 
+        key="random_twitch_user" 
+        value="" >
+      </E>
+      <E 
+        key="random_twitch_user_used" 
+        value="" >
+      </E>
+      <E 
+        key="souls.amphitheatre_enemy_count" 
+        value="10" >
+      </E>
+      <E 
+        key="souls.button_down_down" 
+        value="0" >
+      </E>
+      <E 
+        key="souls.button_down_gui" 
+        value="false" >
+      </E>
+      <E 
+        key="souls.collect_soul_from_entity" 
+        value="false" >
+      </E>
+      <E 
+        key="souls.enable_soul_shops" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.say_consumed_soul" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.say_soul" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.soul_boss_shader_effect_amount" 
+        value="0" >
+      </E>
+      <E 
+        key="tome_magic_active_soul_group" 
+        value="2" >
+      </E>
+      <E 
+        key="tome_magic_tele_x" 
+        value="227" >
+      </E>
+      <E 
+        key="tome_magic_tele_y" 
+        value="-85" >
+      </E>
+      <E 
+        key="twitch_chat_message_broadcaster" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_color" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_frames" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_id" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_message" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_moderator" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_name" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_subscriber" 
+        value="" >
+      </E>
+      <E 
+        key="visited_biomes" 
+        value="Blast Pit,$biome_coalmine_alt,Aquifer,$biome_holymountain,_EMPTY_,Aquifer,_EMPTY" >
+      </E>
+      <E 
+        key="visited_biomes_count" 
+        value="7" >
+      </E>
+    </lua_globals>
+    <pending_portals>
+    </pending_portals>
+    <apparitions_per_level>
+      <primitive>
+        0
+      </primitive>
+    </apparitions_per_level>
+    <npc_parties>
+    </npc_parties>
+    <orbs_found_thisrun>
+      <primitive>
+        0
+      </primitive>
+    </orbs_found_thisrun>
+    <flags>
+      <string>
+        weather_this_run_no_gradient
+      </string>
+      <string>
+        souls_init
+      </string>
+      <string>
+        tome_magic_init
+      </string>
+      <string>
+        glimmers_expanded_spliced_chunks_spawned
+      </string>
+      <string>
+        boss_reworks_init
+      </string>
+      <string>
+        spawned_lifelottery
+      </string>
+      <string>
+        cc_onplayerspawned
+      </string>
+      <string>
+        moldos_arsenal_init
+      </string>
+      <string>
+        initialized_namers
+      </string>
+      <string>
+        apotheosis_new_runny
+      </string>
+      <string>
+        new_action_graham_bramball_trigger
+      </string>
+      <string>
+        mm_visited_chunk_-19998
+      </string>
+      <string>
+        mm_visited_chunk_-9998
+      </string>
+      <string>
+        mm_visited_chunk_-19999
+      </string>
+      <string>
+        mm_visited_chunk_-29999
+      </string>
+      <string>
+        ne_miner_boss_excavationsite_spawned0
+      </string>
+      <string>
+        ne_twig_grower_spawned0
+      </string>
+      <string>
+        PERK_COPITH_REGRESSION_SCALES
+      </string>
+      <string>
+        PERK_GRAHAM_WIZARDS
+      </string>
+      <string>
+        PERK_PROJECTILE_HOMING
+      </string>
+      <string>
+        new_action_br_warpteledeathtrigger
+      </string>
+      <string>
+        new_perk_picked_graham_wizards
+      </string>
+      <string>
+        PERK_PICKED_GRAHAM_WIZARDS
+      </string>
+      <string>
+        new_kill_skull_animation
+      </string>
+    </flags>
+    <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+    </changed_materials>
+    <cuts_through_world>
+    </cuts_through_world>
+  </WorldStateComponent>
+  <Entity 
+    _version="1" 
+    name="player_stats" 
+    serialize="0" 
+    tags="" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+    <PlayerStatsComponent 
+      _enabled="1" 
+      lives="1" 
+      max_hp="4" 
+      speed="1" >
+    </PlayerStatsComponent>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="br_soul_storage" 
+    serialize="1" 
+    tags="" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="unknown" 
+    serialize="1" 
+    tags="graham_midas_curse" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+  </Entity>
+</Entity>

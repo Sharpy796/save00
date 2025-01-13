@@ -1,4 +1,4 @@
-<Stats deaths="5" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | physics body damaged" value="3" >
     </E>
@@ -11,6 +11,12 @@
     <E key="necromancer" value="1" >
     </E>
     <E key="polyorb" value="1" >
+    </E>
+    <E key="sheep" value="2" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="sheep_fly" value="1" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>

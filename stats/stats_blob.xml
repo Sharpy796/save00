@@ -1,4 +1,4 @@
-<Stats deaths="360" kills="62" player_kills="0" player_projectile_count="0" >
+<Stats deaths="361" kills="62" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -51,6 +51,8 @@
     <E key="slimeshooter | $damage_explosion" value="2" >
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="turret_left | $damage_projectile" value="1" >
     </E>
     <E key="watermage | $damage_melee" value="1" >
     </E>

@@ -1,0 +1,32 @@
+<Stats deaths="10" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_midas" value="4" >
+    </E>
+    <E key="assassin | $damage_melee" value="1" >
+    </E>
+    <E key="bigzombie | $damage_explosion" value="1" >
+    </E>
+    <E key="random_spell_chaotic | $damage_explosion" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="drone_face2" value="1" >
+    </E>
+    <E key="eradicator" value="1" >
+    </E>
+    <E key="larva_crawler" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>
