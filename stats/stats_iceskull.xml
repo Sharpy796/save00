@@ -1,4 +1,4 @@
-<Stats deaths="217" kills="227" player_kills="0" player_projectile_count="0" >
+<Stats deaths="241" kills="237" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="10" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -18,9 +18,9 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="icemage | $damage_explosion" value="1" >
+    <E key="icemage | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="31" >
+    <E key="iceskull | $damage_explosion" value="34" >
     </E>
     <E key="phantom_a | $damage_projectile" value="1" >
     </E>
@@ -40,7 +40,9 @@
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="10" >
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="12" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="5" >
     </E>
@@ -50,21 +52,25 @@
     </E>
     <E key="scavenger_smg | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="5" >
+    <E key="scavenger_smg | $damage_projectile" value="6" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="7" >
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="8" >
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="tank | $damage_projectile" value="9" >
+    <E key="tank | $damage_projectile" value="10" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="3" >
     </E>
-    <E key="tank_rocket | $damage_projectile" value="2" >
+    <E key="tank_rocket | $damage_projectile" value="3" >
     </E>
-    <E key="thundermage | $damage_electricity" value="1" >
+    <E key="thundermage | $damage_electricity" value="2" >
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
@@ -78,7 +84,7 @@
     </E>
     <E key="glue" value="5" >
     </E>
-    <E key="iceskull" value="31" >
+    <E key="iceskull" value="34" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -88,17 +94,17 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="84" >
+    <E key="rat" value="87" >
     </E>
     <E key="scavenger_glue" value="4" >
     </E>
-    <E key="scavenger_grenade" value="7" >
+    <E key="scavenger_grenade" value="8" >
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
     <E key="scavenger_smg" value="10" >
     </E>
-    <E key="shotgunner" value="12" >
+    <E key="shotgunner" value="14" >
     </E>
     <E key="slimeshooter" value="5" >
     </E>
@@ -112,7 +118,7 @@
     </E>
     <E key="worm_big" value="2" >
     </E>
-    <E key="worm_tiny" value="2" >
+    <E key="worm_tiny" value="3" >
     </E>
   </kill_map>
 </Stats>

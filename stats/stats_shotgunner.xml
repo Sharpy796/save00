@@ -1,30 +1,30 @@
-<Stats deaths="495" kills="175" player_kills="3" player_projectile_count="0" >
+<Stats deaths="526" kills="194" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="51" >
+    <E key="NULL | $damage_explosion" value="53" >
     </E>
-    <E key="NULL | $damage_fire" value="33" >
+    <E key="NULL | $damage_fire" value="35" >
     </E>
-    <E key="NULL | $damage_physicshit" value="36" >
+    <E key="NULL | $damage_physicshit" value="39" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="40" >
+    <E key="NULL | $damage_radioactive" value="42" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="3" >
+    <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
-    <E key="NULL | damage from material: lava" value="8" >
+    <E key="NULL | damage from material: lava" value="10" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
@@ -38,9 +38,9 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="10" >
+    <E key="iceskull | $damage_explosion" value="11" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="miner | $damage_explosion" value="4" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="1" >
+    <E key="player_rng_items | $damage_projectile" value="16" >
     </E>
     <E key="player_rng_items | $damage_slice" value="2" >
     </E>
@@ -102,7 +102,7 @@
     </E>
     <E key="frog" value="4" >
     </E>
-    <E key="iceskull" value="7" >
+    <E key="iceskull" value="9" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="1" >
     </E>
@@ -110,17 +110,19 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="122" >
+    <E key="rat" value="135" >
     </E>
     <E key="shotgunner" value="3" >
     </E>
-    <E key="slimeshooter" value="7" >
+    <E key="slimeshooter" value="9" >
     </E>
-    <E key="thunderskull" value="1" >
+    <E key="thunderskull" value="2" >
     </E>
     <E key="tnt" value="1" >
     </E>
     <E key="zombie" value="8" >
+    </E>
+    <E key="zombie_weak" value="1" >
     </E>
   </kill_map>
 </Stats>

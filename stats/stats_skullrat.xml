@@ -1,8 +1,8 @@
-<Stats deaths="47" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="62" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="3" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | damage from material: Cursed rock" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="7" >
+    <E key="NULL | damage from material: lava" value="8" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
@@ -25,6 +25,10 @@
     <E key="player | $damage_projectile" value="19" >
     </E>
     <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_gas | $damage_projectile" value="1" >
     </E>
