@@ -55,9 +55,9 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250112-231430" 
     sky_sunset_alpha_target="1" 
-    time="0.494469" 
+    time="0.354192" 
     time_dt="1" 
-    time_total="2.92933" 
+    time_total="2.95376" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="-0.35979" 
@@ -107,7 +107,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="1043" >
+        value="1049" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -123,7 +123,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="117086" >
+        value="118062" >
       </E>
       <E 
         key="BR_MODE" 
@@ -135,7 +135,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="1043" >
+        value="1049" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
@@ -167,7 +167,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="4" >
+        value="1" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -287,6 +287,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/apotheosis/egg_fairy.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_monster.xml" 
         value="" >
       </E>
       <E 
@@ -767,6 +771,12 @@
       </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>
