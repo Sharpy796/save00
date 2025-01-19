@@ -1,4 +1,4 @@
-<Stats deaths="420" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="427" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="54" >
+    <E key="NULL | $damage_explosion" value="55" >
     </E>
     <E key="NULL | $damage_fire" value="8" >
     </E>
@@ -38,11 +38,15 @@
     </E>
     <E key="eradicator | $damage_plasmabeam" value="1" >
     </E>
+    <E key="fireworkman | $damage_projectile" value="1" >
+    </E>
     <E key="fly | $damage_melee" value="4" >
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="10" >
+    </E>
+    <E key="lukki_fungus | hit" value="2" >
     </E>
     <E key="maggot | $damage_explosion" value="1" >
     </E>
@@ -70,7 +74,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="42" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -110,7 +114,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="ceiling_fungus_minion" value="1" >
+    <E key="ceiling_fungus_minion" value="2" >
     </E>
     <E key="elk" value="1" >
     </E>

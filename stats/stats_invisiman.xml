@@ -1,8 +1,16 @@
-<Stats deaths="16" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="2" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="1" >
+    </E>
+    <E key="chest_great_boss | $damage_melee" value="1" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
@@ -12,9 +20,13 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="11" >
     </E>
   </death_map>
   <kill_map>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
   </kill_map>
 </Stats>

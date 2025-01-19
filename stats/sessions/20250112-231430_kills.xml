@@ -1,40 +1,78 @@
-<Stats deaths="0" kills="100" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="180" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="invisiman | $damage_slice" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="axeman" value="1" >
+    <E key="axeman" value="3" >
+    </E>
+    <E key="bat" value="15" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="5" >
+    </E>
+    <E key="boss_tnt" value="3" >
     </E>
     <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="9" >
     </E>
     <E key="chainsawer" value="1" >
     </E>
     <E key="conduit" value="1" >
     </E>
+    <E key="dripper" value="1" >
+    </E>
     <E key="eye_bat" value="3" >
+    </E>
+    <E key="fairy_big" value="6" >
     </E>
     <E key="fallen_alchemist" value="1" >
     </E>
+    <E key="firebug" value="3" >
+    </E>
     <E key="fish" value="1" >
+    </E>
+    <E key="gem_giant" value="1" >
     </E>
     <E key="glue" value="1" >
     </E>
-    <E key="goo_slug" value="1" >
+    <E key="goo_slug" value="3" >
     </E>
     <E key="goomonster" value="1" >
     </E>
-    <E key="hamis_nest" value="1" >
+    <E key="hamis_nest" value="3" >
+    </E>
+    <E key="hazmat" value="1" >
     </E>
     <E key="hybrid" value="1" >
     </E>
     <E key="larva_crawler" value="12" >
     </E>
-    <E key="longleg" value="37" >
+    <E key="longleg" value="53" >
     </E>
     <E key="longleg_gold" value="1" >
     </E>
+    <E key="mine_environment" value="3" >
+    </E>
+    <E key="mine_gemgiant" value="1" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
     <E key="miner_weak" value="8" >
     </E>
-    <E key="poring" value="2" >
+    <E key="mutant_blob" value="1" >
+    </E>
+    <E key="ooion" value="1" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="player_evil" value="1" >
+    </E>
+    <E key="poring" value="3" >
     </E>
     <E key="shotgunner_weak" value="2" >
     </E>
@@ -46,9 +84,13 @@
     </E>
     <E key="slimeshooter_weak" value="2" >
     </E>
+    <E key="sneeker" value="1" >
+    </E>
     <E key="toxicmage2" value="1" >
     </E>
     <E key="toxicmage_barf" value="6" >
+    </E>
+    <E key="twig_shot" value="1" >
     </E>
     <E key="zombie_water" value="9" >
     </E>

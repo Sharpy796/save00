@@ -1,4 +1,4 @@
-<Stats deaths="539" kills="37" player_kills="1" player_projectile_count="0" >
+<Stats deaths="568" kills="39" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
@@ -6,13 +6,15 @@
     </E>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_fire" value="41" >
+    <E key="NULL | $damage_fire" value="43" >
     </E>
     <E key="NULL | $damage_physicshit" value="15" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
@@ -28,6 +30,8 @@
     </E>
     <E key="firebug | $damage_melee" value="2" >
     </E>
+    <E key="forsaken_eye | $damage_projectile" value="1" >
+    </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="1" >
@@ -36,13 +40,17 @@
     </E>
     <E key="player | " value="14" >
     </E>
+    <E key="player | $damage_curse" value="1" >
+    </E>
     <E key="player | $damage_drill" value="2" >
     </E>
     <E key="player | $damage_explosion" value="22" >
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="158" >
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="175" >
     </E>
     <E key="player | $damage_slice" value="23" >
     </E>
@@ -64,7 +72,11 @@
     </E>
     <E key="chainsawer" value="1" >
     </E>
+    <E key="crawler" value="1" >
+    </E>
     <E key="firebug" value="10" >
+    </E>
+    <E key="forsaken_eye" value="1" >
     </E>
     <E key="miner" value="1" >
     </E>

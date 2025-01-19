@@ -1,4 +1,4 @@
-<Stats deaths="725" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="755" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="player | $damage_melee" value="50" >
     </E>
-    <E key="player | $damage_projectile" value="176" >
+    <E key="player | $damage_projectile" value="199" >
     </E>
     <E key="player | $damage_slice" value="61" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="player | chop!" value="245" >
     </E>
-    <E key="slicing_blade | chop!" value="22" >
+    <E key="slicing_blade | chop!" value="29" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="8" >
     </E>
