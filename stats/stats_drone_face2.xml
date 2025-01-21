@@ -1,6 +1,6 @@
-<Stats deaths="29" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="38" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -8,15 +8,21 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="11" >
+    <E key="player | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="12" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="11" >
+    <E key="player | $damage_projectile" value="16" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
     </E>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="1" >
+    </E>
+    <E key="blob_mini" value="4" >
     </E>
     <E key="miniblob" value="4" >
     </E>

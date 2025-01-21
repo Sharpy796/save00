@@ -1,4 +1,4 @@
-<Stats deaths="38" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="45" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -22,11 +22,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_projectile" value="14" >
     </E>
-    <E key="player | $damage_slice" value="2" >
+    <E key="player | $damage_slice" value="3" >
     </E>
-    <E key="player | chop!" value="1" >
+    <E key="player | chop!" value="2" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
@@ -34,5 +34,7 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="frog_big" value="1" >
+    </E>
   </kill_map>
 </Stats>

@@ -1,6 +1,6 @@
-<Stats deaths="77" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="85" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="4" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -12,13 +12,15 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) poison gas" value="2" >
+    <E key="NULL | damage from material: (Vanilla) poison gas" value="3" >
     </E>
     <E key="giant_centipede | worm bite" value="2" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>
@@ -26,7 +28,7 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="16" >
+    <E key="player | $damage_projectile" value="20" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>

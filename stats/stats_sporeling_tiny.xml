@@ -1,12 +1,12 @@
-<Stats deaths="147" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="153" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="34" >
+    <E key="NULL | $damage_explosion" value="36" >
     </E>
-    <E key="NULL | $damage_fire" value="16" >
+    <E key="NULL | $damage_fire" value="17" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -36,9 +36,9 @@
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_fire" value="4" >
+    <E key="player | $damage_fire" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="6" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -49,6 +49,8 @@
     <E key="shooterflower | $damage_projectile" value="9" >
     </E>
     <E key="sporeling_tiny | $damage_holy" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
     </E>
     <E key="worm_fungal | worm bite" value="3" >
     </E>

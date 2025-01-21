@@ -1,4 +1,4 @@
-<Stats deaths="448" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="449" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -113,6 +113,8 @@
     <E key="sunegg | $damage_sun" value="124" >
     </E>
     <E key="tank | $damage_explosion" value="3" >
+    </E>
+    <E key="tank_flame_apotheosis | $damage_fire" value="1" >
     </E>
     <E key="tentacler_small | $damage_melee" value="2" >
     </E>

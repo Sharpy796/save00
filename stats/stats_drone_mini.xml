@@ -1,4 +1,4 @@
-<Stats deaths="129" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="139" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
@@ -16,15 +16,19 @@
     </E>
     <E key="player | $damage_curse" value="7" >
     </E>
-    <E key="player | $damage_electricity" value="39" >
+    <E key="player | $damage_electricity" value="41" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="29" >
+    <E key="player | $damage_projectile" value="34" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
-    <E key="player | chop!" value="3" >
+    <E key="player | chop!" value="4" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="singularity | " value="1" >
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>
@@ -39,6 +43,10 @@
     <E key="acidshot" value="1" >
     </E>
     <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="frog_bot" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

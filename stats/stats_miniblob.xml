@@ -1,10 +1,10 @@
-<Stats deaths="1084" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1121" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="60" >
     </E>
     <E key="NULL | $damage_electricity" value="101" >
     </E>
-    <E key="NULL | $damage_explosion" value="128" >
+    <E key="NULL | $damage_explosion" value="133" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -48,6 +48,8 @@
     </E>
     <E key="frog_big | $damage_melee" value="3" >
     </E>
+    <E key="hisii_rocketshotgun | $damage_explosion" value="2" >
+    </E>
     <E key="icer | $damage_explosion" value="1" >
     </E>
     <E key="jungle_flower | $damage_melee" value="1" >
@@ -58,23 +60,27 @@
     </E>
     <E key="player | " value="3" >
     </E>
-    <E key="player | $damage_electricity" value="3" >
+    <E key="player | $damage_curse" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="4" >
     </E>
     <E key="player | $damage_explosion" value="35" >
     </E>
-    <E key="player | $damage_fire" value="1" >
+    <E key="player | $damage_fire" value="3" >
     </E>
     <E key="player | $damage_ice" value="29" >
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="388" >
+    <E key="player | $damage_projectile" value="402" >
     </E>
-    <E key="player | $damage_slice" value="44" >
+    <E key="player | $damage_slice" value="45" >
     </E>
     <E key="player | bzzt!" value="4" >
     </E>
-    <E key="player | chop!" value="29" >
+    <E key="player | chop!" value="39" >
     </E>
     <E key="roboguard | $damage_explosion" value="1" >
     </E>
@@ -142,7 +148,7 @@
   <kill_map>
     <E key="blob" value="1" >
     </E>
-    <E key="ceiling_fungus_minion" value="1" >
+    <E key="ceiling_fungus_minion" value="2" >
     </E>
     <E key="fly" value="1" >
     </E>

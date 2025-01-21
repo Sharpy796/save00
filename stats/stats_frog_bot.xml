@@ -1,30 +1,42 @@
-<Stats deaths="118" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="138" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="22" >
     </E>
-    <E key="NULL | $damage_explosion" value="8" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="6" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
+    <E key="cargobot | $damage_explosion" value="3" >
+    </E>
+    <E key="drone_mini | $damage_explosion" value="1" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="2" >
     </E>
+    <E key="player | $damage_curse" value="2" >
+    </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="24" >
+    <E key="player | $damage_electricity" value="25" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="42" >
+    <E key="player | $damage_projectile" value="47" >
     </E>
-    <E key="player | $damage_slice" value="1" >
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="player | chop!" value="1" >
     </E>
     <E key="rat | $damage_melee" value="5" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
+    </E>
+    <E key="singularity | " value="1" >
     </E>
     <E key="slicing_blade | chop!" value="3" >
     </E>

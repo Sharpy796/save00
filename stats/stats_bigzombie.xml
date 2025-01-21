@@ -1,4 +1,4 @@
-<Stats deaths="50" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="34" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,19 +6,23 @@
     </E>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="2" >
     </E>
+    <E key="blindgazer | $damage_projectile" value="1" >
+    </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
@@ -28,11 +32,11 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="12" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
-    <E key="player | chop!" value="1" >
+    <E key="player | chop!" value="2" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
@@ -63,6 +67,8 @@
     <E key="scavenger_invis" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scavenger_trigger" value="1" >
     </E>
     <E key="scorpion" value="2" >
     </E>

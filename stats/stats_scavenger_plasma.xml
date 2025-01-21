@@ -1,4 +1,4 @@
-<Stats deaths="29" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="31" kills="17" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="firemage | $damage_explosion" value="1" >
     </E>
@@ -21,6 +21,8 @@
     <E key="locust_swarm | Locust bite" value="1" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_projectile" value="8" >
     </E>
@@ -36,11 +38,19 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="blob_mini" value="6" >
+    </E>
+    <E key="bluemancer" value="1" >
+    </E>
     <E key="bubble_liquid" value="1" >
     </E>
     <E key="frog_bot" value="1" >
     </E>
     <E key="iceskull" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
     </E>
     <E key="scorpion" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="27" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="33" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -6,15 +6,19 @@
     </E>
     <E key="NULL | $damage_explosion" value="5" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
+    </E>
     <E key="chainsawer | Minced!" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="drone_mini | $damage_projectile" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
@@ -22,9 +26,13 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_projectile" value="7" >
     </E>
     <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | chop!" value="1" >
+    </E>
+    <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="1" >
     </E>
