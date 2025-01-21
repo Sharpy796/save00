@@ -1,22 +1,22 @@
-<Stats deaths="153" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="209" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="36" >
+    <E key="NULL | $damage_explosion" value="60" >
     </E>
-    <E key="NULL | $damage_fire" value="17" >
+    <E key="NULL | $damage_fire" value="23" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
-    <E key="NULL | $damage_projectile" value="12" >
+    <E key="NULL | $damage_projectile" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="22" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="32" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="9" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
@@ -28,9 +28,13 @@
     </E>
     <E key="bloom | $damage_projectile" value="3" >
     </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
     <E key="frog_big | $damage_explosion" value="1" >
     </E>
     <E key="frog_big | $damage_melee" value="2" >
+    </E>
+    <E key="miniblob | $damage_melee" value="2" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
@@ -38,13 +42,17 @@
     </E>
     <E key="player | $damage_fire" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="6" >
+    <E key="player | $damage_projectile" value="7" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="4" >
     </E>
     <E key="shaman | $damage_projectile" value="1" >
+    </E>
+    <E key="shaman_greater_apotheosis | $damage_projectile" value="1" >
     </E>
     <E key="shooterflower | $damage_projectile" value="9" >
     </E>

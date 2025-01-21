@@ -1,4 +1,4 @@
-<Stats deaths="8" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="8" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_holy" value="1" >
     </E>
@@ -14,7 +14,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="larva_crawler" value="1" >
+    </E>
     <E key="lavashooter" value="1" >
+    </E>
+    <E key="locust_swarm" value="1" >
     </E>
     <E key="longleg" value="4" >
     </E>

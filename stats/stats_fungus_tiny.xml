@@ -1,14 +1,16 @@
-<Stats deaths="166" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="203" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="117" >
+    <E key="NULL | $damage_explosion" value="134" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="25" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="3" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="8" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="3" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="4" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -16,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="4" >
     </E>
-    <E key="blob | $damage_melee" value="1" >
+    <E key="blob | $damage_melee" value="2" >
     </E>
     <E key="bloom | $damage_projectile" value="1" >
     </E>
@@ -24,11 +26,17 @@
     </E>
     <E key="physics_fungus_trap_custom | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_fire" value="1" >
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
     </E>
     <E key="player | $damage_projectile" value="11" >
     </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="blob" value="1" >
+    </E>
   </kill_map>
 </Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="89" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="94" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="70" >
     </E>
@@ -6,12 +6,20 @@
     </E>
     <E key="mudman_friendly | $damage_melee" value="13" >
     </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_projectile" value="1" >
     </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="miniblob" value="2" >
+    </E>
     <E key="mudman_friendly" value="13" >
     </E>
     <E key="sporeling_tiny" value="1" >

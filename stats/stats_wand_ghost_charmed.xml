@@ -1,6 +1,10 @@
-<Stats deaths="6" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    </E>
+    <E key="blob_mini | $damage_melee" value="3" >
     </E>
     <E key="longleg | $damage_melee" value="1" >
     </E>
@@ -12,6 +16,14 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="blob" value="8" >
+    </E>
+    <E key="blob_big" value="5" >
+    </E>
+    <E key="blob_huge" value="1" >
+    </E>
+    <E key="blob_mini" value="20" >
+    </E>
     <E key="fly" value="1" >
     </E>
     <E key="longleg" value="1" >

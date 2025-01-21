@@ -1,4 +1,4 @@
-<Stats deaths="10" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="12" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -7,6 +7,8 @@
     <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
     </E>
     <E key="seeker | Etsijä's shock" value="1" >
     </E>
@@ -19,6 +21,8 @@
     <E key="fungus_swamp2" value="1" >
     </E>
     <E key="rat" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="1" >
     </E>
   </kill_map>
 </Stats>

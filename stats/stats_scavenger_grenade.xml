@@ -1,4 +1,4 @@
-<Stats deaths="996" kills="146" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1003" kills="147" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="107" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="27" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="laser_bot_trail | Luminous Electricity" value="1" >
     </E>
-    <E key="locust_swarm | Locust bite" value="1" >
+    <E key="locust_swarm | Locust bite" value="3" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
@@ -98,7 +98,7 @@
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
-    <E key="player | $damage_electricity" value="28" >
+    <E key="player | $damage_electricity" value="29" >
     </E>
     <E key="player | $damage_explosion" value="70" >
     </E>
@@ -111,6 +111,8 @@
     <E key="player | $damage_projectile" value="283" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
+    </E>
+    <E key="player | $damage_rock_curse" value="2" >
     </E>
     <E key="player | $damage_slice" value="34" >
     </E>
@@ -186,7 +188,7 @@
     </E>
     <E key="iceskull" value="8" >
     </E>
-    <E key="locust_swarm" value="2" >
+    <E key="locust_swarm" value="3" >
     </E>
     <E key="miniblob" value="1" >
     </E>
