@@ -1,4 +1,4 @@
-<Stats deaths="11" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -10,6 +10,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="coldshot_BoC" value="1" >
+    </E>
     <E key="firebug" value="2" >
     </E>
   </kill_map>

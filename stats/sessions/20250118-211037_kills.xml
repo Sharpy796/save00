@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1678" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1908" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -13,6 +13,8 @@
     <E key="ant_fire" value="1" >
     </E>
     <E key="archer" value="1" >
+    </E>
+    <E key="arrowtrap_right" value="3" >
     </E>
     <E key="assassin" value="1" >
     </E>
@@ -77,6 +79,10 @@
     <E key="chaoticpolyshooter" value="1" >
     </E>
     <E key="chest_great_boss" value="1" >
+    </E>
+    <E key="coldshot" value="4" >
+    </E>
+    <E key="coldshot_BoC" value="15" >
     </E>
     <E key="conduit" value="2" >
     </E>
@@ -154,7 +160,7 @@
     </E>
     <E key="flynest" value="1" >
     </E>
-    <E key="forsaken_eye" value="5" >
+    <E key="forsaken_eye" value="11" >
     </E>
     <E key="frog_bot" value="42" >
     </E>
@@ -174,7 +180,11 @@
     </E>
     <E key="gazer" value="2" >
     </E>
-    <E key="gazer_greater_cold" value="1" >
+    <E key="gazer_cold_apotheosis" value="6" >
+    </E>
+    <E key="gazer_greater_cold" value="15" >
+    </E>
+    <E key="giant" value="25" >
     </E>
     <E key="giant_energy" value="3" >
     </E>
@@ -212,9 +222,11 @@
     </E>
     <E key="icemage2" value="1" >
     </E>
+    <E key="icemage_big" value="5" >
+    </E>
     <E key="icemage_big2" value="3" >
     </E>
-    <E key="iceskull" value="2" >
+    <E key="iceskull" value="21" >
     </E>
     <E key="icicle_king" value="1" >
     </E>
@@ -300,6 +312,10 @@
     </E>
     <E key="nautilus" value="1" >
     </E>
+    <E key="necrobot" value="3" >
+    </E>
+    <E key="necromancer" value="6" >
+    </E>
     <E key="necromancer_shop" value="3" >
     </E>
     <E key="necromancer_super" value="2" >
@@ -310,7 +326,11 @@
     </E>
     <E key="pebble_old" value="3" >
     </E>
+    <E key="pebble_physics" value="9" >
+    </E>
     <E key="phantom_c_apotheosis" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
     </E>
     <E key="plant_boss" value="1" >
     </E>
@@ -324,11 +344,17 @@
     </E>
     <E key="pollen" value="3" >
     </E>
+    <E key="polymorph_crystal_chaotic" value="4" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
     <E key="polyp_gas" value="1" >
     </E>
     <E key="polyshooter" value="2" >
     </E>
     <E key="poring" value="3" >
+    </E>
+    <E key="poring_holy" value="20" >
     </E>
     <E key="potion" value="1" >
     </E>
@@ -368,7 +394,7 @@
     </E>
     <E key="scavenger_grenade" value="32" >
     </E>
-    <E key="scavenger_heal" value="4" >
+    <E key="scavenger_heal" value="5" >
     </E>
     <E key="scavenger_invis" value="4" >
     </E>
@@ -415,6 +441,8 @@
     <E key="skeleton_birthday" value="9" >
     </E>
     <E key="skullrat" value="2" >
+    </E>
+    <E key="skycrystal_physics" value="14" >
     </E>
     <E key="slime_ghoul" value="1" >
     </E>
@@ -476,6 +504,8 @@
     </E>
     <E key="twig" value="1" >
     </E>
+    <E key="valkyrie" value="43" >
+    </E>
     <E key="watermage" value="5" >
     </E>
     <E key="welder" value="1" >
@@ -506,7 +536,17 @@
     </E>
     <E key="wizard_twitchy" value="2" >
     </E>
+    <E key="wizard_weaken" value="18" >
+    </E>
     <E key="worm_fungal" value="1" >
+    </E>
+    <E key="wraith" value="3" >
+    </E>
+    <E key="wraith_glowing" value="2" >
+    </E>
+    <E key="wraith_returner_apotheosis" value="5" >
+    </E>
+    <E key="wraith_stone" value="1" >
     </E>
     <E key="wraith_weirdo_shield" value="2" >
     </E>
@@ -514,7 +554,7 @@
     </E>
     <E key="yoyoer_shaman" value="1" >
     </E>
-    <E key="zombie" value="7" >
+    <E key="zombie" value="8" >
     </E>
     <E key="zombie3" value="3" >
     </E>

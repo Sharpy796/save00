@@ -99,7 +99,7 @@
   </Mod>
   <Mod enabled="1" name="rae_skill_issue" settings_fold_open="0" workshop_item_id="2717563557" >
   </Mod>
-  <Mod enabled="1" name="souls" settings_fold_open="0" workshop_item_id="3313573016" >
+  <Mod enabled="1" name="souls" settings_fold_open="1" workshop_item_id="3313573016" >
   </Mod>
   <Mod enabled="1" name="tome_magic" settings_fold_open="0" workshop_item_id="3377068299" >
   </Mod>
@@ -107,7 +107,7 @@
   </Mod>
   <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="copis_things" settings_fold_open="1" workshop_item_id="0" >
+  <Mod enabled="1" name="copis_things" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="spellbound_bundle" settings_fold_open="0" workshop_item_id="1976795806" >
   </Mod>
