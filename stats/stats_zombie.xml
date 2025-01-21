@@ -1,18 +1,20 @@
-<Stats deaths="427" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="448" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
     <E key="NULL | $damage_drowning" value="30" >
     </E>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="55" >
+    <E key="NULL | $damage_explosion" value="57" >
     </E>
     <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_melee" value="4" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="10" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
@@ -34,7 +36,11 @@
     </E>
     <E key="boss_dragon | worm bite" value="1" >
     </E>
+    <E key="ceiling_fungus_minion | $damage_melee" value="1" >
+    </E>
     <E key="conduit | $damage_melee" value="2" >
+    </E>
+    <E key="electrolukki | zap!" value="1" >
     </E>
     <E key="eradicator | $damage_plasmabeam" value="1" >
     </E>
@@ -74,7 +80,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="42" >
+    <E key="player | $damage_projectile" value="46" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -88,11 +94,15 @@
     </E>
     <E key="roboguard | $damage_projectile" value="2" >
     </E>
+    <E key="scavenger_laser | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_laser | $damage_projectile" value="1" >
+    </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="6" >
+    <E key="shotgunner | $damage_projectile" value="7" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
@@ -102,6 +112,8 @@
     </E>
     <E key="sunegg | $damage_sun" value="124" >
     </E>
+    <E key="tank | $damage_explosion" value="3" >
+    </E>
     <E key="tentacler_small | $damage_melee" value="2" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="1" >
@@ -110,11 +122,11 @@
     </E>
     <E key="wizard_tele | $damage_projectile" value="2" >
     </E>
-    <E key="zombie | $damage_melee" value="3" >
+    <E key="zombie | $damage_melee" value="5" >
     </E>
   </death_map>
   <kill_map>
-    <E key="ceiling_fungus_minion" value="2" >
+    <E key="ceiling_fungus_minion" value="3" >
     </E>
     <E key="elk" value="1" >
     </E>
@@ -134,7 +146,7 @@
     </E>
     <E key="wizard_swapper" value="1" >
     </E>
-    <E key="zombie" value="3" >
+    <E key="zombie" value="5" >
     </E>
   </kill_map>
 </Stats>

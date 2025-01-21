@@ -1,10 +1,10 @@
-<Stats deaths="84" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="129" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="8" >
+    <E key="NULL | $damage_explosion" value="12" >
     </E>
-    <E key="NULL | $damage_physicshit" value="8" >
+    <E key="NULL | $damage_physicshit" value="13" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="2" >
     </E>
@@ -14,11 +14,17 @@
     </E>
     <E key="drone_lasership | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="27" >
+    <E key="player | $damage_curse" value="7" >
+    </E>
+    <E key="player | $damage_electricity" value="39" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="16" >
+    <E key="player | $damage_projectile" value="29" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | chop!" value="3" >
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>
@@ -31,6 +37,10 @@
   </death_map>
   <kill_map>
     <E key="acidshot" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
     </E>
   </kill_map>
 </Stats>

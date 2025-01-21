@@ -1,13 +1,15 @@
-<Stats deaths="4" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="6" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="axeman" value="1" >
+    </E>
     <E key="drone_mini" value="1" >
     </E>
     <E key="scavenger_laser" value="1" >

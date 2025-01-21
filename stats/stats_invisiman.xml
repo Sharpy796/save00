@@ -1,10 +1,10 @@
-<Stats deaths="25" kills="2" player_kills="1" player_projectile_count="0" >
+<Stats deaths="29" kills="7" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_explosion" value="4" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -20,10 +20,12 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="11" >
+    <E key="player | $damage_projectile" value="14" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ceiling_fungus_minion" value="5" >
+    </E>
     <E key="player" value="1" >
     </E>
     <E key="rat" value="1" >

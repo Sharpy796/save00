@@ -1,28 +1,34 @@
-<Stats deaths="136" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="157" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="6" >
+    <E key="NULL | $damage_explosion" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="72" >
+    <E key="NULL | run out of material" value="74" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
     </E>
+    <E key="crawler | $damage_projectile" value="1" >
+    </E>
     <E key="drone_face | $damage_slice" value="1" >
+    </E>
+    <E key="drone_mini | $damage_projectile" value="1" >
+    </E>
+    <E key="electrolukki_big | zap!" value="1" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
@@ -38,23 +44,29 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="26" >
+    <E key="player | $damage_projectile" value="28" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
-    <E key="player | chop!" value="1" >
+    <E key="player | chop!" value="2" >
     </E>
     <E key="player_ai | $damage_kick" value="1" >
     </E>
     <E key="sawbot | bzzt!" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="1" >
+    <E key="scavenger_plasma | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="2" >
     </E>
     <E key="skullrat | $damage_melee" value="1" >
     </E>
-    <E key="slicing_blade | chop!" value="1" >
+    <E key="slicing_blade | chop!" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="1" >
+    <E key="sniper | $damage_projectile" value="3" >
+    </E>
+    <E key="turret_shotgun_left | $damage_projectile" value="1" >
     </E>
     <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
     </E>

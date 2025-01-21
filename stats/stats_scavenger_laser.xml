@@ -1,10 +1,12 @@
-<Stats deaths="13" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="17" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -12,7 +14,7 @@
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
     <E key="skullfly | $damage_fire" value="1" >
     </E>
@@ -23,6 +25,10 @@
     <E key="acidshooter" value="1" >
     </E>
     <E key="scorpion" value="3" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie" value="2" >
     </E>
   </kill_map>
 </Stats>

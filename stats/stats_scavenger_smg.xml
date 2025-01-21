@@ -1,4 +1,4 @@
-<Stats deaths="623" kills="129" player_kills="1" player_projectile_count="0" >
+<Stats deaths="653" kills="130" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,15 +6,15 @@
     </E>
     <E key="NULL | $damage_drowning" value="12" >
     </E>
-    <E key="NULL | $damage_electricity" value="17" >
+    <E key="NULL | $damage_electricity" value="18" >
     </E>
-    <E key="NULL | $damage_explosion" value="64" >
+    <E key="NULL | $damage_explosion" value="65" >
     </E>
-    <E key="NULL | $damage_fire" value="22" >
+    <E key="NULL | $damage_fire" value="24" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="43" >
+    <E key="NULL | $damage_physicshit" value="44" >
     </E>
     <E key="NULL | $damage_radioactive" value="7" >
     </E>
@@ -36,9 +36,13 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
+    <E key="electrolukki_big | $damage_electricity" value="1" >
+    </E>
     <E key="evil_eye | $damage_plasmabeam" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
+    </E>
+    <E key="frog_bot | $damage_projectile" value="1" >
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
@@ -60,21 +64,21 @@
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
-    <E key="player | $damage_electricity" value="15" >
+    <E key="player | $damage_electricity" value="16" >
     </E>
     <E key="player | $damage_explosion" value="42" >
     </E>
-    <E key="player | $damage_fire" value="12" >
+    <E key="player | $damage_fire" value="13" >
     </E>
-    <E key="player | $damage_ice" value="4" >
+    <E key="player | $damage_ice" value="5" >
     </E>
     <E key="player | $damage_melee" value="41" >
     </E>
-    <E key="player | $damage_projectile" value="175" >
+    <E key="player | $damage_projectile" value="193" >
     </E>
     <E key="player | $damage_slice" value="19" >
     </E>
-    <E key="player | chop!" value="3" >
+    <E key="player | chop!" value="4" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
@@ -90,7 +94,7 @@
     </E>
     <E key="skullfly | $damage_projectile" value="1" >
     </E>
-    <E key="slicing_blade | chop!" value="5" >
+    <E key="slicing_blade | chop!" value="6" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="2" >
     </E>
@@ -116,7 +120,7 @@
   <kill_map>
     <E key="bigfirebug" value="1" >
     </E>
-    <E key="bubble_liquid" value="1" >
+    <E key="bubble_liquid" value="2" >
     </E>
     <E key="electric_bullet" value="1" >
     </E>

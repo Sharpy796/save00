@@ -1,4 +1,4 @@
-<Stats deaths="242" kills="200" player_kills="0" player_projectile_count="0" >
+<Stats deaths="257" kills="203" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -10,11 +10,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="30" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="13" >
     </E>
     <E key="NULL | $damage_physicshit" value="22" >
     </E>
-    <E key="NULL | $damage_radioactive" value="14" >
+    <E key="NULL | $damage_radioactive" value="15" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -36,11 +36,15 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
+    <E key="laser_bot_trail | Luminous Electricity" value="1" >
+    </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
     <E key="player | " value="3" >
     </E>
-    <E key="player | $damage_drill" value="2" >
+    <E key="player | $damage_curse" value="3" >
+    </E>
+    <E key="player | $damage_drill" value="3" >
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
@@ -52,9 +56,9 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="67" >
+    <E key="player | $damage_projectile" value="71" >
     </E>
-    <E key="player | $damage_slice" value="10" >
+    <E key="player | $damage_slice" value="14" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -78,7 +82,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="bubble_liquid" value="1" >
+    <E key="bubble_liquid" value="3" >
+    </E>
+    <E key="drone_face" value="1" >
     </E>
     <E key="drone_lasership" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="937" kills="141" player_kills="1" player_projectile_count="0" >
+<Stats deaths="966" kills="142" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -6,15 +6,15 @@
     </E>
     <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="51" >
+    <E key="NULL | $damage_electricity" value="53" >
     </E>
-    <E key="NULL | $damage_explosion" value="103" >
+    <E key="NULL | $damage_explosion" value="104" >
     </E>
     <E key="NULL | $damage_fire" value="24" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="52" >
+    <E key="NULL | $damage_physicshit" value="53" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -50,9 +50,15 @@
     </E>
     <E key="drill_giant | $damage_explosion" value="1" >
     </E>
+    <E key="drone_mini | $damage_projectile" value="1" >
+    </E>
     <E key="effect_curse_cloud_01_temporary | $damage_electricity" value="1" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="electrolukki_big | zap!" value="1" >
+    </E>
+    <E key="frog_bot | $damage_projectile" value="1" >
     </E>
     <E key="giant_centipede | worm bite" value="1" >
     </E>
@@ -68,6 +74,8 @@
     </E>
     <E key="iceskull | $damage_projectile" value="2" >
     </E>
+    <E key="laser_bot_trail | Luminous Electricity" value="1" >
+    </E>
     <E key="locust_swarm | Locust bite" value="1" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
@@ -80,6 +88,8 @@
     </E>
     <E key="player | " value="9" >
     </E>
+    <E key="player | $damage_curse" value="1" >
+    </E>
     <E key="player | $damage_drill" value="4" >
     </E>
     <E key="player | $damage_electricity" value="28" >
@@ -88,19 +98,19 @@
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
-    <E key="player | $damage_ice" value="14" >
+    <E key="player | $damage_ice" value="15" >
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="259" >
+    <E key="player | $damage_projectile" value="276" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
-    <E key="player | $damage_slice" value="32" >
+    <E key="player | $damage_slice" value="33" >
     </E>
     <E key="player | bzzt!" value="3" >
     </E>
-    <E key="player | chop!" value="2" >
+    <E key="player | chop!" value="3" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="4" >
     </E>
@@ -156,6 +166,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bat" value="1" >
+    </E>
     <E key="bigzombie" value="2" >
     </E>
     <E key="fish_large" value="1" >
