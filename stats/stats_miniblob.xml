@@ -1,6 +1,6 @@
-<Stats deaths="1121" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1135" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="60" >
+    <E key="NULL | $damage_drowning" value="62" >
     </E>
     <E key="NULL | $damage_electricity" value="101" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="31" >
+    <E key="NULL | $damage_physicshit" value="34" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -35,6 +35,8 @@
     <E key="chest_mimic | $damage_melee" value="5" >
     </E>
     <E key="drone_face2 | $damage_slice" value="4" >
+    </E>
+    <E key="drone_mini | $damage_projectile" value="2" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -74,7 +76,9 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="402" >
+    <E key="player | $damage_projectile" value="403" >
+    </E>
+    <E key="player | $damage_rock_curse" value="6" >
     </E>
     <E key="player | $damage_slice" value="45" >
     </E>

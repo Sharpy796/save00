@@ -1,18 +1,24 @@
-<Stats deaths="7" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="10" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="failed_alchemist | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="4" >
     </E>
     <E key="seeker | Etsijä's shock" value="1" >
     </E>
     <E key="sunken_creature | $damage_explosion" value="1" >
     </E>
+    <E key="wizard_corrupt_weaken | $damage_projectile" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="fungus_swamp2" value="1" >
+    </E>
+    <E key="rat" value="1" >
     </E>
   </kill_map>
 </Stats>

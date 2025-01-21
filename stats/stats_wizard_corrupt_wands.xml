@@ -1,4 +1,4 @@
-<Stats deaths="22" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="30" kills="12" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -6,21 +6,31 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
     <E key="player | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_projectile" value="12" >
     </E>
+    <E key="player | $damage_rock_curse" value="3" >
+    </E>
     <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="seeker | Etsijä's shock" value="2" >
     </E>
     <E key="sunken_creature | $damage_explosion" value="2" >
     </E>
     <E key="sunken_creature | hit" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
     </E>
     <E key="worm_spine | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
     <E key="longleg" value="1" >
+    </E>
+    <E key="rat" value="2" >
     </E>
     <E key="scorpion" value="9" >
     </E>
