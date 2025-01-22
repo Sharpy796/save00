@@ -1,10 +1,10 @@
-<Stats deaths="1811" kills="42" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1824" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="48" >
+    <E key="NULL | $damage_drowning" value="50" >
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
@@ -44,7 +44,9 @@
     </E>
     <E key="ant | $damage_melee" value="5" >
     </E>
-    <E key="ant_fire | $damage_fire" value="1" >
+    <E key="ant_fire | $damage_fire" value="8" >
+    </E>
+    <E key="ant_fire | $damage_melee" value="2" >
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
@@ -78,7 +80,7 @@
     </E>
     <E key="fireskull | $damage_melee" value="1" >
     </E>
-    <E key="fly | $damage_melee" value="1" >
+    <E key="fly | $damage_melee" value="3" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="2" >
     </E>
