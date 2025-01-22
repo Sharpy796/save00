@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1908" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1947" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -6,7 +6,7 @@
     </E>
     <E key="acidshot" value="6" >
     </E>
-    <E key="alchemist" value="4" >
+    <E key="alchemist" value="6" >
     </E>
     <E key="ant" value="2" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="bigbat" value="3" >
     </E>
-    <E key="bigfirebug" value="5" >
+    <E key="bigfirebug" value="7" >
     </E>
     <E key="bigfly" value="3" >
     </E>
@@ -106,7 +106,7 @@
     </E>
     <E key="drone_lasership" value="4" >
     </E>
-    <E key="drone_mini" value="41" >
+    <E key="drone_mini" value="43" >
     </E>
     <E key="drone_physics" value="3" >
     </E>
@@ -124,6 +124,8 @@
     </E>
     <E key="electrolukki_big" value="1" >
     </E>
+    <E key="elephant" value="1" >
+    </E>
     <E key="ent" value="3" >
     </E>
     <E key="eradicator" value="1" >
@@ -140,7 +142,7 @@
     </E>
     <E key="fallen_alchemist" value="1" >
     </E>
-    <E key="firebug" value="14" >
+    <E key="firebug" value="20" >
     </E>
     <E key="firebugnest" value="3" >
     </E>
@@ -148,7 +150,7 @@
     </E>
     <E key="firemage_weak" value="2" >
     </E>
-    <E key="fireskull" value="1" >
+    <E key="fireskull" value="5" >
     </E>
     <E key="fireskull_hell" value="6" >
     </E>
@@ -192,7 +194,7 @@
     </E>
     <E key="glue" value="2" >
     </E>
-    <E key="goblin_bomb" value="3" >
+    <E key="goblin_bomb" value="4" >
     </E>
     <E key="golem" value="1" >
     </E>
@@ -356,11 +358,15 @@
     </E>
     <E key="poring_holy" value="20" >
     </E>
+    <E key="poring_lukki" value="1" >
+    </E>
     <E key="potion" value="1" >
     </E>
     <E key="potion_aggressive" value="2" >
     </E>
     <E key="pylon_protection_proj" value="1" >
+    </E>
+    <E key="pylon_vulnerability" value="1" >
     </E>
     <E key="radiobot" value="5" >
     </E>
@@ -476,13 +482,13 @@
     </E>
     <E key="tank_drill" value="1" >
     </E>
-    <E key="tank_flame_apotheosis" value="4" >
+    <E key="tank_flame_apotheosis" value="5" >
     </E>
     <E key="tank_rocket" value="2" >
     </E>
     <E key="tentacler" value="2" >
     </E>
-    <E key="tentacler_big" value="11" >
+    <E key="tentacler_big" value="12" >
     </E>
     <E key="tentacler_small" value="3" >
     </E>
@@ -510,11 +516,11 @@
     </E>
     <E key="welder" value="1" >
     </E>
-    <E key="whisp" value="46" >
+    <E key="whisp" value="57" >
     </E>
-    <E key="whisp_big" value="1" >
+    <E key="whisp_big" value="3" >
     </E>
-    <E key="wizard_corrupt_hearty" value="1" >
+    <E key="wizard_corrupt_hearty" value="5" >
     </E>
     <E key="wizard_corrupt_teleport" value="1" >
     </E>

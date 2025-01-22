@@ -1,4 +1,4 @@
-<Stats deaths="411" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="431" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="19" >
     </E>
@@ -14,25 +14,27 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="65" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="66" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="6" >
     </E>
-    <E key="firebug | $damage_fire" value="5" >
+    <E key="firebug | $damage_fire" value="7" >
     </E>
-    <E key="firebug | $damage_melee" value="2" >
+    <E key="firebug | $damage_melee" value="6" >
+    </E>
+    <E key="gazer | $damage_projectile" value="2" >
     </E>
     <E key="lukki_fire_tiny | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_electricity" value="50" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="128" >
+    <E key="player | $damage_projectile" value="132" >
     </E>
-    <E key="player | $damage_rock_curse" value="23" >
+    <E key="player | $damage_rock_curse" value="29" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
