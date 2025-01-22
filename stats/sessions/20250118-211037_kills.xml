@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="2267" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="2305" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -70,7 +70,7 @@
     </E>
     <E key="bouncer" value="4" >
     </E>
-    <E key="bubble_liquid" value="10" >
+    <E key="bubble_liquid" value="11" >
     </E>
     <E key="cargobot" value="5" >
     </E>
@@ -81,6 +81,8 @@
     <E key="ceiling_fungus_minion" value="19" >
     </E>
     <E key="chainsawer" value="11" >
+    </E>
+    <E key="chameleon" value="1" >
     </E>
     <E key="chaoticpolyshooter" value="1" >
     </E>
@@ -180,7 +182,7 @@
     </E>
     <E key="frog_bot" value="42" >
     </E>
-    <E key="fungus" value="16" >
+    <E key="fungus" value="18" >
     </E>
     <E key="fungus_big" value="4" >
     </E>
@@ -282,7 +284,7 @@
     </E>
     <E key="lukki_dark_huge" value="1" >
     </E>
-    <E key="lukki_eggs" value="1" >
+    <E key="lukki_eggs" value="5" >
     </E>
     <E key="lukki_fire_miniboss" value="1" >
     </E>
@@ -296,7 +298,7 @@
     </E>
     <E key="lukki_ominous" value="1" >
     </E>
-    <E key="lukki_tiny" value="1" >
+    <E key="lukki_tiny" value="14" >
     </E>
     <E key="maggot" value="1" >
     </E>
@@ -428,7 +430,7 @@
     </E>
     <E key="scavenger_glue" value="3" >
     </E>
-    <E key="scavenger_grenade" value="38" >
+    <E key="scavenger_grenade" value="50" >
     </E>
     <E key="scavenger_heal" value="5" >
     </E>
@@ -436,7 +438,7 @@
     </E>
     <E key="scavenger_laser" value="3" >
     </E>
-    <E key="scavenger_leader" value="2" >
+    <E key="scavenger_leader" value="4" >
     </E>
     <E key="scavenger_mine" value="3" >
     </E>
@@ -446,7 +448,7 @@
     </E>
     <E key="scavenger_poison" value="3" >
     </E>
-    <E key="scavenger_poison_immunity" value="2" >
+    <E key="scavenger_poison_immunity" value="3" >
     </E>
     <E key="scavenger_robot" value="1" >
     </E>
@@ -511,6 +513,8 @@
     <E key="tank" value="14" >
     </E>
     <E key="tank_drill" value="1" >
+    </E>
+    <E key="tank_fire2" value="1" >
     </E>
     <E key="tank_flame_apotheosis" value="8" >
     </E>
@@ -592,7 +596,7 @@
     </E>
     <E key="wraith_weirdo_shield" value="2" >
     </E>
-    <E key="yoyoer" value="5" >
+    <E key="yoyoer" value="6" >
     </E>
     <E key="yoyoer_shaman" value="1" >
     </E>

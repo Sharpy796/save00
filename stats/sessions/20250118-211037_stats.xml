@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="34" damage_taken="685.327" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2416" gold="89287" gold_all="396892" gold_infinite="0" healed="1614.79" heart_containers="0" hp="100" items="519" kicks="1096" killed_by="" killed_by_extra="" places_visited="34" playtime="32265.2" playtime_str="8:57:45" projectiles_shot="279331" streaks="0" teleports="9" wands_edited="118" world_seed="1006879779" >
+  <stats biomes_visited_with_wands="34" damage_taken="752.629" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2455" gold="90230" gold_all="397835" gold_infinite="0" healed="1907.89" heart_containers="0" hp="100" items="533" kicks="1116" killed_by="" killed_by_extra="" places_visited="34" playtime="33417.2" playtime_str="9:16:57" projectiles_shot="297962" streaks="0" teleports="9" wands_edited="118" world_seed="1006879779" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -62,17 +62,17 @@
     </E>
     <E key="???" value="1" >
     </E>
-    <E key="Blast Pit" value="7" >
+    <E key="Blast Pit" value="8" >
     </E>
     <E key="Floating Mountain" value="1" >
     </E>
-    <E key="Frozen Passages" value="7" >
+    <E key="Frozen Passages" value="8" >
     </E>
-    <E key="Hiisi Village" value="6" >
+    <E key="Hiisi Village" value="7" >
     </E>
     <E key="The Forge" value="3" >
     </E>
-    <E key="Worm Tunnels" value="2" >
+    <E key="Worm Tunnels" value="3" >
     </E>
   </biomes_visited>
 </Stats>
