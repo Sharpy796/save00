@@ -1,10 +1,10 @@
-<Stats deaths="191" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="195" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="100" >
+    <E key="NULL | run out of material" value="102" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -75,6 +75,8 @@
     <E key="turret_shotgun_left | $damage_projectile" value="1" >
     </E>
     <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
+    </E>
+    <E key="worm_pale | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>

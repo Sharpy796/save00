@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="2305" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="2352" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -120,6 +120,8 @@
     </E>
     <E key="drone_physics" value="3" >
     </E>
+    <E key="drone_shield" value="1" >
+    </E>
     <E key="ear_boss" value="1" >
     </E>
     <E key="earthmage" value="1" >
@@ -166,7 +168,7 @@
     </E>
     <E key="fireskull_hell" value="6" >
     </E>
-    <E key="fish" value="54" >
+    <E key="fish" value="55" >
     </E>
     <E key="fish_lava" value="2" >
     </E>
@@ -182,9 +184,9 @@
     </E>
     <E key="frog_bot" value="42" >
     </E>
-    <E key="fungus" value="18" >
+    <E key="fungus" value="22" >
     </E>
-    <E key="fungus_big" value="4" >
+    <E key="fungus_big" value="10" >
     </E>
     <E key="fungus_giga" value="6" >
     </E>
@@ -280,6 +282,8 @@
     </E>
     <E key="lukki" value="4" >
     </E>
+    <E key="lukki_blue" value="1" >
+    </E>
     <E key="lukki_dark" value="3" >
     </E>
     <E key="lukki_dark_huge" value="1" >
@@ -296,9 +300,15 @@
     </E>
     <E key="lukki_longleg" value="2" >
     </E>
-    <E key="lukki_ominous" value="1" >
+    <E key="lukki_ominous" value="4" >
     </E>
     <E key="lukki_tiny" value="14" >
+    </E>
+    <E key="lukki_weird" value="1" >
+    </E>
+    <E key="lukki_white" value="1" >
+    </E>
+    <E key="lurker" value="5" >
     </E>
     <E key="maggot" value="1" >
     </E>
@@ -366,6 +376,8 @@
     </E>
     <E key="physics_torch_stand" value="2" >
     </E>
+    <E key="physics_torch_stand_purple" value="1" >
+    </E>
     <E key="plant_boss" value="1" >
     </E>
     <E key="player_ai" value="2" >
@@ -374,7 +386,7 @@
     </E>
     <E key="player_evil" value="2" >
     </E>
-    <E key="poisonmushroom" value="5" >
+    <E key="poisonmushroom" value="6" >
     </E>
     <E key="pollen" value="3" >
     </E>
@@ -478,7 +490,13 @@
     </E>
     <E key="skeleton_birthday" value="9" >
     </E>
+    <E key="skullfly" value="2" >
+    </E>
     <E key="skullrat" value="2" >
+    </E>
+    <E key="skullspider" value="2" >
+    </E>
+    <E key="skullspider_lukki_bomb_physics" value="1" >
     </E>
     <E key="skycrystal_physics" value="14" >
     </E>
@@ -570,21 +588,31 @@
     </E>
     <E key="wizard_dark" value="1" >
     </E>
+    <E key="wizard_homing" value="3" >
+    </E>
+    <E key="wizard_jackofalltrades" value="3" >
+    </E>
     <E key="wizard_manaeater" value="1" >
     </E>
     <E key="wizard_time" value="1" >
     </E>
     <E key="wizard_tiny" value="2" >
     </E>
-    <E key="wizard_transmutation" value="9" >
+    <E key="wizard_transmutation" value="12" >
     </E>
     <E key="wizard_trip" value="2" >
     </E>
-    <E key="wizard_twitchy" value="2" >
+    <E key="wizard_twitchy" value="4" >
     </E>
     <E key="wizard_weaken" value="18" >
     </E>
+    <E key="worm_boil" value="3" >
+    </E>
+    <E key="worm_creepy" value="2" >
+    </E>
     <E key="worm_fungal" value="1" >
+    </E>
+    <E key="worm_pale" value="1" >
     </E>
     <E key="wraith" value="3" >
     </E>
