@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="65.3128" 
-    clouds_02_target="107.159" 
+    clouds_01_target="54.6145" 
+    clouds_02_target="83.1506" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
-    fog="0.695747" 
-    fog_target="0.700743" 
+    fog="0.00498673" 
+    fog_target="0" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0.00499913" 
@@ -55,9 +55,9 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250118-211037" 
     sky_sunset_alpha_target="1" 
-    time="0.465303" 
+    time="0.473636" 
     time_dt="1" 
-    time_total="48.941" 
+    time_total="49.2719" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="-0.0527947" 
@@ -591,7 +591,7 @@
       </E>
       <E 
         key="ACTION_SLICING_BLADE" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_blue_portal.xml" >
       </E>
       <E 
         key="ACTION_SLOW_BULLET_TIMER" 
@@ -695,7 +695,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="258455" >
+        value="262609" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -711,7 +711,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="1923521" >
+        value="1935911" >
       </E>
       <E 
         key="BR_MODE" 
@@ -723,7 +723,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="258455" >
+        value="262609" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
@@ -755,7 +755,7 @@
       </E>
       <E 
         key="InventoryBags_active_item_tab" 
-        value="2" >
+        value="1" >
       </E>
       <E 
         key="InventoryBags_active_storage_version" 
@@ -911,11 +911,11 @@
       </E>
       <E 
         key="apotheosis_markerportal_red_x" 
-        value="-3313" >
+        value="-9918" >
       </E>
       <E 
         key="apotheosis_markerportal_red_y" 
-        value="3340" >
+        value="-5711" >
       </E>
       <E 
         key="apotheosis_tabletghost_count" 
@@ -1430,6 +1430,10 @@
         value="$laserbot" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/lasershooter.xml" 
+        value="$animal_lasershooter" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/lavashooter.xml" 
         value="$lavashooter" >
       </E>
@@ -1532,6 +1536,10 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/tentacler_big.xml" 
         value="$enemy_apotheosis_tentacler_big" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/thundermage.xml" 
+        value="$animal_thundermage" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/turret_right.xml" 
@@ -2335,7 +2343,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_1" 
-        value="1728666" >
+        value="1925155" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_2" 
@@ -2858,6 +2866,10 @@
         value="1053450" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_87_3" 
+        value="1926990" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_8_2" 
         value="30780" >
       </E>
@@ -3227,7 +3239,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_3" 
-        value="733462" >
+        value="1927149" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_4" 
@@ -3416,6 +3428,18 @@
       <E 
         key="mods_grahamsdialogue_pool_1_65_4" 
         value="1183108" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_66_2" 
+        value="1927089" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_66_3" 
+        value="1927089" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_66_4" 
+        value="1927089" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_67_2" 
@@ -3658,6 +3682,10 @@
         value="929597" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_35_4" 
+        value="1925215" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_36_3" 
         value="916929" >
       </E>
@@ -3811,11 +3839,11 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="data/entities/projectiles/deck/powerdigger.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_blue_portal.xml" >
       </E>
       <E 
         key="random_twitch_user" 
-        value="Conga_Lyne,#00FF7F,false,false,false:Heinermann,#008000,false,false,false:" >
+        value="" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -3903,11 +3931,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_winter,$biome_coalmine,$biome_wandcave,???,_EMPTY_,$biome_holymou" >
+        value="$biome_lava_excavation,_EMPTY_,$biome_clouds,$biome_winter,$biome_holymountain,_" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="238" >
+        value="247" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -4402,8 +4430,17 @@
       <string>
         PERK_TELEPORTITIS_DODGE
       </string>
+      <string>
+        new_kill_windmill
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>
@@ -5776,6 +5813,15 @@
       value_float="0" 
       value_int="0" 
       value_string="Apina" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="hitbox" >
     </VariableStorageComponent>
   </Entity>
   <Entity 
