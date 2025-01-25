@@ -55,9 +55,9 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250118-211037" 
     sky_sunset_alpha_target="1" 
-    time="0.505581" 
+    time="0.0965528" 
     time_dt="1" 
-    time_total="52.5834" 
+    time_total="52.6201" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="0.0813061" 
@@ -759,7 +759,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="284729" >
+        value="284835" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -775,7 +775,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="2059923" >
+        value="2061299" >
       </E>
       <E 
         key="BR_MODE" 
@@ -787,7 +787,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="284729" >
+        value="284835" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
@@ -819,7 +819,7 @@
       </E>
       <E 
         key="InventoryBags_active_item_tab" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="InventoryBags_active_storage_version" 
@@ -827,7 +827,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="5" >
+        value="1" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -3975,11 +3975,11 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_red_portal.xml" >
+        value="data/entities/projectiles/deck/digger.xml" >
       </E>
       <E 
         key="random_twitch_user" 
-        value="Heinermann,#008000,false,false,false:Conga_Lyne,#00FF7F,false,false,false:" >
+        value="" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -4693,6 +4693,12 @@
       </string>
       <string>
         alcohol
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
       </string>
       <string>
         cc_dull_fungus
