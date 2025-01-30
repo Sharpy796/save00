@@ -1,5 +1,7 @@
-<Stats deaths="5" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="6" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
     <E key="attack_drone | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_projectile" value="3" >

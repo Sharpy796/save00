@@ -1,4 +1,4 @@
-<Stats deaths="1824" kills="42" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1844" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="110" >
+    <E key="NULL | $damage_explosion" value="115" >
     </E>
-    <E key="NULL | $damage_fire" value="51" >
+    <E key="NULL | $damage_fire" value="53" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -41,6 +41,8 @@
     <E key="NULL | damage from material: toxic rock" value="14" >
     </E>
     <E key="acidshooter | $damage_projectile" value="3" >
+    </E>
+    <E key="alien | $damage_projectile" value="1" >
     </E>
     <E key="ant | $damage_melee" value="5" >
     </E>
@@ -79,6 +81,8 @@
     <E key="firebug | $damage_melee" value="6" >
     </E>
     <E key="fireskull | $damage_melee" value="1" >
+    </E>
+    <E key="fireworkman | $damage_projectile" value="1" >
     </E>
     <E key="fly | $damage_melee" value="3" >
     </E>
@@ -120,7 +124,9 @@
     </E>
     <E key="icicle_king | $damage_projectile" value="1" >
     </E>
-    <E key="invisiman | $damage_slice" value="2" >
+    <E key="invisiman | $damage_melee" value="1" >
+    </E>
+    <E key="invisiman | $damage_slice" value="4" >
     </E>
     <E key="lukki_minion | $damage_curse" value="2" >
     </E>
@@ -158,7 +164,7 @@
     </E>
     <E key="player | $damage_drill" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="43" >
+    <E key="player | $damage_explosion" value="44" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -166,7 +172,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="144" >
+    <E key="player | $damage_projectile" value="149" >
     </E>
     <E key="player | $damage_rock_curse" value="9" >
     </E>
@@ -296,7 +302,7 @@
     </E>
     <E key="worm_tiny | worm bite" value="21" >
     </E>
-    <E key="zombie | $damage_melee" value="12" >
+    <E key="zombie | $damage_melee" value="14" >
     </E>
   </death_map>
   <kill_map>

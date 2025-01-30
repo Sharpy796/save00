@@ -1,4 +1,4 @@
-<Stats deaths="944" kills="23" player_kills="1" player_projectile_count="0" >
+<Stats deaths="981" kills="23" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -6,17 +6,17 @@
     </E>
     <E key="NULL | $damage_drowning" value="43" >
     </E>
-    <E key="NULL | $damage_electricity" value="6" >
+    <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="56" >
+    <E key="NULL | $damage_explosion" value="64" >
     </E>
-    <E key="NULL | $damage_fire" value="143" >
+    <E key="NULL | $damage_fire" value="151" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="54" >
+    <E key="NULL | $damage_physicshit" value="55" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="6" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="7" >
     </E>
@@ -35,6 +35,8 @@
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
+    </E>
+    <E key="bean_pod_crackle | $damage_explosion" value="9" >
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>
@@ -88,13 +90,15 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="19" >
+    <E key="player | $damage_explosion" value="22" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
-    <E key="player | $damage_projectile" value="374" >
+    <E key="player | $damage_projectile" value="376" >
     </E>
     <E key="player | $damage_slice" value="14" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
     <E key="player | chop!" value="7" >
     </E>

@@ -1,8 +1,8 @@
-<Stats deaths="138" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="143" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="22" >
     </E>
-    <E key="NULL | $damage_explosion" value="9" >
+    <E key="NULL | $damage_explosion" value="12" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
@@ -13,6 +13,8 @@
     <E key="drone_mini | $damage_explosion" value="1" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_fungus | hit" value="2" >
     </E>
     <E key="miner | $damage_explosion" value="2" >
     </E>

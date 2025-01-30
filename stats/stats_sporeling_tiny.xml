@@ -1,4 +1,4 @@
-<Stats deaths="209" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="218" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="60" >
     </E>
-    <E key="NULL | $damage_fire" value="23" >
+    <E key="NULL | $damage_fire" value="24" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -14,13 +14,17 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="32" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="36" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
+    <E key="alien | $damage_projectile" value="1" >
+    </E>
     <E key="bean_pod_crackle | $damage_explosion" value="1" >
+    </E>
+    <E key="beanpodupine | $damage_melee" value="1" >
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>
@@ -39,6 +43,8 @@
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_fire" value="5" >
     </E>

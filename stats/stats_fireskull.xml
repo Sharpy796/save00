@@ -1,10 +1,10 @@
-<Stats deaths="62" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="63" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
     <E key="NULL | damage from material: Water" value="2" >
     </E>
