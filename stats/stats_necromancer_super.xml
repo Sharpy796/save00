@@ -1,4 +1,4 @@
-<Stats deaths="9" kills="22" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_melee" value="1" >
     </E>
@@ -6,6 +6,20 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fish" value="11" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
     <E key="swarm_fly" value="22" >
     </E>
   </kill_map>

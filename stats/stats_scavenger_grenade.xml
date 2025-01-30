@@ -1,14 +1,14 @@
-<Stats deaths="1065" kills="172" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1073" kills="175" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="17" >
+    <E key="NULL | $damage_drowning" value="18" >
     </E>
-    <E key="NULL | $damage_electricity" value="55" >
+    <E key="NULL | $damage_electricity" value="57" >
     </E>
-    <E key="NULL | $damage_explosion" value="129" >
+    <E key="NULL | $damage_explosion" value="132" >
     </E>
     <E key="NULL | $damage_fire" value="33" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="9" >
     </E>
-    <E key="NULL | $damage_radioactive" value="12" >
+    <E key="NULL | $damage_radioactive" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -100,6 +100,8 @@
     </E>
     <E key="pollen_bloom | $damage_projectile" value="1" >
     </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
     <E key="roboguard | $damage_melee" value="1" >
     </E>
     <E key="scavenger_electrocuter2 | $damage_electricity" value="1" >
@@ -168,7 +170,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="114" >
+    <E key="rat" value="117" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

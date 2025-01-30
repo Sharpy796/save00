@@ -1,0 +1,66 @@
+<Stats deaths="1" kills="135" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="6" >
+    </E>
+    <E key="bat" value="13" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="5" >
+    </E>
+    <E key="firebug" value="24" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="goblin_bomb" value="5" >
+    </E>
+    <E key="longleg" value="11" >
+    </E>
+    <E key="miner" value="4" >
+    </E>
+    <E key="miner_weak" value="8" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner" value="11" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="9" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="slimespirit" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="10" >
+    </E>
+  </kill_map>
+</Stats>

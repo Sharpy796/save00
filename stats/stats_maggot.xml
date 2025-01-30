@@ -1,5 +1,7 @@
-<Stats deaths="10" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >

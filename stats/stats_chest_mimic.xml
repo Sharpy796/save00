@@ -1,8 +1,8 @@
-<Stats deaths="18" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="20" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="4" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -13,6 +13,8 @@
     <E key="player | $damage_projectile" value="7" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_twitchy | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="1" >
     </E>

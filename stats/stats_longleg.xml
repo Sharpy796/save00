@@ -1,4 +1,4 @@
-<Stats deaths="769" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="800" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -10,11 +10,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="46" >
     </E>
-    <E key="NULL | $damage_fire" value="137" >
+    <E key="NULL | $damage_fire" value="140" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="47" >
+    <E key="NULL | $damage_physicshit" value="54" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="6" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="255" >
+    <E key="player | $damage_projectile" value="266" >
     </E>
     <E key="player | $damage_slice" value="13" >
     </E>
@@ -110,9 +110,9 @@
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
     </E>
-    <E key="worm | worm bite" value="11" >
+    <E key="worm | worm bite" value="20" >
     </E>
-    <E key="zombie_weak | $damage_melee" value="8" >
+    <E key="zombie_weak | $damage_melee" value="9" >
     </E>
   </death_map>
   <kill_map>
