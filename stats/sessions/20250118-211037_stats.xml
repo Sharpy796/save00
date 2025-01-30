@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Aug 12 2024-21:14:23" >
-  <stats biomes_visited_with_wands="34" damage_taken="863.734" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2504" gold="92770" gold_all="400475" gold_infinite="0" healed="2121.34" heart_containers="0" hp="100" items="544" kicks="1154" killed_by="" killed_by_extra="" places_visited="34" playtime="34355" playtime_str="9:32:35" projectiles_shot="311065" streaks="0" teleports="9" wands_edited="118" world_seed="1006879779" >
+  <stats biomes_visited_with_wands="37" damage_taken="949.301" dead="1" death_count="0" death_pos.x="-2293.19" death_pos.y="6931.3" enemies_killed="2628" gold="104116" gold_all="411821" gold_infinite="0" healed="2569.34" heart_containers="0" hp="100" items="565" kicks="1208" killed_by="(Vanilla) Haavoittajamestari | projectile" killed_by_extra="" places_visited="37" playtime="36342.6" playtime_str="10:05:42" projectiles_shot="339272" streaks="0" teleports="9" wands_edited="123" world_seed="1006879779" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -27,6 +27,8 @@
     <E key="$biome_fun" value="1" >
     </E>
     <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_ghost_secret" value="1" >
     </E>
     <E key="$biome_gold" value="1" >
     </E>
@@ -60,19 +62,23 @@
     </E>
     <E key="$biome_winter" value="1" >
     </E>
+    <E key="$biome_winter_caves" value="1" >
+    </E>
+    <E key="$biome_wizardcave" value="1" >
+    </E>
     <E key="???" value="1" >
     </E>
-    <E key="Blast Pit" value="8" >
+    <E key="Blast Pit" value="9" >
     </E>
     <E key="Floating Mountain" value="1" >
     </E>
-    <E key="Frozen Passages" value="8" >
+    <E key="Frozen Passages" value="9" >
     </E>
-    <E key="Hiisi Village" value="7" >
+    <E key="Hiisi Village" value="8" >
     </E>
     <E key="The Forge" value="3" >
     </E>
-    <E key="Worm Tunnels" value="4" >
+    <E key="Worm Tunnels" value="5" >
     </E>
   </biomes_visited>
 </Stats>

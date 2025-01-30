@@ -1,4 +1,4 @@
-<Stats deaths="34" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="35" kills="13" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -26,11 +26,15 @@
     </E>
     <E key="worm_pale | worm bite" value="3" >
     </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="lurker" value="1" >
     </E>
     <E key="meatmaggot" value="1" >
+    </E>
+    <E key="player" value="1" >
     </E>
     <E key="poring" value="1" >
     </E>

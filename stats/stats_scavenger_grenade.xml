@@ -1,4 +1,4 @@
-<Stats deaths="1021" kills="149" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1026" kills="149" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="cargobot | $damage_explosion" value="3" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
     <E key="drill_giant | $damage_explosion" value="1" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="iceskull | $damage_projectile" value="2" >
     </E>
@@ -108,11 +108,11 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="285" >
+    <E key="player | $damage_projectile" value="286" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
-    <E key="player | $damage_rock_curse" value="18" >
+    <E key="player | $damage_rock_curse" value="19" >
     </E>
     <E key="player | $damage_slice" value="34" >
     </E>
@@ -145,6 +145,8 @@
     <E key="sniper | $damage_projectile" value="5" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
