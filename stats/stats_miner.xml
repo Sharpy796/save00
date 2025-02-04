@@ -1,4 +1,4 @@
-<Stats deaths="296" kills="68" player_kills="0" player_projectile_count="0" >
+<Stats deaths="309" kills="72" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_explosion" value="20" >
     </E>
-    <E key="NULL | $damage_fire" value="29" >
+    <E key="NULL | $damage_fire" value="33" >
     </E>
     <E key="NULL | $damage_physicshit" value="30" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="26" >
+    <E key="NULL | $damage_radioactive" value="28" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -24,7 +24,9 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="4" >
+    <E key="NULL | damage from material: lava" value="6" >
+    </E>
+    <E key="NULL | dégâts de matériau : lava" value="1" >
     </E>
     <E key="ant_fire | $damage_fire" value="1" >
     </E>
@@ -58,9 +60,9 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="63" >
+    <E key="player | $damage_projectile" value="65" >
     </E>
-    <E key="player | $damage_slice" value="24" >
+    <E key="player | $damage_slice" value="26" >
     </E>
     <E key="player | chop!" value="2" >
     </E>
@@ -72,13 +74,15 @@
     </E>
     <E key="bat" value="1" >
     </E>
-    <E key="firebug" value="5" >
+    <E key="firebug" value="6" >
     </E>
     <E key="frog_bot" value="2" >
     </E>
     <E key="miner" value="7" >
     </E>
-    <E key="rat" value="33" >
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="35" >
     </E>
     <E key="root_grower" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="665" kills="131" player_kills="1" player_projectile_count="0" >
+<Stats deaths="668" kills="132" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -17,6 +17,8 @@
     <E key="NULL | $damage_physicshit" value="45" >
     </E>
     <E key="NULL | $damage_radioactive" value="7" >
+    </E>
+    <E key="NULL | $damage_slice" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -37,6 +39,8 @@
     <E key="cargobot | $damage_projectile" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="disc_bullet_big | Giga Slicing Liquid, coming soon to a Chemical Curiosity near you!" value="1" >
     </E>
     <E key="electrolukki_big | $damage_electricity" value="1" >
     </E>
@@ -140,7 +144,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="97" >
+    <E key="rat" value="98" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="536" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="609" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_fall" value="7" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="17" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -19,6 +19,8 @@
     <E key="boss_fire_lukki | $damage_explosion" value="37" >
     </E>
     <E key="cloud_thunder | $damage_explosion" value="2" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
@@ -52,9 +54,9 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="89" >
+    <E key="player | $damage_projectile" value="92" >
     </E>
-    <E key="player | $damage_slice" value="6" >
+    <E key="player | $damage_slice" value="7" >
     </E>
     <E key="rat | $damage_melee" value="6" >
     </E>
@@ -72,7 +74,7 @@
     </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="156" >
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="213" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

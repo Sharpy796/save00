@@ -1,4 +1,4 @@
-<Stats deaths="122" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="123" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -13,6 +13,8 @@
     <E key="eye_monster | $damage_projectile" value="1" >
     </E>
     <E key="player | chop!" value="2" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="1" >
     </E>
@@ -35,6 +37,8 @@
     <E key="slimeshooter_nontoxic" value="1" >
     </E>
     <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
     </E>
   </kill_map>
 </Stats>

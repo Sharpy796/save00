@@ -1,28 +1,32 @@
-<Stats deaths="606" kills="14" player_kills="1" player_projectile_count="0" >
+<Stats deaths="757" kills="21" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="27" >
     </E>
-    <E key="NULL | $damage_drowning" value="16" >
+    <E key="NULL | $damage_drowning" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="17" >
+    <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="55" >
+    <E key="NULL | $damage_explosion" value="29" >
     </E>
-    <E key="NULL | $damage_physicshit" value="17" >
+    <E key="NULL | $damage_fire" value="71" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="20" >
     </E>
     <E key="NULL | Radiation" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="6" >
+    <E key="NULL | damage from material: acid" value="7" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="8" >
     </E>
     <E key="NULL | material lava from: damage" value="2" >
     </E>
-    <E key="acidshooter_weak | $damage_projectile" value="3" >
+    <E key="acidshooter_weak | $damage_projectile" value="5" >
     </E>
     <E key="chainsawer | Minced!" value="1" >
     </E>
@@ -32,13 +36,15 @@
     </E>
     <E key="firemage_weak | $damage_fire" value="2" >
     </E>
+    <E key="goldnugget_10 | $damage_melee" value="1" >
+    </E>
     <E key="goo_slug | $damage_melee" value="1" >
     </E>
     <E key="goomonster | $damage_melee" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
-    <E key="longleg | $damage_melee" value="9" >
+    <E key="longleg | $damage_melee" value="13" >
     </E>
     <E key="miner_weak | $damage_explosion" value="56" >
     </E>
@@ -46,13 +52,15 @@
     </E>
     <E key="miner_weak | $damage_projectile" value="1" >
     </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
     <E key="player | " value="6" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="159" >
+    <E key="player | $damage_projectile" value="191" >
     </E>
-    <E key="player | $damage_slice" value="32" >
+    <E key="player | $damage_slice" value="61" >
     </E>
     <E key="player | $graham_name_bramball" value="1" >
     </E>
@@ -60,25 +68,35 @@
     </E>
     <E key="playerghost | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_melee" value="12" >
+    <E key="playerghost | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="84" >
+    <E key="playerghost | $damage_slice" value="2" >
     </E>
-    <E key="slimeshooter_weak | $damage_explosion" value="2" >
+    <E key="shaman | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="13" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="107" >
+    </E>
+    <E key="shotgunner_weak | $damage_slice" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="3" >
     </E>
     <E key="slimeshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="25" >
+    <E key="slimeshooter_weak | $damage_projectile" value="29" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
   </death_map>
   <kill_map>
-    <E key="longleg" value="8" >
+    <E key="longleg" value="14" >
     </E>
     <E key="miner_weak" value="1" >
     </E>
-    <E key="player" value="1" >
+    <E key="player" value="2" >
     </E>
     <E key="shotgunner_weak" value="1" >
     </E>

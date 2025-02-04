@@ -1,0 +1,20 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-12:40:28" >
+  <stats biomes_visited_with_wands="5" damage_taken="533.683" dead="1" death_count="0" death_pos.x="35857.9" death_pos.y="4949.02" enemies_killed="13" gold="2581" gold_all="3556" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="5" killed_by=" | immortal_snail" killed_by_extra="" places_visited="5" playtime="735.483" playtime_str="0:12:15" projectiles_shot="56" streaks="0" teleports="16" wands_edited="4" world_seed="1052442279" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="3" damage_taken="4.57314" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="12" gold="1521" gold_all="2496" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="7" kicks="5" killed_by="" killed_by_extra="" places_visited="3" playtime="674.717" playtime_str="0:11:14" projectiles_shot="55" streaks="0" teleports="9" wands_edited="4" world_seed="1052442279" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="east $biome_coalmine" value="1" >
+    </E>
+    <E key="east $biome_excavationsite" value="1" >
+    </E>
+    <E key="east $biome_holymountain" value="1" >
+    </E>
+    <E key="east $biome_snowcastle" value="1" >
+    </E>
+    <E key="east $biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>
