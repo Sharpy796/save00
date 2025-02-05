@@ -1,4 +1,4 @@
-<Stats deaths="260" kills="207" player_kills="0" player_projectile_count="0" >
+<Stats deaths="268" kills="222" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_fire" value="13" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
-    <E key="NULL | $damage_physicshit" value="22" >
+    <E key="NULL | $damage_physicshit" value="23" >
     </E>
-    <E key="NULL | $damage_radioactive" value="16" >
+    <E key="NULL | $damage_radioactive" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="8" >
+    <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="71" >
+    <E key="player | $damage_projectile" value="73" >
     </E>
     <E key="player | $damage_slice" value="15" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="10" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
@@ -102,15 +102,15 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="97" >
+    <E key="rat" value="107" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_smg" value="3" >
     </E>
-    <E key="shotgunner" value="6" >
+    <E key="shotgunner" value="8" >
     </E>
-    <E key="slimeshooter" value="16" >
+    <E key="slimeshooter" value="17" >
     </E>
     <E key="sniper" value="4" >
     </E>

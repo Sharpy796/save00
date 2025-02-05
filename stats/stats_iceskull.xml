@@ -1,14 +1,16 @@
-<Stats deaths="249" kills="277" player_kills="0" player_projectile_count="0" >
+<Stats deaths="263" kills="280" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="7" >
     </E>
     <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -44,15 +46,17 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="66" >
+    <E key="player | $damage_projectile" value="67" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
-    <E key="player | $damage_slice" value="4" >
+    <E key="player | $damage_slice" value="6" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="8" >
+    <E key="playerghost | $damage_fire" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="10" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="4" >
     </E>
@@ -68,7 +72,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="6" >
+    <E key="sniper | $damage_projectile" value="8" >
     </E>
     <E key="tank | $damage_projectile" value="8" >
     </E>
@@ -114,7 +118,7 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="78" >
+    <E key="rat" value="79" >
     </E>
     <E key="scavenger_glue" value="5" >
     </E>
@@ -122,7 +126,7 @@
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
-    <E key="scavenger_smg" value="11" >
+    <E key="scavenger_smg" value="12" >
     </E>
     <E key="shotgunner" value="12" >
     </E>
@@ -139,6 +143,8 @@
     <E key="thunderskull" value="1" >
     </E>
     <E key="wandmaster2" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
     </E>
     <E key="worm_big" value="2" >
     </E>

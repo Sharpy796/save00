@@ -1,4 +1,4 @@
-<Stats deaths="60" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="63" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -10,13 +10,19 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="8" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="3" >
     </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
     <E key="hiisi_thief | $damage_projectile" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
     </E>
     <E key="player | " value="2" >
     </E>
@@ -38,7 +44,7 @@
     </E>
     <E key="invisiman" value="1" >
     </E>
-    <E key="rat" value="14" >
+    <E key="rat" value="17" >
     </E>
     <E key="scorpion" value="5" >
     </E>

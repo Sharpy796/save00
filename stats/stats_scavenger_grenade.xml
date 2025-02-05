@@ -1,4 +1,4 @@
-<Stats deaths="1034" kills="149" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1060" kills="157" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="54" >
     </E>
-    <E key="NULL | $damage_explosion" value="107" >
+    <E key="NULL | $damage_explosion" value="108" >
     </E>
     <E key="NULL | $damage_fire" value="27" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="14" >
+    <E key="NULL | $damage_radioactive" value="15" >
     </E>
     <E key="NULL | $damage_slice" value="3" >
     </E>
@@ -38,9 +38,11 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="38" >
+    <E key="NULL | damage from material: freezing vapour" value="40" >
     </E>
     <E key="NULL | damage from material: toxic ice" value="1" >
+    </E>
+    <E key="NULL | damage from material: замораживающее испарение" value="4" >
     </E>
     <E key="bigzombie | $damage_explosion" value="5" >
     </E>
@@ -104,7 +106,7 @@
     </E>
     <E key="player | $damage_electricity" value="29" >
     </E>
-    <E key="player | $damage_explosion" value="70" >
+    <E key="player | $damage_explosion" value="73" >
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="286" >
+    <E key="player | $damage_projectile" value="301" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -192,7 +194,7 @@
     </E>
     <E key="glue" value="1" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="10" >
     </E>
     <E key="locust_swarm" value="3" >
     </E>
@@ -202,11 +204,11 @@
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
-    <E key="player" value="1" >
+    <E key="player" value="2" >
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="90" >
+    <E key="rat" value="94" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -214,7 +216,7 @@
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>
-    <E key="scavenger_smg" value="3" >
+    <E key="scavenger_smg" value="4" >
     </E>
     <E key="scorpion" value="5" >
     </E>

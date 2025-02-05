@@ -1,4 +1,4 @@
-<Stats deaths="15" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="4" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -14,6 +14,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="player" value="1" >
+    </E>
     <E key="pollen" value="1" >
     </E>
     <E key="sporeling_tiny" value="1" >
