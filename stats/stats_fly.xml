@@ -1,10 +1,10 @@
-<Stats deaths="212" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="223" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="5" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
@@ -16,6 +16,8 @@
     </E>
     <E key="bloom | $damage_projectile" value="1" >
     </E>
+    <E key="contact_damage | $damage_curse" value="3" >
+    </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
@@ -24,7 +26,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="16" >
+    <E key="player | $damage_explosion" value="17" >
     </E>
     <E key="player | $damage_ice" value="6" >
     </E>
@@ -38,7 +40,7 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="7" >
+    <E key="shooterflower | $damage_projectile" value="8" >
     </E>
     <E key="slicing_blade | chop!" value="5" >
     </E>

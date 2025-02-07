@@ -1,4 +1,4 @@
-<Stats deaths="800" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="802" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="7" >
+    <E key="NULL | damage from material: toxic rock" value="8" >
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="seeker | Etsijä's shock" value="3" >
     </E>
-    <E key="shotgunner_weak | $damage_melee" value="4" >
+    <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="6" >
     </E>

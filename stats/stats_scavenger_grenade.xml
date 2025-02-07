@@ -1,14 +1,14 @@
-<Stats deaths="1073" kills="175" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1096" kills="179" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="18" >
+    <E key="NULL | $damage_drowning" value="19" >
     </E>
-    <E key="NULL | $damage_electricity" value="57" >
+    <E key="NULL | $damage_electricity" value="59" >
     </E>
-    <E key="NULL | $damage_explosion" value="132" >
+    <E key="NULL | $damage_explosion" value="135" >
     </E>
     <E key="NULL | $damage_fire" value="33" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="9" >
     </E>
-    <E key="NULL | $damage_radioactive" value="13" >
+    <E key="NULL | $damage_radioactive" value="15" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="11" >
+    <E key="NULL | damage from material: acid" value="23" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="5" >
     </E>
@@ -41,6 +41,8 @@
     <E key="blob | $damage_melee" value="1" >
     </E>
     <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="2" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
@@ -136,7 +138,7 @@
     </E>
     <E key="thunderskull | $damage_electricity" value="2" >
     </E>
-    <E key="thunderskull | $damage_explosion" value="1" >
+    <E key="thunderskull | $damage_explosion" value="2" >
     </E>
     <E key="turret_left | $damage_projectile" value="2" >
     </E>
@@ -170,7 +172,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="117" >
+    <E key="rat" value="119" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -184,11 +186,13 @@
     </E>
     <E key="shotgunner" value="1" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>
     <E key="thunderskull" value="1" >
+    </E>
+    <E key="tnt" value="1" >
     </E>
     <E key="worm_tiny" value="1" >
     </E>

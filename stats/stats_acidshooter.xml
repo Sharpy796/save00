@@ -1,4 +1,4 @@
-<Stats deaths="143" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="145" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="14" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_fire" value="11" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
@@ -17,6 +17,8 @@
     <E key="ant | $damage_melee" value="1" >
     </E>
     <E key="boss_toxic_worm_minion | worm bite" value="2" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
     </E>
     <E key="crystal_physics | $damage_projectile" value="1" >
     </E>
