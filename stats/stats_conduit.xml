@@ -1,10 +1,10 @@
-<Stats deaths="34" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="37" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="9" >
+    <E key="NULL | $damage_explosion" value="10" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="4" >
+    <E key="NULL | $damage_radioactive" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="goo_slug | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="13" >
+    <E key="player | $damage_projectile" value="14" >
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
@@ -26,7 +26,7 @@
   <kill_map>
     <E key="longleg" value="1" >
     </E>
-    <E key="skeleton" value="2" >
+    <E key="skeleton" value="3" >
     </E>
     <E key="skeleton_birthday" value="1" >
     </E>
