@@ -1,6 +1,6 @@
-<Stats deaths="95" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="96" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="70" >
+    <E key="NULL | $damage_drowning" value="71" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>

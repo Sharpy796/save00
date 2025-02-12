@@ -1,4 +1,4 @@
-<Stats deaths="89" kills="67" player_kills="0" player_projectile_count="0" >
+<Stats deaths="91" kills="72" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="4" >
+    <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -39,6 +39,8 @@
     <E key="bigzombie" value="1" >
     </E>
     <E key="blob" value="1" >
+    </E>
+    <E key="ceiling_fungus_minion" value="5" >
     </E>
     <E key="glue" value="8" >
     </E>

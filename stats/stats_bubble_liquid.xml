@@ -1,12 +1,12 @@
-<Stats deaths="203" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="220" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="8" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -16,11 +16,13 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="109" >
+    <E key="NULL | run out of material" value="110" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
+    </E>
+    <E key="boss_pit | $damage_projectile" value="1" >
     </E>
     <E key="crawler | $damage_projectile" value="1" >
     </E>
@@ -38,17 +40,19 @@
     </E>
     <E key="lurker | $damage_projectile" value="1" >
     </E>
+    <E key="mimic_explosive_box | $damage_melee" value="1" >
+    </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
     <E key="phantom_a | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="32" >
+    <E key="player | $damage_projectile" value="39" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -64,7 +68,7 @@
     </E>
     <E key="scavenger_smg | $damage_projectile" value="3" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="2" >
+    <E key="shotgunner | $damage_projectile" value="3" >
     </E>
     <E key="skullrat | $damage_melee" value="1" >
     </E>
@@ -72,9 +76,13 @@
     </E>
     <E key="sniper | $damage_projectile" value="3" >
     </E>
+    <E key="tank_flame_apotheosis | $damage_fire" value="1" >
+    </E>
     <E key="turret_shotgun_left | $damage_projectile" value="1" >
     </E>
     <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
     </E>
     <E key="worm_pale | worm bite" value="1" >
     </E>

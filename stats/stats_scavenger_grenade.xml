@@ -1,4 +1,4 @@
-<Stats deaths="1026" kills="149" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1066" kills="149" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_drowning" value="17" >
     </E>
-    <E key="NULL | $damage_electricity" value="54" >
+    <E key="NULL | $damage_electricity" value="55" >
     </E>
-    <E key="NULL | $damage_explosion" value="107" >
+    <E key="NULL | $damage_explosion" value="112" >
     </E>
     <E key="NULL | $damage_fire" value="27" >
     </E>
@@ -47,6 +47,10 @@
     <E key="blob | $damage_melee" value="1" >
     </E>
     <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="boss_pit | $damage_explosion" value="1" >
+    </E>
+    <E key="boss_pit | $damage_projectile" value="1" >
     </E>
     <E key="cargobot | $damage_electricity" value="1" >
     </E>
@@ -100,7 +104,7 @@
     </E>
     <E key="player | $damage_electricity" value="29" >
     </E>
-    <E key="player | $damage_explosion" value="70" >
+    <E key="player | $damage_explosion" value="99" >
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
@@ -108,7 +112,7 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="286" >
+    <E key="player | $damage_projectile" value="288" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -172,7 +176,7 @@
     </E>
     <E key="worm | worm bite" value="8" >
     </E>
-    <E key="worm_big | worm bite" value="6" >
+    <E key="worm_big | worm bite" value="7" >
     </E>
     <E key="worm_tiny | worm bite" value="3" >
     </E>

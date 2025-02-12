@@ -1,4 +1,4 @@
-<Stats deaths="252" kills="87" player_kills="1" player_projectile_count="0" >
+<Stats deaths="261" kills="96" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="45" >
+    <E key="NULL | $damage_explosion" value="48" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
@@ -46,11 +46,11 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="8" >
+    <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="70" >
+    <E key="player | $damage_projectile" value="74" >
     </E>
     <E key="player | $damage_slice" value="17" >
     </E>
@@ -92,6 +92,8 @@
     </E>
     <E key="ant" value="1" >
     </E>
+    <E key="axeman" value="2" >
+    </E>
     <E key="bat" value="1" >
     </E>
     <E key="blob" value="2" >
@@ -102,6 +104,8 @@
     </E>
     <E key="frog_bot" value="1" >
     </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
     <E key="miniblob" value="6" >
     </E>
     <E key="pebble_physics" value="1" >
@@ -110,13 +114,13 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="55" >
+    <E key="rat" value="60" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="shotgunner" value="3" >
+    <E key="shotgunner" value="4" >
     </E>
     <E key="slimeshooter" value="4" >
     </E>

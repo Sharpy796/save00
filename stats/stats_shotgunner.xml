@@ -1,4 +1,4 @@
-<Stats deaths="546" kills="164" player_kills="3" player_projectile_count="0" >
+<Stats deaths="567" kills="165" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="52" >
+    <E key="NULL | $damage_explosion" value="55" >
     </E>
     <E key="NULL | $damage_fire" value="31" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="24" >
+    <E key="player | $damage_explosion" value="32" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="154" >
+    <E key="player | $damage_projectile" value="162" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="slicing_blade | chop!" value="3" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="3" >
+    <E key="slimeshooter | $damage_explosion" value="4" >
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
@@ -108,7 +108,7 @@
   <kill_map>
     <E key="bat" value="1" >
     </E>
-    <E key="bubble_liquid" value="2" >
+    <E key="bubble_liquid" value="3" >
     </E>
     <E key="firebug" value="6" >
     </E>
