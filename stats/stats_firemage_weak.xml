@@ -1,4 +1,4 @@
-<Stats deaths="44" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="45" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -19,6 +19,8 @@
     <E key="player | $damage_rock_curse" value="1" >
     </E>
     <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="random_spell_chaotic | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="2" >
     </E>

@@ -1,14 +1,14 @@
-<Stats deaths="262" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="271" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="28" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="9" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="player | $damage_ice" value="6" >
     </E>
-    <E key="player | $damage_melee" value="20" >
+    <E key="player | $damage_melee" value="22" >
     </E>
     <E key="player | $damage_projectile" value="84" >
     </E>
@@ -51,6 +51,10 @@
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="spider | $damage_explosion" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_rocket | $damage_explosion" value="1" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>

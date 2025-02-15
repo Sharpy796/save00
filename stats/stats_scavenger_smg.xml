@@ -1,20 +1,20 @@
-<Stats deaths="720" kills="133" player_kills="1" player_projectile_count="0" >
+<Stats deaths="767" kills="134" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="6" >
     </E>
-    <E key="NULL | $damage_drowning" value="13" >
+    <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="18" >
+    <E key="NULL | $damage_electricity" value="19" >
     </E>
-    <E key="NULL | $damage_explosion" value="68" >
+    <E key="NULL | $damage_explosion" value="69" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="26" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="46" >
+    <E key="NULL | $damage_physicshit" value="52" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="7" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -39,6 +39,8 @@
     <E key="boss_pit | $damage_explosion" value="2" >
     </E>
     <E key="cargobot | $damage_projectile" value="1" >
+    </E>
+    <E key="chainsawer | $damage_melee" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
@@ -68,7 +70,7 @@
     </E>
     <E key="player | " value="7" >
     </E>
-    <E key="player | $damage_drill" value="5" >
+    <E key="player | $damage_drill" value="6" >
     </E>
     <E key="player | $damage_electricity" value="19" >
     </E>
@@ -78,9 +80,9 @@
     </E>
     <E key="player | $damage_ice" value="5" >
     </E>
-    <E key="player | $damage_melee" value="41" >
+    <E key="player | $damage_melee" value="61" >
     </E>
-    <E key="player | $damage_projectile" value="205" >
+    <E key="player | $damage_projectile" value="215" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -144,7 +146,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="99" >
+    <E key="rat" value="100" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>

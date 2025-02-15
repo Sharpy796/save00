@@ -1,4 +1,4 @@
-<Stats deaths="40" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="45" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
@@ -16,29 +16,49 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_hitfx_curse" value="3" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="13" >
+    <E key="player | $damage_projectile" value="15" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
+    <E key="tank_super | $damage_projectile" value="1" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="axeman" value="1" >
+    </E>
     <E key="blob_mini" value="1" >
     </E>
+    <E key="boss_tnt" value="3" >
+    </E>
+    <E key="drone_mini" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
     <E key="iceskull" value="5" >
+    </E>
+    <E key="invisiman" value="1" >
     </E>
     <E key="lavashot" value="1" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
     <E key="scavenger_smg" value="1" >
     </E>
     <E key="sniper" value="1" >
+    </E>
+    <E key="whisp" value="2" >
+    </E>
+    <E key="yoyoer" value="1" >
     </E>
   </kill_map>
 </Stats>

@@ -21,13 +21,13 @@
   </Mod>
   <Mod enabled="0" name="noita-nemesis" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="NoitaDearImGuiExampleMod" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="NoitaDearImGuiExampleNative" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
+  <Mod enabled="1" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
   </Mod>
   <Mod enabled="0" name="spellbound_love" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -137,6 +137,8 @@
   </Mod>
   <Mod enabled="1" name="QoL_mod" settings_fold_open="0" workshop_item_id="2744309004" >
   </Mod>
+  <Mod enabled="1" name="lamas_stats" settings_fold_open="1" workshop_item_id="3273702268" >
+  </Mod>
   <Mod enabled="1" name="Copis_Connection_Alert" settings_fold_open="0" workshop_item_id="2902285009" >
   </Mod>
   <Mod enabled="1" name="config_lib" settings_fold_open="0" workshop_item_id="2287710542" >
@@ -147,7 +149,7 @@
   </Mod>
   <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
-  <Mod enabled="1" name="disable-mod-restrictions" settings_fold_open="1" workshop_item_id="0" >
+  <Mod enabled="1" name="disable-mod-restrictions" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
