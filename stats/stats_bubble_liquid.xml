@@ -1,4 +1,4 @@
-<Stats deaths="240" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="247" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -16,11 +16,13 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="113" >
+    <E key="NULL | run out of material" value="117" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
     </E>
     <E key="boss_pit | $damage_projectile" value="1" >
     </E>
@@ -32,11 +34,13 @@
     </E>
     <E key="electrolukki_big | zap!" value="1" >
     </E>
-    <E key="fairy_big | $damage_projectile" value="1" >
+    <E key="fairy_big | $damage_projectile" value="2" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
     <E key="ground_terror_friendly | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_fungus | hit" value="1" >
     </E>
     <E key="lurker | $damage_projectile" value="1" >
     </E>

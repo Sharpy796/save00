@@ -1,4 +1,4 @@
-<Stats deaths="1947" kills="48" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1969" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
-    <E key="axeman | $damage_melee" value="18" >
+    <E key="axeman | $damage_melee" value="19" >
     </E>
     <E key="bat | $damage_melee" value="16" >
     </E>
@@ -102,7 +102,9 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
-    <E key="graham_miner_gasser | $damage_radioactive" value="7" >
+    <E key="graham_fuzz | $damage_electricity" value="7" >
+    </E>
+    <E key="graham_miner_gasser | $damage_radioactive" value="8" >
     </E>
     <E key="hisii_engineer | $damage_melee" value="2" >
     </E>
@@ -150,7 +152,7 @@
     </E>
     <E key="miner_hell | $damage_melee" value="4" >
     </E>
-    <E key="miniblob | $damage_melee" value="10" >
+    <E key="miniblob | $damage_melee" value="12" >
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
@@ -165,6 +167,8 @@
     <E key="player | " value="9" >
     </E>
     <E key="player | $damage_drill" value="3" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
     </E>
     <E key="player | $damage_explosion" value="48" >
     </E>
@@ -198,11 +202,11 @@
     </E>
     <E key="scavenger_glue | $damage_projectile" value="6" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="25" >
+    <E key="scavenger_grenade | $damage_melee" value="26" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="72" >
+    <E key="scavenger_grenade | $damage_projectile" value="75" >
     </E>
-    <E key="scavenger_laser | $damage_projectile" value="1" >
+    <E key="scavenger_laser | $damage_projectile" value="3" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
@@ -210,7 +214,7 @@
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="39" >
+    <E key="scavenger_smg | $damage_explosion" value="40" >
     </E>
     <E key="scavenger_smg | $damage_melee" value="21" >
     </E>
@@ -224,7 +228,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="22" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="91" >
+    <E key="shotgunner | $damage_projectile" value="92" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="4" >
     </E>
@@ -238,9 +242,9 @@
     </E>
     <E key="sniper | $damage_explosion" value="15" >
     </E>
-    <E key="sniper | $damage_melee" value="18" >
+    <E key="sniper | $damage_melee" value="19" >
     </E>
-    <E key="sniper | $damage_projectile" value="66" >
+    <E key="sniper | $damage_projectile" value="67" >
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>
