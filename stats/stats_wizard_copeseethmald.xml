@@ -1,12 +1,14 @@
-<Stats deaths="6" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="8" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="lukki_fungus | $damage_explosion" value="1" >
     </E>
     <E key="phantom_boss | $damage_curse" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_projectile" value="3" >
     </E>
   </death_map>
   <kill_map>
@@ -14,7 +16,7 @@
     </E>
     <E key="lukki_fungus" value="1" >
     </E>
-    <E key="miniblob" value="2" >
+    <E key="miniblob" value="3" >
     </E>
   </kill_map>
 </Stats>

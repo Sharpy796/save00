@@ -1,14 +1,16 @@
-<Stats deaths="95" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="100" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) fire" value="4" >
+    <E key="NULL | damage from material: (Vanilla) fire" value="6" >
     </E>
-    <E key="NULL | physics body damaged" value="28" >
+    <E key="NULL | physics body damaged" value="30" >
     </E>
     <E key="player | $damage_projectile" value="8" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="47" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
     <E key="stalker | $damage_projectile" value="2" >
     </E>

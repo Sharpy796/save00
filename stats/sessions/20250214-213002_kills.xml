@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="laser_bot_trail | Luminous Electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="2" >
+    </E>
+    <E key="frog_bot" value="1" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
+    <E key="kiwiki" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

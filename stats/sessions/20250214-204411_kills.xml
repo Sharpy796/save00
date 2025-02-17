@@ -1,0 +1,56 @@
+<Stats deaths="1" kills="52" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="eldari_big | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bomb" value="6" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="crawler" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat_valentines" value="4" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="failed_alchemist_orb" value="1" >
+    </E>
+    <E key="fish" value="8" >
+    </E>
+    <E key="larva_crawler" value="6" >
+    </E>
+    <E key="locust_swarm" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="spider_crawler" value="1" >
+    </E>
+    <E key="watermage" value="2" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

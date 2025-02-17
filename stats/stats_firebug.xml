@@ -1,4 +1,4 @@
-<Stats deaths="731" kills="58" player_kills="0" player_projectile_count="0" >
+<Stats deaths="736" kills="60" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -10,13 +10,13 @@
     </E>
     <E key="NULL | $damage_explosion" value="65" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="19" >
     </E>
-    <E key="NULL | $damage_projectile" value="2" >
+    <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | $damage_water" value="3" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="6" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="7" >
     </E>
     <E key="NULL | damage from material: Water" value="25" >
     </E>
@@ -66,6 +66,10 @@
     </E>
     <E key="sunegg | $damage_sun" value="189" >
     </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_super | $damage_projectile" value="1" >
+    </E>
     <E key="triangle_gem | $damage_projectile" value="1" >
     </E>
     <E key="whisp_big | $damage_fire" value="2" >
@@ -74,13 +78,15 @@
   <kill_map>
     <E key="bat" value="3" >
     </E>
+    <E key="crawler" value="1" >
+    </E>
     <E key="firebug" value="5" >
     </E>
     <E key="goblin_bomb" value="5" >
     </E>
     <E key="longleg" value="1" >
     </E>
-    <E key="miner" value="4" >
+    <E key="miner" value="5" >
     </E>
     <E key="pollen" value="6" >
     </E>

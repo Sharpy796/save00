@@ -1,4 +1,4 @@
-<Stats deaths="289" kills="98" player_kills="1" player_projectile_count="0" >
+<Stats deaths="297" kills="102" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,11 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="12" >
     </E>
-    <E key="NULL | $damage_explosion" value="59" >
+    <E key="NULL | $damage_explosion" value="60" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
@@ -52,7 +54,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="77" >
+    <E key="player | $damage_projectile" value="80" >
     </E>
     <E key="player | $damage_slice" value="17" >
     </E>
@@ -70,7 +72,7 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="16" >
+    <E key="sniper | $damage_projectile" value="17" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
@@ -94,7 +96,7 @@
     </E>
     <E key="ant" value="1" >
     </E>
-    <E key="axeman" value="3" >
+    <E key="axeman" value="4" >
     </E>
     <E key="bat" value="1" >
     </E>
@@ -118,11 +120,11 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="60" >
+    <E key="rat" value="61" >
     </E>
-    <E key="scavenger_grenade" value="1" >
+    <E key="scavenger_grenade" value="2" >
     </E>
-    <E key="scavenger_smg" value="2" >
+    <E key="scavenger_smg" value="3" >
     </E>
     <E key="shotgunner" value="4" >
     </E>

@@ -1,12 +1,16 @@
-<Stats deaths="70" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="80" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="chainsawer | Minced!" value="3" >
+    </E>
+    <E key="fallen_alchemist | $damage_projectile" value="1" >
     </E>
     <E key="locust_swarm | Locust bite" value="10" >
     </E>
@@ -14,13 +18,15 @@
     </E>
     <E key="miner_boss | $damage_explosion" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="1" >
+    <E key="miner_weak | $damage_explosion" value="2" >
     </E>
     <E key="miner_weak | $damage_fire" value="2" >
     </E>
+    <E key="monkey | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="38" >
+    <E key="player | $damage_projectile" value="39" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
@@ -34,7 +40,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="conduit" value="2" >
+    </E>
     <E key="locust_swarm" value="6" >
+    </E>
+    <E key="miner_weak" value="1" >
     </E>
     <E key="monkey" value="1" >
     </E>

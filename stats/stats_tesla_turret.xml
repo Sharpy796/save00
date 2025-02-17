@@ -1,8 +1,8 @@
-<Stats deaths="16" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="17" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
@@ -20,7 +20,13 @@
     </E>
     <E key="drone_mini" value="1" >
     </E>
+    <E key="hisii_hobo" value="1" >
+    </E>
     <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scavenger_trigger" value="1" >
     </E>
   </kill_map>
 </Stats>

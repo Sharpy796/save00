@@ -1,4 +1,4 @@
-<Stats deaths="562" kills="82" player_kills="0" player_projectile_count="0" >
+<Stats deaths="564" kills="83" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -30,13 +30,13 @@
     </E>
     <E key="lukki_fungus | hit" value="16" >
     </E>
-    <E key="miniblob | $damage_melee" value="2" >
+    <E key="miniblob | $damage_melee" value="3" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
     <E key="player | " value="1" >
     </E>
-    <E key="player | $damage_drill" value="7" >
+    <E key="player | $damage_drill" value="8" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="slimeshooter" value="1" >
     </E>
-    <E key="sporeling_tiny" value="1" >
+    <E key="sporeling_tiny" value="2" >
     </E>
     <E key="wizard_dark" value="3" >
     </E>

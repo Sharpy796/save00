@@ -1,30 +1,40 @@
-<Stats deaths="0" kills="169" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="260" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="1" >
     </E>
-    <E key="alchemist" value="1" >
+    <E key="alchemist" value="2" >
     </E>
     <E key="archer" value="2" >
     </E>
-    <E key="axeman" value="2" >
+    <E key="axeman" value="7" >
     </E>
     <E key="bat" value="3" >
     </E>
-    <E key="beanpodupine" value="1" >
+    <E key="beanpodupine" value="2" >
     </E>
     <E key="bigfirebug" value="2" >
     </E>
-    <E key="blob" value="1" >
+    <E key="blob" value="2" >
     </E>
-    <E key="bouncer" value="2" >
+    <E key="bouncer" value="3" >
+    </E>
+    <E key="bubble_liquid" value="3" >
     </E>
     <E key="ccc_bat_psychic" value="5" >
+    </E>
+    <E key="commander" value="1" >
     </E>
     <E key="conduit" value="4" >
     </E>
     <E key="crawler" value="1" >
+    </E>
+    <E key="cryogen" value="1" >
+    </E>
+    <E key="dragon_ice" value="1" >
     </E>
     <E key="dripper" value="1" >
     </E>
@@ -38,11 +48,15 @@
     </E>
     <E key="fallen_alchemist" value="1" >
     </E>
-    <E key="fire_crawler_blob" value="2" >
+    <E key="fire_crawler_blob" value="4" >
+    </E>
+    <E key="fire_crawler_sprite" value="1" >
     </E>
     <E key="firebug" value="9" >
     </E>
     <E key="fireworkman" value="1" >
+    </E>
+    <E key="forsaken_eye" value="3" >
     </E>
     <E key="frog" value="3" >
     </E>
@@ -52,13 +66,23 @@
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>
-    <E key="glue" value="1" >
+    <E key="glue" value="2" >
     </E>
     <E key="goo_slug" value="4" >
     </E>
     <E key="goomonster" value="4" >
     </E>
+    <E key="graham_fuzz" value="5" >
+    </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
     <E key="hisii_minecart_tnt" value="2" >
+    </E>
+    <E key="icemage" value="1" >
+    </E>
+    <E key="icemage2" value="1" >
+    </E>
+    <E key="iceskull" value="5" >
     </E>
     <E key="invisiman" value="1" >
     </E>
@@ -78,7 +102,7 @@
     </E>
     <E key="miner_weak" value="7" >
     </E>
-    <E key="miniblob" value="5" >
+    <E key="miniblob" value="13" >
     </E>
     <E key="mutant_blob" value="1" >
     </E>
@@ -86,15 +110,25 @@
     </E>
     <E key="rat" value="1" >
     </E>
-    <E key="scavenger_grenade" value="3" >
+    <E key="scavenger_electrocuter2" value="1" >
+    </E>
+    <E key="scavenger_glue" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="18" >
+    </E>
+    <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
     </E>
     <E key="scavenger_mine" value="1" >
     </E>
-    <E key="scavenger_smg" value="4" >
+    <E key="scavenger_smg" value="9" >
     </E>
-    <E key="shaman_greater_apotheosis" value="1" >
+    <E key="scavenger_trigger" value="2" >
     </E>
-    <E key="shotgunner" value="1" >
+    <E key="shaman_greater_apotheosis" value="2" >
+    </E>
+    <E key="shotgunner" value="8" >
     </E>
     <E key="shotgunner_weak" value="1" >
     </E>
@@ -108,17 +142,19 @@
     </E>
     <E key="slime_turret" value="1" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="slimeshooter_weak" value="3" >
     </E>
-    <E key="sniper" value="1" >
+    <E key="sniper" value="7" >
     </E>
     <E key="stalker" value="2" >
     </E>
     <E key="stone_crab" value="1" >
     </E>
     <E key="tank_drill" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
     </E>
     <E key="toxicmage_acid" value="1" >
     </E>
@@ -130,7 +166,7 @@
     </E>
     <E key="whisp" value="7" >
     </E>
-    <E key="wizard_copeseethmald" value="1" >
+    <E key="wizard_copeseethmald" value="2" >
     </E>
     <E key="wizard_tiny" value="1" >
     </E>

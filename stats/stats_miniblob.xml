@@ -1,4 +1,4 @@
-<Stats deaths="1320" kills="52" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1333" kills="57" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="68" >
     </E>
@@ -64,7 +64,9 @@
     </E>
     <E key="lukki_fungus | hit" value="63" >
     </E>
-    <E key="miniblob | $damage_melee" value="21" >
+    <E key="miniblob | $damage_explosion" value="3" >
+    </E>
+    <E key="miniblob | $damage_melee" value="22" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="7" >
     </E>
@@ -72,7 +74,7 @@
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
-    <E key="player | $damage_drill" value="1" >
+    <E key="player | $damage_drill" value="2" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
@@ -84,7 +86,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="428" >
+    <E key="player | $damage_projectile" value="435" >
     </E>
     <E key="player | $damage_rock_curse" value="34" >
     </E>
@@ -144,7 +146,7 @@
     </E>
     <E key="triangle_gem | $damage_projectile" value="1" >
     </E>
-    <E key="wizard_copeseethmald | $damage_projectile" value="2" >
+    <E key="wizard_copeseethmald | $damage_projectile" value="3" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="2" >
     </E>
@@ -162,7 +164,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="blob" value="2" >
+    <E key="blob" value="3" >
     </E>
     <E key="ceiling_fungus_minion" value="3" >
     </E>
@@ -172,7 +174,7 @@
     </E>
     <E key="frog_big" value="1" >
     </E>
-    <E key="miniblob" value="21" >
+    <E key="miniblob" value="25" >
     </E>
     <E key="mudman_friendly" value="1" >
     </E>

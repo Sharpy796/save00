@@ -1,4 +1,4 @@
-<Stats deaths="772" kills="135" player_kills="1" player_projectile_count="0" >
+<Stats deaths="807" kills="145" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,23 +6,23 @@
     </E>
     <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="20" >
+    <E key="NULL | $damage_electricity" value="22" >
     </E>
-    <E key="NULL | $damage_explosion" value="69" >
+    <E key="NULL | $damage_explosion" value="75" >
     </E>
     <E key="NULL | $damage_fire" value="26" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="52" >
+    <E key="NULL | $damage_physicshit" value="54" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="11" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="19" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -43,6 +43,8 @@
     <E key="chainsawer | $damage_melee" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="electrolukki_big | $damage_electricity" value="1" >
     </E>
@@ -82,7 +84,7 @@
     </E>
     <E key="player | $damage_melee" value="61" >
     </E>
-    <E key="player | $damage_projectile" value="215" >
+    <E key="player | $damage_projectile" value="223" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -98,7 +100,9 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    <E key="scavenger_grenade | $damage_projectile" value="4" >
+    </E>
+    <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
@@ -106,11 +110,15 @@
     </E>
     <E key="slicing_blade | chop!" value="6" >
     </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
     <E key="slimeshooter | $damage_projectile" value="2" >
     </E>
     <E key="sniper | $damage_projectile" value="3" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="1" >
+    </E>
+    <E key="tesla_turret | $damage_electricity" value="2" >
     </E>
     <E key="thundermage | $damage_electricity" value="3" >
     </E>
@@ -132,11 +140,13 @@
     </E>
     <E key="bubble_liquid" value="3" >
     </E>
+    <E key="drone_lasership" value="2" >
+    </E>
     <E key="electric_bullet" value="1" >
     </E>
     <E key="fish_large" value="3" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="9" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>
@@ -146,7 +156,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="101" >
+    <E key="rat" value="108" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>

@@ -1,24 +1,24 @@
-<Stats deaths="1100" kills="27" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1274" kills="27" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="50" >
+    <E key="NULL | $damage_drowning" value="52" >
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
     <E key="NULL | $damage_explosion" value="72" >
     </E>
-    <E key="NULL | $damage_fire" value="168" >
+    <E key="NULL | $damage_fire" value="169" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="58" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="10" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="25" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="7" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -33,6 +33,8 @@
     <E key="NULL | damage from material: toxic rock" value="7" >
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -56,9 +58,11 @@
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
+    <E key="gazer | $damage_projectile" value="1" >
+    </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="2" >
+    <E key="hazmat | $damage_melee" value="5" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="1" >
     </E>
@@ -78,9 +82,13 @@
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="mimic_physics | $damage_projectile" value="1" >
     </E>
-    <E key="miner_weak | $damage_melee" value="8" >
+    <E key="miner_weak | $damage_explosion" value="7" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="9" >
+    </E>
+    <E key="mule | $damage_explosion" value="2" >
     </E>
     <E key="phantom_a | $damage_projectile" value="3" >
     </E>
@@ -94,7 +102,7 @@
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
-    <E key="player | $damage_projectile" value="442" >
+    <E key="player | $damage_projectile" value="458" >
     </E>
     <E key="player | $damage_slice" value="15" >
     </E>
@@ -129,6 +137,8 @@
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="124" >
     </E>
     <E key="worm | worm bite" value="13" >
     </E>
