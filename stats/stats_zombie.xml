@@ -1,4 +1,4 @@
-<Stats deaths="442" kills="39" player_kills="0" player_projectile_count="0" >
+<Stats deaths="443" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="miner_weak | $damage_explosion" value="10" >
     </E>
-    <E key="miner_weak | $damage_melee" value="3" >
+    <E key="miner_weak | $damage_melee" value="4" >
     </E>
     <E key="miniblob | $damage_melee" value="5" >
     </E>

@@ -1,16 +1,16 @@
-<Stats deaths="2018" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2048" kills="55" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="38" >
+    <E key="NULL | $damage_drowning" value="40" >
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="138" >
+    <E key="NULL | $damage_explosion" value="142" >
     </E>
-    <E key="NULL | $damage_fire" value="76" >
+    <E key="NULL | $damage_fire" value="78" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="5" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="20" >
+    <E key="NULL | damage from material: toxic rock" value="23" >
     </E>
     <E key="acidshooter | $damage_projectile" value="5" >
     </E>
@@ -46,15 +46,15 @@
     </E>
     <E key="axeman | $damage_melee" value="3" >
     </E>
-    <E key="bat | $damage_melee" value="24" >
+    <E key="bat | $damage_melee" value="31" >
     </E>
-    <E key="bigbat | $damage_melee" value="8" >
+    <E key="bigbat | $damage_melee" value="9" >
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
     <E key="bigfirebug | $damage_melee" value="1" >
     </E>
-    <E key="bigfirebug | $damage_projectile" value="4" >
+    <E key="bigfirebug | $damage_projectile" value="5" >
     </E>
     <E key="bigzombietorso | $damage_melee" value="1" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="eel | worm bite" value="3" >
     </E>
-    <E key="firebug | $damage_fire" value="16" >
+    <E key="firebug | $damage_fire" value="17" >
     </E>
     <E key="firebug | $damage_melee" value="7" >
     </E>
@@ -122,9 +122,9 @@
     </E>
     <E key="meatmaggot | worm bite" value="20" >
     </E>
-    <E key="miner | $damage_explosion" value="27" >
+    <E key="miner | $damage_explosion" value="32" >
     </E>
-    <E key="miner | $damage_melee" value="9" >
+    <E key="miner | $damage_melee" value="12" >
     </E>
     <E key="miner_hell | $damage_explosion" value="8" >
     </E>
@@ -158,7 +158,7 @@
     </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="8" >
+    <E key="player_rng_items | $damage_projectile" value="9" >
     </E>
     <E key="rat | $damage_melee" value="15" >
     </E>
@@ -280,11 +280,11 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="bat" value="8" >
+    <E key="bat" value="12" >
     </E>
     <E key="bigzombie" value="1" >
     </E>
-    <E key="firebug" value="4" >
+    <E key="firebug" value="6" >
     </E>
     <E key="fish" value="6" >
     </E>
