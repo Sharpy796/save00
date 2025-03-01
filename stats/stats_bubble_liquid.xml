@@ -1,4 +1,4 @@
-<Stats deaths="227" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="233" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -8,6 +8,8 @@
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="5" >
@@ -16,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="111" >
+    <E key="NULL | run out of material" value="115" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -52,7 +54,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="44" >
+    <E key="player | $damage_projectile" value="45" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>

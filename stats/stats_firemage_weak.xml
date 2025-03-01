@@ -1,4 +1,4 @@
-<Stats deaths="44" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="44" kills="26" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -25,6 +25,8 @@
   </death_map>
   <kill_map>
     <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="blob_mini" value="2" >
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>

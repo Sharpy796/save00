@@ -1,10 +1,10 @@
-<Stats deaths="18" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="19" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="2" >
     </E>
     <E key="NULL | $damage_fire" value="2" >
     </E>
@@ -22,6 +22,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="fungus_big" value="1" >
+    </E>
     <E key="miniblob" value="5" >
     </E>
     <E key="tank" value="1" >

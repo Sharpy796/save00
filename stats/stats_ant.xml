@@ -1,16 +1,20 @@
-<Stats deaths="52" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="4" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="10" >
+    </E>
+    <E key="NULL | $damage_ice" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="fungus_giga | $damage_melee" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="5" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -10,7 +10,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="locust_swarm" value="2" >
+    <E key="locust_swarm" value="3" >
     </E>
   </kill_map>
 </Stats>

@@ -1,10 +1,16 @@
-<Stats deaths="0" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
+    <E key="blob_mini" value="1" >
+    </E>
     <E key="frog" value="2" >
     </E>
     <E key="frog_big" value="1" >
+    </E>
+    <E key="fungus_tiny" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
     </E>
     <E key="sporeling" value="3" >
     </E>

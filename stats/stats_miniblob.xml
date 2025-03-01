@@ -1,18 +1,18 @@
-<Stats deaths="1286" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1466" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="68" >
+    <E key="NULL | $damage_drowning" value="88" >
     </E>
     <E key="NULL | $damage_electricity" value="101" >
     </E>
-    <E key="NULL | $damage_explosion" value="143" >
+    <E key="NULL | $damage_explosion" value="180" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="35" >
+    <E key="NULL | $damage_physicshit" value="41" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_projectile" value="3" >
+    <E key="NULL | $damage_projectile" value="6" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -54,13 +54,15 @@
     </E>
     <E key="fungus_giga | $damage_projectile" value="1" >
     </E>
+    <E key="fungus_tiny | $damage_melee" value="1" >
+    </E>
     <E key="hisii_rocketshotgun | $damage_explosion" value="2" >
     </E>
     <E key="icer | $damage_explosion" value="1" >
     </E>
     <E key="jungle_flower | $damage_melee" value="1" >
     </E>
-    <E key="lukki_fungus | hit" value="63" >
+    <E key="lukki_fungus | hit" value="111" >
     </E>
     <E key="miniblob | $damage_melee" value="6" >
     </E>
@@ -74,7 +76,7 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="41" >
+    <E key="player | $damage_explosion" value="100" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -82,7 +84,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="424" >
+    <E key="player | $damage_projectile" value="428" >
     </E>
     <E key="player | $damage_rock_curse" value="34" >
     </E>
@@ -118,13 +120,15 @@
     </E>
     <E key="spearbot | $damage_holy" value="1" >
     </E>
+    <E key="spore_sentient | $damage_explosion" value="1" >
+    </E>
     <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tank_fire2 | $damage_explosion" value="2" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="5" >
     </E>
-    <E key="tentacler_big | $damage_melee" value="8" >
+    <E key="tentacler_big | $damage_melee" value="9" >
     </E>
     <E key="thundermage | $damage_electricity" value="2" >
     </E>
@@ -167,6 +171,8 @@
     <E key="frog" value="1" >
     </E>
     <E key="frog_big" value="1" >
+    </E>
+    <E key="fungus_tiny" value="1" >
     </E>
     <E key="miniblob" value="6" >
     </E>

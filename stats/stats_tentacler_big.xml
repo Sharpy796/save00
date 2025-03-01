@@ -1,20 +1,22 @@
-<Stats deaths="35" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="54" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="2" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
+    <E key="player | $damage_explosion" value="14" >
+    </E>
     <E key="player | $damage_fire" value="3" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="16" >
+    <E key="player | $damage_projectile" value="19" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -26,7 +28,13 @@
   <kill_map>
     <E key="fairy_big_discord" value="1" >
     </E>
-    <E key="miniblob" value="8" >
+    <E key="fungus_big" value="1" >
+    </E>
+    <E key="fungus_tiny" value="1" >
+    </E>
+    <E key="lukki_fungus" value="3" >
+    </E>
+    <E key="miniblob" value="9" >
     </E>
     <E key="rat" value="1" >
     </E>

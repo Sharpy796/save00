@@ -1,24 +1,24 @@
-<Stats deaths="218" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="339" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="7" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="60" >
+    <E key="NULL | $damage_explosion" value="88" >
     </E>
-    <E key="NULL | $damage_fire" value="24" >
+    <E key="NULL | $damage_fire" value="32" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
-    <E key="NULL | $damage_projectile" value="17" >
+    <E key="NULL | $damage_projectile" value="24" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="36" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="71" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="12" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="28" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="2" >
     </E>
     <E key="alien | $damage_projectile" value="1" >
     </E>
@@ -32,6 +32,8 @@
     </E>
     <E key="bloom | $damage_projectile" value="3" >
     </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="frog_big | $damage_explosion" value="1" >
@@ -44,11 +46,11 @@
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="2" >
+    <E key="player | $damage_explosion" value="9" >
     </E>
     <E key="player | $damage_fire" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="23" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
