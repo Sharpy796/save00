@@ -19,16 +19,16 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="73.968" 
-    clouds_02_target="126.582" 
+    clouds_01_target="53.7022" 
+    clouds_02_target="81.1035" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
-    fog="0.00499356" 
+    fog="0.00498591" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
-    gradient_sky_alpha_target="0.00499965" 
+    gradient_sky_alpha_target="0.00499734" 
     intro_weather="0" 
     is_initialized="1" 
     lightning_count="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.00499803" 
+    rain="0.00498975" 
     rain_target="0" 
     session_stat_file="??STA/sessions/20250207-210050" 
     sky_sunset_alpha_target="1" 
-    time="0.391692" 
+    time="0.477108" 
     time_dt="1" 
-    time_total="23.4869" 
+    time_total="31.8318" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="0.0596125" 
-    wind_speed="3.57677" 
+    wind="0.112842" 
+    wind_speed="6.77056" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -76,6 +76,10 @@
       <E 
         key="ACTION_ACID_TRAIL" 
         value="mods/Apotheosis/files/entities/projectiles/deck/targetter.xml" >
+      </E>
+      <E 
+        key="ACTION_ADD_TRIGGER" 
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_AIR_BULLET" 
@@ -102,6 +106,10 @@
         value="data/entities/projectiles/deck/chaos_polymorph_field.xml" >
       </E>
       <E 
+        key="ACTION_APOTHEOSIS_HOMING_DELAYED" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+      </E>
+      <E 
         key="ACTION_APOTHEOSIS_ICEBALL_RAY" 
         value="data/entities/projectiles/deck/white_hole.xml" >
       </E>
@@ -126,12 +134,24 @@
         value="mods/grahamsperks/files/spells/attack_drone.xml" >
       </E>
       <E 
+        key="ACTION_APOTHEOSIS_MIST_ATTUNIUM" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/mist_attunium.xml" >
+      </E>
+      <E 
         key="ACTION_APOTHEOSIS_MUSICAL_STRIKE" 
         value="mods/Apotheosis/files/entities/projectiles/deck/musical_delayed_attack_end.xml" >
       </E>
       <E 
+        key="ACTION_APOTHEOSIS_RANDOM_HOMING" 
+        value="mods/copis_things/files/entities/projectiles/circle_anchor.xml" >
+      </E>
+      <E 
         key="ACTION_APOTHEOSIS_RAT_BITE" 
         value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_RAT_BITE_CRIT" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_RUBBER_BALL_TRIGGER" 
@@ -159,7 +179,7 @@
       </E>
       <E 
         key="ACTION_APOTHEOSIS_WATER_POWER" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="mods/copis_things/files/entities/projectiles/circle_boost.xml" >
       </E>
       <E 
         key="ACTION_ARC_GUNPOWDER" 
@@ -171,7 +191,7 @@
       </E>
       <E 
         key="ACTION_AREA_DAMAGE" 
-        value="mods/grahamsperks/files/spells/attack_drone.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_ARROW" 
@@ -222,8 +242,16 @@
         value="data/entities/projectiles/deck/bubbleshot.xml" >
       </E>
       <E 
+        key="ACTION_BUCKSHOT" 
+        value="data/entities/projectiles/deck/buckshot_player.xml" >
+      </E>
+      <E 
+        key="ACTION_BURST_2" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+      </E>
+      <E 
         key="ACTION_BURST_3" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="mods/copis_things/files/entities/projectiles/circle_anchor.xml" >
       </E>
       <E 
         key="ACTION_CC_GUNPOWDER_BUFF" 
@@ -259,7 +287,11 @@
       </E>
       <E 
         key="ACTION_COLOUR_INVIS" 
-        value="mods/grahamsperks/files/spells/curse_shot.xml" >
+        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_ORANGE" 
+        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
       </E>
       <E 
         key="ACTION_COLOUR_PURPLE" 
@@ -270,8 +302,12 @@
         value="mods/copis_things/files/entities/misc/sword_separator.xml" >
       </E>
       <E 
+        key="ACTION_COLOUR_RED" 
+        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
+      </E>
+      <E 
         key="ACTION_COLOUR_YELLOW" 
-        value="data/entities/projectiles/deck/chaos_polymorph_field.xml" >
+        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
       </E>
       <E 
         key="ACTION_COPITH_ALCOHOL_SHOT" 
@@ -295,11 +331,11 @@
       </E>
       <E 
         key="ACTION_COPITH_CIRCLE_ANCHOR" 
-        value="mods/copis_things/files/entities/projectiles/circle_anchor.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_COPITH_CIRCLE_BOOST" 
-        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
+        value="mods/copis_things/files/entities/projectiles/circle_boost.xml" >
       </E>
       <E 
         key="ACTION_COPITH_COWARD_BOLT_DEATH_TRIGGER" 
@@ -331,10 +367,14 @@
       </E>
       <E 
         key="ACTION_COPITH_DELAY_2" 
-        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/mist_attunium.xml" >
       </E>
       <E 
         key="ACTION_COPITH_DIMIGE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DUPLICATE_ACTION" 
         value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
@@ -348,6 +388,10 @@
       <E 
         key="ACTION_COPITH_FREEZING_VAPOUR_TRAIL" 
         value="mods/souls/files/entities/projectiles/soul_bolt/proj.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GLYPH_OF_BULLSHIT" 
+        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
       </E>
       <E 
         key="ACTION_COPITH_GRAPPLING_HOOK_RAY_ENEMY" 
@@ -367,7 +411,7 @@
       </E>
       <E 
         key="ACTION_COPITH_HITFX_CRITICAL_FROZEN" 
-        value="data/entities/projectiles/deck/firebomb.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_COPITH_HITFX_OILED_2X_DAMAGE_BURN" 
@@ -391,7 +435,7 @@
       </E>
       <E 
         key="ACTION_COPITH_LIGHT_BULLET_DEATH_TRIGGER" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_COPITH_LIQUID_TO_SOIL" 
@@ -427,7 +471,7 @@
       </E>
       <E 
         key="ACTION_COPITH_PASSIVE_MANA" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_COPITH_POWDER_TO_WATER" 
@@ -436,6 +480,10 @@
       <E 
         key="ACTION_COPITH_POWER_SHOT" 
         value="data/entities/projectiles/deck/white_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_PSYCHIC_SHOT" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_COPITH_RECHARGE_ENGINE" 
@@ -510,6 +558,10 @@
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
+        key="ACTION_CRITICAL_HIT" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+      </E>
+      <E 
         key="ACTION_CURSE" 
         value="data/entities/projectiles/deck/tentacle_portal.xml" >
       </E>
@@ -571,11 +623,11 @@
       </E>
       <E 
         key="ACTION_FREEZE" 
-        value="data/entities/projectiles/deck/light_bullet_air.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_AGITINE" 
-        value="data/entities/projectiles/propane_tank.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_ANTI_MATTER" 
@@ -607,7 +659,7 @@
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_ACID" 
-        value="mods/grahamsperks/files/spells/attack_drone.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_BIOME" 
@@ -619,7 +671,7 @@
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_DIMINUTION" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_FIRE" 
@@ -636,6 +688,10 @@
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_MIMICIUM" 
         value="mods/copis_things/files/entities/misc/sword_separator.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_OMINOUS" 
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_COLOUR_PINK" 
@@ -663,7 +719,7 @@
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_SOULS_COLOUR_SOUL_BLOOD" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_GLITTER_BOMB" 
@@ -706,6 +762,10 @@
         value="mods/Apotheosis/files/entities/projectiles/deck/targetter.xml" >
       </E>
       <E 
+        key="ACTION_GRAHAM_GUARDIAN_SHOT" 
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_INTENSIFY" 
         value="data/entities/projectiles/deck/material_lava.xml" >
       </E>
@@ -715,7 +775,7 @@
       </E>
       <E 
         key="ACTION_GRAHAM_MANAHEART" 
-        value="data/entities/projectiles/deck/chaos_polymorph_field.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_MANAHEARTBREAK" 
@@ -782,6 +842,10 @@
         value="mods/grahamsperks/files/spells/arrow_ball.xml" >
       </E>
       <E 
+        key="ACTION_HEAL_BULLET" 
+        value="data/entities/projectiles/deck/heal_bullet.xml" >
+      </E>
+      <E 
         key="ACTION_HEAVY_BULLET_TRIGGER" 
         value="data/entities/projectiles/deck/material_lava.xml" >
       </E>
@@ -815,7 +879,7 @@
       </E>
       <E 
         key="ACTION_HOMING_ACCELERATING" 
-        value="data/entities/projectiles/deck/light_bullet_air.xml" >
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_HOMING_AREA" 
@@ -863,11 +927,11 @@
       </E>
       <E 
         key="ACTION_LIFETIME_DOWN" 
-        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="ACTION_LIGHT" 
-        value="data/entities/projectiles/deck/white_hole.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_LIGHTNING_RAY" 
@@ -884,6 +948,10 @@
       <E 
         key="ACTION_LINE_ARC" 
         value="data/entities/projectiles/deck/sea_mimic.xml" >
+      </E>
+      <E 
+        key="ACTION_LIQUID_TO_EXPLOSION" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_MANA_REDUCE" 
@@ -911,7 +979,7 @@
       </E>
       <E 
         key="ACTION_MOLDOS_REAPING_SHOT" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_REAP_FROM_FIRE" 
@@ -927,11 +995,15 @@
       </E>
       <E 
         key="ACTION_MOLDOS_SNIPER_BEAM" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_SOULDOS" 
         value="data/entities/projectiles/deck/sea_mimic.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOULS_TO_POWER" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/mist_attunium.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_SOUL_BLAST" 
@@ -942,12 +1014,16 @@
         value="mods/souls/files/entities/projectiles/soul_bolt/proj.xml" >
       </E>
       <E 
+        key="ACTION_MOLDOS_SOUL_SPEED" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
         key="ACTION_MOLDOS_SOUL_STRIKE" 
         value="data/entities/projectiles/deck/chaos_polymorph_field.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_TOME_PAGE_MEAT" 
-        value="" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_TOME_PAGE_SQUIDWARD" 
@@ -967,11 +1043,11 @@
       </E>
       <E 
         key="ACTION_NOLLA" 
-        value="data/entities/projectiles/deck/pipe_bomb.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_OMEGA" 
-        value="data/entities/projectiles/deck/sea_mimic.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_ORBIT_FIREBALLS" 
@@ -987,7 +1063,7 @@
       </E>
       <E 
         key="ACTION_PINGPONG_PATH" 
-        value="data/entities/projectiles/deck/material_lava.xml" >
+        value="data/entities/projectiles/deck/tentacle.xml" >
       </E>
       <E 
         key="ACTION_PIPE_BOMB" 
@@ -1002,8 +1078,16 @@
         value="data/entities/projectiles/propane_tank.xml" >
       </E>
       <E 
+        key="ACTION_RECHARGE" 
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
         key="ACTION_RECOIL_DAMPER" 
         value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_REGENERATION_FIELD" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
       </E>
       <E 
         key="ACTION_ROCKET" 
@@ -1027,7 +1111,7 @@
       </E>
       <E 
         key="ACTION_SCATTER_4" 
-        value="mods/copis_things/files/entities/misc/sword_separator.xml" >
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_SEA_MIMIC" 
@@ -1067,7 +1151,7 @@
       </E>
       <E 
         key="ACTION_SPELLBOUND_ENERGETIC_PROJECTILES" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_SPELLBOUND_FORCE_MODULE" 
@@ -1102,8 +1186,16 @@
         value="data/entities/projectiles/propane_tank.xml" >
       </E>
       <E 
+        key="ACTION_SPELLBOUND_SLOW_PROJECTILES" 
+        value="mods/copis_things/files/entities/projectiles/circle_anchor.xml" >
+      </E>
+      <E 
         key="ACTION_SPELLBOUND_SNARK" 
         value="mods/spellbound_bundle/files/entities/projectiles/snark.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_SUFFOCATION_FIELD" 
+        value="mods/spellbound_bundle/files/entities/projectiles/circleofsuffocation.xml" >
       </E>
       <E 
         key="ACTION_SPIRALING_SHOT" 
@@ -1138,6 +1230,10 @@
         value="mods/grahamsperks/files/spells/invisible.xml" >
       </E>
       <E 
+        key="ACTION_TENTACLE_TIMER" 
+        value="data/entities/projectiles/deck/tentacle.xml" >
+      </E>
+      <E 
         key="ACTION_TOUCH_GRASS" 
         value="data/entities/projectiles/deck/touch_grass.xml" >
       </E>
@@ -1163,7 +1259,7 @@
       </E>
       <E 
         key="ACTION_T_SHAPE" 
-        value="data/entities/projectiles/deck/light_bullet.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_UNSTABLE_GUNPOWDER" 
@@ -1183,7 +1279,7 @@
       </E>
       <E 
         key="ACTION_Y_SHAPE" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_ZERO_DAMAGE" 
@@ -1191,7 +1287,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="10868" >
+        value="42322" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -1203,11 +1299,11 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="4;ARROW;-1|1;APOTHEOSIS_RAT_BITE_CRIT;-1|3;BUBBLESHOT_TRIGGER;-1|2;COPITH_CAUSTIC_CLAW;-1|4;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|4;GRAHAM_ECHO_BUBBLE;-1|1;SLOW_BULLET;-1|3;BOUNCY_ORB;-1|1;COPITH_DIE;-1|1;COPITH_SLOW_BULLET_TIMER_2;-1|1;APOTHEOSIS_RANDOM_HOMING;-1|1;APOTHEOSIS_BOMB_GIGA;0|4;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|1;COPITH_ELECTRIC_TELEPORT;-1|5;LIGHTNING;-1|5;ROCKET;10|3;DARKFLAME;60|1;LASER_EMITTER_CUTTER;-1|2;POLLEN;-1|8;LIGHT_BULLET;-1|2;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|3;SPITTER;-1|2;SPITTER_TIMER;-1|3;TNTBOX;15|1;MISSILE;20|3;TELEPORT_PROJECTILE;-1|1;GRAHAM_TOXIC_POTION;-1|3;TOXIC_SPEW;-1|1;BUCKSHOT;-1|1;GRAHAM_WILLOWISP;-1|1;COPITH_CIRCLE_BOOST;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;SPELLBOUND_SUFFOCATION_FIELD;5|1;DELAYED_SPELL;-1|1;HOMING_ACCELERATING;-1|1;AVOIDING_ARC;-1|1;SPELLBOUND_GAS_SHOT;-1|1;BLOODLUST;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;TRANSMUTATION;8|1;GRAHAM_CONNECTIONTRAIL;-1|1;COPITH_HITFX_CRITICAL_FROZEN;-1|1;GRAHAM_TOXIC_CRIT;-1|1;ELECTRIC_CHARGE;-1|1;HITFX_EXPLOSION_SLIME;-1|1;FREEZE;-1|1;COPITH_LEVITY_SHOT;-1|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|1;ZERO_DAMAGE;-1|1;PINGPONG_PATH;-1|1;ARC_POISON;-1|1;GRAHAM_POWDER_EVAPORATION;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_MANA_RANDOM;-1|1;COPITH_RECHARGE_ENGINE;-1|2;LIFETIME_DOWN;-1|1;GRAHAM_ROT;-1|1;SUN_POWER;-1|1;GRAHAM_STASIS;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;15|1;TRUE_ORBIT;-1|1;SPELLBOUND_VOID_SHOT;-1|3;SCATTER_2;-1|1;COPITH_NGON_SHAPE;-1|1;APOTHEOSIS_SHAPE_WALL;-1|2;Y_SHAPE;-1|1;COPITH_SCATTER_8;-1|1;SCATTER_4;-1|2;COPITH_SCATTER_6;-1|3;COPITH_SWORD_FORMATION;-1|1;SCATTER_3;-1|1;BURST_3;-1|2;MATERIAL_BLOOD;250|1;COPITH_GLYPH_OF_BULLSHIT;-1|2;IF_HALF;-1|2;GRAHAM_TOGGLE_BLUE;-1|1;GRAHAM_TOGGLE_GREEN;-1|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;APOTHEOSIS_SPELLS_TO_CATS;-1|1;GRAHAM_TOGGLER2;-1|1;RANDOM_STATIC_PROJECTILE;-1|1;RANDOM_PROJECTILE;-1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+        value="1;SPELLBOUND_SNARK;-1|4;ARROW;-1|2;APOTHEOSIS_MIST_ATTUNIUM;-1|3;BUBBLESHOT_TRIGGER;-1|4;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;CRUMBLING_EARTH;3|4;GRAHAM_ECHO_BUBBLE;-1|1;SLOW_BULLET;-1|3;BOUNCY_ORB;-1|1;APOTHEOSIS_BOMB_GIGA;0|1;HEAL_BULLET;20|4;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|1;LANCE_HOLY;-1|1;COPITH_ELECTRIC_TELEPORT;-1|5;LIGHTNING;-1|5;ROCKET;10|3;DARKFLAME;60|1;LASER_EMITTER_CUTTER;-1|2;POLLEN;-1|1;RANDOM_PROJECTILE;-1|2;SPELLBOUND_FIRE_SKULL;-1|1;TELEPORT_PROJECTILE_SHORT;-1|9;LIGHT_BULLET;-1|1;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|2;LIGHT_BULLET_TRIGGER;-1|1;APOTHEOSIS_LIQUIDSPHERE_ACID;3|3;SPITTER;-1|3;SPITTER_TIMER;-1|3;TNTBOX;15|1;APOTHEOSIS_JUMPER_CABLES;-1|1;DISC_BULLET_BIGGER;-1|3;TENTACLE_TIMER;-1|1;SUMMON_HOLLOW_EGG;-1|1;MISSILE;20|3;TELEPORT_PROJECTILE;-1|1;BR_LONGTELETRIGGER;-1|1;GRAHAM_TOXIC_POTION;-1|3;TOXIC_SPEW;-1|1;BUCKSHOT;-1|1;COPITH_VOMERE;30|1;GRAHAM_WILLOWISP;-1|1;COPITH_CIRCLE_BOOST;-1|1;SPELLBOUND_SUFFOCATION_FIELD;4|1;DELAYED_SPELL;-1|1;RANDOM_STATIC_PROJECTILE;-1|1;HOMING_ACCELERATING;-1|1;HOMING_CURSOR;-1|1;AVOIDING_ARC;-1|1;SPELLBOUND_BLACKHOLE_INFUSION;5|1;SPELLBOUND_GAS_SHOT;-1|1;BLOODLUST;-1|1;LARPA_CHAOS;-1|1;TRANSMUTATION;8|1;CLUSTERMOD;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;GRAHAM_TOXIC_CRIT;-1|1;APOTHEOSIS_HOMING_DELAYED;-1|1;ELECTRIC_CHARGE;-1|3;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;HITFX_EXPLOSION_SLIME;-1|1;APOTHEOSIS_WATER_POWER;-1|1;COPITH_INVERT;-1|1;COPITH_LEVITY_SHOT;-1|1;LIQUID_TO_EXPLOSION;-1|1;COPITH_LIQUID_TO_SOIL;8|1;COPITH_NULL_TRAIL;-1|1;ZERO_DAMAGE;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;20|1;PINGPONG_PATH;-1|1;ARC_POISON;-1|1;GRAHAM_POWDER_EVAPORATION;-1|1;ENERGY_SHIELD_SHOT;-1|1;COPITH_PSYCHIC_SHOT;-1|1;APOTHEOSIS_RANDOM_HOMING;-1|1;COPITH_MANA_RANDOM;-1|1;MOLDOS_REAPING_SHOT;-1|1;COPITH_RECHARGE_ENGINE;-1|1;LIFETIME_DOWN;-1|1;GRAHAM_ROT;-1|1;SUN_POWER;-1|1;GRAHAM_STASIS;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;15|1;TRUE_ORBIT;-1|1;CURSE;-1|1;COPITH_VERTICAL_ARC;-1|1;SPELLBOUND_VOID_SHOT;-1|3;SCATTER_2;-1|1;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|1;APOTHEOSIS_SHAPE_WALL;-1|2;COPITH_SCATTER_8;-1|3;SCATTER_4;-1|2;COPITH_SCATTER_6;-1|3;COPITH_SWORD_FORMATION;-1|1;SCATTER_3;-1|4;BURST_3;-1|2;MATERIAL_BLOOD;250|1;COPITH_CHUNK_OF_RANDOM;-1|1;GRAHAM_WOOD;-1|1;COPITH_SEA_RANDOM;3|1;SEA_MIMIC;0|1;COPITH_GLYPH_OF_BULLSHIT;-1|1;COPITH_IMPRINT;-1|2;IF_HALF;-1|3;GRAHAM_TOGGLE_BLUE;-1|1;GRAHAM_TOGGLE_GREEN;-1|1;GRAHAM_TOGGLE_RED;-1|1;COPITH_DIE;-1|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;APOTHEOSIS_SPELLS_TO_CATS;-1|1;GRAHAM_TOGGLER2;-1|1;GRAHAM_TOGGLER;-1|1;MOLDOS_WAND_CONSUMES_X_SOULS;-1|1;T_SHAPE;-1|2;Y_SHAPE;-1|1;SPELLBOUND_SLOW_PROJECTILES;-1|1;COPITH_DUPLICATE_ACTION;-1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="945762" >
+        value="1282314" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1219,11 +1315,11 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="10868" >
+        value="42322" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
-        value="0" >
+        value="1" >
       </E>
       <E 
         key="GRAHAM_TECH_CHEST_COUNT_OPENED" 
@@ -1231,7 +1327,7 @@
       </E>
       <E 
         key="GRAHAM_TOGGLE" 
-        value="0" >
+        value="null" >
       </E>
       <E 
         key="GRAHAM_TOGGLE2" 
@@ -1239,7 +1335,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="66" >
+        value="73" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -1271,6 +1367,10 @@
       </E>
       <E 
         key="PERK_PICKED_EDIT_WANDS_EVERYWHERE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GRAHAM_LIFE_LOTTERY_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -1375,7 +1475,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/GlimmersExpanded/files/entities/misc/glimmers_expanded_souls_colour_soul_blood.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="grahamsdialogue.buffer" 
@@ -1384,6 +1484,10 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/AI/enchanted_duck.xml" 
         value="$enemy_apotheosis_enchanted_duck" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/AI/poring_holy.xml" 
+        value="$enemy_apotheosis_poring_holy" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/boss_alchemist/key.xml" 
@@ -1420,6 +1524,18 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/liquidcave/fallen_alchemist.xml" 
         value="$fallen_alchemist" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/giant.xml" 
+        value="$animal_giant" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/iceskull.xml" 
+        value="$animal_iceskull" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/necrobot.xml" 
+        value="$animal_necrobot" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/rainforest/bigfly.xml" 
@@ -1482,6 +1598,10 @@
         value="$spider" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/sandcave/whisp.xml" 
+        value="$enemy_apotheosis_whisp" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/slime_turret.xml" 
         value="$slime_turret" >
       </E>
@@ -1496,6 +1616,26 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/snow_castle/welder.xml" 
         value="$welder" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/forsaken_eye.xml" 
+        value="$enemy_apotheosis_forsaken_eye" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/gazer_cold_apotheosis.xml" 
+        value="$enemy_apotheosis_gazer_cold_apotheosis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/gazer_greater_cold.xml" 
+        value="$enemy_apotheosis_gazer_greater_cold" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/skycrystal_physics.xml" 
+        value="$animal_skycrystal_physics" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/wraith_returner_apotheosis.xml" 
+        value="$enemy_apotheosis_wraith_returner_apotheosis" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/vault/assassin.xml" 
@@ -1658,6 +1798,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/broken_wand.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/egg_fire.xml" 
         value="" >
       </E>
@@ -1715,6 +1859,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/potion_random_material.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/potion_secret.xml" 
         value="" >
       </E>
       <E 
@@ -1962,6 +2110,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/gourd_holy.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/suspended_tank_fire.xml" 
         value="" >
       </E>
@@ -2095,15 +2247,43 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_3" 
-        value="927823" >
+        value="1190060" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_4" 
+        value="1219224" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_5" 
+        value="1208640" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_FRIENDLYFIRE_7" 
         value="926424" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_127_2" 
+        value="1273260" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_127_3" 
+        value="1241730" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_127_4" 
+        value="1211100" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_12_2" 
+        value="1133280" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_12_3" 
+        value="1105170" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_12_4" 
-        value="272070" >
+        value="1105590" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_144_2" 
@@ -2115,7 +2295,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_147_2" 
-        value="922410" >
+        value="1132470" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_147_3" 
@@ -2123,7 +2303,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_147_4" 
-        value="913740" >
+        value="1132410" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_14_2" 
@@ -2235,7 +2415,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_3" 
-        value="634260" >
+        value="1091730" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_4" 
@@ -2275,7 +2455,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_2" 
-        value="919680" >
+        value="1137390" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_3" 
@@ -2290,8 +2470,12 @@
         value="932010" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_53_3" 
+        value="1115670" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_53_4" 
-        value="931710" >
+        value="1109790" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_54_2" 
@@ -2319,11 +2503,31 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_5_4" 
-        value="508560" >
+        value="1005390" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_60_2" 
+        value="1271070" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_60_3" 
+        value="1211970" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_60_4" 
+        value="1193430" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_62_2" 
+        value="1227510" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_62_3" 
-        value="355770" >
+        value="1216620" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_62_4" 
+        value="1277970" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_65_2" 
@@ -2367,11 +2571,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_73_2" 
-        value="944880" >
+        value="1113570" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_73_3" 
-        value="933330" >
+        value="1113540" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_73_4" 
@@ -2379,7 +2583,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_74_2" 
-        value="927750" >
+        value="1126650" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_74_3" 
@@ -2442,6 +2646,30 @@
         value="626070" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_112_2" 
+        value="1237423" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_112_3" 
+        value="1237425" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_112_4" 
+        value="1237425" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_113_2" 
+        value="1216333" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_113_3" 
+        value="1216340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_113_4" 
+        value="1216340" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_11_3" 
         value="627501" >
       </E>
@@ -2450,8 +2678,32 @@
         value="626815" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_128_2" 
+        value="1277662" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_128_3" 
+        value="1277662" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_128_4" 
+        value="1277662" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_130_2" 
+        value="1277228" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_130_3" 
+        value="1277228" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_130_4" 
+        value="1277228" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_148_3" 
-        value="888486" >
+        value="1130708" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_148_4" 
@@ -2460,6 +2712,18 @@
       <E 
         key="mods_grahamsdialogue_pool_1_14_2" 
         value="910964" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_14_3" 
+        value="1105009" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_164_3" 
+        value="1208521" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_164_4" 
+        value="1208521" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_165_2" 
@@ -2518,6 +2782,22 @@
         value="132313" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_38_2" 
+        value="1162188" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_41_2" 
+        value="1271429" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_41_3" 
+        value="1271429" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_41_4" 
+        value="1271426" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_44_2" 
         value="415503" >
       </E>
@@ -2546,16 +2826,64 @@
         value="277979" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_52_3" 
+        value="1123662" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_52_4" 
+        value="1106645" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_54_2" 
         value="290974" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_54_3" 
-        value="290974" >
+        value="1123897" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_54_4" 
         value="290974" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_55_4" 
+        value="1105341" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_56_2" 
+        value="1123385" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_56_3" 
+        value="1123385" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_56_4" 
+        value="1123398" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_62_2" 
+        value="1243213" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_62_3" 
+        value="1236321" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_62_4" 
+        value="1243213" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_2" 
+        value="1279198" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_3" 
+        value="1279201" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_4" 
+        value="1279201" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_68_2" 
@@ -2575,19 +2903,39 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_75_2" 
-        value="927060" >
+        value="1128361" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_75_3" 
-        value="923034" >
+        value="1128361" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_75_4" 
-        value="907356" >
+        value="1128304" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_76_2" 
-        value="886605" >
+        value="1128761" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_76_3" 
+        value="1128369" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_76_4" 
+        value="1128369" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_83_2" 
+        value="1159735" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_83_3" 
+        value="1159731" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_83_4" 
+        value="1159725" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_94_2" 
@@ -2596,6 +2944,14 @@
       <E 
         key="mods_grahamsdialogue_pool_1_94_4" 
         value="437180" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_126_2" 
+        value="1267266" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_126_3" 
+        value="1194971" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_17_2" 
@@ -2676,6 +3032,10 @@
       <E 
         key="mods_grahamsdialogue_pool_2_54_3" 
         value="924669" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_60_3" 
+        value="1276959" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_66_2" 
@@ -2779,7 +3139,7 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
       </E>
       <E 
         key="random_twitch_user" 
@@ -2863,11 +3223,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,???,$biome_desert,$biome_fun,$biome_watchtower,$biome_pyramid,$biome_des" >
+        value="$biome_winter,Floating Mountain,_EMPTY_,$biome_darkness,$biome_desert,$biome_pyr" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="90" >
+        value="110" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -3251,8 +3611,92 @@
       <string>
         PERK_PICKED_MOON_RADAR
       </string>
+      <string>
+        apotheosis_teleporter_secret_mines
+      </string>
+      <string>
+        new_action_apotheosis_rat_bite_crit
+      </string>
+      <string>
+        PERK_PICKED_GRAHAM_LIFE_LOTTERY
+      </string>
+      <string>
+        new_action_tentacle_timer
+      </string>
+      <string>
+        new_action_apotheosis_random_homing
+      </string>
+      <string>
+        new_action_spellbound_suffocation_field
+      </string>
+      <string>
+        new_action_copith_glyph_of_bullshit
+      </string>
+      <string>
+        new_kill_fairy_big_discord
+      </string>
+      <string>
+        new_action_apotheosis_homing_delayed
+      </string>
+      <string>
+        new_action_graham_guardian_shot
+      </string>
+      <string>
+        new_action_moldos_souls_to_power
+      </string>
+      <string>
+        new_action_apotheosis_mist_attunium
+      </string>
+      <string>
+        new_action_copith_psychic_shot
+      </string>
+      <string>
+        new_action_copith_hitfx_critical_frozen
+      </string>
+      <string>
+        new_kill_ghostling_skull
+      </string>
+      <string>
+        apotheosis_porring_hinted
+      </string>
+      <string>
+        new_kill_poring_holy_arch
+      </string>
+      <string>
+        new_kill_weakspirit
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>

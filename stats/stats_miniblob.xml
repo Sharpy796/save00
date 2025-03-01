@@ -1,14 +1,16 @@
-<Stats deaths="1466" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1542" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="88" >
     </E>
     <E key="NULL | $damage_electricity" value="101" >
     </E>
-    <E key="NULL | $damage_explosion" value="180" >
+    <E key="NULL | $damage_explosion" value="182" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="41" >
+    <E key="NULL | $damage_physicshit" value="56" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -33,6 +35,8 @@
     <E key="cargobot | $damage_projectile" value="3" >
     </E>
     <E key="chest_mimic | $damage_melee" value="5" >
+    </E>
+    <E key="circle_anchor | $damage_rock_curse" value="5" >
     </E>
     <E key="drone_face2 | $damage_slice" value="4" >
     </E>
@@ -62,7 +66,7 @@
     </E>
     <E key="jungle_flower | $damage_melee" value="1" >
     </E>
-    <E key="lukki_fungus | hit" value="111" >
+    <E key="lukki_fungus | hit" value="120" >
     </E>
     <E key="miniblob | $damage_melee" value="6" >
     </E>
@@ -80,13 +84,13 @@
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_ice" value="29" >
+    <E key="player | $damage_ice" value="37" >
     </E>
-    <E key="player | $damage_melee" value="8" >
+    <E key="player | $damage_melee" value="10" >
     </E>
     <E key="player | $damage_projectile" value="428" >
     </E>
-    <E key="player | $damage_rock_curse" value="34" >
+    <E key="player | $damage_rock_curse" value="66" >
     </E>
     <E key="player | $damage_slice" value="45" >
     </E>

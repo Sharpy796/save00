@@ -1,4 +1,4 @@
-<Stats deaths="19" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="35" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -10,21 +10,27 @@
     </E>
     <E key="player | $damage_projectile" value="4" >
     </E>
-    <E key="player | $damage_rock_curse" value="8" >
+    <E key="player | $damage_rock_curse" value="23" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
+    <E key="poring_holy | $damage_melee" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="arrowtrap_right" value="1" >
+    <E key="arrowtrap_right" value="2" >
     </E>
     <E key="coldshot" value="1" >
+    </E>
+    <E key="coldshot_BoC" value="3" >
     </E>
     <E key="iceskull" value="1" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>
     <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="valkyrie" value="1" >
     </E>
   </kill_map>
 </Stats>

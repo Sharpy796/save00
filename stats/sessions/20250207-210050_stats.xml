@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-12:40:28" >
-  <stats biomes_visited_with_wands="20" damage_taken="177.324" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1375" gold="11795" gold_all="20505" gold_infinite="0" healed="0.35" heart_containers="0" hp="100" items="441" kicks="535" killed_by="" killed_by_extra="" places_visited="20" playtime="15762.7" playtime_str="4:22:42" projectiles_shot="9490" streaks="0" teleports="1" wands_edited="45" world_seed="360950165" >
+  <stats biomes_visited_with_wands="23" damage_taken="242.189" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2189" gold="73029" gold_all="363929" gold_infinite="0" healed="37.2" heart_containers="0" hp="100" items="524" kicks="705" killed_by="" killed_by_extra="" places_visited="23" playtime="21371.9" playtime_str="5:56:11" projectiles_shot="25176" streaks="0" teleports="1" wands_edited="54" world_seed="360950165" >
   </stats>
   <biome_baseline biomes_visited_with_wands="2" damage_taken="1.60275" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="42" gold="605" gold_all="605" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="12" kicks="29" killed_by="" killed_by_extra="" places_visited="2" playtime="1040.83" playtime_str="0:17:20" projectiles_shot="747" streaks="0" teleports="0" wands_edited="5" world_seed="360950165" >
   </biome_baseline>
@@ -24,6 +24,8 @@
     </E>
     <E key="$biome_fungicave" value="1" >
     </E>
+    <E key="$biome_gold" value="1" >
+    </E>
     <E key="$biome_holymountain" value="1" >
     </E>
     <E key="$biome_lake" value="1" >
@@ -33,6 +35,8 @@
     <E key="$biome_potion_mimics" value="1" >
     </E>
     <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_sandcave" value="1" >
     </E>
     <E key="$biome_secret_lab" value="1" >
     </E>
@@ -45,6 +49,8 @@
     <E key="$biome_winter" value="1" >
     </E>
     <E key="???" value="1" >
+    </E>
+    <E key="Floating Mountain" value="3" >
     </E>
   </biomes_visited>
 </Stats>

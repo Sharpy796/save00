@@ -1,12 +1,12 @@
-<Stats deaths="62" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="68" kills="12" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="chainsawer | Minced!" value="2" >
     </E>
-    <E key="locust_swarm | Locust bite" value="10" >
+    <E key="locust_swarm | Locust bite" value="15" >
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="locust_swarm" value="6" >
+    <E key="locust_swarm" value="8" >
     </E>
     <E key="monkey" value="1" >
     </E>

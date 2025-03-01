@@ -1,4 +1,4 @@
-<Stats deaths="575" kills="166" player_kills="3" player_projectile_count="0" >
+<Stats deaths="575" kills="169" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -128,6 +128,8 @@
     </E>
     <E key="rat" value="112" >
     </E>
+    <E key="scorpion" value="1" >
+    </E>
     <E key="shotgunner" value="5" >
     </E>
     <E key="slimeshooter" value="6" >
@@ -136,7 +138,7 @@
     </E>
     <E key="tnt" value="1" >
     </E>
-    <E key="zombie" value="9" >
+    <E key="zombie" value="11" >
     </E>
   </kill_map>
 </Stats>

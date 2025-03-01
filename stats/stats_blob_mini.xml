@@ -1,14 +1,16 @@
-<Stats deaths="1835" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2141" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="98" >
+    <E key="NULL | $damage_drowning" value="103" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
-    <E key="NULL | $damage_explosion" value="61" >
+    <E key="NULL | $damage_explosion" value="69" >
     </E>
-    <E key="NULL | $damage_physicshit" value="39" >
+    <E key="NULL | $damage_physicshit" value="102" >
     </E>
-    <E key="NULL | $damage_projectile" value="31" >
+    <E key="NULL | $damage_projectile" value="35" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
     </E>
     <E key="bigzombie | $damage_melee" value="2" >
     </E>
@@ -24,13 +26,15 @@
     </E>
     <E key="firemage_weak | $damage_explosion" value="2" >
     </E>
+    <E key="fungus_giga | $damage_projectile" value="2" >
+    </E>
     <E key="fungus_tiny | $damage_melee" value="5" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="1" >
     </E>
     <E key="ice_ball_ray_enemy | $damage_explosion" value="2" >
     </E>
-    <E key="lukki_fungus | hit" value="185" >
+    <E key="lukki_fungus | hit" value="196" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="5" >
     </E>
@@ -42,13 +46,13 @@
     </E>
     <E key="player | $damage_fire" value="14" >
     </E>
-    <E key="player | $damage_ice" value="2" >
+    <E key="player | $damage_ice" value="30" >
     </E>
-    <E key="player | $damage_melee" value="50" >
+    <E key="player | $damage_melee" value="51" >
     </E>
     <E key="player | $damage_projectile" value="295" >
     </E>
-    <E key="player | $damage_rock_curse" value="188" >
+    <E key="player | $damage_rock_curse" value="368" >
     </E>
     <E key="player | $damage_slice" value="68" >
     </E>
@@ -62,6 +66,10 @@
     </E>
     <E key="spore_sentient | $damage_explosion" value="1" >
     </E>
+    <E key="sporeling_large | $damage_explosion" value="2" >
+    </E>
+    <E key="sporeling_large | $damage_projectile" value="1" >
+    </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="8" >
@@ -74,9 +82,11 @@
   <kill_map>
     <E key="blob_mini" value="6" >
     </E>
-    <E key="ceiling_fungus_minion" value="2" >
+    <E key="ceiling_fungus_minion" value="4" >
     </E>
     <E key="mudman_friendly" value="1" >
+    </E>
+    <E key="poisonmushroom" value="1" >
     </E>
     <E key="wand_ghost_charmed" value="3" >
     </E>

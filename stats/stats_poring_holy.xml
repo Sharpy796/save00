@@ -1,8 +1,8 @@
-<Stats deaths="23" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -14,15 +14,19 @@
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_ice" value="1" >
+    <E key="player | $damage_ice" value="25" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_rock_curse" value="2" >
+    <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="player | $damage_rock_curse" value="6" >
     </E>
     <E key="player | $damage_slice" value="5" >
     </E>
   </death_map>
   <kill_map>
+    <E key="gazer_greater_cold" value="1" >
+    </E>
   </kill_map>
 </Stats>

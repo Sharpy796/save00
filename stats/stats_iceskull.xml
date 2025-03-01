@@ -1,4 +1,4 @@
-<Stats deaths="260" kills="279" player_kills="0" player_projectile_count="0" >
+<Stats deaths="289" kills="289" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_physicshit" value="8" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
-    <E key="gazer_cold_apotheosis | $damage_projectile" value="2" >
+    <E key="gazer_cold_apotheosis | $damage_projectile" value="3" >
     </E>
     <E key="gazer_greater_cold | $damage_projectile" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="38" >
+    <E key="iceskull | $damage_explosion" value="40" >
     </E>
     <E key="necrobot | $damage_projectile" value="1" >
     </E>
@@ -40,11 +40,11 @@
     </E>
     <E key="player | $damage_fire" value="8" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="71" >
+    <E key="player | $damage_projectile" value="75" >
     </E>
-    <E key="player | $damage_rock_curse" value="4" >
+    <E key="player | $damage_rock_curse" value="17" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -82,21 +82,21 @@
     </E>
     <E key="wraith_returner_apotheosis | $damage_ice" value="1" >
     </E>
-    <E key="wraith_returner_apotheosis | $damage_projectile" value="3" >
+    <E key="wraith_returner_apotheosis | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>
     <E key="axeman" value="2" >
     </E>
-    <E key="coldshot" value="34" >
+    <E key="coldshot" value="38" >
     </E>
-    <E key="coldshot_BoC" value="6" >
+    <E key="coldshot_BoC" value="9" >
     </E>
     <E key="fireskull" value="1" >
     </E>
     <E key="glue" value="7" >
     </E>
-    <E key="iceskull" value="38" >
+    <E key="iceskull" value="40" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -141,6 +141,8 @@
     <E key="worm_big" value="2" >
     </E>
     <E key="worm_tiny" value="2" >
+    </E>
+    <E key="wraith_returner_apotheosis" value="1" >
     </E>
   </kill_map>
 </Stats>
