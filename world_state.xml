@@ -19,16 +19,16 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="54.1933" 
-    clouds_02_target="82.2054" 
+    clouds_01_target="51.6148" 
+    clouds_02_target="76.419" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
-    fog="0" 
+    fog="0.00499356" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
-    gradient_sky_alpha_target="0" 
+    gradient_sky_alpha_target="0.00499965" 
     intro_weather="0" 
     is_initialized="1" 
     lightning_count="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0" 
+    rain="0.00499803" 
     rain_target="0" 
     session_stat_file="??STA/sessions/20250207-210050" 
     sky_sunset_alpha_target="1" 
-    time="0.509053" 
+    time="0.346553" 
     time_dt="1" 
-    time_total="14.3888" 
+    time_total="20.0709" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.132851" 
-    wind_speed="-7.97114" 
+    wind="-0.110082" 
+    wind_speed="-6.60498" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -98,6 +98,14 @@
         value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
+        key="ACTION_BR_REWARD_SQUIDWARD" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_SHORTTELETRIGGER" 
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
         key="ACTION_BUBBLESHOT_TRIGGER" 
         value="data/entities/projectiles/deck/bubbleshot.xml" >
       </E>
@@ -106,12 +114,40 @@
         value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
+        key="ACTION_CESSATION" 
+        value="data/entities/projectiles/deck/touch_grass.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_BLUE" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_GREEN" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_INVIS" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_PURPLE" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_RAINBOW" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_BOMB_SMALL" 
         value="mods/copis_things/files/entities/projectiles/bomb_small.xml" >
       </E>
       <E 
         key="ACTION_COPITH_CIRCLE_ANCHOR" 
         value="mods/copis_things/files/entities/projectiles/circle_anchor.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DEATH_CROSS_TRAIL" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
       </E>
       <E 
         key="ACTION_COPITH_DELAY_2" 
@@ -138,12 +174,16 @@
         value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_MATRA_MAGIC" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_PASSIVE_MANA" 
         value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_COPITH_RECHARGE_ENGINE" 
-        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="ACTION_COPITH_SCATTER_6" 
@@ -166,12 +206,84 @@
         value="mods/Apotheosis/files/entities/projectiles/deck/bomb_giga.xml" >
       </E>
       <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_GLITTERING_LIQUID" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_HYDROXIDE" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_SLICING_LIQUID" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_ACID" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_BIOME" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_BLOOD" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_DIMINUTION" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_FIRE" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_LAVA" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_MIMICIUM" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_PINK" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_TEAL" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_TRUE_RAINBOW" 
+        value="data/entities/projectiles/deck/light_bullet.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_VOID" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WEIRD_FUNGUS" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WHITE" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_SOULS_COLOUR_SOUL_BLOOD" 
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_BRAMBALL_TRIGGER" 
         value="mods/grahamsperks/files/spells/bramball.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_ECHO_BUBBLE" 
         value="mods/grahamsperks/files/spells/echo_bubble.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_GOLDEN" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_INVISIBLE" 
@@ -186,12 +298,16 @@
         value="mods/grahamsperks/files/spells/panic_bomb.xml" >
       </E>
       <E 
+        key="ACTION_GRAHAM_PASSIVES" 
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_ROT" 
         value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_STASIS" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/pollen.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_TELEPORT" 
@@ -202,12 +318,16 @@
         value="mods/grahamsperks/files/spells/willowisp.xml" >
       </E>
       <E 
+        key="ACTION_GRENADE_TIER_3" 
+        value="data/entities/projectiles/deck/grenade_tier_3.xml" >
+      </E>
+      <E 
         key="ACTION_HOMING_ACCELERATING" 
         value="mods/grahamsperks/files/spells/echo_bubble.xml" >
       </E>
       <E 
         key="ACTION_I_SHAPE" 
-        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_LIFETIME_DOWN" 
@@ -247,11 +367,23 @@
       </E>
       <E 
         key="ACTION_MOLDOS_WAND_CONSUMES_X_SOULS" 
-        value="data/entities/projectiles/deck/bullet_slow.xml" >
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="ACTION_NOLLA" 
-        value="mods/grahamsperks/files/spells/willowisp.xml" >
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_OMEGA" 
+        value="data/entities/projectiles/deck/sea_mimic.xml" >
+      </E>
+      <E 
+        key="ACTION_PHI" 
+        value="data/entities/projectiles/deck/black_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_POLLEN" 
+        value="data/entities/projectiles/deck/pollen.xml" >
       </E>
       <E 
         key="ACTION_ROCKET" 
@@ -259,15 +391,19 @@
       </E>
       <E 
         key="ACTION_SCATTER_2" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/pollen.xml" >
       </E>
       <E 
         key="ACTION_SCATTER_3" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/pollen.xml" >
       </E>
       <E 
         key="ACTION_SCATTER_4" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/pollen.xml" >
+      </E>
+      <E 
+        key="ACTION_SEA_MIMIC" 
+        value="data/entities/projectiles/deck/sea_mimic.xml" >
       </E>
       <E 
         key="ACTION_SLOW_BULLET" 
@@ -275,7 +411,7 @@
       </E>
       <E 
         key="ACTION_SPELLBOUND_BLACKHOLE_INFUSION" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
       </E>
       <E 
         key="ACTION_SPELLBOUND_ENERGETIC_PROJECTILES" 
@@ -298,12 +434,16 @@
         value="data/entities/projectiles/deck/teleport_projectile.xml" >
       </E>
       <E 
+        key="ACTION_TOUCH_GRASS" 
+        value="data/entities/projectiles/deck/touch_grass.xml" >
+      </E>
+      <E 
         key="ACTION_TOXIC_SPEW" 
         value="data/entities/projectiles/new/toxic_spew.xml" >
       </E>
       <E 
         key="ACTION_T_SHAPE" 
-        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="ACTION_WALL_BOLT" 
@@ -315,11 +455,11 @@
       </E>
       <E 
         key="ACTION_ZERO_DAMAGE" 
-        value="data/entities/projectiles/deck/spitter.xml" >
+        value="data/entities/projectiles/deck/pollen.xml" >
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="5945" >
+        value="8186" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -331,11 +471,11 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="4;ARROW;-1|3;BUBBLESHOT_TRIGGER;-1|2;COPITH_CAUSTIC_CLAW;-1|4;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|1;APOTHEOSIS_BOMB_GIGA;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|3;MOLDOS_HIISI_PISTOL;-1|4;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|5;LIGHTNING;-1|5;ROCKET;10|1;ROCKET;0|1;COPITH_BOMB_SMALL;7|3;DARKFLAME;60|2;POLLEN;-1|8;LIGHT_BULLET;-1|2;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|3;SCATTER_2;-1|2;SPITTER_TIMER;-1|2;COPITH_SUMMON_ANVIL;3|3;TNTBOX;15|1;MISSILE;20|3;TELEPORT_PROJECTILE;-1|1;GRAHAM_TOXIC_POTION;-1|3;TOXIC_SPEW;-1|1;BUCKSHOT;-1|1;SPELLBOUND_SHARD_SHOT;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;SPELLBOUND_SUFFOCATION_FIELD;5|1;DELAYED_SPELL;-1|1;AVOIDING_ARC;-1|1;SPELLBOUND_GAS_SHOT;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;COPITH_HITFX_CRITICAL_FROZEN;-1|1;GRAHAM_TOXIC_CRIT;-1|1;ELECTRIC_CHARGE;-1|1;FREEZE;-1|1;COPITH_LEVITY_SHOT;-1|1;APOTHEOSIS_MIND_VISION;-1|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;GRAHAM_POWDER_EVAPORATION;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_RECHARGE_ENGINE;-1|1;HITFX_EXPLOSION_SLIME;-1|1;GRAHAM_ROT;-1|1;SUN_POWER;-1|1;COPITH_GRAPPLING_HOOK_RAY_ENEMY;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;15|2;COPITH_DELAY_2;-1|2;Y_SHAPE;-1|1;COPITH_SCATTER_8;-1|1;BURST_3;-1|1;APOTHEOSIS_SHAPE_WALL;-1|3;SPITTER;-1|1;GRAHAM_STASIS;-1|3;COPITH_SWORD_FORMATION;-1|1;GRAHAM_WILLOWISP;-1|1;MATERIAL_BLOOD;250|1;COPITH_GLYPH_OF_BULLSHIT;-1|1;IF_HALF;-1|2;GRAHAM_TOGGLE_BLUE;-1|1;APOTHEOSIS_SPELLS_TO_CATS;-1|1;GRAHAM_TOGGLER_ALT;-1|1;SCATTER_4;-1|1;LIFETIME_DOWN;-1|1;NOLLA;-1|1;SCATTER_3;-1|2;COPITH_SCATTER_6;-1|3;GRAHAM_QUIVER;-1|1;LASER_EMITTER_CUTTER;-1|1;PINGPONG_PATH;-1|4;GRAHAM_ECHO_BUBBLE;-1|1;HOMING_ACCELERATING;-1|1;ARC_POISON;-1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+        value="4;ARROW;-1|3;BUBBLESHOT_TRIGGER;-1|2;COPITH_CAUSTIC_CLAW;-1|4;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|4;GRAHAM_ECHO_BUBBLE;-1|1;SLOW_BULLET;-1|3;BOUNCY_ORB;-1|1;GRENADE_TIER_3;17|1;ROCKET_TIER_3;6|5;SPITTER_TIER_3;-1|1;APOTHEOSIS_BOMB_GIGA;0|1;MOLDOS_HIISI_GLUE_SHOT;-1|3;MOLDOS_HIISI_PISTOL;-1|4;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|5;LIGHTNING;-1|5;ROCKET;10|1;ROCKET;0|12;COPITH_MATRA_MAGIC;-1|3;DARKFLAME;60|1;LASER_EMITTER_CUTTER;-1|2;POLLEN;-1|8;LIGHT_BULLET;-1|2;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|3;SPITTER;-1|2;SPITTER_TIMER;-1|3;TNTBOX;15|1;MISSILE;20|3;TELEPORT_PROJECTILE;-1|1;GRAHAM_TOXIC_POTION;-1|3;TOXIC_SPEW;-1|1;BUCKSHOT;-1|1;GRAHAM_WILLOWISP;-1|1;COPITH_CIRCLE_ANCHOR;-1|1;SPELLBOUND_SUFFOCATION_FIELD;5|1;DELAYED_SPELL;-1|1;HOMING_ACCELERATING;-1|1;AVOIDING_ARC;-1|1;SPELLBOUND_GAS_SHOT;-1|1;BLOODLUST;-1|1;COPITH_HOMING_BOUNCE_CURSOR;-1|1;TRANSMUTATION;8|1;GRAHAM_CONNECTIONTRAIL;-1|1;COPITH_HITFX_CRITICAL_FROZEN;-1|1;GRAHAM_TOXIC_CRIT;-1|1;ELECTRIC_CHARGE;-1|1;HITFX_EXPLOSION_SLIME;-1|1;FREEZE;-1|1;COPITH_LEVITY_SHOT;-1|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|1;ZERO_DAMAGE;-1|1;PINGPONG_PATH;-1|1;ARC_POISON;-1|1;GRAHAM_POWDER_EVAPORATION;-1|2;SPELLBOUND_PYRE_ENCHANTMENT;-1|1;COPITH_MANA_RANDOM;-1|1;COPITH_RECHARGE_ENGINE;-1|1;GRAHAM_ROT;-1|1;SUN_POWER;-1|1;GRAHAM_STASIS;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;15|1;TRUE_ORBIT;-1|1;SPELLBOUND_VOID_SHOT;-1|2;COPITH_DELAY_2;-1|3;SCATTER_2;-1|1;COPITH_NGON_SHAPE;-1|1;APOTHEOSIS_SHAPE_WALL;-1|2;Y_SHAPE;-1|1;COPITH_SCATTER_8;-1|1;SCATTER_4;-1|2;COPITH_SCATTER_6;-1|3;COPITH_SWORD_FORMATION;-1|1;SCATTER_3;-1|1;BURST_3;-1|2;MATERIAL_BLOOD;250|1;COPITH_GLYPH_OF_BULLSHIT;-1|2;IF_HALF;-1|2;GRAHAM_TOGGLE_BLUE;-1|1;GRAHAM_TOGGLE_GREEN;-1|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;APOTHEOSIS_SPELLS_TO_CATS;-1|1;GRAHAM_TOGGLER2;-1|1;GRAHAM_TOGGLER_ALT;-1|2;LIFETIME_DOWN;-1|1;COPITH_ELECTRIC_TELEPORT;-1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="578834" >
+        value="807994" >
       </E>
       <E 
         key="BR_MODE" 
@@ -347,7 +487,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="5945" >
+        value="8186" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
@@ -355,7 +495,7 @@
       </E>
       <E 
         key="GRAHAM_TECH_CHEST_COUNT_OPENED" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="GRAHAM_TOGGLE" 
@@ -367,7 +507,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="51" >
+        value="60" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -379,7 +519,7 @@
       </E>
       <E 
         key="InventoryBags_active_item_tab" 
-        value="1" >
+        value="5" >
       </E>
       <E 
         key="InventoryBags_active_storage_version" 
@@ -387,7 +527,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="4" >
+        value="5" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -447,7 +587,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="14" >
+        value="15" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -460,6 +600,10 @@
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
         value="1" >
+      </E>
+      <E 
+        key="TOUCHING_GRASS" 
+        value="0" >
       </E>
       <E 
         key="apotheosis_tabletghost_count" 
@@ -495,15 +639,27 @@
       </E>
       <E 
         key="extra_entities" 
-        value="" >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="grahamsdialogue.buffer" 
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/AI/enchanted_duck.xml" 
+        value="$enemy_apotheosis_enchanted_duck" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/boss_alchemist/key.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/coal_mines/poring.xml" 
         value="$enemy_apotheosis_poring" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/fallen_alchemist.xml" 
+        value="$fallen_alchemist" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/rainforest/bigfly.xml" 
@@ -582,6 +738,66 @@
         value="$welder" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/assassin.xml" 
+        value="$animal_assassin" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/bot.xml" 
+        value="$bot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_physics.xml" 
+        value="$animal_drone_physics" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_status_ailment.xml" 
+        value="$enemy_apotheosis_drone_status_ailment" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/electrobot.xml" 
+        value="$electrobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/firemage.xml" 
+        value="$animal_firemage" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/icer.xml" 
+        value="$animal_icer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/laserbot.xml" 
+        value="$laserbot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/lasershooter.xml" 
+        value="$animal_lasershooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/lavashooter.xml" 
+        value="$lavashooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/missilecrab.xml" 
+        value="$animal_missilecrab" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/nautilus.xml" 
+        value="$nautilus" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/robot.xml" 
+        value="$robot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_gas_robot.xml" 
+        value="$scavenger_gas_robot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_mine.xml" 
+        value="$animal_scavenger_mine" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/buildings/altar_skull.xml" 
         value="" >
       </E>
@@ -591,6 +807,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/buildings/hut.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/lasergun.xml" 
         value="" >
       </E>
       <E 
@@ -634,6 +854,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/new/small_meteor.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/orbs/orb_00.xml" 
         value="" >
       </E>
@@ -658,6 +882,18 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_slime.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_worm.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/evil_eye.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/heart.xml" 
         value="" >
       </E>
@@ -678,6 +914,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/moon.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/perk_reroll.xml" 
         value="" >
       </E>
@@ -687,6 +927,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/potion_aggressive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/potion_milk.xml" 
         value="" >
       </E>
       <E 
@@ -826,6 +1070,18 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_lantern.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_mining_lamp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_pressure_tank.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/physics_propane_tank.xml" 
         value="" >
       </E>
@@ -898,6 +1154,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/fireplace_worse.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mana.xml" 
         value="" >
       </E>
@@ -911,6 +1171,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.mods/grahamsperks/files/pickups/vial.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/alchemist.xml" 
         value="" >
       </E>
       <E 
@@ -1006,6 +1270,10 @@
         value="464070" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_166_3" 
+        value="663843" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_184_2" 
         value="202830" >
       </E>
@@ -1082,12 +1350,28 @@
         value="356220" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_28_2" 
+        value="635820" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_28_4" 
+        value="635430" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_28_5" 
+        value="637470" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_28_6" 
+        value="636840" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_2_2" 
         value="126510" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_3" 
-        value="51750" >
+        value="634260" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_2_4" 
@@ -1199,7 +1483,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_73_2" 
-        value="281880" >
+        value="592020" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_73_3" 
@@ -1259,7 +1543,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_2" 
-        value="228300" >
+        value="626760" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_3" 
@@ -1267,7 +1551,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_4" 
-        value="228270" >
+        value="626070" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_11_3" 
+        value="627501" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_11_4" 
+        value="626815" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_16_2" 
@@ -1303,11 +1595,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_2" 
-        value="557618" >
+        value="701076" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_3" 
-        value="499075" >
+        value="701076" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_4" 
@@ -1378,8 +1670,24 @@
         value="437180" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_17_2" 
+        value="760360" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_4" 
+        value="760212" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_17_5" 
-        value="475794" >
+        value="759560" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_6" 
+        value="760205" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_7" 
+        value="760230" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_1_2" 
@@ -1400,6 +1708,30 @@
       <E 
         key="mods_grahamsdialogue_pool_2_26_4" 
         value="462674" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_2" 
+        value="636304" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_3" 
+        value="636533" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_4" 
+        value="636532" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_5" 
+        value="636528" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_6" 
+        value="636532" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_30_7" 
+        value="636531" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_44_2" 
@@ -1434,24 +1766,68 @@
         value="15087" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_5_7_2" 
+        value="786868" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_5_7_3" 
-        value="383761" >
+        value="783988" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_7_4" 
+        value="788308" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_7_5" 
+        value="781108" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_5_7_7" 
-        value="383762" >
+        value="775348" >
+      </E>
+      <E 
+        key="new_enemies_aquatitan_spawn_in_chunk" 
+        value="1485" >
+      </E>
+      <E 
+        key="new_enemies_devourer_spawn_in_chunk" 
+        value="640" >
+      </E>
+      <E 
+        key="new_enemies_lake_chunks_loaded" 
+        value="24" >
       </E>
       <E 
         key="new_enemies_mod_load_done" 
         value="1" >
       </E>
       <E 
+        key="new_enemies_omegafish_spawn_in_chunk" 
+        value="1622" >
+      </E>
+      <E 
+        key="new_enemies_piranha_spawn_in_chunk" 
+        value="1118" >
+      </E>
+      <E 
         key="new_enemies_player_evil_active" 
         value="0" >
       </E>
       <E 
+        key="potion_mimics_awoken" 
+        value="10" >
+      </E>
+      <E 
+        key="potion_mimics_indicators" 
+        value="10" >
+      </E>
+      <E 
+        key="potion_mimics_reward_spawned" 
+        value="1" >
+      </E>
+      <E 
         key="projectile_filename" 
-        value="mods/grahamsperks/files/spells/echo_bubble.xml" >
+        value="data/entities/projectiles/deck/light_bullet.xml" >
       </E>
       <E 
         key="random_twitch_user" 
@@ -1491,7 +1867,7 @@
       </E>
       <E 
         key="tome_magic_active_soul_group" 
-        value="2" >
+        value="3" >
       </E>
       <E 
         key="tome_magic_tele_x" 
@@ -1535,11 +1911,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_snowcave,$biome_holymountain,$biome_excavationsite,$biome_snowcave,$biome" >
+        value="$biome_coalmine,$biome_orbroom,_EMPTY_,$biome_holymountain,$biome_coalmine_alt,$" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="39" >
+        value="73" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -1557,6 +1933,9 @@
       </primitive>
       <primitive>
         7
+      </primitive>
+      <primitive>
+        3
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -1833,8 +2212,71 @@
       <string>
         new_action_homing_accelerating
       </string>
+      <string>
+        new_kill_music_machine_01
+      </string>
+      <string>
+        new_kill_egg_worm
+      </string>
+      <string>
+        br_killed_animal_boss_alchemist
+      </string>
+      <string>
+        tome_magic_alchemist_dead
+      </string>
+      <string>
+        new_action_phi
+      </string>
+      <string>
+        new_kill_physics_torch_stand_intro_old
+      </string>
+      <string>
+        fishing_hut_a
+      </string>
+      <string>
+        mm_visited_chunk_89976
+      </string>
+      <string>
+        fishing_hut_b
+      </string>
+      <string>
+        new_kill_music_machine_02
+      </string>
+      <string>
+        br_killed_animal_boss_pit
+      </string>
+      <string>
+        tome_magic_squidward_dead
+      </string>
+      <string>
+        new_action_copith_matra_magic
+      </string>
+      <string>
+        new_action_copith_death_cross_trail
+      </string>
+      <string>
+        PERK_FIRE_GAS
+      </string>
+      <string>
+        new_action_br_reward_squidward
+      </string>
+      <string>
+        new_action_glimmers_expanded_colour_void
+      </string>
+      <string>
+        new_action_glimmers_expanded_colour_weird_fungus
+      </string>
+      <string>
+        apotheosis_teleporter_secret_mines
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>
