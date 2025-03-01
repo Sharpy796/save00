@@ -1,4 +1,4 @@
-<Stats deaths="406" kills="227" player_kills="0" player_projectile_count="0" >
+<Stats deaths="416" kills="229" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="5" >
     </E>
@@ -8,7 +8,9 @@
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="19" >
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="20" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="57" >
     </E>
@@ -20,15 +22,15 @@
     </E>
     <E key="iceskull | $damage_explosion" value="1" >
     </E>
-    <E key="pebble_physics | $damage_explosion" value="227" >
+    <E key="pebble_physics | $damage_explosion" value="229" >
     </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="28" >
+    <E key="player | $damage_projectile" value="32" >
     </E>
-    <E key="player | $damage_rock_curse" value="17" >
+    <E key="player | $damage_rock_curse" value="19" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -54,7 +56,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="pebble_physics" value="227" >
+    <E key="pebble_physics" value="229" >
     </E>
   </kill_map>
 </Stats>

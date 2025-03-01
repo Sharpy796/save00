@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="53.7022" 
-    clouds_02_target="81.1035" 
+    clouds_01_target="37.028" 
+    clouds_02_target="43.6848" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250207-210050" 
     sky_sunset_alpha_target="1" 
-    time="0.477108" 
+    time="0.498636" 
     time_dt="1" 
-    time_total="31.8318" 
+    time_total="32.0359" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="0.112842" 
-    wind_speed="6.77056" 
+    wind="0.120766" 
+    wind_speed="7.24601" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -995,7 +995,7 @@
       </E>
       <E 
         key="ACTION_MOLDOS_SNIPER_BEAM" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_SOULDOS" 
@@ -1287,7 +1287,7 @@
       </E>
       <E 
         key="APOTHEOSIS_LUA_SHARING_CAST_STATE" 
-        value="42322" >
+        value="44267" >
       </E>
       <E 
         key="AdvancedSpellInventory_is_open" 
@@ -1303,7 +1303,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="1282314" >
+        value="1290442" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1315,7 +1315,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="42322" >
+        value="44267" >
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
@@ -1335,7 +1335,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="73" >
+        value="74" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -1475,7 +1475,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="grahamsdialogue.buffer" 
@@ -1536,6 +1536,10 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/necrobot.xml" 
         value="$animal_necrobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/necromancer.xml" 
+        value="$animal_necromancer" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/rainforest/bigfly.xml" 
@@ -2263,7 +2267,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_127_2" 
-        value="1273260" >
+        value="1289700" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_127_3" 
@@ -2679,15 +2683,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_128_2" 
-        value="1277662" >
+        value="1289192" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_128_3" 
-        value="1277662" >
+        value="1289192" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_128_4" 
-        value="1277662" >
+        value="1289191" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_130_2" 
@@ -2875,7 +2879,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_64_2" 
-        value="1279198" >
+        value="1284587" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_64_3" 
@@ -2883,7 +2887,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_64_4" 
-        value="1279201" >
+        value="1284587" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_68_2" 
@@ -3139,7 +3143,7 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite_crit.xml" >
+        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="random_twitch_user" 
@@ -3667,6 +3671,30 @@
       </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>

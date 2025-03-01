@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="2188" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="2228" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -27,6 +27,10 @@
     <E key="berserkspirit" value="1" >
     </E>
     <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
     </E>
     <E key="blob" value="96" >
     </E>
@@ -142,13 +146,13 @@
     </E>
     <E key="gazer_cold_apotheosis" value="24" >
     </E>
-    <E key="gazer_greater_cold" value="15" >
+    <E key="gazer_greater_cold" value="17" >
     </E>
     <E key="ghostling" value="1" >
     </E>
     <E key="ghostling_skull" value="1" >
     </E>
-    <E key="giant" value="27" >
+    <E key="giant" value="33" >
     </E>
     <E key="giant_alt" value="3" >
     </E>
@@ -186,11 +190,11 @@
     </E>
     <E key="icemage2" value="3" >
     </E>
-    <E key="icemage_big" value="3" >
+    <E key="icemage_big" value="6" >
     </E>
     <E key="icemage_big2" value="1" >
     </E>
-    <E key="iceskull" value="32" >
+    <E key="iceskull" value="35" >
     </E>
     <E key="invisiman" value="6" >
     </E>
@@ -244,13 +248,13 @@
     </E>
     <E key="necrobot" value="3" >
     </E>
-    <E key="necromancer" value="1" >
+    <E key="necromancer" value="2" >
     </E>
     <E key="necromancer_shop" value="2" >
     </E>
     <E key="peasant" value="8" >
     </E>
-    <E key="pebble_physics" value="20" >
+    <E key="pebble_physics" value="26" >
     </E>
     <E key="peeper" value="11" >
     </E>
@@ -268,13 +272,13 @@
     </E>
     <E key="pollen" value="66" >
     </E>
-    <E key="polymorph_crystal_chaotic" value="2" >
+    <E key="polymorph_crystal_chaotic" value="4" >
     </E>
     <E key="polyp_gas" value="7" >
     </E>
     <E key="poring" value="2" >
     </E>
-    <E key="poring_holy" value="34" >
+    <E key="poring_holy" value="40" >
     </E>
     <E key="poring_holy_arch" value="2" >
     </E>
@@ -322,9 +326,13 @@
     </E>
     <E key="scavenger_undercover" value="6" >
     </E>
+    <E key="shaman" value="1" >
+    </E>
     <E key="shaman_greater_apotheosis" value="7" >
     </E>
     <E key="sheep" value="1" >
+    </E>
+    <E key="sheep_bat" value="1" >
     </E>
     <E key="shotgunner" value="26" >
     </E>
@@ -332,7 +340,7 @@
     </E>
     <E key="skeleton" value="6" >
     </E>
-    <E key="skycrystal_physics" value="12" >
+    <E key="skycrystal_physics" value="14" >
     </E>
     <E key="skygazer" value="1" >
     </E>
@@ -400,7 +408,7 @@
     </E>
     <E key="turret_right" value="2" >
     </E>
-    <E key="valkyrie" value="43" >
+    <E key="valkyrie" value="47" >
     </E>
     <E key="vial" value="1" >
     </E>
@@ -426,7 +434,7 @@
     </E>
     <E key="wizard_trip" value="2" >
     </E>
-    <E key="wizard_weaken" value="25" >
+    <E key="wizard_weaken" value="26" >
     </E>
     <E key="worm_fungal" value="1" >
     </E>
