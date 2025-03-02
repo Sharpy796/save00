@@ -55,9 +55,9 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250207-210050" 
     sky_sunset_alpha_target="1" 
-    time="0.498636" 
+    time="0.270858" 
     time_dt="1" 
-    time_total="32.0359" 
+    time_total="32.1078" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="0.120766" 
@@ -1303,7 +1303,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="1290442" >
+        value="1293133" >
       </E>
       <E 
         key="BR_MODE" 
@@ -3669,8 +3669,17 @@
       <string>
         new_kill_weakspirit
       </string>
+      <string>
+        music_intensity_controller_comp_added
+      </string>
     </flags>
     <changed_materials>
+      <string>
+        cc_dull_fungus
+      </string>
+      <string>
+        cc_nullium
+      </string>
       <string>
         cc_dull_fungus
       </string>

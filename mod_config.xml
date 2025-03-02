@@ -133,6 +133,10 @@
   </Mod>
   <Mod enabled="1" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
   </Mod>
+  <Mod enabled="1" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
   <Mod enabled="1" name="noita-emotes" settings_fold_open="0" workshop_item_id="2980713406" >
   </Mod>
   <Mod enabled="1" name="QoL_mod" settings_fold_open="0" workshop_item_id="2744309004" >
@@ -147,7 +151,7 @@
   </Mod>
   <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
-  <Mod enabled="1" name="disable-mod-restrictions" settings_fold_open="1" workshop_item_id="0" >
+  <Mod enabled="1" name="disable-mod-restrictions" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
