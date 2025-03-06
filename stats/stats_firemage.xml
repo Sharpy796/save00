@@ -1,4 +1,4 @@
-<Stats deaths="25" kills="25" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -22,11 +22,15 @@
   <kill_map>
     <E key="acidshooter" value="1" >
     </E>
+    <E key="bigzombie" value="1" >
+    </E>
     <E key="blob" value="2" >
     </E>
     <E key="drone_lasership" value="1" >
     </E>
     <E key="fungus_tiny" value="1" >
+    </E>
+    <E key="lasershooter" value="1" >
     </E>
     <E key="locust_swarm" value="1" >
     </E>

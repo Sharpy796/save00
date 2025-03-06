@@ -1,4 +1,4 @@
-<Stats deaths="101" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="103" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -39,6 +39,10 @@
     <E key="player_rng_items | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
     </E>
     <E key="sunegg | $damage_sun" value="16" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="54" kills="34" player_kills="0" player_projectile_count="0" >
+<Stats deaths="56" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
     <E key="NULL | $damage_fire" value="10" >
     </E>
@@ -17,6 +17,8 @@
     <E key="NULL | damage from material: acid" value="4" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="firemage | $damage_melee" value="1" >
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
@@ -54,7 +56,7 @@
     </E>
     <E key="blob_mini" value="2" >
     </E>
-    <E key="glue" value="12" >
+    <E key="glue" value="18" >
     </E>
     <E key="miniblob" value="1" >
     </E>

@@ -1,18 +1,18 @@
-<Stats deaths="329" kills="83" player_kills="0" player_projectile_count="0" >
+<Stats deaths="346" kills="87" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
-    <E key="NULL | $damage_drowning" value="23" >
+    <E key="NULL | $damage_drowning" value="24" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_fire" value="43" >
+    <E key="NULL | $damage_fire" value="50" >
     </E>
-    <E key="NULL | $damage_physicshit" value="28" >
+    <E key="NULL | $damage_physicshit" value="29" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | $damage_radioactive" value="31" >
     </E>
@@ -26,17 +26,21 @@
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="1" >
+    <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="firebug | $damage_fire" value="3" >
     </E>
     <E key="firebug | $damage_melee" value="4" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="7" >
     </E>
     <E key="miner | $damage_melee" value="1" >
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
     </E>
     <E key="player | " value="5" >
     </E>
@@ -50,7 +54,7 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="70" >
+    <E key="player | $damage_projectile" value="71" >
     </E>
     <E key="player | $damage_slice" value="23" >
     </E>
@@ -59,6 +63,12 @@
     <E key="player_rng_items | $damage_slice" value="1" >
     </E>
     <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
@@ -72,13 +82,13 @@
     </E>
     <E key="miner" value="8" >
     </E>
-    <E key="rat" value="46" >
+    <E key="rat" value="48" >
     </E>
     <E key="root_grower" value="1" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
-    <E key="shotgunner" value="4" >
+    <E key="shotgunner" value="6" >
     </E>
     <E key="slimeshooter" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="605" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="825" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="277" >
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="497" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

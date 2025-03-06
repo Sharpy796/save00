@@ -1,10 +1,10 @@
-<Stats deaths="101" kills="41" player_kills="0" player_projectile_count="0" >
+<Stats deaths="102" kills="43" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="5" >
     </E>
     <E key="NULL | $damage_explosion" value="13" >
     </E>
@@ -60,11 +60,11 @@
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scorpion" value="10" >
+    <E key="scorpion" value="11" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>
-    <E key="tentacler_small" value="1" >
+    <E key="tentacler_small" value="2" >
     </E>
     <E key="thundermage" value="1" >
     </E>
