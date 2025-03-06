@@ -1,4 +1,4 @@
-<Stats deaths="145" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="148" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="bloodcrystal_physics | $damage_projectile" value="1" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="1" >
+    <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="1" >
     </E>
@@ -84,9 +84,9 @@
     </E>
     <E key="lasershooter" value="1" >
     </E>
-    <E key="miniblob" value="3" >
+    <E key="miniblob" value="4" >
     </E>
-    <E key="rat" value="11" >
+    <E key="rat" value="12" >
     </E>
     <E key="scavenger_grenade" value="4" >
     </E>

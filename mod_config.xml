@@ -37,7 +37,7 @@
   </Mod>
   <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="what_the_heck_is_this_perk" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="what_the_heck_is_this_perk" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="worse_enemies" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -156,5 +156,9 @@
   <Mod enabled="0" name="tome_magic" settings_fold_open="0" workshop_item_id="3377068299" >
   </Mod>
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="3436708696" >
   </Mod>
 </Mods>

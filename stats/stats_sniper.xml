@@ -1,4 +1,4 @@
-<Stats deaths="275" kills="249" player_kills="0" player_projectile_count="0" >
+<Stats deaths="276" kills="255" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="13" >
+    <E key="NULL | $damage_radioactive" value="14" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -90,17 +90,17 @@
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="11" >
+    <E key="iceskull" value="13" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
-    <E key="miniblob" value="9" >
+    <E key="miniblob" value="10" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="123" >
+    <E key="rat" value="126" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>

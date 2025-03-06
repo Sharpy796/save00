@@ -1,22 +1,22 @@
-<Stats deaths="312" kills="105" player_kills="1" player_projectile_count="0" >
+<Stats deaths="320" kills="111" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="51" >
     </E>
     <E key="NULL | $damage_fire" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="11" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="4" >
+    <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="13" >
+    <E key="player | $damage_explosion" value="15" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
-    <E key="thundermage | $damage_electricity" value="4" >
+    <E key="thundermage | $damage_electricity" value="5" >
     </E>
     <E key="wizard_swapper | $damage_explosion" value="1" >
     </E>
@@ -114,7 +114,7 @@
     </E>
     <E key="radioactive_blob_trail" value="4" >
     </E>
-    <E key="rat" value="69" >
+    <E key="rat" value="75" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

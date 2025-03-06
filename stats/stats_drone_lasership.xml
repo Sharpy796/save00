@@ -1,4 +1,4 @@
-<Stats deaths="123" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="123" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -62,11 +62,13 @@
     </E>
     <E key="shotgunner" value="4" >
     </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
     <E key="sniper" value="1" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>
-    <E key="thunderskull" value="1" >
+    <E key="thunderskull" value="2" >
     </E>
     <E key="turret_right" value="1" >
     </E>

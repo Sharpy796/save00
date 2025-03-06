@@ -1,14 +1,14 @@
-<Stats deaths="914" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="946" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="55" >
     </E>
-    <E key="NULL | $damage_electricity" value="113" >
+    <E key="NULL | $damage_electricity" value="138" >
     </E>
     <E key="NULL | $damage_explosion" value="126" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="36" >
+    <E key="NULL | $damage_physicshit" value="37" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -66,9 +66,11 @@
     </E>
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_glue | $damage_melee" value="3" >
+    <E key="scavenger_glue | $damage_melee" value="6" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
     <E key="shooterflower | $damage_projectile" value="2" >
     </E>
@@ -80,7 +82,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_melee" value="5" >
+    <E key="sniper | $damage_melee" value="6" >
     </E>
     <E key="sniper | $damage_projectile" value="3" >
     </E>
@@ -97,6 +99,8 @@
     <E key="thundermage_big | $damage_electricity" value="1" >
     </E>
     <E key="thundermage_big | $damage_explosion" value="7" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>

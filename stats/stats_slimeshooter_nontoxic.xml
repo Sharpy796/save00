@@ -1,4 +1,4 @@
-<Stats deaths="117" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="118" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -9,6 +9,8 @@
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="5" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="1" >
     </E>

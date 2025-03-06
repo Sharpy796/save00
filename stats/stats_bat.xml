@@ -1,4 +1,4 @@
-<Stats deaths="649" kills="54" player_kills="1" player_projectile_count="0" >
+<Stats deaths="683" kills="54" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
-    <E key="NULL | $damage_fire" value="53" >
+    <E key="NULL | $damage_fire" value="64" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="20" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -40,21 +40,23 @@
     </E>
     <E key="player | $damage_drill" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="35" >
+    <E key="player | $damage_explosion" value="48" >
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="178" >
+    <E key="player | $damage_projectile" value="181" >
     </E>
     <E key="player | $damage_slice" value="23" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="44" >
     </E>
-    <E key="rat | $damage_melee" value="12" >
+    <E key="rat | $damage_melee" value="13" >
     </E>
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
     <E key="shotgunner | $damage_melee" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>
