@@ -1,18 +1,20 @@
-<Stats deaths="85" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="91" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="18" >
     </E>
-    <E key="NULL | $damage_explosion" value="32" >
+    <E key="NULL | $damage_explosion" value="33" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
-    <E key="NULL | physics body damaged" value="20" >
+    <E key="NULL | physics body damaged" value="21" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_projectile" value="13" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
     </E>
   </death_map>
   <kill_map>

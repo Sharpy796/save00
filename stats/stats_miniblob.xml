@@ -1,10 +1,10 @@
-<Stats deaths="1542" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1555" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="88" >
+    <E key="NULL | $damage_drowning" value="91" >
     </E>
     <E key="NULL | $damage_electricity" value="101" >
     </E>
-    <E key="NULL | $damage_explosion" value="182" >
+    <E key="NULL | $damage_explosion" value="184" >
     </E>
     <E key="NULL | $damage_fire" value="3" >
     </E>
@@ -25,6 +25,8 @@
     <E key="attack_drone | $damage_projectile" value="4" >
     </E>
     <E key="bigzombie | $damage_melee" value="1" >
+    </E>
+    <E key="bigzombietorso | $damage_explosion" value="5" >
     </E>
     <E key="blob | $damage_melee" value="12" >
     </E>
@@ -88,7 +90,7 @@
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="428" >
+    <E key="player | $damage_projectile" value="430" >
     </E>
     <E key="player | $damage_rock_curse" value="66" >
     </E>
@@ -103,6 +105,8 @@
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
     <E key="sawbot | bzzt!" value="1" >
+    </E>
+    <E key="scavenger_compressor_robot | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_glue | $damage_melee" value="4" >
     </E>

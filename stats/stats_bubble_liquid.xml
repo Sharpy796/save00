@@ -1,4 +1,4 @@
-<Stats deaths="236" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="239" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -18,13 +18,15 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="118" >
+    <E key="NULL | run out of material" value="120" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
     </E>
     <E key="boss_pit | $damage_projectile" value="1" >
+    </E>
+    <E key="cargobot | $damage_projectile" value="1" >
     </E>
     <E key="crawler | $damage_projectile" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="64" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="65" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -19,6 +19,8 @@
     <E key="fungus_giga | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>

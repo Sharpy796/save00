@@ -1,7 +1,7 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-12:40:28" >
-  <stats biomes_visited_with_wands="25" damage_taken="258.476" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2336" gold="53938" gold_all="380088" gold_infinite="0" healed="189" heart_containers="0" hp="100" items="542" kicks="848" killed_by="" killed_by_extra="" places_visited="25" playtime="25626.2" playtime_str="7:07:06" projectiles_shot="31537" streaks="0" teleports="1" wands_edited="56" world_seed="360950165" >
+  <stats biomes_visited_with_wands="27" damage_taken="348.399" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2491" gold="62349" gold_all="388819" gold_infinite="0" healed="428.9" heart_containers="0" hp="100" items="559" kicks="894" killed_by="" killed_by_extra="" places_visited="27" playtime="27360.7" playtime_str="7:36:00" projectiles_shot="36397" streaks="0" teleports="11" wands_edited="61" world_seed="360950165" >
   </stats>
-  <biome_baseline biomes_visited_with_wands="2" damage_taken="1.60275" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="42" gold="605" gold_all="605" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="12" kicks="29" killed_by="" killed_by_extra="" places_visited="2" playtime="1040.83" playtime_str="0:17:20" projectiles_shot="747" streaks="0" teleports="0" wands_edited="5" world_seed="360950165" >
+  <biome_baseline biomes_visited_with_wands="25" damage_taken="259.476" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2341" gold="53948" gold_all="380098" gold_infinite="0" healed="202.85" heart_containers="0" hp="100" items="542" kicks="867" killed_by="" killed_by_extra="" places_visited="25" playtime="26025.6" playtime_str="7:13:45" projectiles_shot="31846" streaks="0" teleports="1" wands_edited="56" world_seed="360950165" >
   </biome_baseline>
   <item_map>
   </item_map>
@@ -9,6 +9,8 @@
     <E key="$biome_ant_hell" value="1" >
     </E>
     <E key="$biome_barren" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
     </E>
     <E key="$biome_coalmine" value="1" >
     </E>
@@ -45,6 +47,8 @@
     <E key="$biome_snowcave" value="1" >
     </E>
     <E key="$biome_toxic_worm_cave" value="1" >
+    </E>
+    <E key="$biome_vault_frozen" value="1" >
     </E>
     <E key="$biome_wandcave" value="1" >
     </E>
