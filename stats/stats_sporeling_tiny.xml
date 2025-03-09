@@ -1,14 +1,14 @@
-<Stats deaths="366" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="373" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="90" >
+    <E key="NULL | $damage_explosion" value="94" >
     </E>
     <E key="NULL | $damage_fire" value="36" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | $damage_projectile" value="24" >
     </E>
@@ -33,6 +33,8 @@
     <E key="blob_big | $damage_melee" value="3" >
     </E>
     <E key="bloom | $damage_projectile" value="3" >
+    </E>
+    <E key="boss_pit | $damage_projectile" value="2" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>

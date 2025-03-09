@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="2490" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="2502" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -54,7 +54,7 @@
     </E>
     <E key="boss_alchemist" value="1" >
     </E>
-    <E key="boss_pit" value="1" >
+    <E key="boss_pit" value="4" >
     </E>
     <E key="boss_toxic_worm" value="1" >
     </E>
@@ -73,6 +73,8 @@
     <E key="ceiling_fungus_minion" value="20" >
     </E>
     <E key="chainsawer" value="18" >
+    </E>
+    <E key="chameleon" value="1" >
     </E>
     <E key="chaoticpolyshooter" value="1" >
     </E>
@@ -151,6 +153,8 @@
     <E key="firebugnest" value="1" >
     </E>
     <E key="firemage" value="2" >
+    </E>
+    <E key="firemage_big" value="1" >
     </E>
     <E key="fireskull" value="1" >
     </E>
@@ -254,6 +258,10 @@
     </E>
     <E key="lukki_fungus" value="7" >
     </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="lukki_weird" value="1" >
+    </E>
     <E key="material_physics" value="2" >
     </E>
     <E key="mexxi" value="1" >
@@ -295,6 +303,8 @@
     <E key="necromancer" value="4" >
     </E>
     <E key="necromancer_shop" value="2" >
+    </E>
+    <E key="necromancer_super" value="2" >
     </E>
     <E key="oruai" value="3" >
     </E>
@@ -403,6 +413,8 @@
     <E key="sheep" value="1" >
     </E>
     <E key="sheep_bat" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
     </E>
     <E key="shotgunner" value="27" >
     </E>
@@ -516,7 +528,9 @@
     </E>
     <E key="wizard_weaken" value="38" >
     </E>
-    <E key="worm_big_worm_rain" value="8" >
+    <E key="worm" value="1" >
+    </E>
+    <E key="worm_big_worm_rain" value="9" >
     </E>
     <E key="worm_fungal" value="1" >
     </E>

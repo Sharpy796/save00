@@ -1,6 +1,6 @@
-<Stats deaths="114" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="116" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="72" >
+    <E key="NULL | $damage_drowning" value="74" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -35,6 +35,10 @@
     <E key="fungus" value="1" >
     </E>
     <E key="fungus_swamp2" value="1" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="lukki_longleg" value="1" >
     </E>
     <E key="miniblob" value="2" >
     </E>

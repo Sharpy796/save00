@@ -1,4 +1,4 @@
-<Stats deaths="67" kills="34" player_kills="0" player_projectile_count="0" >
+<Stats deaths="68" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
-    <E key="scavenger_glue" value="3" >
+    <E key="scavenger_glue" value="4" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="1555" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1565" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="91" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="56" >
+    <E key="NULL | $damage_physicshit" value="59" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -31,6 +31,12 @@
     <E key="blob | $damage_melee" value="12" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="boss_pit | $damage_explosion" value="1" >
+    </E>
+    <E key="boss_pit | $damage_projectile" value="4" >
+    </E>
+    <E key="boss_pit | bzzt!" value="1" >
     </E>
     <E key="cargobot | $damage_explosion" value="4" >
     </E>
@@ -69,6 +75,8 @@
     <E key="jungle_flower | $damage_melee" value="1" >
     </E>
     <E key="lukki_fungus | hit" value="120" >
+    </E>
+    <E key="lukki_weird | $damage_melee" value="1" >
     </E>
     <E key="miniblob | $damage_melee" value="6" >
     </E>

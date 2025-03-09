@@ -1,10 +1,12 @@
-<Stats deaths="28" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="29" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="giant_centipede | worm bite" value="1" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
