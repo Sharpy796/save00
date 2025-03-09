@@ -1,4 +1,4 @@
-<Stats deaths="292" kills="289" player_kills="0" player_projectile_count="0" >
+<Stats deaths="303" kills="289" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -40,15 +40,17 @@
     </E>
     <E key="player | $damage_fire" value="8" >
     </E>
-    <E key="player | $damage_melee" value="8" >
+    <E key="player | $damage_melee" value="9" >
     </E>
     <E key="player | $damage_projectile" value="75" >
     </E>
-    <E key="player | $damage_rock_curse" value="20" >
+    <E key="player | $damage_rock_curse" value="29" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
     <E key="player | chop!" value="1" >
+    </E>
+    <E key="poring_holy | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="8" >
     </E>
