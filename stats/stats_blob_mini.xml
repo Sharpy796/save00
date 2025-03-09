@@ -1,6 +1,6 @@
-<Stats deaths="2155" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2391" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="103" >
+    <E key="NULL | $damage_drowning" value="104" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
@@ -19,6 +19,8 @@
     <E key="blob | $damage_explosion" value="1" >
     </E>
     <E key="blob_mini | $damage_explosion" value="6" >
+    </E>
+    <E key="cargobot | $damage_explosion" value="2" >
     </E>
     <E key="drone_face | $damage_slice" value="1" >
     </E>
@@ -54,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="307" >
+    <E key="player | $damage_projectile" value="539" >
     </E>
     <E key="player | $damage_rock_curse" value="368" >
     </E>
@@ -65,6 +67,8 @@
     <E key="player | chop!" value="475" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="6" >
+    </E>
+    <E key="sentry | $damage_projectile" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="29" >
     </E>
@@ -85,6 +89,8 @@
   </death_map>
   <kill_map>
     <E key="blob_mini" value="6" >
+    </E>
+    <E key="bubble_liquid" value="1" >
     </E>
     <E key="ceiling_fungus_minion" value="4" >
     </E>

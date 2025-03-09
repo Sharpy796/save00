@@ -1,4 +1,4 @@
-<Stats deaths="245" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="250" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -18,11 +18,13 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="123" >
+    <E key="NULL | run out of material" value="124" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
+    </E>
+    <E key="blob_mini | $damage_melee" value="1" >
     </E>
     <E key="boss_pit | $damage_projectile" value="1" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="drone_face | $damage_slice" value="1" >
     </E>
-    <E key="drone_mini | $damage_projectile" value="1" >
+    <E key="drone_mini | $damage_projectile" value="2" >
     </E>
     <E key="electrolukki_big | zap!" value="1" >
     </E>
@@ -56,7 +58,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="45" >
+    <E key="player | $damage_projectile" value="47" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>

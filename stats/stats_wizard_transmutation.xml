@@ -1,4 +1,4 @@
-<Stats deaths="68" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="69" kills="13" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="wizard_transmutation | $damage_explosion" value="1" >
     </E>
-    <E key="worm_pale | worm bite" value="7" >
+    <E key="worm_pale | worm bite" value="8" >
     </E>
   </death_map>
   <kill_map>

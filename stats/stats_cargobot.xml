@@ -1,10 +1,10 @@
-<Stats deaths="11" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -15,6 +15,8 @@
     <E key="acidshooter" value="2" >
     </E>
     <E key="blindgazer" value="1" >
+    </E>
+    <E key="blob_mini" value="2" >
     </E>
     <E key="bubble_liquid" value="1" >
     </E>

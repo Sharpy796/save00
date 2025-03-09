@@ -1,4 +1,4 @@
-<Stats deaths="101" kills="39" player_kills="0" player_projectile_count="0" >
+<Stats deaths="101" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -45,6 +45,8 @@
   </death_map>
   <kill_map>
     <E key="acidshot" value="2" >
+    </E>
+    <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="conduit" value="1" >
     </E>
