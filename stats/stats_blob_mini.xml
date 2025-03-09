@@ -1,4 +1,4 @@
-<Stats deaths="2141" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2155" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="103" >
     </E>
@@ -13,6 +13,8 @@
     <E key="ant | $damage_melee" value="1" >
     </E>
     <E key="bigzombie | $damage_melee" value="2" >
+    </E>
+    <E key="bigzombiehead | $damage_melee" value="1" >
     </E>
     <E key="blob | $damage_explosion" value="1" >
     </E>
@@ -46,11 +48,13 @@
     </E>
     <E key="player | $damage_fire" value="14" >
     </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
     <E key="player | $damage_ice" value="30" >
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="295" >
+    <E key="player | $damage_projectile" value="307" >
     </E>
     <E key="player | $damage_rock_curse" value="368" >
     </E>

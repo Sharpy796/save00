@@ -1,4 +1,4 @@
-<Stats deaths="108" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="112" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
@@ -6,11 +6,13 @@
     </E>
     <E key="NULL | $damage_explosion" value="12" >
     </E>
-    <E key="NULL | $damage_fire" value="8" >
+    <E key="NULL | $damage_fire" value="9" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -46,7 +48,7 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="2" >
+    <E key="shooterflower | $damage_projectile" value="4" >
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>

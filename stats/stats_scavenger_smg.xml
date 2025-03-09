@@ -1,4 +1,4 @@
-<Stats deaths="729" kills="133" player_kills="1" player_projectile_count="0" >
+<Stats deaths="731" kills="133" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -80,7 +80,7 @@
     </E>
     <E key="player | $damage_melee" value="41" >
     </E>
-    <E key="player | $damage_projectile" value="206" >
+    <E key="player | $damage_projectile" value="207" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
