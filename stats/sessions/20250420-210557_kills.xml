@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="skullmage" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="wizard_ambrosia" value="1" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

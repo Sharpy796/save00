@@ -1,4 +1,4 @@
-<Stats deaths="10" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -7,6 +7,8 @@
     <E key="assassin | $damage_melee" value="1" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
+    </E>
+    <E key="boss_pit | bzzt!" value="1" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="2" >
     </E>

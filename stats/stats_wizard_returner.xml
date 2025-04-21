@@ -1,4 +1,4 @@
-<Stats deaths="34" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="37" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,11 +6,15 @@
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) Cursed rock" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="enchanted_duck | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
@@ -19,6 +23,8 @@
     <E key="player | $damage_projectile" value="22" >
     </E>
     <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="statue | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>

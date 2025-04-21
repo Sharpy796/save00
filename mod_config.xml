@@ -11,8 +11,6 @@
   </Mod>
   <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="meta_leveling" settings_fold_open="0" workshop_item_id="3338209310" >
-  </Mod>
   <Mod enabled="0" name="kae_waypoint" settings_fold_open="0" workshop_item_id="3199825595" >
   </Mod>
   <Mod enabled="0" name="forsdel" settings_fold_open="0" workshop_item_id="3272653027" >
@@ -20,8 +18,6 @@
   <Mod enabled="0" name="evaisa.material_spells" settings_fold_open="0" workshop_item_id="2650270930" >
   </Mod>
   <Mod enabled="0" name="pride_glimmers" settings_fold_open="0" workshop_item_id="2889150139" >
-  </Mod>
-  <Mod enabled="0" name="evaisa.randomspawn" settings_fold_open="0" workshop_item_id="3299312539" >
   </Mod>
   <Mod enabled="0" name="where_the_heck_am_i" settings_fold_open="0" workshop_item_id="3254585307" >
   </Mod>
@@ -35,9 +31,9 @@
   </Mod>
   <Mod enabled="0" name="raksa" settings_fold_open="0" workshop_item_id="2319794898" >
   </Mod>
-  <Mod enabled="0" name="wand_dbg" settings_fold_open="0" workshop_item_id="2572385079" >
-  </Mod>
   <Mod enabled="0" name="seed_changer" settings_fold_open="0" workshop_item_id="2284931352" >
+  </Mod>
+  <Mod enabled="0" name="wand_dbg" settings_fold_open="0" workshop_item_id="2572385079" >
   </Mod>
   <Mod enabled="0" name="translation_uwu" settings_fold_open="0" workshop_item_id="2422364541" >
   </Mod>
@@ -47,9 +43,13 @@
   </Mod>
   <Mod enabled="0" name="cheatgui" settings_fold_open="0" workshop_item_id="1984977713" >
   </Mod>
-  <Mod enabled="0" name="MTRS" settings_fold_open="0" workshop_item_id="3018238248" >
+  <Mod enabled="1" name="meta_leveling" settings_fold_open="0" workshop_item_id="3338209310" >
   </Mod>
-  <Mod enabled="0" name="thematic_random_starts" settings_fold_open="0" workshop_item_id="2274888657" >
+  <Mod enabled="1" name="evaisa.randomspawn" settings_fold_open="0" workshop_item_id="3299312539" >
+  </Mod>
+  <Mod enabled="1" name="thematic_random_starts" settings_fold_open="0" workshop_item_id="2274888657" >
+  </Mod>
+  <Mod enabled="1" name="MTRS" settings_fold_open="0" workshop_item_id="3018238248" >
   </Mod>
   <Mod enabled="0" name="noita-nemesis-teams" settings_fold_open="0" workshop_item_id="2813781642" >
   </Mod>
@@ -117,7 +117,7 @@
   </Mod>
   <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
+  <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>

@@ -1,4 +1,4 @@
-<Stats deaths="110" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="112" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="15" >
     </E>
     <E key="NULL | $damage_physicshit" value="8" >
     </E>
-    <E key="NULL | $damage_plasmabeam" value="4" >
+    <E key="NULL | $damage_plasmabeam" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>

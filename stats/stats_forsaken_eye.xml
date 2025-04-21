@@ -1,10 +1,12 @@
-<Stats deaths="48" kills="50" player_kills="0" player_projectile_count="0" >
+<Stats deaths="49" kills="50" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="bat | $damage_melee" value="1" >
     </E>
     <E key="electrolukki | zap!" value="1" >
+    </E>
+    <E key="mimic_physics | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
