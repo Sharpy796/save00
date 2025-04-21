@@ -1,4 +1,4 @@
-<Stats deaths="72" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="73" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="2" >
+    <E key="NULL | damage from material: acid" value="3" >
     </E>
     <E key="blindgazer | $damage_projectile" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="51" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="51" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
@@ -29,6 +29,8 @@
   </death_map>
   <kill_map>
     <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="2" >
     </E>
     <E key="fireworkman" value="1" >
     </E>

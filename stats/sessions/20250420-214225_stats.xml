@@ -1,0 +1,12 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="1" damage_taken="3.34947" dead="1" death_count="0" death_pos.x="-9931.57" death_pos.y="10884" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="2" kicks="4" killed_by=" | damage from material: lava" killed_by_extra="" places_visited="1" playtime="65.6833" playtime_str="0:01:05" projectiles_shot="3" streaks="0" teleports="0" wands_edited="0" world_seed="105510039" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_winter" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>
