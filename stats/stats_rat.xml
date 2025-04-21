@@ -1,30 +1,32 @@
-<Stats deaths="1910" kills="47" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1923" kills="47" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="50" >
+    <E key="NULL | $damage_drowning" value="52" >
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="122" >
+    <E key="NULL | $damage_explosion" value="123" >
     </E>
     <E key="NULL | $damage_fire" value="55" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="63" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="4" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="9" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: (new_enemies) weak acid" value="1" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="4" >
     </E>
@@ -40,9 +42,9 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="14" >
     </E>
-    <E key="acidshooter | $damage_projectile" value="3" >
+    <E key="acidshooter | $damage_projectile" value="4" >
     </E>
-    <E key="alien | $damage_projectile" value="1" >
+    <E key="alien | $damage_projectile" value="2" >
     </E>
     <E key="ant | $damage_melee" value="5" >
     </E>
@@ -54,7 +56,7 @@
     </E>
     <E key="axeman | $damage_melee" value="15" >
     </E>
-    <E key="bat | $damage_melee" value="15" >
+    <E key="bat | $damage_melee" value="18" >
     </E>
     <E key="bigbat | $damage_melee" value="6" >
     </E>
@@ -172,7 +174,7 @@
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_ice" value="1" >
+    <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
@@ -264,7 +266,7 @@
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="5" >
     </E>
-    <E key="tentacler | $damage_melee" value="7" >
+    <E key="tentacler | $damage_melee" value="8" >
     </E>
     <E key="tentacler_big | $damage_projectile" value="1" >
     </E>

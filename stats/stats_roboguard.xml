@@ -1,4 +1,4 @@
-<Stats deaths="60" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -31,6 +31,8 @@
     <E key="ant" value="2" >
     </E>
     <E key="bat" value="1" >
+    </E>
+    <E key="conduit" value="1" >
     </E>
     <E key="drone_mini" value="1" >
     </E>

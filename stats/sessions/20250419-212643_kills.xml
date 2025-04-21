@@ -1,0 +1,112 @@
+<Stats deaths="1" kills="140" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="alien" value="1" >
+    </E>
+    <E key="archer" value="1" >
+    </E>
+    <E key="bat" value="7" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="6" >
+    </E>
+    <E key="bomb_small" value="5" >
+    </E>
+    <E key="boss_tnt" value="3" >
+    </E>
+    <E key="bubble_liquid" value="3" >
+    </E>
+    <E key="ceiling_fungus" value="1" >
+    </E>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="crawler" value="3" >
+    </E>
+    <E key="dripper" value="5" >
+    </E>
+    <E key="eye_bat" value="6" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fire_crawler_blob" value="5" >
+    </E>
+    <E key="fire_crawler_sprite" value="1" >
+    </E>
+    <E key="firebug" value="8" >
+    </E>
+    <E key="firebugnest" value="2" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="goo_slug" value="2" >
+    </E>
+    <E key="invisiman" value="2" >
+    </E>
+    <E key="larva_crawler" value="3" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_boss" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="monkey" value="1" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="7" >
+    </E>
+    <E key="slime_turret" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_mega" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="slimespirit" value="1" >
+    </E>
+    <E key="sporeling" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="6" >
+    </E>
+    <E key="stone_crab" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="whisp" value="5" >
+    </E>
+    <E key="yoyoer_shaman" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

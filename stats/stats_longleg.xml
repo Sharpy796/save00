@@ -1,14 +1,14 @@
-<Stats deaths="1048" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1080" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="50" >
+    <E key="NULL | $damage_drowning" value="52" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="69" >
+    <E key="NULL | $damage_explosion" value="78" >
     </E>
     <E key="NULL | $damage_fire" value="160" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
-    <E key="conduit | $damage_melee" value="1" >
+    <E key="conduit | $damage_melee" value="3" >
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="2" >
+    <E key="hazmat | $damage_melee" value="3" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="1" >
     </E>
@@ -94,13 +94,13 @@
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
-    <E key="player | $damage_ice" value="4" >
+    <E key="player | $damage_ice" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="412" >
+    <E key="player | $damage_projectile" value="421" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
-    <E key="player | $damage_slice" value="14" >
+    <E key="player | $damage_slice" value="20" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>

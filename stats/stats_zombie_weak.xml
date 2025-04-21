@@ -1,16 +1,16 @@
-<Stats deaths="612" kills="14" player_kills="1" player_projectile_count="0" >
+<Stats deaths="637" kills="14" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="27" >
     </E>
-    <E key="NULL | $damage_drowning" value="16" >
+    <E key="NULL | $damage_drowning" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="17" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_fire" value="57" >
+    <E key="NULL | $damage_fire" value="58" >
     </E>
-    <E key="NULL | $damage_physicshit" value="17" >
+    <E key="NULL | $damage_physicshit" value="18" >
     </E>
     <E key="NULL | Radiation" value="1" >
     </E>
@@ -24,11 +24,13 @@
     </E>
     <E key="acidshooter_weak | $damage_projectile" value="3" >
     </E>
-    <E key="chainsawer | Minced!" value="2" >
+    <E key="chainsawer | $damage_melee" value="1" >
+    </E>
+    <E key="chainsawer | Minced!" value="5" >
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="fallen_alchemist | $damage_projectile" value="2" >
+    <E key="fallen_alchemist | $damage_projectile" value="3" >
     </E>
     <E key="firemage_weak | $damage_fire" value="2" >
     </E>
@@ -38,11 +40,13 @@
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
+    </E>
     <E key="longleg | $damage_melee" value="9" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="57" >
+    <E key="miner_weak | $damage_explosion" value="58" >
     </E>
-    <E key="miner_weak | $damage_melee" value="28" >
+    <E key="miner_weak | $damage_melee" value="29" >
     </E>
     <E key="miner_weak | $damage_projectile" value="1" >
     </E>
@@ -50,9 +54,9 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="160" >
+    <E key="player | $damage_projectile" value="167" >
     </E>
-    <E key="player | $damage_slice" value="32" >
+    <E key="player | $damage_slice" value="34" >
     </E>
     <E key="player | $graham_name_bramball" value="1" >
     </E>

@@ -1,0 +1,60 @@
+<Stats deaths="0" kills="58" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="beehive" value="1" >
+    </E>
+    <E key="chainsawer" value="1" >
+    </E>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="5" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="hazmat" value="2" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="larva_crawler" value="3" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="mexxi" value="1" >
+    </E>
+    <E key="mexxi_triangle" value="7" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="poring" value="4" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="4" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="twig" value="1" >
+    </E>
+    <E key="twig_shot" value="1" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>
