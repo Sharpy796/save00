@@ -47,7 +47,7 @@
   </Mod>
   <Mod enabled="1" name="evaisa.randomspawn" settings_fold_open="0" workshop_item_id="3299312539" >
   </Mod>
-  <Mod enabled="1" name="thematic_random_starts" settings_fold_open="1" workshop_item_id="2274888657" >
+  <Mod enabled="1" name="thematic_random_starts" settings_fold_open="0" workshop_item_id="2274888657" >
   </Mod>
   <Mod enabled="1" name="MTRS" settings_fold_open="0" workshop_item_id="3018238248" >
   </Mod>
@@ -126,8 +126,6 @@
   <Mod enabled="0" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
   </Mod>
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
-  </Mod>
-  <Mod enabled="0" name="no_spell_wobble" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
   </Mod>

@@ -1,4 +1,4 @@
-<Stats deaths="1084" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1085" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -109,6 +109,8 @@
     <E key="player_rng_items | $damage_projectile" value="10" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="random_spell_chaotic | $damage_explosion" value="1" >
     </E>
     <E key="seeker | Etsijä's shock" value="3" >
     </E>

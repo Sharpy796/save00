@@ -1,4 +1,4 @@
-<Stats deaths="617" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="629" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="75" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="33" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="87" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="95" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="6" >
     </E>
