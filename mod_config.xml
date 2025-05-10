@@ -1,45 +1,15 @@
 <Mods>
-  <Mod enabled="0" name="quant.ew" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="0" name="daily_practice" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="deathium_blood" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="evaisa.mp" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="evaisa.unshackle" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="Hydroxide" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="example" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="nightmare" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="noita-together" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="noita-nemesis" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="1" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="NoitaDearImGuiExampleMod" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="NoitaDearImGuiExampleNative" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="1" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
-  </Mod>
-  <Mod enabled="0" name="spellbound_love" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="pride_glimmers" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="starting_loadouts" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="1" name="what_the_heck_is_this_perk" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="worse_enemies" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="meta_leveling" settings_fold_open="0" workshop_item_id="3338209310" >
   </Mod>
@@ -103,8 +73,6 @@
   </Mod>
   <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="3316355233" >
   </Mod>
-  <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="0" name="copis_things" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="spellbound_bundle" settings_fold_open="0" workshop_item_id="1976795806" >
@@ -145,8 +113,6 @@
   </Mod>
   <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
-  <Mod enabled="0" name="disable-mod-restrictions" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="0" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
   <Mod enabled="0" name="noita.fairmod" settings_fold_open="1" workshop_item_id="3357618827" >
@@ -157,8 +123,10 @@
   </Mod>
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
   </Mod>
-  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="3436708696" >
+  </Mod>
+  <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
   </Mod>
 </Mods>
