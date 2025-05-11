@@ -1,0 +1,82 @@
+<Stats deaths="1" kills="120" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="mudman_friendly | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alien" value="1" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bat" value="3" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="bomb_small" value="28" >
+    </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
+    <E key="ceiling_fungus_minion" value="2" >
+    </E>
+    <E key="conduit" value="2" >
+    </E>
+    <E key="dripper" value="3" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="glue" value="12" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="hamis_nest" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="20" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="monkey" value="1" >
+    </E>
+    <E key="player_evil" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="stalker" value="1" >
+    </E>
+    <E key="twig" value="2" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+    <E key="zombie_weak" value="7" >
+    </E>
+  </kill_map>
+</Stats>

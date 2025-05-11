@@ -1,4 +1,4 @@
-<Stats deaths="1629" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1653" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="91" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="jungle_flower | $damage_melee" value="1" >
     </E>
-    <E key="lukki_fungus | hit" value="120" >
+    <E key="lukki_fungus | hit" value="124" >
     </E>
     <E key="lukki_weird | $damage_melee" value="1" >
     </E>
@@ -102,13 +102,13 @@
     </E>
     <E key="player | $damage_explosion" value="100" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="12" >
     </E>
     <E key="player | $damage_ice" value="37" >
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="443" >
+    <E key="player | $damage_projectile" value="454" >
     </E>
     <E key="player | $damage_rock_curse" value="66" >
     </E>

@@ -43,13 +43,13 @@
   </Mod>
   <Mod enabled="0" name="cheatgui" settings_fold_open="0" workshop_item_id="1984977713" >
   </Mod>
-  <Mod enabled="1" name="meta_leveling" settings_fold_open="0" workshop_item_id="3338209310" >
+  <Mod enabled="0" name="meta_leveling" settings_fold_open="0" workshop_item_id="3338209310" >
   </Mod>
-  <Mod enabled="1" name="evaisa.randomspawn" settings_fold_open="0" workshop_item_id="3299312539" >
+  <Mod enabled="0" name="evaisa.randomspawn" settings_fold_open="0" workshop_item_id="3299312539" >
   </Mod>
-  <Mod enabled="1" name="thematic_random_starts" settings_fold_open="0" workshop_item_id="2274888657" >
+  <Mod enabled="0" name="thematic_random_starts" settings_fold_open="0" workshop_item_id="2274888657" >
   </Mod>
-  <Mod enabled="1" name="MTRS" settings_fold_open="0" workshop_item_id="3018238248" >
+  <Mod enabled="0" name="MTRS" settings_fold_open="0" workshop_item_id="3018238248" >
   </Mod>
   <Mod enabled="0" name="noita-nemesis-teams" settings_fold_open="0" workshop_item_id="2813781642" >
   </Mod>
@@ -57,7 +57,7 @@
   </Mod>
   <Mod enabled="1" name="SpicyTP_EUI" settings_fold_open="0" workshop_item_id="2887405712" >
   </Mod>
-  <Mod enabled="1" name="AdvancedSpellInventory" settings_fold_open="0" workshop_item_id="3267869519" >
+  <Mod enabled="1" name="AdvancedSpellInventory" settings_fold_open="1" workshop_item_id="3267869519" >
   </Mod>
   <Mod enabled="1" name="InventoryBags" settings_fold_open="0" workshop_item_id="2496009232" >
   </Mod>

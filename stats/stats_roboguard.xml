@@ -1,4 +1,4 @@
-<Stats deaths="60" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="bat" value="1" >
     </E>
-    <E key="conduit" value="1" >
+    <E key="conduit" value="2" >
     </E>
     <E key="drone_mini" value="1" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="player_ai_hitbox" value="1" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="10" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

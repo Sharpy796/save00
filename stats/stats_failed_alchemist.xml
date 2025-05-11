@@ -1,4 +1,4 @@
-<Stats deaths="25" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="4" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -25,6 +25,8 @@
   </death_map>
   <kill_map>
     <E key="pipe_bomb" value="1" >
+    </E>
+    <E key="player" value="1" >
     </E>
     <E key="shaman_greater_apotheosis" value="1" >
     </E>

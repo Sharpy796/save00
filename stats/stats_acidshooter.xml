@@ -1,4 +1,4 @@
-<Stats deaths="184" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="196" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
@@ -26,6 +26,8 @@
     </E>
     <E key="fly | $damage_melee" value="2" >
     </E>
+    <E key="lukki_fungus | hit" value="2" >
+    </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
@@ -38,9 +40,9 @@
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
-    <E key="player | $damage_melee" value="13" >
+    <E key="player | $damage_melee" value="21" >
     </E>
-    <E key="player | $damage_projectile" value="57" >
+    <E key="player | $damage_projectile" value="59" >
     </E>
     <E key="player | $damage_slice" value="11" >
     </E>
@@ -74,7 +76,7 @@
     </E>
     <E key="rat" value="4" >
     </E>
-    <E key="scorpion" value="6" >
+    <E key="scorpion" value="8" >
     </E>
     <E key="sheep" value="2" >
     </E>

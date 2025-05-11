@@ -1,10 +1,10 @@
-<Stats deaths="165" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="169" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="30" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="7" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -13,6 +13,8 @@
     <E key="ceiling_fungus_minion | $damage_melee" value="2" >
     </E>
     <E key="drone_mini | $damage_explosion" value="1" >
+    </E>
+    <E key="frog_bot | $damage_explosion" value="1" >
     </E>
     <E key="giant_centipede | worm bite" value="2" >
     </E>
@@ -55,6 +57,8 @@
     <E key="ceiling_fungus_minion" value="2" >
     </E>
     <E key="crawler" value="1" >
+    </E>
+    <E key="frog_bot" value="1" >
     </E>
     <E key="iceskull" value="1" >
     </E>

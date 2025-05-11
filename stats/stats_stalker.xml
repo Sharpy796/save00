@@ -1,18 +1,30 @@
-<Stats deaths="33" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="48" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="11" >
+    <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_explosion" value="4" >
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
+    <E key="NULL | $damage_slice" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
+    </E>
+    <E key="chainsawer | Minced!" value="1" >
     </E>
     <E key="giant_centipede | worm bite" value="1" >
     </E>
-    <E key="player | $damage_fire" value="2" >
+    <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
@@ -20,6 +32,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
     <E key="small_pebble" value="2" >
     </E>
     <E key="stalker" value="1" >

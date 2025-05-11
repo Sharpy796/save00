@@ -1,6 +1,6 @@
-<Stats deaths="174" kills="120" player_kills="0" player_projectile_count="0" >
+<Stats deaths="197" kills="133" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="36" >
+    <E key="NULL | $damage_fire" value="44" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -8,13 +8,15 @@
     </E>
     <E key="player | $damage_projectile" value="15" >
     </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
     <E key="slime_turret | $damage_projectile" value="1" >
     </E>
-    <E key="twig | " value="120" >
+    <E key="twig | " value="133" >
     </E>
   </death_map>
   <kill_map>
-    <E key="twig" value="120" >
+    <E key="twig" value="133" >
     </E>
   </kill_map>
 </Stats>

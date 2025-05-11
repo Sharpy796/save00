@@ -1,12 +1,12 @@
-<Stats deaths="143" kills="43" player_kills="0" player_projectile_count="0" >
+<Stats deaths="151" kills="46" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | " value="3" >
+    <E key="NULL | " value="5" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="16" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="16" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="player | $damage_hitfx_curse" value="3" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_projectile" value="54" >
     </E>
@@ -42,6 +42,8 @@
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
+    <E key="tank_rocket | $damage_explosion" value="1" >
+    </E>
     <E key="thunderskull | $damage_electricity" value="1" >
     </E>
     <E key="worm | worm bite" value="1" >
@@ -50,7 +52,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bubble_liquid" value="1" >
+    </E>
     <E key="drone_lasership" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
     </E>
     <E key="icemage2" value="1" >
     </E>
@@ -67,6 +73,8 @@
     <E key="rat" value="16" >
     </E>
     <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="snowman2" value="1" >
     </E>
     <E key="tank" value="1" >
     </E>

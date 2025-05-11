@@ -1,20 +1,20 @@
-<Stats deaths="1085" kills="24" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1155" kills="28" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="55" >
+    <E key="NULL | $damage_drowning" value="57" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_explosion" value="80" >
     </E>
-    <E key="NULL | $damage_fire" value="160" >
+    <E key="NULL | $damage_fire" value="164" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="56" >
+    <E key="NULL | $damage_physicshit" value="57" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
@@ -39,6 +39,8 @@
     <E key="bean_pod_crackle | $damage_explosion" value="9" >
     </E>
     <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="chainsawer | $damage_melee" value="1" >
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
@@ -66,7 +68,7 @@
     </E>
     <E key="kantele_d | " value="4" >
     </E>
-    <E key="longleg | $damage_melee" value="1" >
+    <E key="longleg | $damage_melee" value="3" >
     </E>
     <E key="lukki | hit" value="3" >
     </E>
@@ -96,7 +98,9 @@
     </E>
     <E key="player | $damage_ice" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="422" >
+    <E key="player | $damage_melee" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="470" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -106,9 +110,13 @@
     </E>
     <E key="player | chop!" value="7" >
     </E>
+    <E key="player_ai | $damage_projectile" value="1" >
+    </E>
     <E key="player_rng_items | $damage_projectile" value="10" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="poring | $damage_melee" value="1" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="1" >
     </E>
@@ -116,7 +124,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="7" >
+    <E key="shotgunner_weak | $damage_projectile" value="9" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
     </E>
@@ -142,7 +150,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="longleg" value="1" >
+    <E key="longleg" value="3" >
     </E>
     <E key="miner_weak" value="4" >
     </E>
@@ -158,7 +166,7 @@
     </E>
     <E key="zombie_water" value="1" >
     </E>
-    <E key="zombie_weak" value="9" >
+    <E key="zombie_weak" value="11" >
     </E>
   </kill_map>
 </Stats>

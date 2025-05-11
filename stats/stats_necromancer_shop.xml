@@ -1,10 +1,12 @@
-<Stats deaths="27" kills="40" player_kills="1" player_projectile_count="0" >
+<Stats deaths="30" kills="53" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -18,7 +20,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="fish" value="31" >
+    <E key="fish" value="43" >
+    </E>
+    <E key="necromancer_shop" value="1" >
     </E>
     <E key="player" value="1" >
     </E>

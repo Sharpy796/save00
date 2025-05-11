@@ -1,0 +1,2836 @@
+<Entity 
+  _version="1" 
+  name="unknown" 
+  serialize="0" 
+  tags="world_state" >
+  <_Transform 
+    position.x="0" 
+    position.y="0" 
+    rotation="0" 
+    scale.x="1" 
+    scale.y="1" >
+  </_Transform>
+  <WorldStateComponent 
+    DEBUG_LOADED_FROM_AUTOSAVE="0" 
+    DEBUG_LOADED_FROM_OLD_VERSION="0" 
+    ENDING_HAPPINESS="0" 
+    ENDING_HAPPINESS_FRAMES="0" 
+    ENDING_HAPPINESS_HAPPENING="0" 
+    EVERYTHING_TO_GOLD="0" 
+    INFINITE_GOLD_HAPPENING="0" 
+    _enabled="1" 
+    clouds_01_target="24.0851" 
+    clouds_02_target="14.6398" 
+    consume_actions="1" 
+    damage_flash_multiplier="1" 
+    day_count="0" 
+    fog="0" 
+    fog_target="0" 
+    global_genome_relations_modifier="0" 
+    gore_multiplier="1" 
+    gradient_sky_alpha_target="0" 
+    intro_weather="0" 
+    is_initialized="1" 
+    lightning_count="0" 
+    mFlashAlpha="0" 
+    material_everything_to_gold="gold" 
+    material_everything_to_gold_static="gold_static" 
+    mods_have_been_active_during_this_run="0" 
+    next_cut_through_world_id="0" 
+    next_portal_id="1" 
+    open_fog_of_war_everywhere="0" 
+    perk_gold_is_forever="0" 
+    perk_hp_drop_chance="0" 
+    perk_infinite_spells="1" 
+    perk_rats_player_friendly="0" 
+    perk_trick_kills_blood_money="0" 
+    player_did_damage_over_1milj="0" 
+    player_did_infinite_spell_count="0" 
+    player_living_with_minus_hp="0" 
+    player_polymorph_count="2" 
+    player_polymorph_random_count="0" 
+    player_spawn_location.x="0" 
+    player_spawn_location.y="0" 
+    rain="0.260624" 
+    rain_target="0.265609" 
+    session_stat_file="??STA/sessions/20250510-184136" 
+    sky_sunset_alpha_target="1" 
+    time="0.422942" 
+    time_dt="1" 
+    time_total="17.3962" 
+    trick_kill_gold_multiplier="2" 
+    twitch_has_been_active_during_this_run="1" 
+    wind="-0.176132" 
+    wind_speed="-10.568" 
+    wind_speed_sin="3" 
+    wind_speed_sin_t="10" >
+    <lua_globals>
+      <E 
+        key="ACTION_AA_POTION_TO_GAS" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_AA_REPULTIUM_TRAIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_ACCELERATING_SHOT" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_AQUA_MINE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/aquamine.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_BLOOD_POWER" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_CURSED_ORB_RAY" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_CURSED_ORB_RAY_ENEMY" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_GLUE_CHARGE" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_AFFLUENCE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_CRITICAL_DRUNK" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_HEX_OIL" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_HEX_WATER" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_MUDMAN_SLIMY" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HOMING_DELAYED" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_ICEBALL_RAY_ENEMY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_KINDNESS_TO_POWER" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_LIQUIDSPHERE_ACID" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_LUA_SHARING" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_MIND_VISION" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_MUSICAL_STRIKE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/musical_delayed_attack_end.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_RANDOM_HOMING" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_RAT_BITE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_SAWBLADE_BIG_RAY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_WATER_POWER" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_ARC_ELECTRIC" 
+        value="data/entities/projectiles/deck/spore_pod.xml" >
+      </E>
+      <E 
+        key="ACTION_ARC_FIRE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_ARC_GUNPOWDER" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_ARC_POISON" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_ARROW" 
+        value="data/entities/projectiles/deck/arrow.xml" >
+      </E>
+      <E 
+        key="ACTION_AUTOAIM" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_AVOIDING_ARC" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_BERSERK_FIELD" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_BIG_MAGIC_SHIELD" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_BLOODLUST" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_BLOOD_TO_ACID" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_BOMB" 
+        value="data/entities/projectiles/bomb.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_EXPLOSION" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_HOLE" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_LARPA" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_LASER" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_LASER_EMITTER" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCE_SPARK" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_BOUNCY_ORB" 
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_LONGTELETRIGGER" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_WARPTELEDEATHTRIGGER" 
+        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+      </E>
+      <E 
+        key="ACTION_BURST_2" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_CC_ANTIMATTER_FIELD_ENEMY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_CC_FIRE_TO_GREASE" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_CC_GUNPOWDER_BUFF" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_CC_RADIOACTIVE_SHOT" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_CHAIN_SHOT" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_CLIPPING_SHOT" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_CLUSTERMOD" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_BLUE" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_GREEN" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_INVIS" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_ORANGE" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_PURPLE" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_RAINBOW" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_RED" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COLOUR_YELLOW" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ACID" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ALCOHOL_SHOT" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ANCHORED_SHOT" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ARC_CONCRETE" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_BALANCE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_BARRIER_ARC" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_BARRIER_TRAIL" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CEMENT" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CHAOS_RAY" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CHARM_FIELD" 
+        value="data/entities/projectiles/deck/charm_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CIRCLE_BOOST" 
+        value="mods/copis_things/files/entities/projectiles/circle_boost.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_COLD_HEARTED" 
+        value="mods/spellbound_bundle/files/entities/projectiles/caltrops.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CONFETTI_TRAIL" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DAMAGE_CRITICAL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DAMAGE_ENGINE" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DAMAGE_LIFETIME" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DEATH_CROSS_TRAIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DECOY_TRIGGER" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DELAY_2" 
+        value="mods/copis_things/files/entities/projectiles/grappling_hook.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DELAY_3" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DIMIGE" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ELECTRIC_TELEPORT" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_FLURRY" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_FREEZING_VAPOUR_TRAIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GATE_MANA" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GILDED_AXE" 
+        value="mods/copis_things/files/entities/projectiles/gilded_axe.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GRAPPLING_HOOK" 
+        value="mods/copis_things/files/entities/projectiles/grappling_hook.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GRAPPLING_HOOK_RAY_ENEMY" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GRAPPLING_HOOK_SHOT" 
+        value="data/entities/projectiles/deck/glitter_bomb.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GUNNER_SHOT_STRONG" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HITFX_BLOODY_2X_DAMAGE_POISONED" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HITFX_CRITICAL_FROZEN" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HITFX_WET_2X_DAMAGE_FREEZE" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HOMING_BOUNCE" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HOMING_INTERVAL" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HOMING_MACROSS" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HOMING_SEEKER" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_LEVITY_SHOT" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_LIFETIME_RANDOM" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_LINK_SHOT" 
+        value="data/entities/projectiles/deck/teleport_projectile_static.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_LIQUID_EATER" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_DELTA" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_EFFICENCY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_ENGINE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_RANDOM" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MINI_SHIELD" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_POWER_SHOT" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_RAINBOW_TRAIL" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_RECHARGE_ENGINE" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_REDIRECT_THIS" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ROR2COLLAPSE" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SILVER_BULLET_RAY_6" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SILVER_BULLET_RAY_ENEMY" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SLOTS_TO_POWER" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SOIL_TRAIL" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SPARKLING_TRAIL" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SPREAD" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_STARLIGHT_AXE" 
+        value="mods/copis_things/files/entities/projectiles/starlight_axe.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_STATIC_TO_EXPLOSION" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_STUN_BOMBS" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SUS_TRAIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SWORD_FORMATION" 
+        value="data/entities/projectiles/deck/teleport_projectile_static.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_TOUCH_RANDOM" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_TRANSMISSION_CAST" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ULT_DAMAGE" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ULT_PROTECTION" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_VACUUM_CLAW" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_VERTICAL_ARC" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_WOOD_BRUSH" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ZAP" 
+        value="data/entities/projectiles/deck/light_bullet.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ZIPPING_ARC" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_CRITICAL_HIT" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_CURSE_WITHER_MELEE" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_CURSE_WITHER_PROJECTILE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/caltrops.xml" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE_FOREVER" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE_RANDOM" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_DARKFLAME" 
+        value="data/entities/projectiles/darkflame.xml" >
+      </E>
+      <E 
+        key="ACTION_DEATH_CROSS_BIG" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_DECELERATING_SHOT" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_DIGGER" 
+        value="data/entities/projectiles/deck/digger.xml" >
+      </E>
+      <E 
+        key="ACTION_DYNAMITE" 
+        value="data/entities/projectiles/deck/tnt.xml" >
+      </E>
+      <E 
+        key="ACTION_ELECTRIC_CHARGE" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_ENERGY_SHIELD_SHOT" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_ESSENCE_TO_POWER" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_EXPANDING_ORB" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_EXPLOSION_TINY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_FIREWORK" 
+        value="data/entities/projectiles/deck/fireworks/firework_green.xml" >
+      </E>
+      <E 
+        key="ACTION_FIRE_TRAIL" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_FLY_DOWNWARDS" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_FLY_UPWARDS" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_FREEZE" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_FREEZING_GAZE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GAMMA" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_AGITINE" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_ANTI_MATTER" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_GLITTERING_LIQUID" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_NULLIUM" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_URANIUM" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_ACID" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_BIOME" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_DIMINUTION" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_DIVINE_GROUND" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_LAVA" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_MIDAS" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_MIMICIUM" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_TRUE_RAINBOW" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_VOID" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WEIRD_FUNGUS" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WHITE" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_SOULS_COLOUR_SOUL_BLOOD" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GLITTER_BOMB" 
+        value="data/entities/projectiles/deck/glitter_bomb.xml" >
+      </E>
+      <E 
+        key="ACTION_GOKI_CLINGING_SHOT" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_BLACKLIGHT_ARROW_TIMER" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_CRIT_DOWN" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_DIVEBOMB" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_EXTINGUISHER" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_GOLDEN" 
+        value="data/entities/projectiles/deck/teleport_projectile_static.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_GRAB_BAG" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MANAHEART" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MANAHEARTBREAK" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MIXUP" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_RAINBOW" 
+        value="mods/grahamsperks/files/spells/rainbow.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_ROT" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_SHIELD_DRONE" 
+        value="mods/grahamsperks/files/spells/shield_drone.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_STASIS" 
+        value="mods/copis_things/files/entities/projectiles/stun_bombs.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_TOXIC_CRIT" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAVITY" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAVITY_FIELD_ENEMY" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_GRENADE" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_GROWSHOT" 
+        value="data/entities/projectiles/deck/spore_pod.xml" >
+      </E>
+      <E 
+        key="ACTION_GUNPOWDER_TRAIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_BURNING_CRITICAL_HIT" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_CRITICAL_BLOOD" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_CRITICAL_OIL" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_CRITICAL_WATER" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_EXPLOSION_ALCOHOL" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_EXPLOSION_ALCOHOL_GIGA" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_EXPLOSION_SLIME" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_PETRIFY" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_TOXIC_CHARM" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_ACCELERATING" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_CURSOR" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_ROTATE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_SHOOTER" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_WAND" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_KNOCKBACK" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_CHAOS" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_CHAOS_2" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_DEATH" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_DOWNWARDS" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_UPWARDS" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_EMITTER_FOCUS" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_EMITTER_RAY" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_EMITTER_WIDER" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_LAVA_TO_BLOOD" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_LIFETIME_DOWN" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_LIGHT_BULLET" 
+        value="data/entities/projectiles/deck/light_bullet.xml" >
+      </E>
+      <E 
+        key="ACTION_LIGHT_BULLET_TRIGGER" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_MANA_REDUCE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_MATERIAL_ACID" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_MISSILE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_HIISI_PISTOL" 
+        value="mods/moldos_arsenal/files/entities/items/hiisipistol/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_HIISI_SHOTGUN" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_RANDOM_REAP" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_REAP_FROM_FIRE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SCALING_DAMAGE" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SCALING_RECHARGE" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SCALING_SPEED" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SNIPER_BEAM" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOULDOS" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOULS_TO_POWER" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOUL_BOOST" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOUL_STRIKE" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_MOON_POWER" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_NECROMANCY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_ORBIT_FIREBALLS" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_ORBIT_SHOT" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_PENTAGRAM_SHAPE" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_PHASING_ARC" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_PIERCING_SHOT" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_POISON_TRAIL" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_QUANTUM_SPLIT" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_RANDOM_EXPLOSION" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_RECHARGE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_RECOIL" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_RECOIL_DAMPER" 
+        value="data/entities/projectiles/deck/death_cross_big.xml" >
+      </E>
+      <E 
+        key="ACTION_REMOVE_BOUNCE" 
+        value="data/entities/projectiles/deck/grenade.xml" >
+      </E>
+      <E 
+        key="ACTION_RUBBER_BALL" 
+        value="data/entities/projectiles/deck/rubber_ball.xml" >
+      </E>
+      <E 
+        key="ACTION_SCATTER_3" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_SCATTER_4" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_SINEWAVE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_SPEED" 
+        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_BLOOM_PROJECTILES" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_BUBBLE_PROJECTILES" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_BULLET_VORTEX" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_CALTROPS" 
+        value="mods/spellbound_bundle/files/entities/projectiles/caltrops.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_DUCK" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_ENERGETIC_PROJECTILES" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_FORCE_MODULE" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_CONCRETE" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_FIRE" 
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_FREEZING" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_POISON" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GHOSTLY_LANCE" 
+        value="mods/copis_things/files/entities/projectiles/touch_random.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_HEAT_WAVE" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_HELL_FIRE" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_PATHFINDING" 
+        value="data/entities/projectiles/deck/berserk_field.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_RUBBER_COATING" 
+        value="mods/grahamsperks/files/spells/teleport_fast.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_TOXIC_AURA" 
+        value="data/entities/projectiles/orb_expanding.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_VOID_SHOT" 
+        value="data/entities/projectiles/deck/freezing_gaze_beam.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_WHISKY_AURA" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_SPIRALING_SHOT" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_SPORE_POD" 
+        value="data/entities/projectiles/deck/spore_pod.xml" >
+      </E>
+      <E 
+        key="ACTION_SPREAD_REDUCE" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_STATIC_TO_SAND" 
+        value="data/entities/projectiles/deck/rocket_player.xml" >
+      </E>
+      <E 
+        key="ACTION_SUN_POWER" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_SWARM_FIREBUG" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_TAU" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_TELEPORT_PROJECTILE_STATIC" 
+        value="data/entities/projectiles/deck/teleport_projectile_static.xml" >
+      </E>
+      <E 
+        key="ACTION_TENTACLE_RAY" 
+        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+      </E>
+      <E 
+        key="ACTION_TENTACLE_RAY_ENEMY" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_TOXIC_SPEW" 
+        value="data/entities/projectiles/new/toxic_spew.xml" >
+      </E>
+      <E 
+        key="ACTION_TOXIC_TO_ACID" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_UNSTABLE_GUNPOWDER" 
+        value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_WATER_TRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/caltrops.xml" >
+      </E>
+      <E 
+        key="ACTION_Y_SHAPE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_acid.xml" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_is_open" 
+        value="0" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_spells_refreshed" 
+        value="1" >
+      </E>
+      <E 
+        key="AdvancedSpellInventory_stored_spells" 
+        value="5;APOTHEOSIS_AQUA_MINE;-1|2;COPITH_GRAPPLING_HOOK;-1|1;ARROW;-1|1;BOMB;-1|1;APOTHEOSIS_RUBBER_BALL_TRIGGER;-1|1;RUBBER_BALL;-1|5;GRAHAM_BRAMBALL;-1|1;COPITH_CAUSTIC_CLAW;-1|1;GRAHAM_BUBBLES;-1|1;GRAHAM_RAINBOW;-1|1;GRENADE_LARGE;-1|5;DYNAMITE;-1|2;BOUNCY_ORB;-1|3;FIREWORK;-1|1;COPITH_GILDED_AXE;-1|5;SPELLBOUND_CALTROPS;-1|1;MOLDOS_HIISI_PISTOL;-1|3;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|1;BULLET_TRIGGER;-1|3;APOTHEOSIS_MUSICAL_STRIKE;-1|6;GRENADE_ANTI;-1|1;DARKFLAME;-1|1;POLLEN;-1|3;SPELLBOUND_SHARD_SHOT;-1|4;GRAHAM_SHOCK_DART;-1|1;LIGHT_BULLET;-1|1;LIGHT_BULLET_TRIGGER;-1|1;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|4;APOTHEOSIS_LIQUIDSPHERE_WATER;-1|1;COPITH_STARLIGHT_AXE;-1|2;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|1;GRAHAM_SHIELD_DRONE;2|1;GRAHAM_SHIELD_DRONE;3|1;GRAHAM_MIST_SWEET;-1|1;COPITH_VACUUM_CLAW;-1|1;BR_WARPTELEDEATHTRIGGER;-1|6;COPITH_ZAP;-1|1;COPITH_CIRCLE_BOOST;-1|1;COPITH_CHARM_FIELD;-1|1;SPELLBOUND_BLACKHOLE_INFUSION;-1|1;SPELLBOUND_GAS_SHOT;-1|1;SPELLBOUND_GAS_SHOT_FIRE;-1|1;BOUNCE_SPARK;-1|1;COPITH_COLD_HEARTED;-1|1;CRITICAL_HIT;-1|1;HITFX_CRITICAL_WATER;-1|1;DAMAGE;-1|1;COPITH_ULT_PROTECTION;-1|1;MOLDOS_TOME_PAGE_ALCHEMIST;-1|1;GRAHAM_POWDER_EVAPORATION;-1|1;SPELLBOUND_RUBBER_COATING;-1|1;MOLDOS_SOUL_BOOST;-1|1;TENTACLE_RAY;-1|2;COPITH_DELAY_2;-1|4;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|4;PENTAGRAM_SHAPE;-1|2;COPITH_LINK_SHOT;-1|3;COPITH_SCATTER_8;-1|1;SCATTER_4;-1|1;COPITH_SCATTER_6;-1|1;COPITH_SWORD_FORMATION;-1|2;COPITH_DELAY_3;-1|1;SCATTER_3;-1|1;GAMMA;-1|1;COPITH_GATE_MANA;-1|1;MU;-1|1;ZETA;-1|1;GRAHAM_FOAMARMOR;2|1;BR_REWARD_ALCHEMIST;-1|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+      </E>
+      <E 
+        key="BR_BOSS_RUSH_FRAME_NOW" 
+        value="700119" >
+      </E>
+      <E 
+        key="BR_MODE" 
+        value="Normal" >
+      </E>
+      <E 
+        key="BR_SHUFFLE_RUSH" 
+        value="false" >
+      </E>
+      <E 
+        key="GLOBAL_CAST_STATE" 
+        value="16854" >
+      </E>
+      <E 
+        key="GRAHAM_ONEOFFS" 
+        value="0" >
+      </E>
+      <E 
+        key="GRAHAM_TOGGLE" 
+        value="null" >
+      </E>
+      <E 
+        key="GRAHAM_TOGGLE2" 
+        value="null" >
+      </E>
+      <E 
+        key="HELPLESS_KILLS" 
+        value="20" >
+      </E>
+      <E 
+        key="HOLY_MOUNTAIN_DEPTH" 
+        value="9" >
+      </E>
+      <E 
+        key="HOLY_MOUNTAIN_VISITS" 
+        value="3" >
+      </E>
+      <E 
+        key="InventoryBags_active_item_tab" 
+        value="2" >
+      </E>
+      <E 
+        key="InventoryBags_active_storage_version" 
+        value="1" >
+      </E>
+      <E 
+        key="InventoryBags_active_wand_tab" 
+        value="5" >
+      </E>
+      <E 
+        key="InventoryBags_is_open" 
+        value="0" >
+      </E>
+      <E 
+        key="MOD_INJECTED_BIOMES" 
+        value="yes" >
+      </E>
+      <E 
+        key="ORB_MAP_STRING" 
+        value="8,1 1,-3 -9,7 -8,19 -18,2 -20,5 -1,31 20,31 19,5 6,3 19,-3 41,14 -42,18 36,32 -41,2" >
+      </E>
+      <E 
+        key="PERK_PICKED_EDIT_WANDS_EVERYWHERE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_PROTECTION_EXPLOSION_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_UNLIMITED_SPELLS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="STEVARI_DEATHS" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_1307" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_4891" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_2" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_9" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_NEXT_PERK_INDEX" 
+        value="10" >
+      </E>
+      <E 
+        key="TEMPLE_PERK_REROLL_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_REROLL_PERK_INDEX" 
+        value="174" >
+      </E>
+      <E 
+        key="TEMPLE_SPAWN_GUARDIAN" 
+        value="1" >
+      </E>
+      <E 
+        key="apotheosis_tabletghost_count" 
+        value="3" >
+      </E>
+      <E 
+        key="config_lib_mod_button_reservation" 
+        value="15" >
+      </E>
+      <E 
+        key="config_lib_open" 
+        value="false" >
+      </E>
+      <E 
+        key="config_mod_button_tr_max" 
+        value="15" >
+      </E>
+      <E 
+        key="conga_red_sand_effect_amount" 
+        value="0" >
+      </E>
+      <E 
+        key="copis_things_mod_button_reservation" 
+        value="0" >
+      </E>
+      <E 
+        key="copis_things_version" 
+        value="0.53" >
+      </E>
+      <E 
+        key="current_vote_type" 
+        value="event" >
+      </E>
+      <E 
+        key="extra_entities" 
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/grahamsperks/files/spells/golden.xml,mods/copis_things/files/entities/misc/link_shot.xml,mods/copis_things/files/entities/misc/sword_parser.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+      </E>
+      <E 
+        key="grahamsdialogue.buffer" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/boss_alchemist/key.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/coal_mines/poring.xml" 
+        value="$enemy_apotheosis_poring" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/hideous_mass.xml" 
+        value="$enemy_apotheosis_hideous_mass" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/fungicave/lukki_fungus.xml" 
+        value="$enemy_apotheosis_lukki_fungus" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/ground_terror_friendly.xml" 
+        value="$ground_terror" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/fallen_alchemist.xml" 
+        value="$fallen_alchemist" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/potionmaster2.xml" 
+        value="$potionmaster2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/liquidcave/wandmaster2.xml" 
+        value="$wandmaster2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/overgrown_lab/enlightened_alchemist.xml" 
+        value="$animal_enlightened_alchemist" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/overgrown_lab/potionmaster.xml" 
+        value="Mestari alkemistia" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/monk.xml" 
+        value="$animal_monk" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/scorpio.xml" 
+        value="$scorpio" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/slime_turret.xml" 
+        value="$slime_turret" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/snow_castle/cryogen.xml" 
+        value="$cryogen" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/snow_castle/frog_bot.xml" 
+        value="$frog_bot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/snow_castle/radiobot.xml" 
+        value="$radiobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/snow_castle/welder.xml" 
+        value="$welder" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/altar_skull.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/arrowtrap_left.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/arrowtrap_right.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/biome_modifiers/drain_pipe.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/hut.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/lasergun.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/physics_worm_deflector_base.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/physics_worm_deflector_crystal.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/racing_cart.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_a.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_b.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_c.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/ritualist_d.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/statue_hand_1.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/statue_hand_2.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_00.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_03.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_07.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/apotheosis/egg_fairy.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/apotheosis/egg_robot.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/broken_wand.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_purple.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/egg_worm.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/evil_eye.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_fullhp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_fullhp_temple.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/moon.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/perk_reroll.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/potion.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/potion_aggressive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/powder_stash.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/spell_refresh.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/wands/level_01/wand_002.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/wands/level_01/wand_016.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/misc/physics_ragdoll_ai_flopper.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/player.xml" 
+        value="DEBUG_NAME:player" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/projectiles/glue.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/dripping_water.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/forcefield_generator.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/keg.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_hook_flipped.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_keg.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_tank_propane.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/chain_torch_blue.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/chain_torch_ghostly.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/temple_lantern.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_burning.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_oil.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_barrel_radioactive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_box_explosive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_box_harmless.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_crate.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_big.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_small.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_trap_custom.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_02.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_03.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_glass_shard_04.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_hanging_wire.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_lantern.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_lantern_small.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_propane_tank.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_seamine.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_torch_stand_blue.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_torch_stand_intro_old.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_trap_electricity_enabled.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_tubelamp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/root_grower.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/root_grower_fruit.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/root_grower_leaf.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_container.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_seamine.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_tank_radioactive.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/temple_statue_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/temple_statue_02.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/suspended_tank_fire.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/traps/trap_portal.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/arcane_alchemy/items/vials/vial.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/chemical_curiosities/props/physics_barrel_grease.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/chemical_curiosities/props/physics_methane_tank.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/mystical_mixtures/entities/catfood.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/mana.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/pickups/balloon.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/pickups/safe.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/pickups/vial.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/flopper_mother.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/alchemist.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/soulrefresh/thing.xml" 
+        value="" >
+      </E>
+      <E 
+        key="linking_fungal_shift" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_local_shift" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_bomb" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_boss" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_chest" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_enemy" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_fireball_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_healer_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_laser_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_normal_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_perk" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_potion" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_punch_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_random_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_slow_homunculus" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_spell" 
+        value="false" >
+      </E>
+      <E 
+        key="linking_spawn_wand" 
+        value="false" >
+      </E>
+      <E 
+        key="mod_button_tr_current" 
+        value="0" >
+      </E>
+      <E 
+        key="mod_button_tr_width" 
+        value="0" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_CHARMED_2" 
+        value="662250" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_DRUNK_4" 
+        value="367350" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_4" 
+        value="128850" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_110_3" 
+        value="460020" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_11_4" 
+        value="356310" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_14_2" 
+        value="600600" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_14_3" 
+        value="662130" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_1_3" 
+        value="563010" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_1_4" 
+        value="126750" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_20_2" 
+        value="117540" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_20_4" 
+        value="90360" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_21_3" 
+        value="384780" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_23_2" 
+        value="605610" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_24_3" 
+        value="547620" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_24_4" 
+        value="560880" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_2_2" 
+        value="353310" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_2_3" 
+        value="79230" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_2_4" 
+        value="138600" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_37_4" 
+        value="390930" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_42_3" 
+        value="664290" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_47_3" 
+        value="58920" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_47_4" 
+        value="53520" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_2" 
+        value="91290" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_3" 
+        value="365970" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_4" 
+        value="365520" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_5" 
+        value="260490" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_6" 
+        value="135510" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_7" 
+        value="365610" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_52_3" 
+        value="427080" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_59_2" 
+        value="591270" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_5_2" 
+        value="252090" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_60_4" 
+        value="467340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_63_4" 
+        value="252840" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_66_2" 
+        value="666390" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_66_3" 
+        value="666450" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_66_4" 
+        value="605910" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_2" 
+        value="434850" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_3" 
+        value="427620" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_4" 
+        value="427620" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_76_4" 
+        value="604830" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_85_2" 
+        value="559680" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_89_2" 
+        value="540450" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_89_4" 
+        value="540390" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_8_4" 
+        value="127800" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_9_2" 
+        value="683340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_11_2" 
+        value="683466" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_11_3" 
+        value="683583" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_184_2" 
+        value="324230" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_184_3" 
+        value="324230" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_1_2" 
+        value="127528" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_1_3" 
+        value="565345" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_22_2" 
+        value="90444" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_22_3" 
+        value="90300" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_22_4" 
+        value="117761" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_26_2" 
+        value="589671" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_26_3" 
+        value="587662" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_26_4" 
+        value="560677" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_2" 
+        value="678177" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_3" 
+        value="678181" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_4" 
+        value="679545" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_5" 
+        value="678177" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_6" 
+        value="679545" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_7" 
+        value="678173" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_44_2" 
+        value="664401" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_54_2" 
+        value="436223" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_54_3" 
+        value="436223" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_54_4" 
+        value="379520" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_62_2" 
+        value="470395" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_2" 
+        value="512583" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_3" 
+        value="512583" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_64_4" 
+        value="512581" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_67_2" 
+        value="587541" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_67_4" 
+        value="587541" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_68_2" 
+        value="589512" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_68_4" 
+        value="591126" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_6_2" 
+        value="638744" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_71_2" 
+        value="663036" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_71_3" 
+        value="663036" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_71_4" 
+        value="663030" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_72_2" 
+        value="565069" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_72_3" 
+        value="565069" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_72_4" 
+        value="565069" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_75_2" 
+        value="368858" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_75_3" 
+        value="368858" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_75_4" 
+        value="435025" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_79_2" 
+        value="693988" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_79_4" 
+        value="693988" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_82_2" 
+        value="591820" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_10_4" 
+        value="316156" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_16_4" 
+        value="564385" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_14_2" 
+        value="153095" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_14_3" 
+        value="153095" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_14_4" 
+        value="153095" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_7_3" 
+        value="612664" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_7_4" 
+        value="616985" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_5_7_7" 
+        value="630767" >
+      </E>
+      <E 
+        key="new_enemies_desert_skull_loaded" 
+        value="1" >
+      </E>
+      <E 
+        key="new_enemies_mod_load_done" 
+        value="1" >
+      </E>
+      <E 
+        key="new_enemies_player_evil_active" 
+        value="0" >
+      </E>
+      <E 
+        key="projectile_filename" 
+        value="data/entities/projectiles/deck/teleport_projectile_static.xml" >
+      </E>
+      <E 
+        key="random_twitch_user" 
+        value="theonetheonlyspoopyboi,#8A2BE2,false,false,false:" >
+      </E>
+      <E 
+        key="random_twitch_user_used" 
+        value="" >
+      </E>
+      <E 
+        key="shift#0" 
+        value="" >
+      </E>
+      <E 
+        key="souls.amphitheatre_enemy_count" 
+        value="10" >
+      </E>
+      <E 
+        key="souls.button_down_gui" 
+        value="false" >
+      </E>
+      <E 
+        key="souls.collect_soul_from_entity" 
+        value="false" >
+      </E>
+      <E 
+        key="souls.enable_soul_shops" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.say_consumed_soul" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.say_soul" 
+        value="true" >
+      </E>
+      <E 
+        key="souls.soul_boss_shader_effect_amount" 
+        value="0" >
+      </E>
+      <E 
+        key="start_time" 
+        value="2025,4,10,23,41,54" >
+      </E>
+      <E 
+        key="tome_magic_active_soul_group" 
+        value="3" >
+      </E>
+      <E 
+        key="tome_magic_tele_x" 
+        value="227" >
+      </E>
+      <E 
+        key="tome_magic_tele_y" 
+        value="-85" >
+      </E>
+      <E 
+        key="twitch_chat_message_broadcaster" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_color" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_frames" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_id" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_message" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_moderator" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_name" 
+        value="" >
+      </E>
+      <E 
+        key="twitch_chat_message_subscriber" 
+        value="" >
+      </E>
+      <E 
+        key="visited_biomes" 
+        value="_EMPTY_,$biome_winter,$biome_holymountain,$biome_coalmine,_EMPTY_,$biome_liquidc" >
+      </E>
+      <E 
+        key="visited_biomes_count" 
+        value="56" >
+      </E>
+    </lua_globals>
+    <pending_portals>
+    </pending_portals>
+    <apparitions_per_level>
+      <primitive>
+        0
+      </primitive>
+    </apparitions_per_level>
+    <npc_parties>
+    </npc_parties>
+    <orbs_found_thisrun>
+      <primitive>
+        0
+      </primitive>
+      <primitive>
+        1
+      </primitive>
+      <primitive>
+        3
+      </primitive>
+    </orbs_found_thisrun>
+    <flags>
+      <string>
+        spellbound_enabled
+      </string>
+      <string>
+        weather_this_run_no_gradient
+      </string>
+      <string>
+        initialized_namers
+      </string>
+      <string>
+        souls_init
+      </string>
+      <string>
+        tome_magic_init
+      </string>
+      <string>
+        glimmers_expanded_spliced_chunks_spawned
+      </string>
+      <string>
+        boss_reworks_init
+      </string>
+      <string>
+        spawned_lifelottery
+      </string>
+      <string>
+        cc_onplayerspawned
+      </string>
+      <string>
+        moldos_arsenal_init
+      </string>
+      <string>
+        music_intensity_controller_comp_added
+      </string>
+      <string>
+        apotheosis_new_runny
+      </string>
+      <string>
+        ne_player_evil_coalmine_spawned0
+      </string>
+      <string>
+        PERK_BLEED_GAS
+      </string>
+      <string>
+        PERK_REVENGE_EXPLOSION
+      </string>
+      <string>
+        PERK_GRAHAM_REFRESHER
+      </string>
+      <string>
+        PERK_UNLIMITED_SPELLS
+      </string>
+      <string>
+        PERK_PERKS_LOTTERY
+      </string>
+      <string>
+        PERK_PERSONAL_LASER
+      </string>
+      <string>
+        PERK_PICKED_UNLIMITED_SPELLS
+      </string>
+      <string>
+        new_action_copith_gate_mana
+      </string>
+      <string>
+        new_action_graham_shield_drone
+      </string>
+      <string>
+        new_action_apotheosis_liquidsphere_acid
+      </string>
+      <string>
+        PERK_COPITH_REGRESSION_SCALES
+      </string>
+      <string>
+        new_action_copith_grappling_hook
+      </string>
+      <string>
+        PERK_LASER_AIM
+      </string>
+      <string>
+        PERK_GOLD_IS_FOREVER
+      </string>
+      <string>
+        ne_quin_spawned0
+      </string>
+      <string>
+        new_kill_mimic_perk_twwe
+      </string>
+      <string>
+        PERK_PICKED_EDIT_WANDS_EVERYWHERE
+      </string>
+      <string>
+        new_action_spellbound_rubber_coating
+      </string>
+      <string>
+        new_kill_snowman2
+      </string>
+      <string>
+        ne_player_evil_snowcave_spawned0
+      </string>
+      <string>
+        new_action_copith_link_shot
+      </string>
+      <string>
+        new_action_graham_rainbow
+      </string>
+      <string>
+        new_kill_icicle
+      </string>
+      <string>
+        statue_hands_destroyed_1
+      </string>
+      <string>
+        PERK_MS_CURSE_WAND
+      </string>
+      <string>
+        PERK_BREATH_UNDERWATER
+      </string>
+      <string>
+        PERK_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        new_action_copith_charm_field
+      </string>
+      <string>
+        br_killed_animal_boss_alchemist
+      </string>
+      <string>
+        tome_magic_alchemist_dead
+      </string>
+    </flags>
+    <changed_materials>
+    </changed_materials>
+    <cuts_through_world>
+    </cuts_through_world>
+  </WorldStateComponent>
+  <Entity 
+    _version="1" 
+    name="player_stats" 
+    serialize="0" 
+    tags="" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+    <PlayerStatsComponent 
+      _enabled="1" 
+      lives="1" 
+      max_hp="4" 
+      speed="1" >
+    </PlayerStatsComponent>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="br_soul_storage" 
+    serialize="1" 
+    tags="" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="unknown" 
+    serialize="1" 
+    tags="graham_midas_curse" >
+    <_Transform 
+      position.x="0" 
+      position.y="0" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+  </Entity>
+  <Entity 
+    _version="1" 
+    name="" 
+    serialize="1" 
+    tags="necromancer_shop,music_energy_100_near,ew_synced" >
+    <_Transform 
+      position.x="7416" 
+      position.y="47" 
+      rotation="0" 
+      scale.x="1" 
+      scale.y="1" >
+    </_Transform>
+    <CollisionTriggerComponent 
+      _enabled="1" 
+      destroy_this_entity_when_triggered="0" 
+      height="250" 
+      radius="250" 
+      remove_component_when_triggered="0" 
+      required_tag="egg_item" 
+      self_trigger="0" 
+      skip_self_frames="0" 
+      timer_for_destruction="0" 
+      width="250" >
+    </CollisionTriggerComponent>
+    <LightComponent 
+      _enabled="1" 
+      b="20" 
+      blinking_freq="1" 
+      fade_out_time="0" 
+      g="25" 
+      offset_x="0" 
+      offset_y="0" 
+      r="255" 
+      radius="200" 
+      update_properties="0" >
+    </LightComponent>
+    <LuaComponent 
+      _enabled="1" 
+      call_init_function="0" 
+      enable_coroutines="0" 
+      execute_every_n_frame="-1" 
+      execute_on_added="0" 
+      execute_on_removed="0" 
+      execute_times="0" 
+      limit_all_callbacks="0" 
+      limit_how_many_times_per_frame="-1" 
+      limit_to_every_n_frame="-1" 
+      mLastExecutionFrame="-1" 
+      mModAppendsDone="0" 
+      mTimesExecutedThisFrame="0" 
+      remove_after_executed="0" 
+      script_audio_event_dead="" 
+      script_biome_entered="" 
+      script_collision_trigger_hit="data/scripts/buildings/desert_skull.lua" 
+      script_collision_trigger_timer_finished="" 
+      script_damage_about_to_be_received="" 
+      script_damage_received="" 
+      script_death="" 
+      script_electricity_receiver_electrified="" 
+      script_electricity_receiver_switched="" 
+      script_enabled_changed="" 
+      script_inhaled_material="" 
+      script_interacting="" 
+      script_item_picked_up="" 
+      script_kick="" 
+      script_material_area_checker_failed="" 
+      script_material_area_checker_success="" 
+      script_physics_body_modified="" 
+      script_polymorphing_to="" 
+      script_portal_teleport_used="" 
+      script_pressure_plate_change="" 
+      script_shot="" 
+      script_source_file="" 
+      script_teleported="" 
+      script_throw_item="" 
+      script_wand_fired="" 
+      vm_type="SHARED_BY_MANY_COMPONENTS" >
+    </LuaComponent>
+    <ParticleEmitterComponent 
+      _enabled="1" 
+      airflow_force="1" 
+      airflow_scale="0.05" 
+      airflow_time="0.01" 
+      area_circle_radius.max="250" 
+      area_circle_radius.min="0" 
+      area_circle_sector_degrees="360" 
+      attractor_force="0" 
+      b2_force="0" 
+      collide_with_gas_and_fire="1" 
+      collide_with_grid="1" 
+      color="0" 
+      color_is_based_on_pos="0" 
+      cosmetic_force_create="0" 
+      count_max="50" 
+      count_min="50" 
+      create_real_particles="0" 
+      custom_alpha="-1" 
+      custom_style="NONE" 
+      delay_frames="0" 
+      direction_random_deg="0" 
+      draw_as_long="1" 
+      emission_chance="100" 
+      emission_interval_max_frames="1" 
+      emission_interval_min_frames="1" 
+      emit_cosmetic_particles="1" 
+      emit_only_if_there_is_space="0" 
+      emit_real_particles="0" 
+      emitted_material_name="spark_red" 
+      emitter_lifetime_frames="-1" 
+      fade_based_on_lifetime="1" 
+      fire_cells_dont_ignite_damagemodel="0" 
+      friction="0" 
+      gravity.x="0" 
+      gravity.y="0" 
+      ignore_transform_updated_msg="0" 
+      image_animation_colors_file="" 
+      image_animation_emission_probability="1" 
+      image_animation_file="" 
+      image_animation_loop="1" 
+      image_animation_phase="0" 
+      image_animation_raytrace_from_center="0" 
+      image_animation_speed="1" 
+      image_animation_use_entity_rotation="0" 
+      is_emitting="1" 
+      is_trail="0" 
+      lifetime_max="1.5" 
+      lifetime_min="0.5" 
+      offset.x="0" 
+      offset.y="0" 
+      particle_single_width="1" 
+      render_back="1" 
+      render_on_grid="1" 
+      render_ultrabright="0" 
+      set_magic_creation="0" 
+      trail_gap="0" 
+      use_material_inventory="0" 
+      velocity_always_away_from_center="0" 
+      x_pos_offset_max="0" 
+      x_pos_offset_min="0" 
+      x_vel_max="0" 
+      x_vel_min="0" 
+      y_pos_offset_max="0" 
+      y_pos_offset_min="0" 
+      y_vel_max="0" 
+      y_vel_min="0" >
+    </ParticleEmitterComponent>
+    <ParticleEmitterComponent 
+      _enabled="1" 
+      airflow_force="1" 
+      airflow_scale="0.05" 
+      airflow_time="0.01" 
+      area_circle_radius.max="250" 
+      area_circle_radius.min="0" 
+      area_circle_sector_degrees="360" 
+      attractor_force="0" 
+      b2_force="0" 
+      collide_with_gas_and_fire="1" 
+      collide_with_grid="1" 
+      color="0" 
+      color_is_based_on_pos="0" 
+      cosmetic_force_create="0" 
+      count_max="25" 
+      count_min="25" 
+      create_real_particles="0" 
+      custom_alpha="-1" 
+      custom_style="NONE" 
+      delay_frames="0" 
+      direction_random_deg="0" 
+      draw_as_long="1" 
+      emission_chance="100" 
+      emission_interval_max_frames="1" 
+      emission_interval_min_frames="1" 
+      emit_cosmetic_particles="1" 
+      emit_only_if_there_is_space="0" 
+      emit_real_particles="0" 
+      emitted_material_name="blood" 
+      emitter_lifetime_frames="-1" 
+      fade_based_on_lifetime="1" 
+      fire_cells_dont_ignite_damagemodel="0" 
+      friction="0" 
+      gravity.x="0" 
+      gravity.y="0" 
+      ignore_transform_updated_msg="0" 
+      image_animation_colors_file="" 
+      image_animation_emission_probability="1" 
+      image_animation_file="" 
+      image_animation_loop="1" 
+      image_animation_phase="0" 
+      image_animation_raytrace_from_center="0" 
+      image_animation_speed="1" 
+      image_animation_use_entity_rotation="0" 
+      is_emitting="1" 
+      is_trail="0" 
+      lifetime_max="1.5" 
+      lifetime_min="0.5" 
+      offset.x="0" 
+      offset.y="0" 
+      particle_single_width="1" 
+      render_back="1" 
+      render_on_grid="1" 
+      render_ultrabright="0" 
+      set_magic_creation="0" 
+      trail_gap="0" 
+      use_material_inventory="0" 
+      velocity_always_away_from_center="0" 
+      x_pos_offset_max="0" 
+      x_pos_offset_min="0" 
+      x_vel_max="0" 
+      x_vel_min="0" 
+      y_pos_offset_max="0" 
+      y_pos_offset_min="0" 
+      y_vel_max="0" 
+      y_vel_min="0" >
+    </ParticleEmitterComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      name="egg_count" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="" >
+    </VariableStorageComponent>
+  </Entity>
+</Entity>

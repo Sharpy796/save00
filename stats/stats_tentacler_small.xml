@@ -1,4 +1,4 @@
-<Stats deaths="134" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="135" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
@@ -41,6 +41,8 @@
     <E key="phantom_c_apotheosis | $damage_melee" value="1" >
     </E>
     <E key="player | " value="2" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>

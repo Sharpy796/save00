@@ -1,4 +1,4 @@
-<Stats deaths="303" kills="289" player_kills="0" player_projectile_count="0" >
+<Stats deaths="315" kills="293" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="22" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="10" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -20,11 +20,13 @@
     </E>
     <E key="gazer_greater_cold | $damage_projectile" value="1" >
     </E>
+    <E key="graham_miner_gasser | $damage_radioactive" value="1" >
+    </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
     <E key="icemage | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="40" >
+    <E key="iceskull | $damage_explosion" value="43" >
     </E>
     <E key="necrobot | $damage_projectile" value="1" >
     </E>
@@ -38,11 +40,11 @@
     </E>
     <E key="player | $damage_explosion" value="10" >
     </E>
-    <E key="player | $damage_fire" value="8" >
+    <E key="player | $damage_fire" value="9" >
     </E>
-    <E key="player | $damage_melee" value="9" >
+    <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="75" >
+    <E key="player | $damage_projectile" value="76" >
     </E>
     <E key="player | $damage_rock_curse" value="29" >
     </E>
@@ -68,7 +70,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="6" >
+    <E key="sniper | $damage_projectile" value="9" >
     </E>
     <E key="tank | $damage_projectile" value="8" >
     </E>
@@ -88,7 +90,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="axeman" value="2" >
+    <E key="axeman" value="3" >
     </E>
     <E key="coldshot" value="38" >
     </E>
@@ -98,7 +100,7 @@
     </E>
     <E key="glue" value="7" >
     </E>
-    <E key="iceskull" value="40" >
+    <E key="iceskull" value="43" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>

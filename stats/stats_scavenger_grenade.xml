@@ -1,30 +1,30 @@
-<Stats deaths="1134" kills="149" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1175" kills="153" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="18" >
+    <E key="NULL | $damage_drowning" value="19" >
     </E>
     <E key="NULL | $damage_electricity" value="61" >
     </E>
-    <E key="NULL | $damage_explosion" value="121" >
+    <E key="NULL | $damage_explosion" value="125" >
     </E>
     <E key="NULL | $damage_fire" value="31" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="58" >
+    <E key="NULL | $damage_physicshit" value="63" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="18" >
+    <E key="NULL | $damage_radioactive" value="19" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="7" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="11" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="14" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -76,6 +76,8 @@
     </E>
     <E key="giant_centipede | worm bite" value="1" >
     </E>
+    <E key="graham_miner_gasser | $damage_radioactive" value="2" >
+    </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
     <E key="icemage2 | $damage_explosion" value="1" >
@@ -87,6 +89,8 @@
     <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="iceskull | $damage_projectile" value="2" >
+    </E>
+    <E key="icicle_king | $damage_explosion" value="1" >
     </E>
     <E key="laser_bot_trail | Luminous Electricity" value="1" >
     </E>
@@ -110,13 +114,13 @@
     </E>
     <E key="player | $damage_explosion" value="118" >
     </E>
-    <E key="player | $damage_fire" value="10" >
+    <E key="player | $damage_fire" value="12" >
     </E>
     <E key="player | $damage_ice" value="15" >
     </E>
-    <E key="player | $damage_melee" value="69" >
+    <E key="player | $damage_melee" value="82" >
     </E>
-    <E key="player | $damage_projectile" value="298" >
+    <E key="player | $damage_projectile" value="303" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -140,7 +144,11 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_leader | $damage_explosion" value="2" >
+    <E key="scavenger_leader | $damage_explosion" value="3" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_undercover | $damage_explosion" value="1" >
     </E>
     <E key="seeker | Etsijä's shock" value="1" >
     </E>
@@ -160,7 +168,7 @@
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="2" >
     </E>
-    <E key="thundermage | $damage_electricity" value="2" >
+    <E key="thundermage | $damage_electricity" value="3" >
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
@@ -196,6 +204,8 @@
     </E>
     <E key="glue" value="1" >
     </E>
+    <E key="hisii_engineer" value="1" >
+    </E>
     <E key="iceskull" value="8" >
     </E>
     <E key="locust_swarm" value="3" >
@@ -210,7 +220,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="90" >
+    <E key="rat" value="92" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -218,7 +228,7 @@
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>
-    <E key="scavenger_smg" value="3" >
+    <E key="scavenger_smg" value="4" >
     </E>
     <E key="scorpion" value="5" >
     </E>
