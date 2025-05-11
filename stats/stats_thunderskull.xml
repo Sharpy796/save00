@@ -1,4 +1,4 @@
-<Stats deaths="166" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="167" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="23" >
+    <E key="NULL | $damage_explosion" value="24" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -90,6 +90,8 @@
   <kill_map>
     <E key="blindgazer" value="1" >
     </E>
+    <E key="cryogen" value="1" >
+    </E>
     <E key="gazer" value="1" >
     </E>
     <E key="miniblob" value="3" >
@@ -100,7 +102,7 @@
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="scorpion" value="3" >
+    <E key="scorpion" value="4" >
     </E>
     <E key="seeker" value="1" >
     </E>

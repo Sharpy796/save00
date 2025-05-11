@@ -1,4 +1,4 @@
-<Stats deaths="41" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="42" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -27,6 +27,8 @@
     <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_projectile" value="10" >
     </E>
@@ -63,6 +65,8 @@
     <E key="physics_torch_stand_blue" value="1" >
     </E>
     <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
     </E>
     <E key="scorpion" value="2" >
     </E>

@@ -1,0 +1,10 @@
+<Stats deaths="3" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="terminator_turret | $damage_explosion" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="terminator_turret" value="3" >
+    </E>
+  </kill_map>
+</Stats>

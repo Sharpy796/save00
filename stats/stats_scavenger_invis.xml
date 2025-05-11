@@ -1,4 +1,4 @@
-<Stats deaths="57" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="58" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="2" >
     </E>

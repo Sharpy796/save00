@@ -1,6 +1,6 @@
-<Stats deaths="1653" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1671" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="91" >
+    <E key="NULL | $damage_drowning" value="92" >
     </E>
     <E key="NULL | $damage_electricity" value="103" >
     </E>
@@ -29,6 +29,8 @@
     <E key="bigzombietorso | $damage_explosion" value="5" >
     </E>
     <E key="black_hole_big_singularitor | " value="1" >
+    </E>
+    <E key="blob | $damage_explosion" value="5" >
     </E>
     <E key="blob | $damage_melee" value="12" >
     </E>
@@ -102,13 +104,13 @@
     </E>
     <E key="player | $damage_explosion" value="100" >
     </E>
-    <E key="player | $damage_fire" value="12" >
+    <E key="player | $damage_fire" value="15" >
     </E>
     <E key="player | $damage_ice" value="37" >
     </E>
-    <E key="player | $damage_melee" value="10" >
+    <E key="player | $damage_melee" value="18" >
     </E>
-    <E key="player | $damage_projectile" value="454" >
+    <E key="player | $damage_projectile" value="455" >
     </E>
     <E key="player | $damage_rock_curse" value="66" >
     </E>
