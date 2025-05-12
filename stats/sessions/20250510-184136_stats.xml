@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="16" damage_taken="31.9605" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="431" gold="4930" gold_all="9015" gold_infinite="0" healed="6.01" heart_containers="0" hp="100" items="142" kicks="433" killed_by="" killed_by_extra="" places_visited="16" playtime="13991.9" playtime_str="3:53:11" projectiles_shot="31156" streaks="0" teleports="1" wands_edited="48" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="16" damage_taken="35.3089" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="438" gold="7447" gold_all="16802" gold_infinite="0" healed="6.01" heart_containers="0" hp="100" items="144" kicks="437" killed_by="" killed_by_extra="" places_visited="16" playtime="21672.8" playtime_str="6:01:12" projectiles_shot="35496" streaks="0" teleports="1" wands_edited="48" world_seed="2044312949" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -36,7 +36,7 @@
     </E>
     <E key="$biome_winter" value="1" >
     </E>
-    <E key="Overgrown Laboratory" value="1" >
+    <E key="Overgrown Laboratory" value="2" >
     </E>
   </biomes_visited>
 </Stats>
