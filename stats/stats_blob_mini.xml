@@ -1,14 +1,14 @@
-<Stats deaths="2471" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2609" kills="23" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="105" >
+    <E key="NULL | $damage_drowning" value="114" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
-    <E key="NULL | $damage_explosion" value="73" >
+    <E key="NULL | $damage_explosion" value="81" >
     </E>
     <E key="NULL | $damage_physicshit" value="102" >
     </E>
-    <E key="NULL | $damage_projectile" value="35" >
+    <E key="NULL | $damage_projectile" value="38" >
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="ice_ball_ray_enemy | $damage_explosion" value="2" >
     </E>
-    <E key="lukki_fungus | hit" value="221" >
+    <E key="lukki_fungus | hit" value="266" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="5" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="player | $damage_explosion" value="140" >
     </E>
-    <E key="player | $damage_fire" value="16" >
+    <E key="player | $damage_fire" value="21" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="94" >
     </E>
-    <E key="player | $damage_projectile" value="540" >
+    <E key="player | $damage_projectile" value="603" >
     </E>
     <E key="player | $damage_rock_curse" value="368" >
     </E>
@@ -65,6 +65,10 @@
     <E key="player | bzzt!" value="58" >
     </E>
     <E key="player | chop!" value="475" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_laser | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="6" >
     </E>
@@ -77,6 +81,10 @@
     <E key="sporeling_large | $damage_explosion" value="2" >
     </E>
     <E key="sporeling_large | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_fire2 | $damage_explosion" value="2" >
+    </E>
+    <E key="tank_fire2 | $damage_fire" value="1" >
     </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
@@ -94,11 +102,11 @@
     </E>
     <E key="bubble_liquid" value="1" >
     </E>
-    <E key="ceiling_fungus_minion" value="4" >
+    <E key="ceiling_fungus_minion" value="5" >
     </E>
     <E key="mudman_friendly" value="1" >
     </E>
-    <E key="poisonmushroom" value="1" >
+    <E key="poisonmushroom" value="2" >
     </E>
     <E key="wand_ghost_charmed" value="3" >
     </E>

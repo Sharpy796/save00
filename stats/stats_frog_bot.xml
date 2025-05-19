@@ -1,10 +1,10 @@
-<Stats deaths="185" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="191" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="30" >
     </E>
     <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="57" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -43,6 +43,8 @@
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
     <E key="singularity | " value="1" >
     </E>
@@ -66,11 +68,13 @@
     </E>
     <E key="rat" value="2" >
     </E>
+    <E key="scavenger_civilian" value="2" >
+    </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>
-    <E key="scavenger_smg" value="1" >
+    <E key="scavenger_smg" value="2" >
     </E>
   </kill_map>
 </Stats>

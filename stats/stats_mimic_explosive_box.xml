@@ -1,4 +1,4 @@
-<Stats deaths="42" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="44" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
@@ -20,6 +20,8 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
+    <E key="drone_face2 | $damage_slice" value="1" >
+    </E>
     <E key="drone_mini | $damage_projectile" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
@@ -30,7 +32,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>

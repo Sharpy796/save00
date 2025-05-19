@@ -1,4 +1,4 @@
-<Stats deaths="8" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="11" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_radioactive" value="3" >
     </E>
@@ -6,7 +6,11 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
     <E key="player | chop!" value="2" >
+    </E>
+    <E key="scavenger_invis | $damage_projectile" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
@@ -14,7 +18,7 @@
   <kill_map>
     <E key="ethereal_being" value="1" >
     </E>
-    <E key="locust_swarm" value="1" >
+    <E key="locust_swarm" value="2" >
     </E>
     <E key="scorpion" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="771" kills="136" player_kills="1" player_projectile_count="0" >
+<Stats deaths="792" kills="137" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="19" >
     </E>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_explosion" value="80" >
     </E>
     <E key="NULL | $damage_fire" value="25" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="53" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | $damage_radioactive" value="9" >
     </E>
@@ -50,9 +50,11 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
+    <E key="frog_bot | $damage_explosion" value="1" >
+    </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
-    <E key="graham_miner_gasser | $damage_radioactive" value="1" >
+    <E key="graham_miner_gasser | $damage_radioactive" value="2" >
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
@@ -64,7 +66,7 @@
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
-    <E key="locust_swarm | Locust bite" value="8" >
+    <E key="locust_swarm | Locust bite" value="11" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
@@ -78,13 +80,13 @@
     </E>
     <E key="player | $damage_explosion" value="77" >
     </E>
-    <E key="player | $damage_fire" value="14" >
+    <E key="player | $damage_fire" value="16" >
     </E>
     <E key="player | $damage_ice" value="6" >
     </E>
     <E key="player | $damage_melee" value="50" >
     </E>
-    <E key="player | $damage_projectile" value="216" >
+    <E key="player | $damage_projectile" value="226" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -102,7 +104,7 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="3" >
     </E>
-    <E key="scavenger_plasma | $damage_projectile" value="1" >
+    <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
@@ -145,6 +147,8 @@
     <E key="electric_bullet" value="1" >
     </E>
     <E key="fish_large" value="3" >
+    </E>
+    <E key="frog_bot" value="1" >
     </E>
     <E key="iceskull" value="8" >
     </E>

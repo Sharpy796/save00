@@ -57,7 +57,7 @@
   </Mod>
   <Mod enabled="1" name="SpicyTP_EUI" settings_fold_open="0" workshop_item_id="2887405712" >
   </Mod>
-  <Mod enabled="1" name="AdvancedSpellInventory" settings_fold_open="1" workshop_item_id="3267869519" >
+  <Mod enabled="1" name="AdvancedSpellInventory" settings_fold_open="0" workshop_item_id="3267869519" >
   </Mod>
   <Mod enabled="1" name="InventoryBags" settings_fold_open="0" workshop_item_id="2496009232" >
   </Mod>
@@ -93,7 +93,7 @@
   </Mod>
   <Mod enabled="1" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
-  <Mod enabled="1" name="Apotheosis" settings_fold_open="0" workshop_item_id="3032128572" >
+  <Mod enabled="1" name="Apotheosis" settings_fold_open="1" workshop_item_id="3032128572" >
   </Mod>
   <Mod enabled="1" name="moldos_arsenal" settings_fold_open="0" workshop_item_id="3358063295" >
   </Mod>

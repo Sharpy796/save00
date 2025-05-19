@@ -1,26 +1,26 @@
-<Stats deaths="391" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="483" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="95" >
+    <E key="NULL | $damage_explosion" value="121" >
     </E>
-    <E key="NULL | $damage_fire" value="37" >
+    <E key="NULL | $damage_fire" value="52" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="10" >
     </E>
-    <E key="NULL | $damage_projectile" value="24" >
+    <E key="NULL | $damage_projectile" value="29" >
     </E>
     <E key="NULL | damage from material: (Chemical Curiosities) Nullium" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="74" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="94" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="28" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="43" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="4" >
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="6" >
     </E>
     <E key="alien | $damage_projectile" value="1" >
     </E>
@@ -41,6 +41,8 @@
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="fairy_big | $damage_projectile" value="2" >
     </E>
     <E key="frog_big | $damage_explosion" value="1" >
     </E>
@@ -66,7 +68,11 @@
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
-    <E key="scavenger_plasma | $damage_projectile" value="4" >
+    <E key="random_spell_chaotic | $damage_physicshit" value="3" >
+    </E>
+    <E key="random_spell_chaotic | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_plasma | $damage_projectile" value="5" >
     </E>
     <E key="shaman | $damage_projectile" value="1" >
     </E>

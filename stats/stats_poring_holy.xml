@@ -1,12 +1,16 @@
-<Stats deaths="79" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="114" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="gazer_cold_apotheosis | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
@@ -14,17 +18,23 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_fire" value="2" >
+    <E key="player | $damage_fire" value="7" >
     </E>
     <E key="player | $damage_ice" value="40" >
     </E>
-    <E key="player | $damage_melee" value="7" >
+    <E key="player | $damage_melee" value="17" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="18" >
     </E>
     <E key="player | $damage_rock_curse" value="7" >
     </E>
     <E key="player | $damage_slice" value="5" >
+    </E>
+    <E key="poring_holy | $damage_explosion" value="1" >
+    </E>
+    <E key="wraith_returner_apotheosis | $damage_fire" value="1" >
+    </E>
+    <E key="wraith_returner_apotheosis | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>
@@ -33,6 +43,12 @@
     <E key="gazer_greater_cold" value="1" >
     </E>
     <E key="iceskull" value="1" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="poring_holy" value="1" >
+    </E>
+    <E key="wizard_weaken" value="1" >
     </E>
   </kill_map>
 </Stats>

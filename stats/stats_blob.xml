@@ -1,12 +1,12 @@
-<Stats deaths="871" kills="81" player_kills="0" player_projectile_count="0" >
+<Stats deaths="905" kills="84" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="16" >
+    <E key="NULL | $damage_drowning" value="17" >
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="138" >
+    <E key="NULL | $damage_explosion" value="151" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="fungus_tiny | $damage_melee" value="3" >
     </E>
-    <E key="lukki_fungus | hit" value="49" >
+    <E key="lukki_fungus | hit" value="56" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="player | $damage_melee" value="32" >
     </E>
-    <E key="player | $damage_projectile" value="220" >
+    <E key="player | $damage_projectile" value="232" >
     </E>
     <E key="player | $damage_rock_curse" value="67" >
     </E>
@@ -71,6 +71,8 @@
     <E key="slimeshooter | $damage_explosion" value="2" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_melee" value="1" >
+    </E>
+    <E key="tank_fire2 | $damage_explosion" value="1" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="2" >
     </E>
@@ -94,11 +96,11 @@
     </E>
     <E key="blob_mini" value="1" >
     </E>
-    <E key="ceiling_fungus_minion" value="3" >
+    <E key="ceiling_fungus_minion" value="4" >
     </E>
     <E key="fish" value="2" >
     </E>
-    <E key="fungus_tiny" value="5" >
+    <E key="fungus_tiny" value="7" >
     </E>
     <E key="longleg" value="1" >
     </E>

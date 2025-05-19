@@ -1,12 +1,14 @@
-<Stats deaths="82" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="96" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="16" >
     </E>
     <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_physicshit" value="12" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
@@ -20,7 +22,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="22" >
+    <E key="player | $damage_projectile" value="33" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
@@ -42,7 +44,7 @@
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>
-    <E key="scavenger_smg" value="1" >
+    <E key="scavenger_smg" value="2" >
     </E>
     <E key="scorpion" value="1" >
     </E>

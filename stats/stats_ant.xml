@@ -1,4 +1,4 @@
-<Stats deaths="66" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="70" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="11" >
+    <E key="NULL | $damage_fire" value="13" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -17,6 +17,8 @@
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="fungus_giga | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_fungus | hit" value="2" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
@@ -60,7 +62,7 @@
     </E>
     <E key="slime_ghoul" value="1" >
     </E>
-    <E key="waterskull" value="1" >
+    <E key="waterskull" value="2" >
     </E>
     <E key="zombie" value="1" >
     </E>

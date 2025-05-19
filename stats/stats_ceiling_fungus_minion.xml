@@ -1,22 +1,24 @@
-<Stats deaths="220" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="225" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="98" >
+    <E key="NULL | $damage_explosion" value="99" >
     </E>
     <E key="NULL | $damage_fire" value="25" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="7" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="beanpodupine | $damage_melee" value="2" >
     </E>
-    <E key="blob | $damage_melee" value="3" >
+    <E key="blob | $damage_melee" value="4" >
     </E>
-    <E key="blob_mini | $damage_melee" value="4" >
+    <E key="blob_mini | $damage_melee" value="5" >
     </E>
     <E key="bluemancer | $damage_projectile" value="2" >
     </E>
     <E key="ceiling_fungus_minion | $damage_melee" value="2" >
+    </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
     <E key="frog_bot | $damage_projectile" value="2" >
     </E>

@@ -1,18 +1,24 @@
-<Stats deaths="315" kills="293" player_kills="0" player_projectile_count="0" >
+<Stats deaths="378" kills="326" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="23" >
+    <E key="NULL | $damage_explosion" value="38" >
     </E>
     <E key="NULL | $damage_physicshit" value="10" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    </E>
+    <E key="curse_strong | $damage_hitfx_curse" value="6" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
@@ -26,9 +32,9 @@
     </E>
     <E key="icemage | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="43" >
+    <E key="iceskull | $damage_explosion" value="58" >
     </E>
-    <E key="necrobot | $damage_projectile" value="1" >
+    <E key="necrobot | $damage_projectile" value="2" >
     </E>
     <E key="phantom_a | $damage_projectile" value="1" >
     </E>
@@ -40,11 +46,11 @@
     </E>
     <E key="player | $damage_explosion" value="10" >
     </E>
-    <E key="player | $damage_fire" value="9" >
+    <E key="player | $damage_fire" value="10" >
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="76" >
+    <E key="player | $damage_projectile" value="96" >
     </E>
     <E key="player | $damage_rock_curse" value="29" >
     </E>
@@ -82,7 +88,11 @@
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>
+    <E key="worm_esoteric | Divine Light" value="1" >
+    </E>
     <E key="wraith_returner_apotheosis | $damage_explosion" value="2" >
+    </E>
+    <E key="wraith_returner_apotheosis | $damage_fire" value="1" >
     </E>
     <E key="wraith_returner_apotheosis | $damage_ice" value="1" >
     </E>
@@ -92,21 +102,21 @@
   <kill_map>
     <E key="axeman" value="3" >
     </E>
-    <E key="coldshot" value="38" >
+    <E key="coldshot" value="45" >
     </E>
-    <E key="coldshot_BoC" value="9" >
+    <E key="coldshot_BoC" value="14" >
     </E>
     <E key="fireskull" value="1" >
     </E>
     <E key="glue" value="7" >
     </E>
-    <E key="iceskull" value="43" >
+    <E key="iceskull" value="58" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
-    <E key="pebble_physics" value="1" >
+    <E key="pebble_physics" value="2" >
     </E>
-    <E key="physics_torch_stand" value="1" >
+    <E key="physics_torch_stand" value="2" >
     </E>
     <E key="player_ai_hitbox" value="1" >
     </E>
@@ -128,7 +138,7 @@
     </E>
     <E key="shotgunner" value="12" >
     </E>
-    <E key="skycrystal_physics" value="3" >
+    <E key="skycrystal_physics" value="4" >
     </E>
     <E key="slimeshooter" value="4" >
     </E>
@@ -146,7 +156,7 @@
     </E>
     <E key="worm_tiny" value="2" >
     </E>
-    <E key="wraith_returner_apotheosis" value="1" >
+    <E key="wraith_returner_apotheosis" value="4" >
     </E>
   </kill_map>
 </Stats>

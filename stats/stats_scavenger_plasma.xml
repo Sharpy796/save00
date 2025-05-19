@@ -1,4 +1,4 @@
-<Stats deaths="42" kills="25" player_kills="0" player_projectile_count="0" >
+<Stats deaths="45" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -20,17 +20,21 @@
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
+    <E key="laser_bot_trail | Luminous Electricity" value="1" >
+    </E>
     <E key="locust_swarm | Locust bite" value="1" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
     <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_projectile" value="11" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
@@ -66,11 +70,11 @@
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>
-    <E key="scavenger_smg" value="1" >
+    <E key="scavenger_smg" value="2" >
     </E>
     <E key="scorpion" value="2" >
     </E>
-    <E key="sporeling_tiny" value="4" >
+    <E key="sporeling_tiny" value="5" >
     </E>
   </kill_map>
 </Stats>
