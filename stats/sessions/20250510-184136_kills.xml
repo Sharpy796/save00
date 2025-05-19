@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1277" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1307" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -50,6 +50,8 @@
     </E>
     <E key="cryogen" value="1" >
     </E>
+    <E key="cyborg" value="1" >
+    </E>
     <E key="devourer_magic" value="4" >
     </E>
     <E key="dripper" value="2" >
@@ -91,6 +93,8 @@
     <E key="flutterpede" value="1" >
     </E>
     <E key="fly" value="1" >
+    </E>
+    <E key="forest_monolith" value="1" >
     </E>
     <E key="forsaken_eye" value="24" >
     </E>
@@ -137,6 +141,8 @@
     <E key="hideous_mass" value="1" >
     </E>
     <E key="hisii_engineer" value="2" >
+    </E>
+    <E key="hisii_hobo" value="5" >
     </E>
     <E key="hybrid" value="1" >
     </E>
@@ -192,7 +198,7 @@
     </E>
     <E key="mimic_perk_twwe" value="1" >
     </E>
-    <E key="miner" value="9" >
+    <E key="miner" value="16" >
     </E>
     <E key="miner_fire" value="1" >
     </E>
@@ -222,7 +228,7 @@
     </E>
     <E key="plant_boss" value="6" >
     </E>
-    <E key="player_evil" value="2" >
+    <E key="player_evil" value="3" >
     </E>
     <E key="poisonmushroom" value="2" >
     </E>
@@ -244,7 +250,9 @@
     </E>
     <E key="radiobot" value="1" >
     </E>
-    <E key="rat" value="7" >
+    <E key="rat" value="8" >
+    </E>
+    <E key="roboguard" value="1" >
     </E>
     <E key="scavenger_alcohol" value="2" >
     </E>
@@ -266,7 +274,7 @@
     </E>
     <E key="scavenger_leader" value="10" >
     </E>
-    <E key="scavenger_oiler" value="6" >
+    <E key="scavenger_oiler" value="7" >
     </E>
     <E key="scavenger_plasma" value="3" >
     </E>
@@ -326,7 +334,7 @@
     </E>
     <E key="summoner" value="3" >
     </E>
-    <E key="swamp_boil" value="1" >
+    <E key="swamp_boil" value="2" >
     </E>
     <E key="tank" value="5" >
     </E>
@@ -360,6 +368,10 @@
     </E>
     <E key="valkyrie" value="43" >
     </E>
+    <E key="wandedit_crystal" value="1" >
+    </E>
+    <E key="waterskull" value="2" >
+    </E>
     <E key="welder" value="1" >
     </E>
     <E key="whisp" value="14" >
@@ -384,7 +396,7 @@
     </E>
     <E key="yoyoer" value="5" >
     </E>
-    <E key="zombie" value="1" >
+    <E key="zombie" value="9" >
     </E>
     <E key="zombie_weak" value="7" >
     </E>
