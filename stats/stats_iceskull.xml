@@ -1,4 +1,4 @@
-<Stats deaths="266" kills="288" player_kills="0" player_projectile_count="0" >
+<Stats deaths="275" kills="296" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
     <E key="NULL | $damage_physicshit" value="12" >
     </E>
@@ -20,9 +20,9 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="icemage | $damage_explosion" value="2" >
+    <E key="icemage | $damage_explosion" value="5" >
     </E>
-    <E key="iceskull | $damage_explosion" value="38" >
+    <E key="iceskull | $damage_explosion" value="42" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="10" >
+    <E key="shotgunner | $damage_projectile" value="11" >
     </E>
     <E key="sniper | $damage_explosion" value="3" >
     </E>
@@ -86,9 +86,9 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="glue" value="20" >
+    <E key="glue" value="21" >
     </E>
-    <E key="iceskull" value="39" >
+    <E key="iceskull" value="43" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -98,9 +98,9 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="108" >
+    <E key="rat" value="109" >
     </E>
-    <E key="scavenger_glue" value="8" >
+    <E key="scavenger_glue" value="10" >
     </E>
     <E key="scavenger_grenade" value="10" >
     </E>

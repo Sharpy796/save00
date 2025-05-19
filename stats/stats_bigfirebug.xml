@@ -1,4 +1,4 @@
-<Stats deaths="103" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="109" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="1" >
     </E>
-    <E key="NULL | damage from material: Water" value="8" >
+    <E key="NULL | damage from material: Water" value="11" >
     </E>
     <E key="NULL | damage from material: swamp" value="1" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="4" >
+    <E key="player_rng_items | $damage_projectile" value="7" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
@@ -54,7 +54,7 @@
     </E>
     <E key="miner" value="2" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="9" >
     </E>
     <E key="scavenger_mine" value="1" >
     </E>

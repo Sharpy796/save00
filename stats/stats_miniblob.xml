@@ -1,10 +1,10 @@
-<Stats deaths="1027" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1033" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="56" >
     </E>
     <E key="NULL | $damage_electricity" value="191" >
     </E>
-    <E key="NULL | $damage_explosion" value="127" >
+    <E key="NULL | $damage_explosion" value="129" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -90,11 +90,13 @@
     </E>
     <E key="sniper | $damage_melee" value="6" >
     </E>
-    <E key="sniper | $damage_projectile" value="3" >
+    <E key="sniper | $damage_projectile" value="5" >
     </E>
     <E key="spearbot | $damage_holy" value="1" >
     </E>
     <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="2" >
     </E>
     <E key="thundermage | $damage_electricity" value="2" >
     </E>
@@ -142,7 +144,7 @@
     </E>
     <E key="sheep" value="1" >
     </E>
-    <E key="zombie" value="5" >
+    <E key="zombie" value="6" >
     </E>
   </kill_map>
 </Stats>

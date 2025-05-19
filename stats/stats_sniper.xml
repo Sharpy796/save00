@@ -1,4 +1,4 @@
-<Stats deaths="291" kills="271" player_kills="0" player_projectile_count="0" >
+<Stats deaths="297" kills="282" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -10,9 +10,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="45" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="22" >
     </E>
     <E key="NULL | $damage_physicshit" value="24" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -22,7 +24,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="5" >
+    <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="7" >
     </E>
@@ -64,7 +66,7 @@
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="4" >
+    <E key="player_rng_items | $damage_projectile" value="6" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
@@ -90,6 +92,8 @@
     </E>
     <E key="fish" value="11" >
     </E>
+    <E key="fish_large" value="2" >
+    </E>
     <E key="giant" value="1" >
     </E>
     <E key="iceskull" value="14" >
@@ -98,21 +102,21 @@
     </E>
     <E key="miner" value="1" >
     </E>
-    <E key="miniblob" value="10" >
+    <E key="miniblob" value="12" >
     </E>
     <E key="pebble_physics" value="1" >
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="134" >
+    <E key="rat" value="138" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
     <E key="scavenger_grenade" value="8" >
     </E>
-    <E key="scavenger_smg" value="3" >
+    <E key="scavenger_smg" value="4" >
     </E>
-    <E key="shotgunner" value="8" >
+    <E key="shotgunner" value="9" >
     </E>
     <E key="slimeshooter" value="24" >
     </E>
@@ -120,7 +124,7 @@
     </E>
     <E key="tank" value="1" >
     </E>
-    <E key="tentacler_small" value="2" >
+    <E key="tentacler_small" value="3" >
     </E>
     <E key="thundermage" value="1" >
     </E>

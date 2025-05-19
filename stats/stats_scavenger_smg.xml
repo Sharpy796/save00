@@ -1,4 +1,4 @@
-<Stats deaths="748" kills="176" player_kills="2" player_projectile_count="0" >
+<Stats deaths="758" kills="182" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="92" >
+    <E key="NULL | $damage_explosion" value="93" >
     </E>
     <E key="NULL | $damage_fire" value="27" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="51" >
+    <E key="NULL | damage from material: freezing vapour" value="52" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
@@ -88,9 +88,13 @@
     </E>
     <E key="player | chop!" value="3" >
     </E>
+    <E key="player_rng_items | $damage_drill" value="1" >
+    </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="18" >
+    <E key="player_rng_items | $damage_ice" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="22" >
     </E>
     <E key="rat | $damage_melee" value="2" >
     </E>
@@ -108,7 +112,7 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="3" >
+    <E key="sniper | $damage_projectile" value="4" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="1" >
     </E>
@@ -146,7 +150,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="141" >
+    <E key="rat" value="147" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
