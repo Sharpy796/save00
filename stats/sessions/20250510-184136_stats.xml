@@ -1,18 +1,26 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="16" damage_taken="35.3089" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="438" gold="7447" gold_all="16802" gold_infinite="0" healed="6.01" heart_containers="0" hp="100" items="144" kicks="437" killed_by="" killed_by_extra="" places_visited="16" playtime="21672.8" playtime_str="6:01:12" projectiles_shot="35496" streaks="0" teleports="1" wands_edited="48" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="22" damage_taken="35.3089" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="440" gold="263936" gold_all="273291" gold_infinite="0" healed="6.01" heart_containers="0" hp="100" items="151" kicks="452" killed_by="" killed_by_extra="" places_visited="22" playtime="23286" playtime_str="6:28:05" projectiles_shot="49604" streaks="0" teleports="1" wands_edited="48" world_seed="2044312949" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
   <item_map>
   </item_map>
   <biomes_visited>
+    <E key="$biome_barren" value="1" >
+    </E>
+    <E key="$biome_boss_sky" value="1" >
+    </E>
     <E key="$biome_coalmine" value="1" >
     </E>
     <E key="$biome_coalmine_alt" value="1" >
     </E>
+    <E key="$biome_darkness" value="1" >
+    </E>
     <E key="$biome_desert" value="1" >
     </E>
     <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
     </E>
     <E key="$biome_holymountain" value="1" >
     </E>
@@ -21,6 +29,8 @@
     <E key="$biome_liquidcave" value="1" >
     </E>
     <E key="$biome_orbroom" value="1" >
+    </E>
+    <E key="$biome_potion_mimics" value="1" >
     </E>
     <E key="$biome_pyramid" value="1" >
     </E>
@@ -35,6 +45,8 @@
     <E key="$biome_watchtower" value="1" >
     </E>
     <E key="$biome_winter" value="1" >
+    </E>
+    <E key="???" value="1" >
     </E>
     <E key="Overgrown Laboratory" value="2" >
     </E>

@@ -113,9 +113,9 @@
   </Mod>
   <Mod enabled="1" name="twitch_extended" settings_fold_open="0" workshop_item_id="2258441901" >
   </Mod>
-  <Mod enabled="1" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
@@ -128,5 +128,7 @@
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
   </Mod>
   <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
+  </Mod>
+  <Mod enabled="0" name="deep_end" settings_fold_open="0" workshop_item_id="3356681136" >
   </Mod>
 </Mods>
