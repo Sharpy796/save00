@@ -93,7 +93,7 @@
   </Mod>
   <Mod enabled="1" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
-  <Mod enabled="1" name="Apotheosis" settings_fold_open="1" workshop_item_id="3032128572" >
+  <Mod enabled="1" name="Apotheosis" settings_fold_open="0" workshop_item_id="3032128572" >
   </Mod>
   <Mod enabled="1" name="moldos_arsenal" settings_fold_open="0" workshop_item_id="3358063295" >
   </Mod>
@@ -113,11 +113,11 @@
   </Mod>
   <Mod enabled="1" name="twitch_extended" settings_fold_open="0" workshop_item_id="2258441901" >
   </Mod>
-  <Mod enabled="0" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
+  <Mod enabled="1" name="identify" settings_fold_open="1" workshop_item_id="3147836844" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>

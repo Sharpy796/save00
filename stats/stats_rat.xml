@@ -1,4 +1,4 @@
-<Stats deaths="1987" kills="48" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1990" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -188,7 +188,7 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="159" >
+    <E key="player | $damage_projectile" value="161" >
     </E>
     <E key="player | $damage_rock_curse" value="9" >
     </E>
@@ -309,6 +309,8 @@
     <E key="watermage | $damage_melee" value="5" >
     </E>
     <E key="watermage | $damage_projectile" value="9" >
+    </E>
+    <E key="waterskull | $damage_melee" value="1" >
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="2" >
     </E>

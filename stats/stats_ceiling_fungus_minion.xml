@@ -1,6 +1,6 @@
-<Stats deaths="225" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="236" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="99" >
+    <E key="NULL | $damage_explosion" value="106" >
     </E>
     <E key="NULL | $damage_fire" value="25" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="beanpodupine | $damage_melee" value="2" >
     </E>
-    <E key="blob | $damage_melee" value="4" >
+    <E key="blob | $damage_melee" value="5" >
     </E>
     <E key="blob_mini | $damage_melee" value="5" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="invisiman | $damage_slice" value="5" >
     </E>
-    <E key="miniblob | $damage_melee" value="3" >
+    <E key="miniblob | $damage_melee" value="4" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="35" >
+    <E key="player | $damage_projectile" value="37" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>

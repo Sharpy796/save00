@@ -1,4 +1,4 @@
-<Stats deaths="16" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -10,19 +10,21 @@
     </E>
     <E key="player | $damage_projectile" value="6" >
     </E>
-    <E key="player | $damage_rock_curse" value="2" >
+    <E key="player | $damage_rock_curse" value="4" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="worm_creepy | worm bite" value="1" >
+    <E key="worm | worm bite" value="1" >
     </E>
-    <E key="worm_pale | worm bite" value="1" >
+    <E key="worm_creepy | worm bite" value="2" >
+    </E>
+    <E key="worm_pale | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
-    <E key="bloodball" value="11" >
+    <E key="bloodball" value="16" >
     </E>
   </kill_map>
 </Stats>
