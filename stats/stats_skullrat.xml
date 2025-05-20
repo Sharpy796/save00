@@ -1,16 +1,16 @@
-<Stats deaths="66" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="86" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="4" >
+    <E key="NULL | $damage_fire" value="5" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="6" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="black_hole_big | " value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
     <E key="failed_alchemist | $damage_melee" value="1" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="23" >
+    <E key="player | $damage_projectile" value="39" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -46,17 +46,19 @@
     </E>
     <E key="blob" value="1" >
     </E>
-    <E key="bubble_liquid" value="1" >
+    <E key="bubble_liquid" value="2" >
     </E>
     <E key="locust_swarm" value="6" >
     </E>
     <E key="miniblob" value="3" >
     </E>
-    <E key="scorpion" value="7" >
+    <E key="scorpion" value="8" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>
     <E key="whisp" value="1" >
+    </E>
+    <E key="wizard_manaeater" value="1" >
     </E>
   </kill_map>
 </Stats>

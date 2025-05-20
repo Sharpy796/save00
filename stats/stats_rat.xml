@@ -1,10 +1,10 @@
-<Stats deaths="1990" kills="48" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2013" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="53" >
+    <E key="NULL | $damage_drowning" value="54" >
     </E>
     <E key="NULL | $damage_electricity" value="24" >
     </E>
@@ -72,11 +72,15 @@
     </E>
     <E key="boss_dragon | $damage_projectile" value="1" >
     </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="5" >
+    </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
     <E key="drone_physics | $damage_projectile" value="3" >
     </E>
     <E key="eel | worm bite" value="5" >
+    </E>
+    <E key="electrolukki | zap!" value="1" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
@@ -126,11 +130,13 @@
     </E>
     <E key="icemage2 | $damage_explosion" value="1" >
     </E>
+    <E key="icemage_big | $damage_projectile" value="1" >
+    </E>
     <E key="icemage_big2 | $damage_explosion" value="1" >
     </E>
     <E key="iceskull | $damage_explosion" value="10" >
     </E>
-    <E key="iceskull | $damage_ice" value="48" >
+    <E key="iceskull | $damage_ice" value="50" >
     </E>
     <E key="iceskull | $damage_melee" value="20" >
     </E>
@@ -166,7 +172,7 @@
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
-    <E key="monk | $damage_projectile" value="6" >
+    <E key="monk | $damage_projectile" value="9" >
     </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
@@ -188,9 +194,9 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="161" >
+    <E key="player | $damage_projectile" value="167" >
     </E>
-    <E key="player | $damage_rock_curse" value="9" >
+    <E key="player | $damage_rock_curse" value="12" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -228,7 +234,7 @@
     </E>
     <E key="scavenger_smg | $damage_melee" value="21" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="41" >
+    <E key="scavenger_smg | $damage_projectile" value="42" >
     </E>
     <E key="scavenger_trigger | $damage_projectile" value="3" >
     </E>

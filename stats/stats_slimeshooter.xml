@@ -1,4 +1,4 @@
-<Stats deaths="294" kills="99" player_kills="1" player_projectile_count="0" >
+<Stats deaths="361" kills="103" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,11 +8,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="74" >
+    <E key="NULL | $damage_explosion" value="108" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
@@ -24,7 +28,7 @@
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>
-    <E key="boss_toxic_worm_minion | worm bite" value="2" >
+    <E key="boss_toxic_worm_minion | worm bite" value="13" >
     </E>
     <E key="drone_physics | $damage_projectile" value="1" >
     </E>
@@ -52,9 +56,11 @@
     </E>
     <E key="player | $damage_fire" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="78" >
+    <E key="player | $damage_projectile" value="86" >
     </E>
-    <E key="player | $damage_slice" value="17" >
+    <E key="player | $damage_rock_curse" value="10" >
+    </E>
+    <E key="player | $damage_slice" value="18" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
@@ -90,6 +96,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshot" value="4" >
+    </E>
     <E key="alchemist" value="1" >
     </E>
     <E key="ant" value="1" >

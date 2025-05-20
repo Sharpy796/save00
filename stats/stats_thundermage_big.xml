@@ -1,10 +1,12 @@
-<Stats deaths="7" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $status_apotheosis_hex_blood_name" value="1" >
     </E>
     <E key="NULL | damage from material: (Apotheosis) Infectious Blood" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="4" >
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+    <E key="wizard_corrupt_neutral | $damage_projectile" value="1" >
     </E>
     <E key="worm_esoteric | Divine Light" value="1" >
     </E>
@@ -12,11 +14,15 @@
   <kill_map>
     <E key="miniblob" value="8" >
     </E>
+    <E key="physics_torch_stand_blue" value="1" >
+    </E>
     <E key="scavenger_grenade" value="6" >
     </E>
     <E key="scavenger_leader" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="seeker" value="2" >
     </E>

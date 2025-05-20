@@ -1,4 +1,4 @@
-<Stats deaths="16" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="19" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="cargobot | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_projectile" value="6" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -22,7 +22,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="scorpion" value="1" >
+    <E key="scorpion" value="2" >
     </E>
   </kill_map>
 </Stats>

@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="27" damage_taken="1055.24" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="2386" gold="57386" gold_all="573156" gold_infinite="0" healed="402.06" heart_containers="0" hp="100" items="293" kicks="806" killed_by="" killed_by_extra="" places_visited="27" playtime="37874.4" playtime_str="10:31:14" projectiles_shot="112700" streaks="0" teleports="1" wands_edited="83" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="38" damage_taken="1550.67" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3149" gold="70463" gold_all="695083" gold_infinite="0" healed="730.2" heart_containers="0" hp="100" items="365" kicks="889" killed_by="" killed_by_extra="" places_visited="38" playtime="41997.2" playtime_str="11:39:57" projectiles_shot="134871" streaks="0" teleports="1" wands_edited="93" world_seed="2044312949" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
@@ -10,7 +10,11 @@
     </E>
     <E key="$biome_barren" value="1" >
     </E>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
     <E key="$biome_boss_sky" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
     </E>
     <E key="$biome_coalmine" value="1" >
     </E>
@@ -20,7 +24,13 @@
     </E>
     <E key="$biome_desert" value="1" >
     </E>
+    <E key="$biome_desert_pit" value="1" >
+    </E>
+    <E key="$biome_evil_temple" value="1" >
+    </E>
     <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_ghost_secret" value="1" >
     </E>
     <E key="$biome_gold" value="1" >
     </E>
@@ -40,11 +50,19 @@
     </E>
     <E key="$biome_secret_lab" value="1" >
     </E>
+    <E key="$biome_slime_hell" value="1" >
+    </E>
+    <E key="$biome_slime_hell_outpost" value="1" >
+    </E>
     <E key="$biome_snowcastle" value="1" >
     </E>
     <E key="$biome_snowcave" value="1" >
     </E>
+    <E key="$biome_toxic_worm_cave" value="1" >
+    </E>
     <E key="$biome_vault_frozen" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
     </E>
     <E key="$biome_watchtower" value="1" >
     </E>
@@ -54,7 +72,11 @@
     </E>
     <E key="Floating Mountain" value="1" >
     </E>
-    <E key="Overgrown Laboratory" value="3" >
+    <E key="Holy Temple" value="1" >
+    </E>
+    <E key="Magic Conduit" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="4" >
     </E>
     <E key="Underground Swamp" value="4" >
     </E>

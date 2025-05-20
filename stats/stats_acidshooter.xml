@@ -1,10 +1,10 @@
-<Stats deaths="209" kills="22" player_kills="0" player_projectile_count="0" >
+<Stats deaths="259" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
     <E key="NULL | $damage_fire" value="12" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
-    <E key="boss_toxic_worm_minion | worm bite" value="4" >
+    <E key="boss_toxic_worm_minion | worm bite" value="19" >
     </E>
     <E key="cargobot | $damage_explosion" value="2" >
     </E>
@@ -48,9 +48,9 @@
     </E>
     <E key="player | $damage_melee" value="21" >
     </E>
-    <E key="player | $damage_projectile" value="63" >
+    <E key="player | $damage_projectile" value="78" >
     </E>
-    <E key="player | $damage_rock_curse" value="2" >
+    <E key="player | $damage_rock_curse" value="17" >
     </E>
     <E key="player | $damage_slice" value="11" >
     </E>

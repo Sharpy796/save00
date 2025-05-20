@@ -1,4 +1,4 @@
-<Stats deaths="15" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="31" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="2" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="cargobot | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="5" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -18,6 +18,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
     <E key="bigzombie" value="1" >
     </E>
     <E key="bubble_liquid" value="2" >

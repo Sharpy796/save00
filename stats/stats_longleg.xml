@@ -1,4 +1,4 @@
-<Stats deaths="1170" kills="28" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1187" kills="28" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="57" >
     </E>
-    <E key="NULL | $damage_electricity" value="7" >
+    <E key="NULL | $damage_electricity" value="8" >
     </E>
     <E key="NULL | $damage_explosion" value="80" >
     </E>
-    <E key="NULL | $damage_fire" value="164" >
+    <E key="NULL | $damage_fire" value="170" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
@@ -46,7 +46,9 @@
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="enlightened_alchemist | $damage_explosion" value="1" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="5" >
     </E>
     <E key="enlightened_alchemist | $damage_fire" value="1" >
     </E>
@@ -79,6 +81,8 @@
     <E key="maggot | $damage_explosion" value="4" >
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
+    </E>
+    <E key="mimic_physics | $damage_projectile" value="1" >
     </E>
     <E key="miner_weak | $damage_explosion" value="6" >
     </E>
@@ -138,7 +142,7 @@
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>
-    <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
+    <E key="wizard_corrupt_wands | $damage_projectile" value="5" >
     </E>
     <E key="worm | worm bite" value="13" >
     </E>

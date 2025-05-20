@@ -1,4 +1,4 @@
-<Stats deaths="5" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="7" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -8,6 +8,8 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
   </death_map>
@@ -16,7 +18,7 @@
     </E>
     <E key="locust_swarm" value="1" >
     </E>
-    <E key="scorpion" value="2" >
+    <E key="scorpion" value="3" >
     </E>
   </kill_map>
 </Stats>
