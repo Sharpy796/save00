@@ -1,4 +1,4 @@
-<Stats deaths="797" kills="138" player_kills="1" player_projectile_count="0" >
+<Stats deaths="800" kills="138" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -41,6 +41,8 @@
     <E key="cargobot | $damage_projectile" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="electrolukki_big | $damage_electricity" value="1" >
     </E>
@@ -88,7 +90,7 @@
     </E>
     <E key="player | $damage_projectile" value="228" >
     </E>
-    <E key="player | $damage_rock_curse" value="5" >
+    <E key="player | $damage_rock_curse" value="7" >
     </E>
     <E key="player | $damage_slice" value="19" >
     </E>

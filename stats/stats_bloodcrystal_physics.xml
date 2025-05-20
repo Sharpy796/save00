@@ -1,12 +1,12 @@
-<Stats deaths="54" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="56" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
-    <E key="NULL | physics body damaged" value="24" >
+    <E key="NULL | physics body damaged" value="25" >
     </E>
     <E key="maggot_tiny | worm bite" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="26" >
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>

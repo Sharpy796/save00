@@ -1,4 +1,4 @@
-<Stats deaths="49" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="50" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -27,6 +27,8 @@
     <E key="player | $damage_slice" value="3" >
     </E>
     <E key="player | chop!" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="603" kills="175" player_kills="3" player_projectile_count="0" >
+<Stats deaths="604" kills="175" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -43,6 +43,8 @@
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
     <E key="commander | $damage_explosion" value="2" >
+    </E>
+    <E key="drone_lasership | $damage_explosion" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="4" >
     </E>

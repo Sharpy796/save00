@@ -1,4 +1,4 @@
-<Stats deaths="353" kills="79" player_kills="0" player_projectile_count="0" >
+<Stats deaths="353" kills="80" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="frog_bot" value="2" >
     </E>
-    <E key="goblin_bomb" value="1" >
+    <E key="goblin_bomb" value="2" >
     </E>
     <E key="miner" value="9" >
     </E>

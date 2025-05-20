@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="33.1863" 
-    clouds_02_target="35.0638" 
+    clouds_01_target="23.1203" 
+    clouds_02_target="12.4747" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
@@ -44,7 +44,7 @@
     perk_infinite_spells="1" 
     perk_rats_player_friendly="0" 
     perk_trick_kills_blood_money="0" 
-    player_did_damage_over_1milj="0" 
+    player_did_damage_over_1milj="22" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="3" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250510-184136" 
     sky_sunset_alpha_target="1" 
-    time="0.473636" 
+    time="0.509053" 
     time_dt="1" 
-    time_total="64.7409" 
+    time_total="67.8582" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="0.0039028" 
-    wind_speed="0.234169" 
+    wind="0.161829" 
+    wind_speed="9.70977" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -96,6 +96,10 @@
       <E 
         key="ACTION_ALPHA" 
         value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_ALT_FIRE_COV" 
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_AQUA_MINE" 
@@ -156,6 +160,10 @@
       <E 
         key="ACTION_APOTHEOSIS_ICEBALL_RAY_ENEMY" 
         value="data/entities/projectiles/deck/material_acid.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_KAPPA" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_KINDNESS_TO_POWER" 
@@ -219,7 +227,7 @@
       </E>
       <E 
         key="ACTION_APOTHEOSIS_RANDOM_BURST" 
-        value="mods/grahamsperks/files/spells/infernal_glare_beam.xml" >
+        value="data/entities/projectiles/deck/luminous_drill.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_RANDOM_HOMING" 
@@ -235,7 +243,7 @@
       </E>
       <E 
         key="ACTION_APOTHEOSIS_SHAPE_WALL" 
-        value="data/entities/projectiles/deck/bouncy_orb.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_STAR_SHOT" 
@@ -263,7 +271,7 @@
       </E>
       <E 
         key="ACTION_AREA_DAMAGE" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_ARROW" 
@@ -292,6 +300,10 @@
       <E 
         key="ACTION_BLOODLUST" 
         value="mods/boss_reworks/files/spells/reward_dragon.xml" >
+      </E>
+      <E 
+        key="ACTION_BLOOD_MAGIC" 
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_BLOOD_TO_ACID" 
@@ -342,12 +354,16 @@
         value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
+        key="ACTION_BR_REWARD_MASTER" 
+        value="mods/boss_reworks/files/spells/reward_master.xml" >
+      </E>
+      <E 
         key="ACTION_BR_REWARD_ROBOT" 
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_BR_SHORTTELETRIGGER" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_BR_WARPTELEDEATHTRIGGER" 
@@ -367,15 +383,15 @@
       </E>
       <E 
         key="ACTION_BURST_2" 
-        value="data/entities/projectiles/deck/black_hole.xml" >
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
       </E>
       <E 
         key="ACTION_BURST_3" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_BURST_4" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_BURST_X" 
@@ -459,7 +475,7 @@
       </E>
       <E 
         key="ACTION_COPITH_ANCHORED_SHOT" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_COPITH_ARCANUM_AEGIS" 
@@ -511,7 +527,7 @@
       </E>
       <E 
         key="ACTION_COPITH_CLAIRVOYANCE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_COPITH_COLD_HEARTED" 
@@ -587,7 +603,7 @@
       </E>
       <E 
         key="ACTION_COPITH_GATE_MANA" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_COPITH_GILDED_AXE" 
@@ -675,7 +691,7 @@
       </E>
       <E 
         key="ACTION_COPITH_LINK_SHOT" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_COPITH_LIQUID_EATER" 
@@ -695,7 +711,7 @@
       </E>
       <E 
         key="ACTION_COPITH_MANA_DELTA" 
-        value="data/entities/projectiles/deck/grenade.xml" >
+        value="data/entities/projectiles/deck/material_water.xml" >
       </E>
       <E 
         key="ACTION_COPITH_MANA_EFFICENCY" 
@@ -703,7 +719,7 @@
       </E>
       <E 
         key="ACTION_COPITH_MANA_ENGINE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_COPITH_MANA_RANDOM" 
@@ -747,7 +763,7 @@
       </E>
       <E 
         key="ACTION_COPITH_RECHARGE_ENGINE" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_COPITH_REDIRECT_THIS" 
@@ -847,7 +863,7 @@
       </E>
       <E 
         key="ACTION_COPITH_ULT_PROTECTION" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_COPITH_VACUUM_CLAW" 
@@ -923,7 +939,7 @@
       </E>
       <E 
         key="ACTION_DIVIDE_4" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
       </E>
       <E 
         key="ACTION_DRAW_RANDOM" 
@@ -1111,7 +1127,7 @@
       </E>
       <E 
         key="ACTION_GRAHAM_GRAB_BAG" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_GUARDIAN_SHOT" 
@@ -1136,6 +1152,10 @@
       <E 
         key="ACTION_GRAHAM_ORBIT_BLUE" 
         value="mods/Apotheosis/files/entities/projectiles/deck/field_support.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_PASSIVES" 
+        value="data/entities/projectiles/deck/material_water.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_RAINBOW" 
@@ -1199,7 +1219,7 @@
       </E>
       <E 
         key="ACTION_HEAVY_SHOT" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_HEAVY_SPREAD" 
@@ -1219,7 +1239,7 @@
       </E>
       <E 
         key="ACTION_HITFX_CRITICAL_WATER" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_HITFX_EXPLOSION_ALCOHOL" 
@@ -1243,7 +1263,7 @@
       </E>
       <E 
         key="ACTION_HOMING" 
-        value="data/entities/projectiles/deck/material_acid.xml" >
+        value="data/entities/projectiles/deck/material_water.xml" >
       </E>
       <E 
         key="ACTION_HOMING_ACCELERATING" 
@@ -1275,7 +1295,7 @@
       </E>
       <E 
         key="ACTION_HORIZONTAL_ARC" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_IF_ELSE" 
@@ -1343,7 +1363,7 @@
       </E>
       <E 
         key="ACTION_LIGHT" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_LIGHT_BULLET" 
@@ -1354,8 +1374,12 @@
         value="data/entities/projectiles/darkflame.xml" >
       </E>
       <E 
+        key="ACTION_LUMINOUS_DRILL" 
+        value="data/entities/projectiles/deck/luminous_drill.xml" >
+      </E>
+      <E 
         key="ACTION_MANA_REDUCE" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_MATERIAL_ACID" 
@@ -1403,7 +1427,7 @@
       </E>
       <E 
         key="ACTION_MOLDOS_REAPING_SHOT" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_REAP_FROM_FIRE" 
@@ -1427,7 +1451,7 @@
       </E>
       <E 
         key="ACTION_MOLDOS_SNIPER_BEAM" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_SOULDOS" 
@@ -1463,7 +1487,7 @@
       </E>
       <E 
         key="ACTION_NOLLA" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_NUKE" 
@@ -1487,7 +1511,7 @@
       </E>
       <E 
         key="ACTION_PHASING_ARC" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
+        value="data/entities/projectiles/deck/material_water.xml" >
       </E>
       <E 
         key="ACTION_PIERCING_SHOT" 
@@ -1527,7 +1551,7 @@
       </E>
       <E 
         key="ACTION_RESET" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_ROCKET_DOWNWARDS" 
@@ -1646,6 +1670,10 @@
         value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
       </E>
       <E 
+        key="ACTION_SPELLBOUND_SLOW_PROJECTILES" 
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
+      </E>
+      <E 
         key="ACTION_SPELLBOUND_STICKY_BOMB_TRIGGER" 
         value="data/entities/projectiles/deck/electrocution_field.xml" >
       </E>
@@ -1699,7 +1727,7 @@
       </E>
       <E 
         key="ACTION_TAU" 
-        value="data/entities/items/pickup/jar_of_urine.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_TELEPORT_PROJECTILE_SHORT" 
@@ -1767,7 +1795,7 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="1;ACIDSHOT;-1|2;COPITH_GRAPPLING_HOOK;-1|1;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|4;BLACK_HOLE;3|1;MIST_BLOOD;-1|1;APOTHEOSIS_ELECTROSPHERE;-1|1;BOMB;-1|1;APOTHEOSIS_RUBBER_BALL_TRIGGER;-1|3;RUBBER_BALL;-1|5;GRAHAM_BRAMBALL;-1|1;GRAHAM_BRAMBALL_TRIGGER;-1|1;BUBBLESHOT;-1|1;COPITH_CAUSTIC_CLAW;-1|5;CHAINSAW;-1|2;COPITH_CHAOS_SPRITES;-1|2;GRAHAM_BUBBLES;-1|1;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|2;ANTIHEAL;20|1;COPITH_DEATH_RAY;-1|6;POWERDIGGER;-1|1;DIGGER;-1|3;GRAHAM_RAINBOW;-1|10;PIPE_BOMB_DEATH_TRIGGER;-1|2;GRENADE_LARGE;-1|5;DYNAMITE;-1|13;SLOW_BULLET;-1|2;SLOW_BULLET_TRIGGER;-1|4;BOUNCY_ORB;-1|1;EXPLODING_DUCKS;-1|1;COPITH_GILDED_AXE;-1|3;GLITTER_BOMB;-1|1;GLUE_SHOT;-1|5;MOLDOS_HEALING_ARROW;20|1;MOLDOS_HIISI_PISTOL;-1|3;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|2;APOTHEOSIS_HOLYORB_SHOTGUN;-1|1;ICEBALL;-1|12;COPITH_ICICLE_LANCE;-1|6;GRAHAM_INFERNAL_GLARE;-1|7;LIGHTNING;-1|5;SPELLBOUND_CHAIN_LIGHTNING;-1|1;CC_LOCAL_SHIFT;-1|1;LUMINOUS_DRILL;-1|1;LASER_LUMINOUS_DRILL;-1|1;HEAVY_BULLET;-1|1;COPITH_MATRA_MAGIC;-1|1;METEOR;-1|3;APOTHEOSIS_MUSICAL_STRIKE;-1|4;APOTHEOSIS_MUSICAL_STRIKE_TRIGGER;-1|2;NUKE;-1|5;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;GLOWING_BOLT;-1|2;LASER_EMITTER_FOUR;-1|2;LASER_EMITTER_CUTTER;-1|1;POLLEN;-1|1;APOTHEOSIS_POLLEN_TRIGGER;-1|1;COPITH_POLY_PROPANE_TANK;-1|1;SPORE_POD;-1|3;PROPANE_TANK;-1|1;RANDOM_PROJECTILE;-1|1;TELEPORT_PROJECTILE_STATIC;-1|1;MOLDOS_ROCKET_ROLL;-1|3;GRAHAM_ROLLOUT;-1|3;SPELLBOUND_SHARD_SHOT;-1|4;GRAHAM_SHOCK_DART;-1|1;MIST_SLIME;-1|4;TELEPORT_PROJECTILE_SHORT;-1|1;BR_SHORTTELETRIGGER;-1|1;MOLDOS_SOUL_BLAST;-1|27;LIGHT_BULLET;-1|14;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|2;LIGHT_BULLET_TRIGGER;-1|1;APOTHEOSIS_LIQUIDSPHERE_ACID;3|2;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|7;APOTHEOSIS_LIQUIDSPHERE_WATER;-1|1;SPITTER;-1|1;APOTHEOSIS_STAR_SHOT;-1|2;COPITH_STARLIGHT_AXE;-1|2;SPELLBOUND_STICKY_BOMB;-1|2;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|12;GRAHAM_ATTACK_DRONE;3|1;GRAHAM_SHIELD_DRONE;3|8;TENTACLE;-1|2;TENTACLE_TIMER;-1|1;SUMMON_HOLLOW_EGG;-1|1;SWAPPER_PROJECTILE;-1|1;GRAHAM_MIST_SWEET;-1|1;APOTHEOSIS_TARGETTER;-1|1;BR_LONGTELETRIGGER;-1|1;MINE;-1|2;COPITH_VACUUM_CLAW;-1|1;COPITH_VOMERE;-1|1;BR_WARPTELEDEATHTRIGGER;-1|6;COPITH_ZAP;-1|1;MIST_ALCOHOL;-1|2;CHAOS_POLYMORPH_FIELD;-1|1;APOTHEOSIS_BUNGAL_SHIFT;-1|1;WHITE_HOLE_GIGA;6|2;HOMING_CURSOR;-1|1;COPITH_ANCHORED_SHOT;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|1;SPELLBOUND_BLACKHOLE_INFUSION;-1|2;SPELLBOUND_GAS_SHOT;-1|1;SPELLBOUND_GAS_SHOT_FIRE;-1|1;SPELLBOUND_GAS_SHOT_POISON;-1|2;BLOODLUST;-1|2;HOMING_SHOOTER;-1|1;BOUNCE_SPARK;-1|1;COPITH_COLD_HEARTED;-1|1;COPITH_CONFETTI_TRAIL;-1|3;CRITICAL_HIT;-1|2;COPITH_DAMAGE_CRITICAL;-1|1;APOTHEOSIS_CURSED_ORB_RAY;-1|1;DAMAGE;-1|1;COPITH_DAMAGE_LIFETIME;-1|1;ROCKET_DOWNWARDS;-1|1;COPITH_LIQUID_EATER;-1|3;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;HITFX_EXPLOSION_ALCOHOL;-1|1;COPITH_FEATHER_SHOT;-1|1;APOTHEOSIS_FIRE_CHARGE;-1|1;FIRE_TRAIL;-1|1;ORBIT_FIREBALLS;-1|1;FIREBALL_RAY;-1|1;FLY_DOWNWARDS;-1|1;FREEZE;-1|1;GRAHAM_GOLDEN;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;CC_GUNPOWDER_BUFF;-1|1;HEAVY_SHOT;-1|1;HEAVY_SPREAD;-1|1;SPELLBOUND_HELL_FIRE;-1|1;HORIZONTAL_ARC;-1|2;APOTHEOSIS_WATER_POWER;-1|1;COPITH_HYPER_BOUNCE;-1|1;COPITH_ULT_CONTROL;-1|1;LIFETIME;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LARPA_DEATH;-1|1;COPITH_LOVELY_TRAIL;-1|3;GRAHAM_MANAHEARTBREAK;-1|1;GRAHAM_MIXUP;-1|1;ZERO_DAMAGE;-1|1;ROCKET_OCTAGON;-1|1;GRAHAM_ORBIT_BLUE;-1|1;COPITH_HITFX_LARPA;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;TENTACLE_RAY_ENEMY;-1|2;GRAHAM_POWDER_EVAPORATION;-1|1;COPITH_PSYCHIC_SHOT;-1|2;APOTHEOSIS_FIRE_POWER;-1|1;RANDOM_MODIFIER;-1|1;MOLDOS_REAPING_SHOT;-1|2;LIFETIME_DOWN;-1|4;RECHARGE;-1|1;SPREAD_REDUCE;-1|1;COPITH_HOMING_ANTI_SHOOTER;-1|1;SPELLBOUND_RUBBER_COATING;-1|2;SPELLBOUND_SLIME_AURA;-1|1;MOLDOS_SOUL_BOOST;-1|1;MOLDOS_SOUL_SPEED;-1|1;BOUNCE_SMALL_EXPLOSION;-1|1;SPIRALING_SHOT;-1|1;COPITH_SPREAD;-1|1;TENTACLE_RAY;-1|1;APOTHEOSIS_TRAIL_LARGER;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;-1|1;COPITH_TRANSMISSION_CAST;-1|1;TRUE_ORBIT;-1|2;COPITH_DELAY_2;-1|2;SCATTER_2;-1|11;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|3;APOTHEOSIS_SHAPE_WALL;-1|3;Y_SHAPE;-1|5;PENTAGRAM_SHAPE;-1|3;COPITH_LINK_SHOT;-1|3;COPITH_SCATTER_8;-1|4;COPITH_PERSISTENT_SHOT;-1|4;SCATTER_4;-1|1;BURST_4;-1|3;APOTHEOSIS_RANDOM_BURST;-1|1;COPITH_SCRAWL;-1|6;COPITH_SCATTER_6;-1|4;COPITH_SWORD_FORMATION;-1|3;COPITH_DELAY_3;-1|3;SCATTER_3;-1|4;BURST_3;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|3;COPITH_SUMMON_HAMIS;-1|1;COPITH_AUTO_FRAME;-1|1;GRAHAM_MINI_ELECTRICITY;-1|1;MOLDOS_SOUL_CLOAK;-1|1;TINY_GHOST;-1|1;PHASING_ARC;-1|||||||||||||||||||||||||" >
+        value="1;ACIDSHOT;-1|2;COPITH_GRAPPLING_HOOK;-1|1;ARROW;-1|1;APOTHEOSIS_MIST_ATTUNIUM;-1|4;BLACK_HOLE;3|1;MIST_BLOOD;-1|1;APOTHEOSIS_ELECTROSPHERE;-1|1;BOMB;-1|1;APOTHEOSIS_RUBBER_BALL_TRIGGER;-1|3;RUBBER_BALL;-1|5;GRAHAM_BRAMBALL;-1|1;GRAHAM_BRAMBALL_TRIGGER;-1|1;BUBBLESHOT;-1|1;COPITH_CAUSTIC_CLAW;-1|5;CHAINSAW;-1|2;COPITH_CHAOS_SPRITES;-1|2;GRAHAM_BUBBLES;-1|1;COPITH_COWARD_BOLT_DEATH_TRIGGER;-1|2;ANTIHEAL;20|1;COPITH_DEATH_RAY;-1|6;POWERDIGGER;-1|1;DIGGER;-1|3;GRAHAM_RAINBOW;-1|10;PIPE_BOMB_DEATH_TRIGGER;-1|2;GRENADE_LARGE;-1|5;DYNAMITE;-1|13;SLOW_BULLET;-1|2;SLOW_BULLET_TRIGGER;-1|4;BOUNCY_ORB;-1|1;EXPLODING_DUCKS;-1|1;COPITH_GILDED_AXE;-1|3;GLITTER_BOMB;-1|1;GLUE_SHOT;-1|5;MOLDOS_HEALING_ARROW;20|1;MOLDOS_HIISI_PISTOL;-1|3;MOLDOS_HIISI_SHOTGUN;-1|1;MOLDOS_HIISI_SNIPER;-1|2;APOTHEOSIS_HOLYORB_SHOTGUN;-1|1;ICEBALL;-1|12;COPITH_ICICLE_LANCE;-1|6;GRAHAM_INFERNAL_GLARE;-1|7;LIGHTNING;-1|5;SPELLBOUND_CHAIN_LIGHTNING;-1|1;CC_LOCAL_SHIFT;-1|6;LUMINOUS_DRILL;-1|1;LASER_LUMINOUS_DRILL;-1|1;HEAVY_BULLET;-1|1;COPITH_MATRA_MAGIC;-1|1;METEOR;-1|3;APOTHEOSIS_MUSICAL_STRIKE;-1|4;APOTHEOSIS_MUSICAL_STRIKE_TRIGGER;-1|2;NUKE;-1|5;COPITH_PAIN_RAY;-1|5;DARKFLAME;-1|1;GLOWING_BOLT;-1|2;LASER_EMITTER_FOUR;-1|2;LASER_EMITTER_CUTTER;-1|1;POLLEN;-1|1;APOTHEOSIS_POLLEN_TRIGGER;-1|1;COPITH_POLY_PROPANE_TANK;-1|1;SPORE_POD;-1|3;PROPANE_TANK;-1|1;RANDOM_PROJECTILE;-1|1;TELEPORT_PROJECTILE_STATIC;-1|1;MOLDOS_ROCKET_ROLL;-1|3;GRAHAM_ROLLOUT;-1|3;SPELLBOUND_SHARD_SHOT;-1|4;GRAHAM_SHOCK_DART;-1|1;MIST_SLIME;-1|4;TELEPORT_PROJECTILE_SHORT;-1|1;BR_SHORTTELETRIGGER;-1|1;MOLDOS_SOUL_BLAST;-1|27;LIGHT_BULLET;-1|14;COPITH_LIGHT_BULLET_DEATH_TRIGGER;-1|2;LIGHT_BULLET_TRIGGER;-1|1;APOTHEOSIS_LIQUIDSPHERE_ACID;3|2;APOTHEOSIS_LIQUIDSPHERE_TELEPORTATIUM;-1|7;APOTHEOSIS_LIQUIDSPHERE_WATER;-1|1;SPITTER;-1|1;APOTHEOSIS_STAR_SHOT;-1|2;COPITH_STARLIGHT_AXE;-1|2;SPELLBOUND_STICKY_BOMB;-1|2;SPELLBOUND_STICKY_BOMB_TRIGGER;-1|12;GRAHAM_ATTACK_DRONE;3|1;GRAHAM_SHIELD_DRONE;3|8;TENTACLE;-1|2;TENTACLE_TIMER;-1|1;SUMMON_HOLLOW_EGG;-1|1;SWAPPER_PROJECTILE;-1|1;GRAHAM_MIST_SWEET;-1|1;APOTHEOSIS_TARGETTER;-1|1;BR_LONGTELETRIGGER;-1|1;MINE;-1|2;COPITH_VACUUM_CLAW;-1|1;COPITH_VOMERE;-1|1;BR_WARPTELEDEATHTRIGGER;-1|6;COPITH_ZAP;-1|1;MIST_ALCOHOL;-1|2;CHAOS_POLYMORPH_FIELD;-1|1;APOTHEOSIS_BUNGAL_SHIFT;-1|1;WHITE_HOLE_GIGA;6|1;MANA_REDUCE;-1|2;HOMING_CURSOR;-1|1;HORIZONTAL_ARC;-1|1;GRAVITY_ANTI;-1|1;COPITH_BALANCE;-1|1;SPELLBOUND_BLACKHOLE_INFUSION;-1|2;SPELLBOUND_GAS_SHOT;-1|1;SPELLBOUND_GAS_SHOT_FIRE;-1|1;SPELLBOUND_GAS_SHOT_POISON;-1|2;BLOODLUST;-1|2;HOMING_SHOOTER;-1|1;BOUNCE_SPARK;-1|1;COPITH_COLD_HEARTED;-1|1;COPITH_CONFETTI_TRAIL;-1|3;CRITICAL_HIT;-1|2;COPITH_DAMAGE_CRITICAL;-1|1;APOTHEOSIS_CURSED_ORB_RAY;-1|1;DAMAGE;-1|1;COPITH_DAMAGE_LIFETIME;-1|1;ROCKET_DOWNWARDS;-1|1;COPITH_LIQUID_EATER;-1|3;SPELLBOUND_ENERGETIC_PROJECTILES;-1|1;HITFX_EXPLOSION_ALCOHOL;-1|1;COPITH_FEATHER_SHOT;-1|1;APOTHEOSIS_FIRE_CHARGE;-1|1;FIRE_TRAIL;-1|1;ORBIT_FIREBALLS;-1|1;FIREBALL_RAY;-1|1;FLY_DOWNWARDS;-1|1;FREEZE;-1|1;GRAHAM_GOLDEN;-1|1;GRAHAM_GUARDIAN_SHOT;-1|1;CC_GUNPOWDER_BUFF;-1|1;HOMING;-1|1;HEAVY_SPREAD;-1|1;SPELLBOUND_HELL_FIRE;-1|1;PHASING_ARC;-1|2;APOTHEOSIS_WATER_POWER;-1|1;COPITH_HYPER_BOUNCE;-1|1;COPITH_ULT_CONTROL;-1|1;LIFETIME;-1|1;COPITH_ALCOHOL_SHOT;-1|1;LARPA_DEATH;-1|1;COPITH_LOVELY_TRAIL;-1|3;GRAHAM_MANAHEARTBREAK;-1|1;GRAHAM_MIXUP;-1|1;ZERO_DAMAGE;-1|1;ROCKET_OCTAGON;-1|1;GRAHAM_ORBIT_BLUE;-1|1;COPITH_HITFX_LARPA;-1|1;APOTHEOSIS_NUKE_RAY_ENEMY;-1|1;TENTACLE_RAY_ENEMY;-1|2;GRAHAM_POWDER_EVAPORATION;-1|1;COPITH_PSYCHIC_SHOT;-1|2;APOTHEOSIS_FIRE_POWER;-1|1;RANDOM_MODIFIER;-1|1;MOLDOS_REAPING_SHOT;-1|1;COPITH_RECHARGE_ENGINE;-1|2;LIFETIME_DOWN;-1|4;RECHARGE;-1|1;SPREAD_REDUCE;-1|1;COPITH_HOMING_ANTI_SHOOTER;-1|1;SPELLBOUND_RUBBER_COATING;-1|2;SPELLBOUND_SLIME_AURA;-1|1;MOLDOS_SOUL_BOOST;-1|1;MOLDOS_SOUL_SPEED;-1|1;BOUNCE_SMALL_EXPLOSION;-1|1;SPIRALING_SHOT;-1|1;COPITH_SPREAD;-1|1;TENTACLE_RAY;-1|1;APOTHEOSIS_TRAIL_LARGER;-1|1;SPELLBOUND_TRAIL_OF_ROCK_SPIRITS;-1|1;COPITH_TRANSMISSION_CAST;-1|1;TRUE_ORBIT;-1|2;COPITH_DELAY_2;-1|2;SCATTER_2;-1|11;BURST_2;-1|1;COPITH_NGON_SHAPE;-1|4;APOTHEOSIS_SHAPE_WALL;-1|3;Y_SHAPE;-1|5;PENTAGRAM_SHAPE;-1|3;COPITH_LINK_SHOT;-1|3;COPITH_SCATTER_8;-1|4;COPITH_PERSISTENT_SHOT;-1|4;SCATTER_4;-1||3;APOTHEOSIS_RANDOM_BURST;-1|1;COPITH_SCRAWL;-1|6;COPITH_SCATTER_6;-1|4;COPITH_SWORD_FORMATION;-1|3;COPITH_DELAY_3;-1|3;SCATTER_3;-1|4;BURST_3;-1|1;APOTHEOSIS_MASS_STATUS_POLYMORPH;-1|3;COPITH_SUMMON_HAMIS;-1|1;COPITH_AUTO_FRAME;-1|1;GRAHAM_MINI_ELECTRICITY;-1|1;MOLDOS_SNIPER_BEAM;-1|1;MOLDOS_SOUL_CLOAK;-1|1;TINY_GHOST;-1|||||||||||||||||||||||" >
       </E>
       <E 
         key="BOSS_ARENA_BUILDUP_TRIGGERED" 
@@ -1775,7 +1803,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="2519830" >
+        value="2656026" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1787,7 +1815,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="180152" >
+        value="197001" >
       </E>
       <E 
         key="GRAHAM_KOLMI_FRAMES" 
@@ -1827,15 +1855,15 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="111" >
+        value="150" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="25" >
+        value="38" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="7" >
+        value="11" >
       </E>
       <E 
         key="InventoryBags_active_item_tab" 
@@ -1847,7 +1875,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="4" >
+        value="5" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -1890,11 +1918,23 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_PROTECTION_ELECTRICITY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_PROTECTION_EXPLOSION_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_PROTECTION_FIRE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_PROTECTION_MELEE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_REMOVE_FOG_OF_WAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -1987,11 +2027,11 @@
       </E>
       <E 
         key="apotheosis_markerportal_blue_x" 
-        value="19068" >
+        value="-1187" >
       </E>
       <E 
         key="apotheosis_markerportal_blue_y" 
-        value="5462" >
+        value="19307" >
       </E>
       <E 
         key="apotheosis_markerportal_green_x" 
@@ -2011,7 +2051,7 @@
       </E>
       <E 
         key="apotheosis_swapper_curse" 
-        value="2513517" >
+        value="2521993" >
       </E>
       <E 
         key="apotheosis_tabletghost_count" 
@@ -2051,7 +2091,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/souls/files/entities/projectiles/reaping_shot/reaping_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/area_damage.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/particles/heavy_shot.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/hitfx_critical_water.xml,mods/copis_things/files/entities/misc/ult_protection.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/nolla.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,data/entities/misc/light.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
       </E>
       <E 
         key="graham_silly_straw_length" 
@@ -2168,6 +2208,10 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/crypt/phantom_c_apotheosis.xml" 
         value="$enemy_apotheosis_phantom_c_apotheosis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/phantom_trapper.xml" 
+        value="$phantom_trapper" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/crypt/potionmaster2.xml" 
@@ -2296,6 +2340,10 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/jungle/locust_swarm.xml" 
         value="$enemy_apotheosis_locust_swarm" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/lava_excavation/bigfirebug.xml" 
+        value="$animal_firebug" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/lava_excavation/firebug.xml" 
@@ -2550,8 +2598,16 @@
         value="$enemy_apotheosis_blindgazer" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/bloodcrystal_physics.xml" 
+        value="$animal_bloodcrystal_physics" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/the_end/forsaken_eye.xml" 
         value="$enemy_apotheosis_forsaken_eye" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/gazer.xml" 
+        value="$animal_gazer" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/the_end/gazer_cold_apotheosis.xml" 
@@ -2574,6 +2630,14 @@
         value="$animal_lasershooter" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/poring_devil.xml" 
+        value="$enemy_apotheosis_poring_devil" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/sentry.xml" 
+        value="$enemy_apotheosis_sentry" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/the_end/skycrystal_physics.xml" 
         value="$animal_skycrystal_physics" >
       </E>
@@ -2582,8 +2646,20 @@
         value="$enemy_apotheosis_slime_teleporter" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/spitmonster.xml" 
+        value="$animal_spitmonster" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/the_end/watermage_toxic.xml" 
         value="$enemy_apotheosis_watermage_toxic" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/wizard_firemage_greater.xml" 
+        value="$enemy_apotheosis_wizard_firemage_greater" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/worm_end.xml" 
+        value="$animal_worm_end" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/the_end/wraith_returner_apotheosis.xml" 
@@ -2866,6 +2942,10 @@
         value="$worm_robot" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/wizard_den/forsaken_eye.xml" 
+        value="$enemy_apotheosis_forsaken_eye" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/worm_maggot_big.xml" 
         value="$enemy_apotheosis_worm_maggot_big" >
       </E>
@@ -2891,6 +2971,14 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/buildings/eviltemple_tentacle_trap_right.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/firetrap_left.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/firetrap_right.xml" 
         value="" >
       </E>
       <E 
@@ -2935,6 +3023,14 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/buildings/ritualist_d.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/spittrap_left.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/spittrap_right.xml" 
         value="" >
       </E>
       <E 
@@ -2998,7 +3094,15 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_08.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/orbs/orb_09.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_10.xml" 
         value="" >
       </E>
       <E 
@@ -3119,6 +3223,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/thunderstone.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/wandstone.xml" 
         value="" >
       </E>
       <E 
@@ -3255,6 +3363,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/props/new/suspended_tank_propane.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/chain_torch.xml" 
         value="" >
       </E>
       <E 
@@ -3502,6 +3614,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/projectiles/orb_micro_blackhole.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/physics/chain_torch_bloody.xml" 
         value="" >
       </E>
@@ -3622,6 +3738,34 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/creeper.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/darkghost.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/draghoul.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/imp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/lukki_red.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/nightmare.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/new_enemies/data/entities/animals/the_end/serpentor.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/alchemist.xml" 
         value="" >
       </E>
@@ -3639,6 +3783,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/robot.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/wizard.xml" 
         value="" >
       </E>
       <E 
@@ -3731,23 +3879,23 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_1" 
-        value="2494613" >
+        value="2645215" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_2" 
-        value="2501130" >
+        value="2567119" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_3" 
-        value="2494613" >
+        value="2567393" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_4" 
-        value="2501124" >
+        value="2567684" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_5" 
-        value="2434776" >
+        value="2567130" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HOLDINGWAND_5" 
@@ -3768,6 +3916,10 @@
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_4" 
         value="2256150" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_5" 
+        value="2552070" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_6" 
@@ -3803,7 +3955,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_110_2" 
-        value="2407680" >
+        value="2540610" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_110_3" 
@@ -3840,6 +3992,14 @@
       <E 
         key="mods_grahamsdialogue_pool_0_125_4" 
         value="2494050" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_126_3" 
+        value="2567700" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_126_4" 
+        value="2566590" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_127_2" 
@@ -3938,6 +4098,10 @@
         value="928290" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_154_6" 
+        value="2557860" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_155_2" 
         value="2409990" >
       </E>
@@ -4007,7 +4171,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_175_4" 
-        value="2511390" >
+        value="2523000" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_177_2" 
@@ -4028,6 +4192,10 @@
       <E 
         key="mods_grahamsdialogue_pool_0_184_3" 
         value="826115" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_184_4" 
+        value="2644140" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_185_3" 
@@ -4102,6 +4270,50 @@
         value="2207370" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_31_3" 
+        value="2550210" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_32_4" 
+        value="2549580" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_33_2" 
+        value="2556060" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_33_3" 
+        value="2538960" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_34_2" 
+        value="2549520" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_34_3" 
+        value="2549400" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_34_4" 
+        value="2551770" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_35_2" 
+        value="2549610" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_35_4" 
+        value="2549550" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_36_2" 
+        value="2548950" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_36_4" 
+        value="2540160" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_37_4" 
         value="390930" >
       </E>
@@ -4119,7 +4331,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_39_3" 
-        value="1560390" >
+        value="2539290" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_39_4" 
+        value="2539590" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_40_4" 
+        value="2540100" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_41_2" 
@@ -4158,8 +4378,12 @@
         value="53520" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_48_3" 
+        value="2535510" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_4_2" 
-        value="2510400" >
+        value="2550900" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_3" 
@@ -4167,7 +4391,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_4" 
-        value="2119830" >
+        value="2550960" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_5" 
@@ -4175,7 +4399,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_6" 
-        value="2119830" >
+        value="2550870" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_7" 
@@ -4183,15 +4407,27 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_2" 
-        value="1851630" >
+        value="2643240" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_3" 
-        value="865470" >
+        value="2643480" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_52_4" 
+        value="2643570" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_53_2" 
         value="1846590" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_53_3" 
+        value="2643570" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_53_4" 
+        value="2643060" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_56_2" 
@@ -4283,7 +4519,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_2" 
-        value="2276130" >
+        value="2623170" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_3" 
@@ -4316,6 +4552,10 @@
       <E 
         key="mods_grahamsdialogue_pool_0_69_4" 
         value="2255430" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_6_3" 
+        value="2550240" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_6_4" 
@@ -4356,6 +4596,10 @@
       <E 
         key="mods_grahamsdialogue_pool_0_74_4" 
         value="2083950" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_75_2" 
+        value="2541270" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_76_2" 
@@ -4403,7 +4647,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_92_4" 
-        value="1704990" >
+        value="2637390" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_94_3" 
@@ -4558,6 +4802,30 @@
         value="2257369" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_155_2" 
+        value="2559396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_155_3" 
+        value="2559396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_155_4" 
+        value="2559396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_155_5" 
+        value="2559396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_155_6" 
+        value="2559396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_155_7" 
+        value="2559396" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_156_2" 
         value="2410961" >
       </E>
@@ -4591,15 +4859,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_173_2" 
-        value="2494613" >
+        value="2526313" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_173_3" 
-        value="2494613" >
+        value="2526313" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_173_4" 
-        value="2494613" >
+        value="2526313" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_178_2" 
@@ -4696,6 +4964,18 @@
       <E 
         key="mods_grahamsdialogue_pool_1_30_7" 
         value="678173" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_40_2" 
+        value="2550147" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_40_3" 
+        value="2550147" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_40_4" 
+        value="2550147" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_41_2" 
@@ -4803,11 +5083,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_68_2" 
-        value="589512" >
+        value="2623363" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_68_3" 
+        value="2623363" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_68_4" 
-        value="591126" >
+        value="2623363" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_69_2" 
@@ -4824,6 +5108,10 @@
       <E 
         key="mods_grahamsdialogue_pool_1_6_2" 
         value="638744" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_6_3" 
+        value="2550977" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_6_4" 
@@ -4982,6 +5270,18 @@
         value="2317310" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_125_2" 
+        value="2569645" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_125_3" 
+        value="2569645" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_125_4" 
+        value="2569645" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_126_2" 
         value="1416350" >
       </E>
@@ -5062,6 +5362,10 @@
         value="1858471" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_40_2" 
+        value="2543753" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_65_2" 
         value="1827609" >
       </E>
@@ -5080,6 +5384,10 @@
       <E 
         key="mods_grahamsdialogue_pool_2_66_3" 
         value="1858545" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_66_4" 
+        value="2623005" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_67_2" 
@@ -5175,7 +5483,7 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="data/entities/projectiles/deck/bouncy_orb.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="random_twitch_user" 
@@ -5239,43 +5547,43 @@
       </E>
       <E 
         key="twitch_chat_message_broadcaster" 
-        value="false" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_color" 
-        value="#FF0000" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_frames" 
-        value="2519831" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_id" 
-        value="fd939c6c-d2ad-44b7-811d-922bb8ea26bf" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_message" 
-        value="Sorry for your loss" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_moderator" 
-        value="false" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_name" 
-        value="The_F_Man6" >
+        value="" >
       </E>
       <E 
         key="twitch_chat_message_subscriber" 
-        value="false" >
+        value="" >
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_evil_temple,$biome_holymountain,$biome_desert_pit,_EMPTY_,$biome_watchtow" >
+        value="$biome_holymountain,Underground Swamp,$biome_snowcastle,$biome_snowcave,$biome_h" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="285" >
+        value="303" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -5317,6 +5625,12 @@
       </primitive>
       <primitive>
         9
+      </primitive>
+      <primitive>
+        10
+      </primitive>
+      <primitive>
+        8
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -5886,6 +6200,66 @@
       </string>
       <string>
         new_action_graham_toggle_yellow
+      </string>
+      <string>
+        apotheosis_perk_creation_angered
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_FIRE
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_ELECTRICITY
+      </string>
+      <string>
+        PERK_PICKED_REMOVE_FOG_OF_WAR
+      </string>
+      <string>
+        ne_player_evil_wandcave_spawned0
+      </string>
+      <string>
+        new_kill_bloodmage_greater
+      </string>
+      <string>
+        new_kill_wizard_stain
+      </string>
+      <string>
+        new_kill_lightling
+      </string>
+      <string>
+        new_kill_soul
+      </string>
+      <string>
+        new_kill_firetrap_right
+      </string>
+      <string>
+        new_kill_wizard_madness
+      </string>
+      <string>
+        new_kill_firetrap_left
+      </string>
+      <string>
+        new_kill_spittrap_left
+      </string>
+      <string>
+        br_killed_animal_boss_wizard
+      </string>
+      <string>
+        apotheosis_mom_dead
+      </string>
+      <string>
+        tome_magic_wizard_dead
+      </string>
+      <string>
+        new_kill_hell_overseer
+      </string>
+      <string>
+        new_kill_moldos_soul_angry
+      </string>
+      <string>
+        new_action_apotheosis_alt_fire_cov
+      </string>
+      <string>
+        new_action_copith_mana_delta
       </string>
     </flags>
     <changed_materials>
@@ -8110,6 +8484,195 @@
       value_float="0" 
       value_int="0" 
       value_string="(Apotheosis) Kirottuolento" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suurstendari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Maamestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Vilahdus" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Kohdennusmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Lennokas" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kutistusmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Muodonmuutosmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(moldos_arsenal) nukkejenmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kuivuusmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Enigma's Progeny" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Lumottu ankka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Mahdottomuuksien Mestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Jäätelömestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Siirtäjämestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Verikristalli" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Helvetin sylkijä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Epäpyhähyytelö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Helvetinkatse" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suur-Stendari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(moldos_arsenal) ilkeä naama" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Purkaus" >
     </VariableStorageComponent>
   </Entity>
   <Entity 

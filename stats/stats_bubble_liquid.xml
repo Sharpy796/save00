@@ -1,4 +1,4 @@
-<Stats deaths="333" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="348" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="182" >
+    <E key="NULL | run out of material" value="191" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="57" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -75,6 +75,8 @@
     <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="3" >
+    </E>
+    <E key="seeker | Etsijä's shock" value="1" >
     </E>
     <E key="shotgunner | $damage_projectile" value="3" >
     </E>

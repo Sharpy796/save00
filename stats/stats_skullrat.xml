@@ -1,4 +1,4 @@
-<Stats deaths="86" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="86" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -44,11 +44,15 @@
   <kill_map>
     <E key="acidshooter" value="1" >
     </E>
+    <E key="alchemist" value="1" >
+    </E>
     <E key="blob" value="1" >
     </E>
     <E key="bubble_liquid" value="2" >
     </E>
     <E key="locust_swarm" value="6" >
+    </E>
+    <E key="long_ghost" value="1" >
     </E>
     <E key="miniblob" value="3" >
     </E>
