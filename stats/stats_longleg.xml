@@ -1,4 +1,4 @@
-<Stats deaths="1238" kills="28" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1242" kills="28" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="483" >
+    <E key="player | $damage_projectile" value="485" >
     </E>
     <E key="player | $damage_rock_curse" value="45" >
     </E>
@@ -150,7 +150,7 @@
     </E>
     <E key="wraith_returner_apotheosis | $damage_projectile" value="1" >
     </E>
-    <E key="zombie_weak | $damage_melee" value="8" >
+    <E key="zombie_weak | $damage_melee" value="10" >
     </E>
   </death_map>
   <kill_map>
