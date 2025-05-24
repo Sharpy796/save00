@@ -1,12 +1,12 @@
-<Stats deaths="49" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="56" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="4" >
+    <E key="NULL | $damage_fire" value="5" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -16,9 +16,9 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="29" >
+    <E key="player | $damage_projectile" value="31" >
     </E>
-    <E key="player | $damage_rock_curse" value="4" >
+    <E key="player | $damage_rock_curse" value="7" >
     </E>
   </death_map>
   <kill_map>

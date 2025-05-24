@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="41.4302" 
-    clouds_02_target="53.5639" 
+    clouds_01_target="41.4935" 
+    clouds_02_target="53.7058" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
@@ -44,7 +44,7 @@
     perk_infinite_spells="1" 
     perk_rats_player_friendly="0" 
     perk_trick_kills_blood_money="0" 
-    player_did_damage_over_1milj="114" 
+    player_did_damage_over_1milj="459" 
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="3" 
@@ -55,13 +55,13 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250510-184136" 
     sky_sunset_alpha_target="1" 
-    time="0.197247" 
+    time="0.226414" 
     time_dt="1" 
-    time_total="77.8695" 
+    time_total="80.5351" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="0.312656" 
-    wind_speed="18.7595" 
+    wind="0.0747162" 
+    wind_speed="4.483" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -563,7 +563,7 @@
       </E>
       <E 
         key="ACTION_COPITH_COWARD_BOLT_DEATH_TRIGGER" 
-        value="data/entities/projectiles/deck/material_water.xml" >
+        value="mods/copis_things/files/entities/projectiles/coward_bolt.xml" >
       </E>
       <E 
         key="ACTION_COPITH_DAMAGE_BOUNCE" 
@@ -699,7 +699,7 @@
       </E>
       <E 
         key="ACTION_COPITH_IF_ALT_FIRE" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
       </E>
       <E 
         key="ACTION_COPITH_LARPA_FORWARDS" 
@@ -1043,7 +1043,7 @@
       </E>
       <E 
         key="ACTION_GAMMA" 
-        value="data/entities/items/pickup/jar_of_urine.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_AGITINE" 
@@ -1243,7 +1243,7 @@
       </E>
       <E 
         key="ACTION_GROWSHOT" 
-        value="data/entities/projectiles/deck/swarm_firebug.xml" >
+        value="data/entities/projectiles/deck/pipe_bomb.xml" >
       </E>
       <E 
         key="ACTION_GUNPOWDER_TRAIL" 
@@ -1554,6 +1554,10 @@
         value="data/entities/projectiles/orb_expanding.xml" >
       </E>
       <E 
+        key="ACTION_PIPE_BOMB" 
+        value="data/entities/projectiles/deck/pipe_bomb.xml" >
+      </E>
+      <E 
         key="ACTION_POISON_TRAIL" 
         value="mods/spellbound_bundle/files/entities/projectiles/mine_trigger.xml" >
       </E>
@@ -1703,7 +1707,7 @@
       </E>
       <E 
         key="ACTION_SPELLBOUND_PATHFINDING" 
-        value="data/entities/projectiles/deck/big_magic_shield_start.xml" >
+        value="data/entities/projectiles/deck/pipe_bomb.xml" >
       </E>
       <E 
         key="ACTION_SPELLBOUND_RUBBER_COATING" 
@@ -1859,7 +1863,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="3093426" >
+        value="3209890" >
       </E>
       <E 
         key="BR_MODE" 
@@ -1875,7 +1879,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="272105" >
+        value="288215" >
       </E>
       <E 
         key="GRAHAM_KOLMI_FRAMES" 
@@ -1915,7 +1919,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="157" >
+        value="160" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -1935,7 +1939,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="5" >
+        value="1" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -2095,11 +2099,11 @@
       </E>
       <E 
         key="apotheosis_markerportal_blue_x" 
-        value="11281" >
+        value="-4508" >
       </E>
       <E 
         key="apotheosis_markerportal_blue_y" 
-        value="10" >
+        value="3890" >
       </E>
       <E 
         key="apotheosis_markerportal_green_x" 
@@ -3983,23 +3987,23 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_1" 
-        value="2982004" >
+        value="3166224" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_2" 
-        value="2982400" >
+        value="3189655" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_3" 
-        value="2982136" >
+        value="3193363" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_4" 
-        value="2980828" >
+        value="3189650" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_5" 
-        value="2981692" >
+        value="3166225" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HOLDINGWAND_1" 
@@ -4039,7 +4043,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_3" 
-        value="2504400" >
+        value="3125610" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_4" 
@@ -4071,15 +4075,23 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_107_2" 
-        value="2893770" >
+        value="3133110" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_107_3" 
+        value="3129210" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_107_4" 
+        value="3133830" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_108_2" 
-        value="2432250" >
+        value="3193800" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_108_3" 
-        value="2922030" >
+        value="3204540" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_108_4" 
@@ -4111,11 +4123,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_114_2" 
-        value="2938950" >
+        value="3164280" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_114_3" 
-        value="1201860" >
+        value="3164610" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_115_2" 
@@ -4439,7 +4451,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_25_2" 
-        value="851610" >
+        value="3116610" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_25_3" 
+        value="3109200" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_25_4" 
@@ -4487,7 +4503,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_34_3" 
-        value="2947470" >
+        value="3119940" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_34_4" 
@@ -4506,8 +4522,12 @@
         value="2548950" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_36_3" 
+        value="3197730" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_36_4" 
-        value="2920320" >
+        value="3204270" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_37_4" 
@@ -4547,7 +4567,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_41_3" 
-        value="2318430" >
+        value="3122010" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_41_4" 
@@ -4583,27 +4603,27 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_2" 
-        value="2550900" >
+        value="3125430" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_3" 
-        value="365970" >
+        value="3127770" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_4" 
-        value="2550960" >
+        value="3127500" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_5" 
-        value="2925960" >
+        value="3125850" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_6" 
-        value="2550870" >
+        value="3125550" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_7" 
-        value="2119770" >
+        value="3127830" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_2" 
@@ -4675,7 +4695,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_2" 
-        value="1498740" >
+        value="3190020" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_3" 
@@ -4683,7 +4703,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_4" 
-        value="1580970" >
+        value="3190320" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_61_2" 
@@ -4731,7 +4751,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_3" 
-        value="1858530" >
+        value="3191250" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_4" 
@@ -4799,7 +4819,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_74_3" 
-        value="2084190" >
+        value="3099600" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_74_4" 
@@ -4815,11 +4835,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_76_2" 
-        value="2405880" >
+        value="3191040" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_76_3" 
-        value="2115390" >
+        value="3189660" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_76_4" 
@@ -4939,7 +4959,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_3" 
-        value="2313330" >
+        value="3109140" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_9_4" 
@@ -5363,15 +5383,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_6_2" 
-        value="638744" >
+        value="3127648" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_6_3" 
-        value="2550977" >
+        value="3127715" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_6_4" 
-        value="2118190" >
+        value="3127639" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_70_3" 
@@ -5478,6 +5498,10 @@
         value="2436849" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_91_3" 
+        value="3189650" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_94_4" 
         value="1698246" >
       </E>
@@ -5511,15 +5535,15 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_106_2" 
-        value="2895315" >
+        value="3134079" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_106_3" 
-        value="2902429" >
+        value="3134064" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_106_4" 
-        value="2902423" >
+        value="3134070" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_10_2" 
@@ -5686,12 +5710,16 @@
         value="1858471" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_39_2" 
+        value="3120616" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_40_2" 
         value="2963813" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_40_4" 
-        value="2963951" >
+        value="3131051" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_43_2" 
@@ -5715,7 +5743,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_66_2" 
-        value="2405046" >
+        value="3191339" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_66_3" 
@@ -5827,7 +5855,7 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
       </E>
       <E 
         key="random_twitch_user" 
@@ -5927,11 +5955,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_orbroom,_EMPTY_,$biome_excavationsite,$biome_snowcave,$biome_holymountain" >
+        value="$biome_excavationsite,$biome_holymountain,$biome_coalmine,$biome_winter,$biome_l" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="412" >
+        value="469" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -6644,6 +6672,9 @@
       </string>
       <string>
         new_action_copith_cloud_random
+      </string>
+      <string>
+        new_kill_worm_robot
       </string>
     </flags>
     <changed_materials>
@@ -9075,6 +9106,78 @@
       value_float="0" 
       value_int="0" 
       value_string="Pupu" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Vesimagi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Palauttajamestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Pakkomielteinenkalma" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Haamujousi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kallollinen" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sähköhämähäkki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Rotta" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Valaistunut alkemisti" >
     </VariableStorageComponent>
   </Entity>
   <Entity 

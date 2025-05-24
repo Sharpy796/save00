@@ -1,4 +1,4 @@
-<Stats deaths="45" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="46" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
@@ -23,6 +23,8 @@
     <E key="drone_face2 | $damage_slice" value="1" >
     </E>
     <E key="drone_mini | $damage_projectile" value="1" >
+    </E>
+    <E key="electrolukki | $damage_electricity" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>

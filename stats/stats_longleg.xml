@@ -1,4 +1,4 @@
-<Stats deaths="1240" kills="28" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1587" kills="28" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="80" >
     </E>
-    <E key="NULL | $damage_fire" value="174" >
+    <E key="NULL | $damage_fire" value="188" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="9" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -106,11 +106,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="483" >
+    <E key="player | $damage_projectile" value="766" >
     </E>
-    <E key="player | $damage_rock_curse" value="45" >
+    <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="20" >
+    <E key="player | $damage_slice" value="22" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
@@ -125,6 +125,8 @@
     <E key="poring | $damage_melee" value="1" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="2" >
     </E>
     <E key="seeker | Etsijä's shock" value="3" >
     </E>
@@ -141,6 +143,8 @@
     <E key="slimeshooter_weak | $damage_projectile" value="4" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="thundermage | $damage_melee" value="1" >
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="15" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="17" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -10,13 +10,17 @@
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
+    <E key="poring_magic | $damage_melee" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="chainsawer" value="1" >
     </E>
     <E key="shotgunner_weak" value="2" >
     </E>
-    <E key="skull_animation" value="20" >
+    <E key="skull_animation" value="21" >
     </E>
   </kill_map>
 </Stats>

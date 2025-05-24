@@ -1,12 +1,12 @@
-<Stats deaths="2028" kills="48" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2055" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="54" >
+    <E key="NULL | $damage_drowning" value="56" >
     </E>
-    <E key="NULL | $damage_electricity" value="25" >
+    <E key="NULL | $damage_electricity" value="31" >
     </E>
     <E key="NULL | $damage_explosion" value="135" >
     </E>
@@ -14,13 +14,15 @@
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="67" >
+    <E key="NULL | $damage_physicshit" value="68" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="8" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="9" >
     </E>
@@ -74,7 +76,7 @@
     </E>
     <E key="boss_dragon | $damage_projectile" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="5" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="6" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -82,7 +84,7 @@
     </E>
     <E key="eel | worm bite" value="5" >
     </E>
-    <E key="electrolukki | zap!" value="1" >
+    <E key="electrolukki | zap!" value="5" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
@@ -126,7 +128,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="3" >
     </E>
-    <E key="icemage | $damage_ice" value="4" >
+    <E key="icemage | $damage_ice" value="5" >
     </E>
     <E key="icemage | $damage_melee" value="1" >
     </E>
@@ -140,7 +142,7 @@
     </E>
     <E key="iceskull | $damage_ice" value="50" >
     </E>
-    <E key="iceskull | $damage_melee" value="20" >
+    <E key="iceskull | $damage_melee" value="21" >
     </E>
     <E key="icicle_king | $damage_projectile" value="1" >
     </E>
@@ -176,13 +178,15 @@
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
-    <E key="monk | $damage_projectile" value="10" >
+    <E key="monk | $damage_projectile" value="13" >
     </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02 | $damage_melee" value="2" >
     </E>
     <E key="orb_laseremitter_four | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
     </E>
     <E key="player | " value="9" >
     </E>
@@ -234,11 +238,11 @@
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="38" >
+    <E key="scavenger_smg | $damage_explosion" value="40" >
     </E>
     <E key="scavenger_smg | $damage_melee" value="21" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="42" >
+    <E key="scavenger_smg | $damage_projectile" value="45" >
     </E>
     <E key="scavenger_trigger | $damage_projectile" value="3" >
     </E>
@@ -342,7 +346,7 @@
     </E>
     <E key="worm | worm bite" value="10" >
     </E>
-    <E key="worm_big | worm bite" value="25" >
+    <E key="worm_big | worm bite" value="26" >
     </E>
     <E key="worm_fungal | worm bite" value="2" >
     </E>
