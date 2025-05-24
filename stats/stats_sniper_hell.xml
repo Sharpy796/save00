@@ -1,4 +1,4 @@
-<Stats deaths="13" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="13" kills="23" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -16,7 +16,21 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="barfer" value="1" >
+    </E>
+    <E key="flopper_mother" value="1" >
+    </E>
+    <E key="ghostling" value="1" >
+    </E>
+    <E key="ghostling_skull" value="1" >
+    </E>
+    <E key="lost_soul_big" value="1" >
+    </E>
     <E key="meatmaggot" value="1" >
+    </E>
+    <E key="physics_ragdoll_ai_flopper" value="3" >
+    </E>
+    <E key="poring_magic" value="1" >
     </E>
     <E key="rat" value="12" >
     </E>

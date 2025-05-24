@@ -1,12 +1,14 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="41" damage_taken="1685.75" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3557" gold="30593" gold_all="725713" gold_infinite="0" healed="1108.96" heart_containers="0" hp="100" items="422" kicks="939" killed_by="" killed_by_extra="" places_visited="41" playtime="44267.1" playtime_str="12:17:47" projectiles_shot="147169" streaks="0" teleports="4" wands_edited="94" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="42" damage_taken="2951.58" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="4043" gold="39612" gold_all="841692" gold_infinite="0" healed="1563.01" heart_containers="0" hp="100" items="539" kicks="1143" killed_by="" killed_by_extra="" places_visited="42" playtime="51557.1" playtime_str="14:19:17" projectiles_shot="149065" streaks="0" teleports="4" wands_edited="99" world_seed="2044312949" >
   </stats>
-  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  <biome_baseline biomes_visited_with_wands="41" damage_taken="2654.95" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3964" gold="36858" gold_all="838938" gold_infinite="0" healed="1408.66" heart_containers="0" hp="100" items="503" kicks="1010" killed_by="" killed_by_extra="" places_visited="41" playtime="47662.8" playtime_str="13:14:22" projectiles_shot="148273" streaks="0" teleports="4" wands_edited="96" world_seed="2044312949" >
   </biome_baseline>
   <item_map>
   </item_map>
   <biomes_visited>
     <E key="$biome_abandoned_assembly" value="1" >
+    </E>
+    <E key="$biome_ant_hell" value="1" >
     </E>
     <E key="$biome_barren" value="1" >
     </E>
@@ -78,15 +80,15 @@
     </E>
     <E key="Floating Mountain" value="1" >
     </E>
-    <E key="Holy Temple" value="2" >
+    <E key="Holy Temple" value="3" >
     </E>
-    <E key="Magic Conduit" value="1" >
+    <E key="Magic Conduit" value="2" >
     </E>
     <E key="Overgrown Laboratory" value="4" >
     </E>
-    <E key="Underground Swamp" value="5" >
+    <E key="Underground Swamp" value="6" >
     </E>
-    <E key="Worm Tunnels" value="1" >
+    <E key="Worm Tunnels" value="2" >
     </E>
   </biomes_visited>
 </Stats>

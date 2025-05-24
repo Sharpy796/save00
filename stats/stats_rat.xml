@@ -1,4 +1,4 @@
-<Stats deaths="2013" kills="48" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2028" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="54" >
     </E>
-    <E key="NULL | $damage_electricity" value="24" >
+    <E key="NULL | $damage_electricity" value="25" >
     </E>
     <E key="NULL | $damage_explosion" value="135" >
     </E>
@@ -48,9 +48,11 @@
     </E>
     <E key="ant | $damage_melee" value="5" >
     </E>
-    <E key="ant_fire | $damage_fire" value="8" >
+    <E key="ant_fire | $damage_fire" value="9" >
     </E>
     <E key="ant_fire | $damage_melee" value="2" >
+    </E>
+    <E key="ant_suffocate | $damage_melee" value="3" >
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
@@ -120,7 +122,7 @@
     </E>
     <E key="hisii_hobo | $damage_melee" value="3" >
     </E>
-    <E key="homunculus | $damage_projectile" value="2" >
+    <E key="homunculus | $damage_projectile" value="4" >
     </E>
     <E key="icemage | $damage_explosion" value="3" >
     </E>
@@ -160,6 +162,8 @@
     </E>
     <E key="meatmaggot | worm bite" value="20" >
     </E>
+    <E key="menace | Bite" value="2" >
+    </E>
     <E key="miner | $damage_explosion" value="25" >
     </E>
     <E key="miner | $damage_melee" value="8" >
@@ -172,7 +176,7 @@
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
-    <E key="monk | $damage_projectile" value="9" >
+    <E key="monk | $damage_projectile" value="10" >
     </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
@@ -296,6 +300,8 @@
     </E>
     <E key="thundermage | $damage_melee" value="2" >
     </E>
+    <E key="thundermage_big | $damage_electricity" value="1" >
+    </E>
     <E key="thunderskull | $damage_electricity" value="10" >
     </E>
     <E key="thunderskull | $damage_explosion" value="7" >
@@ -308,7 +314,7 @@
     </E>
     <E key="walleye | $damage_explosion" value="11" >
     </E>
-    <E key="walleye | $damage_projectile" value="11" >
+    <E key="walleye | $damage_projectile" value="12" >
     </E>
     <E key="watermage | $damage_explosion" value="4" >
     </E>
@@ -322,7 +328,9 @@
     </E>
     <E key="wizard_corrupt_weaken | $damage_projectile" value="15" >
     </E>
-    <E key="wizard_dark | $damage_projectile" value="7" >
+    <E key="wizard_dark | $damage_projectile" value="8" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="2" >
     </E>
     <E key="wizard_neutral | $damage_projectile" value="1" >
     </E>

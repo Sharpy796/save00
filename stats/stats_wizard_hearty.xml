@@ -1,4 +1,4 @@
-<Stats deaths="44" kills="15" player_kills="2" player_projectile_count="0" >
+<Stats deaths="45" kills="17" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -9,6 +9,8 @@
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
     </E>
     <E key="lukki_dark | $damage_curse" value="3" >
     </E>
@@ -47,6 +49,8 @@
     <E key="player" value="2" >
     </E>
     <E key="poring" value="1" >
+    </E>
+    <E key="rat" value="2" >
     </E>
     <E key="scorpion" value="6" >
     </E>

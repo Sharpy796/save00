@@ -1,4 +1,4 @@
-<Stats deaths="17" kills="5" player_kills="1" player_projectile_count="0" >
+<Stats deaths="17" kills="9" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -22,9 +22,11 @@
   <kill_map>
     <E key="player" value="1" >
     </E>
+    <E key="rat" value="3" >
+    </E>
     <E key="scavenger_civilian" value="2" >
     </E>
-    <E key="waterskull" value="2" >
+    <E key="waterskull" value="3" >
     </E>
   </kill_map>
 </Stats>

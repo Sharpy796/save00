@@ -1,4 +1,4 @@
-<Stats deaths="563" kills="45" player_kills="0" player_projectile_count="0" >
+<Stats deaths="566" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="58" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="11" >
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
@@ -54,7 +54,7 @@
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>
-    <E key="hiisi_thief | $damage_melee" value="1" >
+    <E key="hiisi_thief | $damage_melee" value="2" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="46" >
     </E>

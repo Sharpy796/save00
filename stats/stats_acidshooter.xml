@@ -1,4 +1,4 @@
-<Stats deaths="259" kills="22" player_kills="0" player_projectile_count="0" >
+<Stats deaths="262" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
-    <E key="boss_toxic_worm_minion | worm bite" value="19" >
+    <E key="boss_toxic_worm_minion | worm bite" value="22" >
     </E>
     <E key="cargobot | $damage_explosion" value="2" >
     </E>

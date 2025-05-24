@@ -1,8 +1,12 @@
-<Stats deaths="13" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="16" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
     </E>
     <E key="player | $damage_projectile" value="8" >
     </E>
@@ -14,7 +18,13 @@
   <kill_map>
     <E key="failed_alchemist" value="1" >
     </E>
+    <E key="long_ghost" value="1" >
+    </E>
+    <E key="physics_ragdoll_ai_flopper" value="1" >
+    </E>
     <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_manaeater" value="1" >
     </E>
   </kill_map>
 </Stats>

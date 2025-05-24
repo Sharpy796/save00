@@ -1,10 +1,10 @@
-<Stats deaths="22" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="23" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
     <E key="ant | $damage_melee" value="2" >
     </E>
-    <E key="ant_suffocate | $damage_melee" value="2" >
+    <E key="ant_suffocate | $damage_melee" value="3" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="1" >
     </E>
