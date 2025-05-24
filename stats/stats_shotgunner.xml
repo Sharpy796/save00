@@ -1,10 +1,14 @@
-<Stats deaths="604" kills="175" player_kills="3" player_projectile_count="0" >
+<Stats deaths="638" kills="177" player_kills="3" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="2" >
+    </E>
+    <E key=" | kill sync" value="2" >
+    </E>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="17" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -12,9 +16,9 @@
     </E>
     <E key="NULL | $damage_fire" value="33" >
     </E>
-    <E key="NULL | $damage_physicshit" value="43" >
+    <E key="NULL | $damage_physicshit" value="44" >
     </E>
-    <E key="NULL | $damage_radioactive" value="48" >
+    <E key="NULL | $damage_radioactive" value="53" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -32,9 +36,11 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="7" >
+    <E key="NULL | damage from material: lava" value="11" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
+    </E>
+    <E key="NULL | kill sync" value="3" >
     </E>
     <E key="ant_fire | $damage_melee" value="1" >
     </E>
@@ -74,13 +80,15 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="170" >
+    <E key="player | $damage_projectile" value="178" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_slice" value="41" >
     </E>
     <E key="player | chop!" value="2" >
+    </E>
+    <E key="player | kill sync" value="1" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -98,7 +106,9 @@
     </E>
     <E key="slicing_blade | chop!" value="3" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="4" >
+    <E key="slimeshooter | $damage_explosion" value="5" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="2" >
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
@@ -140,7 +150,7 @@
     </E>
     <E key="shotgunner" value="5" >
     </E>
-    <E key="slimeshooter" value="6" >
+    <E key="slimeshooter" value="8" >
     </E>
     <E key="thunderskull" value="1" >
     </E>

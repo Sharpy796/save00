@@ -1,5 +1,9 @@
-<Stats deaths="1242" kills="28" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1287" kills="29" player_kills="1" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="4" >
+    </E>
+    <E key=" | kill sync" value="4" >
+    </E>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
@@ -8,13 +12,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="80" >
+    <E key="NULL | $damage_explosion" value="81" >
     </E>
-    <E key="NULL | $damage_fire" value="174" >
+    <E key="NULL | $damage_fire" value="175" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="62" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
@@ -26,13 +30,15 @@
     </E>
     <E key="NULL | damage from material: acid" value="12" >
     </E>
-    <E key="NULL | damage from material: lava" value="10" >
+    <E key="NULL | damage from material: lava" value="11" >
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="7" >
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="10" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -84,9 +90,9 @@
     </E>
     <E key="mimic_physics | $damage_projectile" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="miner_weak | $damage_explosion" value="7" >
     </E>
-    <E key="miner_weak | $damage_melee" value="8" >
+    <E key="miner_weak | $damage_melee" value="9" >
     </E>
     <E key="phantom_a | $damage_projectile" value="3" >
     </E>
@@ -104,15 +110,17 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="485" >
+    <E key="player | $damage_projectile" value="494" >
     </E>
     <E key="player | $damage_rock_curse" value="45" >
     </E>
-    <E key="player | $damage_slice" value="20" >
+    <E key="player | $damage_slice" value="21" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
     <E key="player | chop!" value="7" >
+    </E>
+    <E key="player | kill sync" value="9" >
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
@@ -128,7 +136,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="9" >
+    <E key="shotgunner_weak | $damage_projectile" value="10" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
     </E>
@@ -170,7 +178,7 @@
     </E>
     <E key="zombie_water" value="1" >
     </E>
-    <E key="zombie_weak" value="11" >
+    <E key="zombie_weak" value="12" >
     </E>
   </kill_map>
 </Stats>

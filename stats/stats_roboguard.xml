@@ -1,10 +1,12 @@
-<Stats deaths="66" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="72" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="1" >
+    </E>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="21" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -16,13 +18,15 @@
     </E>
     <E key="NULL | damage from material: concentrated mana" value="1" >
     </E>
+    <E key="NULL | kill sync" value="1" >
+    </E>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="33" >
+    <E key="player | $damage_projectile" value="34" >
     </E>
   </death_map>
   <kill_map>

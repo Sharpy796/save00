@@ -1,4 +1,4 @@
-<Stats deaths="59" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="61" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
@@ -20,13 +20,15 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="1" >
     </E>
+    <E key="NULL | kill sync" value="1" >
+    </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
     <E key="player | " value="4" >
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="12" >
+    <E key="player | $damage_projectile" value="13" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>

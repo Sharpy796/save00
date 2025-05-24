@@ -1,0 +1,12 @@
+<Stats deaths="1" kills="11" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key=" | No players are alive" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="" value="9" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

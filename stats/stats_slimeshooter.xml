@@ -1,20 +1,22 @@
-<Stats deaths="361" kills="103" player_kills="1" player_projectile_count="0" >
+<Stats deaths="385" kills="113" player_kills="1" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="1" >
+    </E>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="108" >
+    <E key="NULL | $damage_explosion" value="112" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -24,6 +26,8 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
+    <E key="NULL | kill sync" value="4" >
+    </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
     <E key="blob | $damage_melee" value="1" >
@@ -32,7 +36,7 @@
     </E>
     <E key="drone_physics | $damage_projectile" value="1" >
     </E>
-    <E key="firebug | $damage_fire" value="1" >
+    <E key="firebug | $damage_fire" value="2" >
     </E>
     <E key="fireworkman | $damage_projectile" value="1" >
     </E>
@@ -56,7 +60,7 @@
     </E>
     <E key="player | $damage_fire" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="86" >
+    <E key="player | $damage_projectile" value="93" >
     </E>
     <E key="player | $damage_rock_curse" value="10" >
     </E>
@@ -70,9 +74,9 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="6" >
+    <E key="shotgunner | $damage_projectile" value="8" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="4" >
+    <E key="slimeshooter | $damage_explosion" value="5" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
@@ -110,6 +114,8 @@
     </E>
     <E key="drone_mini" value="3" >
     </E>
+    <E key="firebug" value="1" >
+    </E>
     <E key="fly" value="2" >
     </E>
     <E key="frog_bot" value="1" >
@@ -124,17 +130,17 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="62" >
+    <E key="rat" value="67" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="shotgunner" value="4" >
+    <E key="shotgunner" value="7" >
     </E>
     <E key="skeleton" value="1" >
     </E>
-    <E key="slimeshooter" value="4" >
+    <E key="slimeshooter" value="5" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

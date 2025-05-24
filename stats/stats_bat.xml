@@ -1,16 +1,20 @@
-<Stats deaths="612" kills="42" player_kills="1" player_projectile_count="0" >
+<Stats deaths="664" kills="47" player_kills="1" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="9" >
+    </E>
+    <E key=" | kill sync" value="4" >
+    </E>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
     <E key="NULL | " value="9" >
     </E>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="24" >
     </E>
-    <E key="NULL | $damage_fire" value="52" >
+    <E key="NULL | $damage_fire" value="53" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="21" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -24,9 +28,11 @@
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: lava" value="20" >
+    <E key="NULL | damage from material: lava" value="22" >
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="1" >
     </E>
     <E key="bat | $damage_melee" value="4" >
     </E>
@@ -60,13 +66,15 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="189" >
+    <E key="player | $damage_projectile" value="209" >
     </E>
     <E key="player | $damage_slice" value="23" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="rat | $damage_melee" value="5" >
+    <E key="player | kill sync" value="5" >
+    </E>
+    <E key="rat | $damage_melee" value="8" >
     </E>
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
@@ -92,11 +100,11 @@
     </E>
     <E key="forsaken_eye" value="1" >
     </E>
-    <E key="miner" value="1" >
+    <E key="miner" value="3" >
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="18" >
+    <E key="rat" value="21" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
