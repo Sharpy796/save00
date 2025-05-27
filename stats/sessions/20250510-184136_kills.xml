@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="4294" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="4306" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -146,6 +146,8 @@
     </E>
     <E key="darkghost" value="5" >
     </E>
+    <E key="devourer" value="1" >
+    </E>
     <E key="devourer_ghost" value="6" >
     </E>
     <E key="devourer_magic" value="11" >
@@ -234,6 +236,8 @@
     </E>
     <E key="fish" value="35" >
     </E>
+    <E key="fish_angler2" value="1" >
+    </E>
     <E key="fish_large" value="7" >
     </E>
     <E key="flamer" value="2" >
@@ -272,11 +276,11 @@
     </E>
     <E key="gate_monster_d" value="1" >
     </E>
-    <E key="gazer" value="11" >
+    <E key="gazer" value="14" >
     </E>
     <E key="gazer_cold_apotheosis" value="47" >
     </E>
-    <E key="gazer_greater" value="15" >
+    <E key="gazer_greater" value="16" >
     </E>
     <E key="gazer_greater_cold" value="16" >
     </E>
@@ -614,7 +618,7 @@
     </E>
     <E key="sentry" value="3" >
     </E>
-    <E key="serpentor" value="4" >
+    <E key="serpentor" value="5" >
     </E>
     <E key="shaman" value="3" >
     </E>
@@ -670,7 +674,7 @@
     </E>
     <E key="spider_crawler" value="7" >
     </E>
-    <E key="spitmonster" value="9" >
+    <E key="spitmonster" value="11" >
     </E>
     <E key="spittrap_left" value="1" >
     </E>
@@ -724,7 +728,7 @@
     </E>
     <E key="thundermage_big" value="2" >
     </E>
-    <E key="thunderskull" value="15" >
+    <E key="thunderskull" value="16" >
     </E>
     <E key="thundertrap_left" value="1" >
     </E>
@@ -796,7 +800,7 @@
     </E>
     <E key="wizard_earthquake" value="6" >
     </E>
-    <E key="wizard_firemage_greater" value="4" >
+    <E key="wizard_firemage_greater" value="5" >
     </E>
     <E key="wizard_hearty" value="6" >
     </E>
@@ -865,6 +869,8 @@
     <E key="wraith_weirdo_shield" value="7" >
     </E>
     <E key="yoyoer" value="6" >
+    </E>
+    <E key="zap_eel2" value="1" >
     </E>
     <E key="zombie" value="16" >
     </E>
