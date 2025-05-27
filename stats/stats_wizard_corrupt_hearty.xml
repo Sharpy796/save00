@@ -1,14 +1,14 @@
-<Stats deaths="59" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="66" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="1" >
+    <E key="NULL | $damage_fire" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="7" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="11" >
     </E>
     <E key="player | $damage_projectile" value="36" >
     </E>
-    <E key="player | $damage_rock_curse" value="13" >
+    <E key="player | $damage_rock_curse" value="15" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>

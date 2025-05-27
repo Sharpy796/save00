@@ -1,4 +1,4 @@
-<Stats deaths="55" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="55" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="6" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="sniper" value="1" >
     </E>
-    <E key="tank" value="1" >
+    <E key="tank" value="2" >
     </E>
     <E key="tank_rocket" value="1" >
     </E>

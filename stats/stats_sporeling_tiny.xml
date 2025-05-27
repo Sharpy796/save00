@@ -1,4 +1,4 @@
-<Stats deaths="483" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="485" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="94" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="95" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="43" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="bean_pod_crackle | $damage_explosion" value="1" >
     </E>
-    <E key="beanpodupine | $damage_melee" value="1" >
+    <E key="beanpodupine | $damage_melee" value="2" >
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>

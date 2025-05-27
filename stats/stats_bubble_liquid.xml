@@ -1,4 +1,4 @@
-<Stats deaths="356" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="369" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -14,11 +14,11 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="5" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="194" >
+    <E key="NULL | run out of material" value="198" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -42,9 +42,13 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
+    <E key="gazer | $damage_projectile" value="1" >
+    </E>
     <E key="ground_terror_friendly | $damage_melee" value="1" >
     </E>
     <E key="lurker | $damage_projectile" value="1" >
+    </E>
+    <E key="menace | Bite" value="1" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
@@ -60,9 +64,9 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="62" >
+    <E key="player | $damage_projectile" value="64" >
     </E>
-    <E key="player | $damage_rock_curse" value="1" >
+    <E key="player | $damage_rock_curse" value="2" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -91,6 +95,8 @@
     <E key="tank_flame_apotheosis | $damage_fire" value="1" >
     </E>
     <E key="turret_shotgun_left | $damage_projectile" value="1" >
+    </E>
+    <E key="wallmouth | $damage_melee" value="1" >
     </E>
     <E key="wizard_corrupt_hearty | $damage_projectile" value="3" >
     </E>

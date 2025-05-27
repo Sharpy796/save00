@@ -1,4 +1,4 @@
-<Stats deaths="106" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="114" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="angler | worm bite" value="7" >
     </E>
-    <E key="eel | worm bite" value="31" >
+    <E key="eel | worm bite" value="39" >
     </E>
     <E key="fish_angler | chomp!" value="28" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="2191" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2243" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -10,13 +10,13 @@
     </E>
     <E key="NULL | $damage_explosion" value="138" >
     </E>
-    <E key="NULL | $damage_fire" value="61" >
+    <E key="NULL | $damage_fire" value="63" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="69" >
     </E>
-    <E key="NULL | $damage_projectile" value="3" >
+    <E key="NULL | $damage_projectile" value="4" >
     </E>
     <E key="NULL | $status_apotheosis_hex_water_name" value="1" >
     </E>
@@ -98,6 +98,8 @@
     </E>
     <E key="fireworkman | $damage_projectile" value="2" >
     </E>
+    <E key="fleshclops2 | $damage_projectile" value="1" >
+    </E>
     <E key="fly | $damage_melee" value="3" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="2" >
@@ -120,7 +122,17 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
+    <E key="graham_gasser_hell | $damage_curse" value="3" >
+    </E>
+    <E key="graham_gasser_hell | $damage_melee" value="1" >
+    </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="7" >
+    </E>
+    <E key="ground_flesh2 | $damage_melee" value="1" >
+    </E>
+    <E key="hand2 | $damage_melee" value="4" >
+    </E>
+    <E key="hiisi_chef_hell | $damage_melee" value="1" >
     </E>
     <E key="hisii_engineer | $damage_melee" value="2" >
     </E>
@@ -172,7 +184,7 @@
     </E>
     <E key="miner | $damage_melee" value="8" >
     </E>
-    <E key="miner_hell | $damage_explosion" value="8" >
+    <E key="miner_hell | $damage_explosion" value="13" >
     </E>
     <E key="miner_hell | $damage_melee" value="4" >
     </E>
@@ -204,9 +216,9 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="180" >
+    <E key="player | $damage_projectile" value="181" >
     </E>
-    <E key="player | $damage_rock_curse" value="14" >
+    <E key="player | $damage_rock_curse" value="15" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -256,9 +268,9 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="92" >
     </E>
-    <E key="shotgunner_hell | $damage_melee" value="4" >
+    <E key="shotgunner_hell | $damage_melee" value="5" >
     </E>
-    <E key="shotgunner_hell | $damage_projectile" value="7" >
+    <E key="shotgunner_hell | $damage_projectile" value="8" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="18" >
     </E>
@@ -274,7 +286,7 @@
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>
-    <E key="sniper_hell | $damage_projectile" value="10" >
+    <E key="sniper_hell | $damage_projectile" value="15" >
     </E>
     <E key="snowfrog | $damage_melee" value="3" >
     </E>
@@ -320,9 +332,11 @@
     </E>
     <E key="toxicmage_acid2 | $damage_projectile" value="1" >
     </E>
-    <E key="walleye | $damage_explosion" value="11" >
+    <E key="walleye | $damage_explosion" value="21" >
     </E>
-    <E key="walleye | $damage_projectile" value="12" >
+    <E key="walleye | $damage_projectile" value="20" >
+    </E>
+    <E key="wallmouth | $damage_melee" value="2" >
     </E>
     <E key="watermage | $damage_explosion" value="5" >
     </E>
@@ -353,6 +367,8 @@
     <E key="worm_big | worm bite" value="26" >
     </E>
     <E key="worm_fungal | worm bite" value="2" >
+    </E>
+    <E key="worm_maggot_big | worm bite" value="4" >
     </E>
     <E key="worm_tiny | worm bite" value="21" >
     </E>

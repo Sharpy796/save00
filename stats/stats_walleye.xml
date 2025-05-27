@@ -1,8 +1,10 @@
-<Stats deaths="16" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="22" kills="72" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="graham_gasser_hell | bzzt!" value="1" >
     </E>
     <E key="maggot_tiny | $damage_curse" value="1" >
     </E>
@@ -12,21 +14,41 @@
     </E>
     <E key="meatmaggot | worm bite" value="4" >
     </E>
-    <E key="miner_hell | $damage_explosion" value="1" >
+    <E key="miner_hell | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
     </E>
     <E key="sniper_hell | $damage_melee" value="1" >
     </E>
+    <E key="worm_maggot_big | worm bite" value="2" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="chainsawer_hell" value="6" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="firemage" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="graham_gasser_hell" value="1" >
+    </E>
+    <E key="meatmaggot" value="3" >
+    </E>
+    <E key="miner_hell" value="1" >
+    </E>
     <E key="potion" value="2" >
     </E>
-    <E key="rat" value="23" >
+    <E key="rat" value="41" >
     </E>
-    <E key="shotgunner_hell" value="4" >
+    <E key="shotgunner_hell" value="6" >
     </E>
-    <E key="sniper_hell" value="2" >
+    <E key="sniper_hell" value="3" >
     </E>
-    <E key="wallmouth" value="1" >
+    <E key="tnt_hell" value="3" >
+    </E>
+    <E key="wallmouth" value="3" >
     </E>
   </kill_map>
 </Stats>

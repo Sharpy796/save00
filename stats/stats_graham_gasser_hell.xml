@@ -1,0 +1,30 @@
+<Stats deaths="11" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="7" >
+    </E>
+    <E key="walleye | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_maggot_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="chainsawer_hell" value="1" >
+    </E>
+    <E key="flesh_monster" value="3" >
+    </E>
+    <E key="meatmaggot" value="5" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="shotgunner_hell" value="1" >
+    </E>
+    <E key="walleye" value="1" >
+    </E>
+    <E key="wallmouth" value="1" >
+    </E>
+    <E key="worm_big" value="1" >
+    </E>
+  </kill_map>
+</Stats>

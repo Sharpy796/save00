@@ -1,4 +1,4 @@
-<Stats deaths="130" kills="86" player_kills="0" player_projectile_count="0" >
+<Stats deaths="132" kills="87" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="10" >
     </E>
@@ -8,11 +8,13 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    </E>
+    <E key="mutant2 | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
@@ -45,6 +47,8 @@
     <E key="deer" value="1" >
     </E>
     <E key="drone_physics" value="1" >
+    </E>
+    <E key="giant_alt" value="1" >
     </E>
     <E key="glue" value="8" >
     </E>

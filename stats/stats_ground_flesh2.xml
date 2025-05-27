@@ -1,0 +1,14 @@
+<Stats deaths="5" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_rock_curse" value="1" >
+    </E>
+    <E key="worm_maggot_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

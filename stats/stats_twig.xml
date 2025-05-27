@@ -1,22 +1,26 @@
-<Stats deaths="197" kills="133" player_kills="0" player_projectile_count="0" >
+<Stats deaths="248" kills="178" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
     <E key="NULL | $damage_fire" value="44" >
+    </E>
+    <E key="jungle_worm | worm bite" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="15" >
+    <E key="player | $damage_projectile" value="19" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
     <E key="slime_turret | $damage_projectile" value="1" >
     </E>
-    <E key="twig | " value="133" >
+    <E key="twig | " value="178" >
     </E>
   </death_map>
   <kill_map>
-    <E key="twig" value="133" >
+    <E key="twig" value="178" >
     </E>
   </kill_map>
 </Stats>
