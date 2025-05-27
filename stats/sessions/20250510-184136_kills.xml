@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="4306" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="4554" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -14,15 +14,15 @@
     </E>
     <E key="alchemist" value="1" >
     </E>
-    <E key="ant" value="1" >
+    <E key="ant" value="6" >
     </E>
-    <E key="ant_fire" value="3" >
+    <E key="ant_fire" value="14" >
     </E>
-    <E key="ant_pheromone" value="1" >
+    <E key="ant_pheromone" value="3" >
     </E>
-    <E key="ant_suffocate" value="3" >
+    <E key="ant_suffocate" value="13" >
     </E>
-    <E key="apotheosis_ant_eggs" value="8" >
+    <E key="apotheosis_ant_eggs" value="14" >
     </E>
     <E key="archer" value="1" >
     </E>
@@ -100,7 +100,7 @@
     </E>
     <E key="bouncer" value="2" >
     </E>
-    <E key="bubble_liquid" value="15" >
+    <E key="bubble_liquid" value="16" >
     </E>
     <E key="c_basebot_speeder_apotheosis" value="4" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="chainsawer" value="8" >
     </E>
-    <E key="chest_great_boss" value="1" >
+    <E key="chest_great_boss" value="2" >
     </E>
     <E key="chest_great_mimic" value="2" >
     </E>
@@ -140,7 +140,7 @@
     </E>
     <E key="crystal_physics" value="3" >
     </E>
-    <E key="crystal_wandsteal" value="18" >
+    <E key="crystal_wandsteal" value="25" >
     </E>
     <E key="cyborg" value="1" >
     </E>
@@ -180,6 +180,8 @@
     </E>
     <E key="earthmage" value="5" >
     </E>
+    <E key="eel" value="1" >
+    </E>
     <E key="eldari_big" value="3" >
     </E>
     <E key="electric_bullet" value="2" >
@@ -192,9 +194,9 @@
     </E>
     <E key="enchanted_duck" value="11" >
     </E>
-    <E key="enlightened_alchemist" value="4" >
+    <E key="enlightened_alchemist" value="8" >
     </E>
-    <E key="ent" value="2" >
+    <E key="ent" value="4" >
     </E>
     <E key="eradicator" value="9" >
     </E>
@@ -203,6 +205,8 @@
     <E key="essence_eater" value="1" >
     </E>
     <E key="ethereal_being" value="3" >
+    </E>
+    <E key="eviltemple_tentacle_trap_left" value="1" >
     </E>
     <E key="eye_bat" value="9" >
     </E>
@@ -244,7 +248,7 @@
     </E>
     <E key="flutterpede" value="1" >
     </E>
-    <E key="fly" value="2" >
+    <E key="fly" value="12" >
     </E>
     <E key="forest_monolith" value="1" >
     </E>
@@ -252,7 +256,7 @@
     </E>
     <E key="frog" value="2" >
     </E>
-    <E key="frog_bot" value="4" >
+    <E key="frog_bot" value="8" >
     </E>
     <E key="fungus" value="16" >
     </E>
@@ -318,7 +322,7 @@
     </E>
     <E key="graham_fuzz" value="8" >
     </E>
-    <E key="graham_miner_gasser" value="17" >
+    <E key="graham_miner_gasser" value="18" >
     </E>
     <E key="ground_terror" value="3" >
     </E>
@@ -334,7 +338,9 @@
     </E>
     <E key="hell_overseer" value="1" >
     </E>
-    <E key="hideous_mass" value="16" >
+    <E key="hideous_mass" value="19" >
+    </E>
+    <E key="hiisi_thief" value="1" >
     </E>
     <E key="hisii_engineer" value="3" >
     </E>
@@ -370,7 +376,7 @@
     </E>
     <E key="jar_of_urine" value="1" >
     </E>
-    <E key="jungle_flower" value="2" >
+    <E key="jungle_flower" value="3" >
     </E>
     <E key="junkbot" value="4" >
     </E>
@@ -394,7 +400,7 @@
     </E>
     <E key="long_ghost" value="13" >
     </E>
-    <E key="longleg" value="417" >
+    <E key="longleg" value="418" >
     </E>
     <E key="longleg_gold" value="1" >
     </E>
@@ -402,7 +408,7 @@
     </E>
     <E key="lost_soul_big" value="1" >
     </E>
-    <E key="lukki" value="3" >
+    <E key="lukki" value="4" >
     </E>
     <E key="lukki_blue" value="4" >
     </E>
@@ -412,7 +418,7 @@
     </E>
     <E key="lukki_longleg" value="1" >
     </E>
-    <E key="lukki_ominous" value="7" >
+    <E key="lukki_ominous" value="8" >
     </E>
     <E key="lukki_red" value="3" >
     </E>
@@ -420,7 +426,7 @@
     </E>
     <E key="lukki_swamp2" value="2" >
     </E>
-    <E key="lukki_tentacle_hungry" value="5" >
+    <E key="lukki_tentacle_hungry" value="11" >
     </E>
     <E key="lukki_tiny" value="6" >
     </E>
@@ -432,7 +438,7 @@
     </E>
     <E key="maggot" value="2" >
     </E>
-    <E key="manadrain_crystal" value="6" >
+    <E key="manadrain_crystal" value="9" >
     </E>
     <E key="mantis" value="2" >
     </E>
@@ -452,7 +458,7 @@
     </E>
     <E key="mimic_potion" value="1" >
     </E>
-    <E key="miner" value="16" >
+    <E key="miner" value="17" >
     </E>
     <E key="miner_fire" value="1" >
     </E>
@@ -524,7 +530,9 @@
     </E>
     <E key="pipe_bomb" value="3" >
     </E>
-    <E key="plant_boss" value="7" >
+    <E key="plant_boss" value="8" >
+    </E>
+    <E key="plant_boss_egg" value="1" >
     </E>
     <E key="player_evil" value="3" >
     </E>
@@ -534,7 +542,7 @@
     </E>
     <E key="polymorph_crystal" value="11" >
     </E>
-    <E key="polymorph_crystal_chaotic" value="3" >
+    <E key="polymorph_crystal_chaotic" value="4" >
     </E>
     <E key="polyp_gas" value="1" >
     </E>
@@ -556,11 +564,17 @@
     </E>
     <E key="potionmaster2" value="5" >
     </E>
+    <E key="pylon_escium" value="2" >
+    </E>
+    <E key="pylon_hex_water" value="2" >
+    </E>
+    <E key="pylon_protection_proj" value="1" >
+    </E>
     <E key="quin" value="1" >
     </E>
     <E key="radiobot" value="1" >
     </E>
-    <E key="rat" value="19" >
+    <E key="rat" value="36" >
     </E>
     <E key="roboguard" value="5" >
     </E>
@@ -570,7 +584,7 @@
     </E>
     <E key="scavenger_alcohol" value="3" >
     </E>
-    <E key="scavenger_civilian" value="1" >
+    <E key="scavenger_civilian" value="3" >
     </E>
     <E key="scavenger_clusterbomb" value="13" >
     </E>
@@ -582,7 +596,7 @@
     </E>
     <E key="scavenger_glue" value="14" >
     </E>
-    <E key="scavenger_grenade" value="118" >
+    <E key="scavenger_grenade" value="119" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -610,11 +624,11 @@
     </E>
     <E key="scorpio" value="2" >
     </E>
-    <E key="scorpion" value="24" >
+    <E key="scorpion" value="26" >
     </E>
-    <E key="seed_shot" value="67" >
+    <E key="seed_shot" value="87" >
     </E>
-    <E key="seeker" value="22" >
+    <E key="seeker" value="40" >
     </E>
     <E key="sentry" value="3" >
     </E>
@@ -622,13 +636,13 @@
     </E>
     <E key="shaman" value="3" >
     </E>
-    <E key="shaman_greater_apotheosis" value="2" >
+    <E key="shaman_greater_apotheosis" value="5" >
     </E>
     <E key="sheep" value="1" >
     </E>
     <E key="shooterflower" value="1" >
     </E>
-    <E key="shotgunner" value="14" >
+    <E key="shotgunner" value="15" >
     </E>
     <E key="shotgunner_weak" value="2" >
     </E>
@@ -662,7 +676,7 @@
     </E>
     <E key="sneeker" value="3" >
     </E>
-    <E key="sniper" value="12" >
+    <E key="sniper" value="13" >
     </E>
     <E key="snowcrystal" value="3" >
     </E>
@@ -696,11 +710,13 @@
     </E>
     <E key="summoner" value="3" >
     </E>
-    <E key="swamp_boil" value="7" >
+    <E key="sunken_creature" value="2" >
     </E>
-    <E key="swamp_pillar" value="1" >
+    <E key="swamp_boil" value="13" >
     </E>
-    <E key="tank" value="6" >
+    <E key="swamp_pillar" value="3" >
+    </E>
+    <E key="tank" value="7" >
     </E>
     <E key="tank_fire2" value="1" >
     </E>
@@ -714,13 +730,13 @@
     </E>
     <E key="tentacler" value="10" >
     </E>
-    <E key="tentacler_big" value="6" >
+    <E key="tentacler_big" value="8" >
     </E>
     <E key="tentacler_small" value="8" >
     </E>
     <E key="terminator" value="1" >
     </E>
-    <E key="tesla_turret" value="4" >
+    <E key="tesla_turret" value="5" >
     </E>
     <E key="thou" value="2" >
     </E>
@@ -728,7 +744,7 @@
     </E>
     <E key="thundermage_big" value="2" >
     </E>
-    <E key="thunderskull" value="16" >
+    <E key="thunderskull" value="23" >
     </E>
     <E key="thundertrap_left" value="1" >
     </E>
@@ -754,7 +770,7 @@
     </E>
     <E key="valkyrie" value="43" >
     </E>
-    <E key="wand_ghost" value="17" >
+    <E key="wand_ghost" value="18" >
     </E>
     <E key="wandedit_crystal" value="1" >
     </E>
@@ -762,7 +778,7 @@
     </E>
     <E key="wandmaster2" value="2" >
     </E>
-    <E key="watermage" value="12" >
+    <E key="watermage" value="15" >
     </E>
     <E key="watermage_toxic" value="9" >
     </E>
@@ -776,23 +792,23 @@
     </E>
     <E key="wizard_copeseethmald" value="2" >
     </E>
-    <E key="wizard_corrupt_ambrosia" value="1" >
+    <E key="wizard_corrupt_ambrosia" value="2" >
     </E>
-    <E key="wizard_corrupt_hearty" value="7" >
+    <E key="wizard_corrupt_hearty" value="13" >
     </E>
-    <E key="wizard_corrupt_manaeater" value="9" >
+    <E key="wizard_corrupt_manaeater" value="15" >
     </E>
-    <E key="wizard_corrupt_neutral" value="7" >
+    <E key="wizard_corrupt_neutral" value="14" >
     </E>
-    <E key="wizard_corrupt_swapper" value="5" >
+    <E key="wizard_corrupt_swapper" value="8" >
     </E>
-    <E key="wizard_corrupt_teleport" value="13" >
+    <E key="wizard_corrupt_teleport" value="21" >
     </E>
     <E key="wizard_corrupt_twitchy" value="2" >
     </E>
-    <E key="wizard_corrupt_wands" value="7" >
+    <E key="wizard_corrupt_wands" value="19" >
     </E>
-    <E key="wizard_corrupt_weaken" value="4" >
+    <E key="wizard_corrupt_weaken" value="18" >
     </E>
     <E key="wizard_dark" value="6" >
     </E>
@@ -832,7 +848,7 @@
     </E>
     <E key="wizard_tiny" value="6" >
     </E>
-    <E key="wizard_transmutation" value="9" >
+    <E key="wizard_transmutation" value="12" >
     </E>
     <E key="wizard_twin" value="7" >
     </E>
@@ -842,7 +858,7 @@
     </E>
     <E key="worm" value="1" >
     </E>
-    <E key="worm_big" value="335" >
+    <E key="worm_big" value="337" >
     </E>
     <E key="worm_creepy" value="3" >
     </E>
@@ -853,6 +869,8 @@
     <E key="worm_pale" value="5" >
     </E>
     <E key="worm_robot" value="1" >
+    </E>
+    <E key="worm_spine" value="3" >
     </E>
     <E key="worm_tiny" value="3" >
     </E>
@@ -872,7 +890,7 @@
     </E>
     <E key="zap_eel2" value="1" >
     </E>
-    <E key="zombie" value="16" >
+    <E key="zombie" value="17" >
     </E>
     <E key="zombie_weak" value="7" >
     </E>

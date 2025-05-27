@@ -1,4 +1,4 @@
-<Stats deaths="81" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="85" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -26,9 +26,9 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="17" >
+    <E key="player | $damage_projectile" value="19" >
     </E>
-    <E key="player | $damage_rock_curse" value="11" >
+    <E key="player | $damage_rock_curse" value="12" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -37,6 +37,8 @@
     <E key="tentacle_portal_npc | $damage_melee" value="1" >
     </E>
     <E key="wizard_transmutation | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
     <E key="worm_pale | worm bite" value="8" >
     </E>
@@ -48,7 +50,7 @@
     </E>
     <E key="physics_torch_stand_purple" value="1" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="13" >
     </E>
     <E key="wizard_transmutation" value="1" >
     </E>

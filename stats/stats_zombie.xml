@@ -1,4 +1,4 @@
-<Stats deaths="566" kills="45" player_kills="0" player_projectile_count="0" >
+<Stats deaths="570" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -14,6 +14,8 @@
     </E>
     <E key="NULL | $damage_physicshit" value="11" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="2" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="3" >
@@ -28,7 +30,7 @@
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="1" >
+    <E key="ant | $damage_melee" value="2" >
     </E>
     <E key="ant_fire | $damage_melee" value="1" >
     </E>
@@ -90,7 +92,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="67" >
+    <E key="player | $damage_projectile" value="68" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>

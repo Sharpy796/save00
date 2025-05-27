@@ -1,4 +1,4 @@
-<Stats deaths="351" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="356" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="193" >
+    <E key="NULL | run out of material" value="194" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="5" >
+    <E key="player | $damage_slice" value="6" >
     </E>
     <E key="player | chop!" value="3" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="scavenger_smg | $damage_projectile" value="3" >
     </E>
-    <E key="seeker | Etsijä's shock" value="1" >
+    <E key="seeker | Etsijä's shock" value="2" >
     </E>
     <E key="shotgunner | $damage_projectile" value="3" >
     </E>
@@ -92,7 +92,9 @@
     </E>
     <E key="turret_shotgun_left | $damage_projectile" value="1" >
     </E>
-    <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
+    <E key="wizard_corrupt_hearty | $damage_projectile" value="3" >
+    </E>
+    <E key="wizard_corrupt_neutral | $damage_projectile" value="1" >
     </E>
     <E key="worm | worm bite" value="1" >
     </E>

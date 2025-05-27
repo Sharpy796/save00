@@ -1,10 +1,14 @@
-<Stats deaths="38" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="49" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="2" >
+    <E key="NULL | $damage_fire" value="3" >
     </E>
     <E key="NULL | damage from material: (Apotheosis) Bloody Stonework" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Apotheosis) Infectious Blood" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -14,7 +18,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="33" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>

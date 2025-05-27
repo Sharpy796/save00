@@ -1,4 +1,4 @@
-<Stats deaths="194" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="199" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="30" >
     </E>
@@ -7,6 +7,8 @@
     <E key="NULL | $damage_physicshit" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
+    </E>
+    <E key="ant_pheromone | $damage_melee" value="1" >
     </E>
     <E key="cargobot | $damage_explosion" value="3" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="57" >
+    <E key="player | $damage_projectile" value="61" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>

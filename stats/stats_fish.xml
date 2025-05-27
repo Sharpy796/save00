@@ -1,4 +1,4 @@
-<Stats deaths="727" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="745" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -30,9 +30,9 @@
     </E>
     <E key="drone_mini | $damage_projectile" value="2" >
     </E>
-    <E key="eel | worm bite" value="34" >
+    <E key="eel | worm bite" value="38" >
     </E>
-    <E key="fish_angler | chomp!" value="39" >
+    <E key="fish_angler | chomp!" value="50" >
     </E>
     <E key="fish_giga | $animal_fish_giga" value="4" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="rat | $damage_melee" value="6" >
     </E>
-    <E key="shark | worm bite" value="9" >
+    <E key="shark | worm bite" value="12" >
     </E>
     <E key="shotgunner | $damage_projectile" value="5" >
     </E>

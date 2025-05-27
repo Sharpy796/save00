@@ -1,26 +1,32 @@
-<Stats deaths="1587" kills="28" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1617" kills="29" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="57" >
+    <E key="NULL | $damage_drowning" value="60" >
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="80" >
+    <E key="NULL | $damage_explosion" value="83" >
     </E>
     <E key="NULL | $damage_fire" value="188" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="62" >
+    <E key="NULL | $damage_physicshit" value="63" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
+    <E key="NULL | $status_apotheosis_hex_oil_name" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="11" >
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -48,7 +54,7 @@
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="5" >
     </E>
@@ -66,7 +72,7 @@
     </E>
     <E key="hazmat | $damage_melee" value="3" >
     </E>
-    <E key="hideous_mass | $damage_projectile" value="1" >
+    <E key="hideous_mass | $damage_projectile" value="3" >
     </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
@@ -90,6 +96,8 @@
     </E>
     <E key="miner_weak | $damage_melee" value="8" >
     </E>
+    <E key="miniboss_pit_02 | $damage_projectile" value="4" >
+    </E>
     <E key="phantom_a | $damage_projectile" value="3" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
@@ -106,7 +114,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="766" >
+    <E key="player | $damage_projectile" value="767" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
@@ -128,7 +136,7 @@
     </E>
     <E key="rock_curse | $damage_rock_curse" value="2" >
     </E>
-    <E key="seeker | Etsijä's shock" value="3" >
+    <E key="seeker | Etsijä's shock" value="5" >
     </E>
     <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
@@ -148,7 +156,11 @@
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>
-    <E key="wizard_corrupt_wands | $damage_projectile" value="5" >
+    <E key="wizard_corrupt_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_corrupt_wands | $damage_projectile" value="8" >
+    </E>
+    <E key="wizard_corrupt_weaken | $damage_projectile" value="2" >
     </E>
     <E key="worm | worm bite" value="13" >
     </E>
@@ -161,6 +173,8 @@
   </death_map>
   <kill_map>
     <E key="longleg" value="3" >
+    </E>
+    <E key="longleg_pillar" value="1" >
     </E>
     <E key="miner_weak" value="4" >
     </E>

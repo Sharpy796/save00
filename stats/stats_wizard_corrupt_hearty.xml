@@ -1,4 +1,4 @@
-<Stats deaths="53" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="59" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="30" >
+    <E key="player | $damage_projectile" value="36" >
     </E>
     <E key="player | $damage_rock_curse" value="13" >
     </E>
@@ -16,9 +16,13 @@
   <kill_map>
     <E key="bloodshot_BoC" value="1" >
     </E>
-    <E key="bubble_liquid" value="2" >
+    <E key="bubble_liquid" value="3" >
     </E>
-    <E key="scorpion" value="7" >
+    <E key="longleg" value="1" >
+    </E>
+    <E key="physics_torch_stand_blue" value="1" >
+    </E>
+    <E key="scorpion" value="14" >
     </E>
     <E key="thunderskull" value="1" >
     </E>
