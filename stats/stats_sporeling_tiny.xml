@@ -1,4 +1,4 @@
-<Stats deaths="499" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="501" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="105" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="106" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="44" >
     </E>
@@ -83,6 +83,8 @@
     <E key="shooterflower | $damage_projectile" value="9" >
     </E>
     <E key="sporeling_tiny | $damage_holy" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>

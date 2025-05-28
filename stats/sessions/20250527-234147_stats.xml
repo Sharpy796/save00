@@ -1,0 +1,16 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="3" damage_taken="4.05841" dead="1" death_count="0" death_pos.x="120.82" death_pos.y="2164.11" enemies_killed="10" gold="13" gold_all="288" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="7" kicks="29" killed_by="(new_enemies) Ötökkä | projectile" killed_by_extra="" places_visited="3" playtime="295.317" playtime_str="0:04:55" projectiles_shot="200" streaks="0" teleports="0" wands_edited="4" world_seed="1582845202" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="3.60222" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="9" gold="3" gold_all="278" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="5" kicks="29" killed_by="" killed_by_extra="" places_visited="2" playtime="272.833" playtime_str="0:04:32" projectiles_shot="149" streaks="0" teleports="0" wands_edited="4" world_seed="1582845202" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Aquifer" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="1633" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1645" kills="29" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -20,13 +20,15 @@
     </E>
     <E key="NULL | $status_apotheosis_hex_oil_name" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="10" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="16" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -114,11 +116,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="772" >
+    <E key="player | $damage_projectile" value="780" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="22" >
+    <E key="player | $damage_slice" value="23" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>

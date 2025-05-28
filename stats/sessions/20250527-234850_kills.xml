@@ -1,0 +1,50 @@
+<Stats deaths="1" kills="43" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bomb" value="3" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="hisii_giga_bomb" value="1" >
+    </E>
+    <E key="larva_crawler" value="3" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="longleg_big" value="1" >
+    </E>
+    <E key="longleg_gold" value="2" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="rat" value="3" >
+    </E>
+    <E key="skeleton" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_mega" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="toxicmage2" value="1" >
+    </E>
+    <E key="toxicmage_barf" value="2" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

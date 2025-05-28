@@ -1,4 +1,4 @@
-<Stats deaths="808" kills="143" player_kills="1" player_projectile_count="0" >
+<Stats deaths="811" kills="143" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="7" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -37,6 +37,8 @@
     <E key="bigzombie | $damage_melee" value="2" >
     </E>
     <E key="boss_pit | $damage_explosion" value="2" >
+    </E>
+    <E key="cargobot | $damage_explosion" value="2" >
     </E>
     <E key="cargobot | $damage_projectile" value="1" >
     </E>

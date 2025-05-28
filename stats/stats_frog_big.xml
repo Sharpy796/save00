@@ -1,4 +1,4 @@
-<Stats deaths="66" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="67" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -38,13 +38,15 @@
     </E>
     <E key="spore_sentient | $damage_explosion" value="1" >
     </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="bigzombie" value="1" >
     </E>
     <E key="blob" value="1" >
     </E>
-    <E key="frog" value="3" >
+    <E key="frog" value="5" >
     </E>
     <E key="frog_big" value="5" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="669" kills="15" player_kills="1" player_projectile_count="0" >
+<Stats deaths="675" kills="15" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="acidshooter_weak | $damage_projectile" value="3" >
     </E>
-    <E key="chainsawer | $damage_melee" value="2" >
+    <E key="chainsawer | $damage_melee" value="3" >
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="58" >
+    <E key="miner_weak | $damage_explosion" value="59" >
     </E>
     <E key="miner_weak | $damage_melee" value="30" >
     </E>
@@ -58,15 +58,17 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="181" >
+    <E key="player | $damage_projectile" value="182" >
     </E>
-    <E key="player | $damage_slice" value="34" >
+    <E key="player | $damage_slice" value="36" >
     </E>
     <E key="player | $graham_name_bramball" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="18" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="poring | $damage_melee" value="1" >
     </E>
     <E key="shotgunner_weak | $damage_melee" value="12" >
     </E>

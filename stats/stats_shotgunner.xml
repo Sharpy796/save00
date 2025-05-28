@@ -1,4 +1,4 @@
-<Stats deaths="605" kills="175" player_kills="3" player_projectile_count="0" >
+<Stats deaths="607" kills="176" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -42,6 +42,8 @@
     </E>
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
+    <E key="chest_great_mimic | $damage_melee" value="1" >
+    </E>
     <E key="commander | $damage_explosion" value="2" >
     </E>
     <E key="drone_lasership | $damage_explosion" value="1" >
@@ -54,7 +56,7 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="10" >
+    <E key="iceskull | $damage_explosion" value="11" >
     </E>
     <E key="iceskull | $damage_ice" value="2" >
     </E>
@@ -134,7 +136,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="115" >
+    <E key="rat" value="116" >
     </E>
     <E key="scorpion" value="1" >
     </E>

@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="47" damage_taken="2.08867e+023" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5267" gold="579378" gold_all="1383368" gold_infinite="0" healed="2648.08" heart_containers="0" hp="100" items="803" kicks="1593" killed_by="" killed_by_extra="" places_visited="47" playtime="71738.2" playtime_str="19:55:38" projectiles_shot="151508" streaks="0" teleports="7" wands_edited="112" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="48" damage_taken="2.08867e+023" dead="1" death_count="0" death_pos.x="-258.168" death_pos.y="-5683" enemies_killed="5267" gold="546830" gold_all="1350820" gold_infinite="0" healed="2672.58" heart_containers="0" hp="100" items="805" kicks="1593" killed_by="" killed_by_extra=", while polymorphed to (Vanilla) Lammas" places_visited="48" playtime="75359.1" playtime_str="20:55:59" projectiles_shot="151508" streaks="0" teleports="7" wands_edited="112" world_seed="2044312949" >
   </stats>
   <biome_baseline biomes_visited_with_wands="41" damage_taken="2654.95" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3964" gold="36858" gold_all="838938" gold_infinite="0" healed="1408.66" heart_containers="0" hp="100" items="503" kicks="1010" killed_by="" killed_by_extra="" places_visited="41" playtime="47662.8" playtime_str="13:14:22" projectiles_shot="148273" streaks="0" teleports="4" wands_edited="96" world_seed="2044312949" >
   </biome_baseline>
@@ -29,6 +29,8 @@
     <E key="$biome_desert" value="1" >
     </E>
     <E key="$biome_desert_pit" value="1" >
+    </E>
+    <E key="$biome_empyrean" value="1" >
     </E>
     <E key="$biome_evil_temple" value="1" >
     </E>

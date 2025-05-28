@@ -1,4 +1,4 @@
-<Stats deaths="2267" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2293" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="44" >
     </E>
-    <E key="NULL | $damage_explosion" value="138" >
+    <E key="NULL | $damage_explosion" value="140" >
     </E>
     <E key="NULL | $damage_fire" value="63" >
     </E>
@@ -22,13 +22,15 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="17" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="9" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="3" >
     </E>
     <E key="NULL | damage from material: (new_enemies) weak acid" value="1" >
     </E>
@@ -122,6 +124,8 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
+    <E key="graham_fuzz | $damage_electricity" value="1" >
+    </E>
     <E key="graham_gasser_hell | $damage_curse" value="13" >
     </E>
     <E key="graham_gasser_hell | $damage_melee" value="1" >
@@ -134,7 +138,7 @@
     </E>
     <E key="hiisi_chef_hell | $damage_melee" value="1" >
     </E>
-    <E key="hisii_engineer | $damage_melee" value="2" >
+    <E key="hisii_engineer | $damage_melee" value="4" >
     </E>
     <E key="hisii_hobo | $damage_melee" value="3" >
     </E>
@@ -160,7 +164,7 @@
     </E>
     <E key="icicle_king | $damage_projectile" value="1" >
     </E>
-    <E key="invisiman | $damage_melee" value="1" >
+    <E key="invisiman | $damage_melee" value="2" >
     </E>
     <E key="invisiman | $damage_slice" value="4" >
     </E>
@@ -208,7 +212,7 @@
     </E>
     <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="47" >
+    <E key="player | $damage_explosion" value="50" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -266,23 +270,23 @@
     </E>
     <E key="shotgunner | $damage_melee" value="23" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="92" >
+    <E key="shotgunner | $damage_projectile" value="93" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
     <E key="shotgunner_hell | $damage_projectile" value="10" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="18" >
+    <E key="slimeshooter | $damage_explosion" value="21" >
     </E>
     <E key="slimeshooter | $damage_melee" value="1" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="43" >
+    <E key="slimeshooter | $damage_projectile" value="45" >
     </E>
     <E key="sniper | $damage_explosion" value="15" >
     </E>
-    <E key="sniper | $damage_melee" value="18" >
+    <E key="sniper | $damage_melee" value="20" >
     </E>
-    <E key="sniper | $damage_projectile" value="67" >
+    <E key="sniper | $damage_projectile" value="68" >
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>
@@ -302,7 +306,7 @@
     </E>
     <E key="tank | $damage_explosion" value="9" >
     </E>
-    <E key="tank | $damage_projectile" value="7" >
+    <E key="tank | $damage_projectile" value="8" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="7" >
     </E>

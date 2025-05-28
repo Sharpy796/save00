@@ -1,4 +1,4 @@
-<Stats deaths="161" kills="46" player_kills="0" player_projectile_count="0" >
+<Stats deaths="162" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="6" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_physicshit" value="16" >
+    <E key="NULL | $damage_physicshit" value="17" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -60,6 +60,8 @@
     </E>
     <E key="drone_lasership" value="1" >
     </E>
+    <E key="frog_big" value="1" >
+    </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
     <E key="icemage2" value="1" >
@@ -74,11 +76,13 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="16" >
+    <E key="rat" value="17" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>
     <E key="snowman2" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="1" >
     </E>
     <E key="tank" value="1" >
     </E>

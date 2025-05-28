@@ -1,10 +1,10 @@
-<Stats deaths="387" kills="330" player_kills="0" player_projectile_count="0" >
+<Stats deaths="389" kills="335" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="gazer_cold_apotheosis | $damage_projectile" value="3" >
     </E>
-    <E key="gazer_greater_cold | $damage_projectile" value="1" >
+    <E key="gazer_greater_cold | $damage_projectile" value="2" >
     </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="1" >
     </E>
@@ -104,7 +104,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="axeman" value="3" >
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="axeman" value="4" >
     </E>
     <E key="coldshot" value="45" >
     </E>
@@ -113,6 +115,8 @@
     <E key="fireskull" value="1" >
     </E>
     <E key="glue" value="7" >
+    </E>
+    <E key="graham_miner_gasser" value="1" >
     </E>
     <E key="iceskull" value="58" >
     </E>
@@ -140,7 +144,7 @@
     </E>
     <E key="scavenger_smg" value="12" >
     </E>
-    <E key="shotgunner" value="12" >
+    <E key="shotgunner" value="13" >
     </E>
     <E key="skycrystal_physics" value="4" >
     </E>

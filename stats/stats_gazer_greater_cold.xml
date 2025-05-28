@@ -1,4 +1,4 @@
-<Stats deaths="62" kills="42" player_kills="0" player_projectile_count="0" >
+<Stats deaths="62" kills="43" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="gazer_greater_cold" value="2" >
     </E>
-    <E key="iceskull" value="1" >
+    <E key="iceskull" value="2" >
     </E>
     <E key="pebble_physics" value="3" >
     </E>

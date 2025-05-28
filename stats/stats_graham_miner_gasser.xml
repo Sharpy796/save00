@@ -1,4 +1,4 @@
-<Stats deaths="101" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="102" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="17" >
     </E>
@@ -11,6 +11,8 @@
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
