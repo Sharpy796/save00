@@ -1,4 +1,4 @@
-<Stats deaths="44" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="46" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="35" >
+    <E key="player | $damage_projectile" value="37" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -18,7 +18,7 @@
   <kill_map>
     <E key="bloodshot_BoC" value="1" >
     </E>
-    <E key="scorpion" value="16" >
+    <E key="scorpion" value="17" >
     </E>
   </kill_map>
 </Stats>

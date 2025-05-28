@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="4933" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="4999" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -77,6 +77,8 @@
     <E key="bloodmage_lesser" value="10" >
     </E>
     <E key="bloodmonster" value="1" >
+    </E>
+    <E key="bloodshot_BoC" value="12" >
     </E>
     <E key="bloom" value="1" >
     </E>
@@ -212,7 +214,7 @@
     </E>
     <E key="enchanted_duck" value="11" >
     </E>
-    <E key="enlightened_alchemist" value="9" >
+    <E key="enlightened_alchemist" value="10" >
     </E>
     <E key="ent" value="4" >
     </E>
@@ -273,6 +275,16 @@
     <E key="flesh_eye" value="5" >
     </E>
     <E key="flesh_monster" value="6" >
+    </E>
+    <E key="flesh_wizard_manaeater" value="4" >
+    </E>
+    <E key="flesh_wizard_neutral" value="1" >
+    </E>
+    <E key="flesh_wizard_swapper" value="4" >
+    </E>
+    <E key="flesh_wizard_twitchy" value="2" >
+    </E>
+    <E key="flesh_wizard_wands" value="5" >
     </E>
     <E key="fleshclops2" value="5" >
     </E>
@@ -376,7 +388,7 @@
     </E>
     <E key="hell_overseer" value="1" >
     </E>
-    <E key="hideous_mass" value="22" >
+    <E key="hideous_mass" value="24" >
     </E>
     <E key="hiisi_chef_hell" value="2" >
     </E>
@@ -682,7 +694,7 @@
     </E>
     <E key="seed_shot" value="87" >
     </E>
-    <E key="seeker" value="53" >
+    <E key="seeker" value="63" >
     </E>
     <E key="sentry" value="3" >
     </E>
@@ -806,7 +818,7 @@
     </E>
     <E key="thundermage_big" value="2" >
     </E>
-    <E key="thunderskull" value="23" >
+    <E key="thunderskull" value="24" >
     </E>
     <E key="thundertrap_left" value="1" >
     </E>
@@ -868,21 +880,21 @@
     </E>
     <E key="wizard_corrupt_ambrosia" value="3" >
     </E>
-    <E key="wizard_corrupt_hearty" value="15" >
+    <E key="wizard_corrupt_hearty" value="20" >
     </E>
-    <E key="wizard_corrupt_manaeater" value="18" >
+    <E key="wizard_corrupt_manaeater" value="20" >
     </E>
-    <E key="wizard_corrupt_neutral" value="16" >
+    <E key="wizard_corrupt_neutral" value="18" >
     </E>
-    <E key="wizard_corrupt_swapper" value="9" >
+    <E key="wizard_corrupt_swapper" value="10" >
     </E>
-    <E key="wizard_corrupt_teleport" value="22" >
+    <E key="wizard_corrupt_teleport" value="25" >
     </E>
-    <E key="wizard_corrupt_twitchy" value="2" >
+    <E key="wizard_corrupt_twitchy" value="6" >
     </E>
-    <E key="wizard_corrupt_wands" value="22" >
+    <E key="wizard_corrupt_wands" value="23" >
     </E>
-    <E key="wizard_corrupt_weaken" value="19" >
+    <E key="wizard_corrupt_weaken" value="21" >
     </E>
     <E key="wizard_dark" value="6" >
     </E>
@@ -954,7 +966,7 @@
     </E>
     <E key="wraith" value="4" >
     </E>
-    <E key="wraith_alchemy_apotheosis" value="3" >
+    <E key="wraith_alchemy_apotheosis" value="7" >
     </E>
     <E key="wraith_glowing" value="3" >
     </E>

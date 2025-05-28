@@ -1,12 +1,14 @@
-<Stats deaths="31" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="33" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $status_apotheosis_hex_blood_name" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="20" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
