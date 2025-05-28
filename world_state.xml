@@ -45,19 +45,19 @@
     perk_rats_player_friendly="0" 
     perk_trick_kills_blood_money="0" 
     player_did_damage_over_1milj="7702" 
-    player_did_infinite_spell_count="23" 
+    player_did_infinite_spell_count="24" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="3" 
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.135596" 
-    rain_target="0.140586" 
+    rain="0.00499045" 
+    rain_target="0" 
     session_stat_file="??STA/sessions/20250510-184136" 
     sky_sunset_alpha_target="1" 
-    time="0.385442" 
+    time="0.401414" 
     time_dt="1" 
-    time_total="103.016" 
+    time_total="103.194" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="-0.0417373" 
@@ -1119,7 +1119,7 @@
       </E>
       <E 
         key="ACTION_DIVIDE_4" 
-        value="data/entities/projectiles/deck/white_hole.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/orb_knowledge.xml" >
       </E>
       <E 
         key="ACTION_DRAW_RANDOM" 
@@ -1195,7 +1195,7 @@
       </E>
       <E 
         key="ACTION_GAMMA" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_red_portal.xml" >
+        value="mods/Apotheosis/files/entities/projectiles/deck/spells_to_cats.xml" >
       </E>
       <E 
         key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_AGITINE" 
@@ -1855,7 +1855,7 @@
       </E>
       <E 
         key="ACTION_RESET" 
-        value="mods/boss_reworks/files/spells/reward_master.xml" >
+        value="data/entities/projectiles/deck/bouncy_orb.xml" >
       </E>
       <E 
         key="ACTION_ROCKET_DOWNWARDS" 
@@ -2179,7 +2179,7 @@
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="4192131" >
+        value="4199924" >
       </E>
       <E 
         key="BR_MODE" 
@@ -2195,7 +2195,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="347320" >
+        value="348196" >
       </E>
       <E 
         key="GRAHAM_KOLMI_FRAMES" 
@@ -2235,7 +2235,7 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="191" >
+        value="208" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -2255,7 +2255,7 @@
       </E>
       <E 
         key="InventoryBags_active_wand_tab" 
-        value="5" >
+        value="1" >
       </E>
       <E 
         key="InventoryBags_is_open" 
@@ -2455,7 +2455,7 @@
       </E>
       <E 
         key="apotheosis_swapper_curse" 
-        value="3618921" >
+        value="4198399" >
       </E>
       <E 
         key="apotheosis_tabletghost_count" 
@@ -4098,11 +4098,19 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/potion_corrupted.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/potion_mimicium.xml" 
         value="" >
       </E>
       <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/potion_reinforced.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/items/pickups/stone_heretic.xml" 
         value="" >
       </E>
       <E 
@@ -4419,7 +4427,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_3" 
-        value="3847082" >
+        value="4197043" >
       </E>
       <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_4" 
@@ -4920,6 +4928,10 @@
       <E 
         key="mods_grahamsdialogue_pool_0_179_3" 
         value="3608010" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_179_4" 
+        value="4196040" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_180_2" 
@@ -6771,7 +6783,7 @@
       </E>
       <E 
         key="random_twitch_user" 
-        value="CopiHuman,#8A2BE2,false,false,false:ChipIcing,#5F9EA0,false,false,false:" >
+        value="ChipIcing,#5F9EA0,false,false,false:" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -6879,11 +6891,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_pyramid,$biome_desert,_EMPTY_,Underground Swamp,$biome_snowcastle,$biome_" >
+        value="$biome_evil_temple,_EMPTY_,$biome_desert_pit,$biome_pyramid,$biome_desert,_EMPTY" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="610" >
+        value="613" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -7859,10 +7871,16 @@
         new_action_copith_slow
       </string>
       <string>
-        adventurer_Underground Swamp_visited
+        adventurer_UndergroundSwamp_visited
       </string>
       <string>
         adventurer_$biome_pyramid_visited
+      </string>
+      <string>
+        adventurer_$biome_desert_pit_visited
+      </string>
+      <string>
+        adventurer_$biome_evil_temple_visited
       </string>
     </flags>
     <changed_materials>
