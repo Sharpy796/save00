@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="4999" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="5017" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -85,6 +85,8 @@
     <E key="bluemancer" value="3" >
     </E>
     <E key="boss_alchemist" value="1" >
+    </E>
+    <E key="boss_centipede_minion" value="14" >
     </E>
     <E key="boss_fire_lukki" value="1" >
     </E>
@@ -282,9 +284,9 @@
     </E>
     <E key="flesh_wizard_swapper" value="4" >
     </E>
-    <E key="flesh_wizard_twitchy" value="2" >
+    <E key="flesh_wizard_twitchy" value="3" >
     </E>
-    <E key="flesh_wizard_wands" value="5" >
+    <E key="flesh_wizard_wands" value="6" >
     </E>
     <E key="fleshclops2" value="5" >
     </E>
@@ -554,7 +556,7 @@
     </E>
     <E key="musical_being_weak" value="3" >
     </E>
-    <E key="nautilus" value="4" >
+    <E key="nautilus" value="5" >
     </E>
     <E key="necrobot" value="5" >
     </E>
@@ -968,7 +970,7 @@
     </E>
     <E key="wraith_alchemy_apotheosis" value="7" >
     </E>
-    <E key="wraith_glowing" value="3" >
+    <E key="wraith_glowing" value="4" >
     </E>
     <E key="wraith_returner_apotheosis" value="10" >
     </E>

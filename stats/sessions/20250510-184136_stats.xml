@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="46" damage_taken="2.03582e+023" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5248" gold="129321" gold_all="933311" gold_infinite="0" healed="2540.33" heart_containers="0" hp="100" items="796" kicks="1566" killed_by="" killed_by_extra="" places_visited="46" playtime="70381.5" playtime_str="19:33:01" projectiles_shot="151508" streaks="0" teleports="7" wands_edited="112" world_seed="2044312949" >
+  <stats biomes_visited_with_wands="47" damage_taken="2.08867e+023" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="5267" gold="579378" gold_all="1383368" gold_infinite="0" healed="2648.08" heart_containers="0" hp="100" items="803" kicks="1593" killed_by="" killed_by_extra="" places_visited="47" playtime="71738.2" playtime_str="19:55:38" projectiles_shot="151508" streaks="0" teleports="7" wands_edited="112" world_seed="2044312949" >
   </stats>
   <biome_baseline biomes_visited_with_wands="41" damage_taken="2654.95" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3964" gold="36858" gold_all="838938" gold_infinite="0" healed="1408.66" heart_containers="0" hp="100" items="503" kicks="1010" killed_by="" killed_by_extra="" places_visited="41" playtime="47662.8" playtime_str="13:14:22" projectiles_shot="148273" streaks="0" teleports="4" wands_edited="96" world_seed="2044312949" >
   </biome_baseline>
@@ -41,6 +41,8 @@
     <E key="$biome_holymountain" value="1" >
     </E>
     <E key="$biome_lake" value="1" >
+    </E>
+    <E key="$biome_lava" value="1" >
     </E>
     <E key="$biome_lava_excavation" value="1" >
     </E>
@@ -88,13 +90,13 @@
     </E>
     <E key="Floating Mountain" value="1" >
     </E>
-    <E key="Holy Temple" value="4" >
+    <E key="Holy Temple" value="5" >
     </E>
     <E key="Magic Conduit" value="3" >
     </E>
-    <E key="Overgrown Laboratory" value="5" >
+    <E key="Overgrown Laboratory" value="6" >
     </E>
-    <E key="Underground Swamp" value="8" >
+    <E key="Underground Swamp" value="9" >
     </E>
     <E key="Worm Tunnels" value="3" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="46" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="47" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -11,6 +11,8 @@
     <E key="player | $damage_rock_curse" value="1" >
     </E>
     <E key="seeker | Etsijä's shock" value="3" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
     <E key="worm_spine | worm bite" value="1" >
     </E>
