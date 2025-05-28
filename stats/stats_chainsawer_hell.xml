@@ -1,4 +1,4 @@
-<Stats deaths="22" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="42" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -6,7 +6,11 @@
     </E>
     <E key="graham_gasser_hell | $damage_slice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="meatmaggot | worm bite" value="4" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="22" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -20,5 +24,7 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="hand2" value="1" >
+    </E>
   </kill_map>
 </Stats>

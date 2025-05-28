@@ -1,4 +1,4 @@
-<Stats deaths="2243" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2267" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -122,7 +122,7 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
-    <E key="graham_gasser_hell | $damage_curse" value="3" >
+    <E key="graham_gasser_hell | $damage_curse" value="13" >
     </E>
     <E key="graham_gasser_hell | $damage_melee" value="1" >
     </E>
@@ -130,7 +130,7 @@
     </E>
     <E key="ground_flesh2 | $damage_melee" value="1" >
     </E>
-    <E key="hand2 | $damage_melee" value="4" >
+    <E key="hand2 | $damage_melee" value="7" >
     </E>
     <E key="hiisi_chef_hell | $damage_melee" value="1" >
     </E>
@@ -176,9 +176,9 @@
     </E>
     <E key="maggot_tiny | worm bite" value="1" >
     </E>
-    <E key="meatmaggot | worm bite" value="20" >
+    <E key="meatmaggot | worm bite" value="21" >
     </E>
-    <E key="menace | Bite" value="2" >
+    <E key="menace | Bite" value="3" >
     </E>
     <E key="miner | $damage_explosion" value="25" >
     </E>
@@ -268,9 +268,9 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="92" >
     </E>
-    <E key="shotgunner_hell | $damage_melee" value="5" >
+    <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
-    <E key="shotgunner_hell | $damage_projectile" value="8" >
+    <E key="shotgunner_hell | $damage_projectile" value="10" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="18" >
     </E>
@@ -332,9 +332,9 @@
     </E>
     <E key="toxicmage_acid2 | $damage_projectile" value="1" >
     </E>
-    <E key="walleye | $damage_explosion" value="21" >
+    <E key="walleye | $damage_explosion" value="23" >
     </E>
-    <E key="walleye | $damage_projectile" value="20" >
+    <E key="walleye | $damage_projectile" value="24" >
     </E>
     <E key="wallmouth | $damage_melee" value="2" >
     </E>
