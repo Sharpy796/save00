@@ -1,16 +1,22 @@
-<Stats deaths="19" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="4" >
+    <E key="NULL | $damage_explosion" value="5" >
     </E>
     <E key="NULL | $damage_fire" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
     <E key="miner_weak | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="mutant2 | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
     </E>
   </death_map>
   <kill_map>
@@ -18,7 +24,15 @@
     </E>
     <E key="goomonster_giant_alt" value="1" >
     </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
     <E key="invisiman" value="1" >
+    </E>
+    <E key="longleg" value="7" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="rat" value="2" >
     </E>
     <E key="thundermage" value="1" >
     </E>

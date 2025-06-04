@@ -1,4 +1,4 @@
-<Stats deaths="381" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="411" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_curse" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="13" >
+    <E key="NULL | $damage_explosion" value="14" >
     </E>
     <E key="NULL | $damage_physicshit" value="7" >
     </E>
@@ -14,17 +14,23 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="3" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="5" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="6" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="4" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="6" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="201" >
+    <E key="NULL | run out of material" value="212" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
     </E>
     <E key="blindgazer | $damage_projectile" value="2" >
     </E>
@@ -38,7 +44,7 @@
     </E>
     <E key="drone_face | $damage_slice" value="1" >
     </E>
-    <E key="drone_mini | $damage_projectile" value="3" >
+    <E key="drone_mini | $damage_projectile" value="4" >
     </E>
     <E key="electrolukki_big | zap!" value="1" >
     </E>
@@ -58,6 +64,8 @@
     </E>
     <E key="menace | Bite" value="1" >
     </E>
+    <E key="mexxi | $damage_projectile" value="1" >
+    </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
@@ -72,7 +80,7 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="65" >
+    <E key="player | $damage_projectile" value="69" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -84,9 +92,9 @@
     </E>
     <E key="sawbot | bzzt!" value="1" >
     </E>
-    <E key="scavenger_laser | $damage_projectile" value="1" >
+    <E key="scavenger_laser | $damage_projectile" value="2" >
     </E>
-    <E key="scavenger_plasma | $damage_projectile" value="2" >
+    <E key="scavenger_plasma | $damage_projectile" value="5" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="3" >
     </E>
@@ -98,7 +106,7 @@
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="4" >
+    <E key="sniper | $damage_projectile" value="5" >
     </E>
     <E key="tank | $damage_projectile" value="1" >
     </E>

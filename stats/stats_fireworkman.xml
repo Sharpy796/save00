@@ -1,28 +1,38 @@
-<Stats deaths="13" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="23" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_explosion" value="4" >
     </E>
-    <E key="NULL | $damage_fire" value="4" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="fireworkman | $damage_explosion" value="1" >
+    </E>
     <E key="phantom_a | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>
-    <E key="crawler" value="1" >
+    <E key="axeman" value="1" >
+    </E>
+    <E key="chainsawer" value="1" >
+    </E>
+    <E key="crawler" value="2" >
     </E>
     <E key="dripper" value="1" >
     </E>
     <E key="failed_alchemist" value="1" >
     </E>
-    <E key="fairy_big" value="2" >
+    <E key="fairy_big" value="3" >
     </E>
-    <E key="firebug" value="1" >
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
     </E>
     <E key="rat" value="2" >
     </E>

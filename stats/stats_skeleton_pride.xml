@@ -1,0 +1,54 @@
+<Stats deaths="70" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
+    </E>
+    <E key="archer | $damage_projectile" value="1" >
+    </E>
+    <E key="chainsawer | $damage_melee" value="2" >
+    </E>
+    <E key="eye_bat | $damage_melee" value="2" >
+    </E>
+    <E key="goo_slug | $damage_melee" value="1" >
+    </E>
+    <E key="hiisi_thief | $damage_melee" value="1" >
+    </E>
+    <E key="hisii_giga_bomb | $damage_explosion" value="3" >
+    </E>
+    <E key="hisii_minecart_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="mimic_explosive_box | $damage_melee" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="18" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="14" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="poring | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

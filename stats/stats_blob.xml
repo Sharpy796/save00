@@ -1,4 +1,4 @@
-<Stats deaths="1023" kills="85" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1026" kills="85" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="153" >
+    <E key="NULL | $damage_explosion" value="154" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -33,6 +33,8 @@
     <E key="fungus_giga | $damage_projectile" value="2" >
     </E>
     <E key="fungus_tiny | $damage_melee" value="3" >
+    </E>
+    <E key="hisii_rocketshotgun | $damage_explosion" value="2" >
     </E>
     <E key="lukki_fungus | hit" value="58" >
     </E>

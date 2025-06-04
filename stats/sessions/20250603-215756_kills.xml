@@ -1,0 +1,54 @@
+<Stats deaths="1" kills="52" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="arrowtrap_left" value="1" >
+    </E>
+    <E key="blood_machine" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="drone_mini" value="4" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+    <E key="fish" value="4" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="2" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="poring" value="4" >
+    </E>
+    <E key="scavenger_civilian" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_laser" value="1" >
+    </E>
+    <E key="scavenger_monster" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton_pride" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="slimespirit" value="1" >
+    </E>
+    <E key="stalker" value="2" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

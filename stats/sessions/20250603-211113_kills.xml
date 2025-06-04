@@ -1,0 +1,88 @@
+<Stats deaths="1" kills="80" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="snowfrog | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bean_pod" value="1" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="chainsawer" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="eye_bat" value="3" >
+    </E>
+    <E key="fairy_big" value="5" >
+    </E>
+    <E key="fallen_alchemist" value="2" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="graham_fuzz" value="1" >
+    </E>
+    <E key="hisii_giga_bomb" value="1" >
+    </E>
+    <E key="hybrid" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="knight" value="2" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="9" >
+    </E>
+    <E key="longleg_gold" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="monkey" value="1" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton_pride" value="7" >
+    </E>
+    <E key="slimeshooter_weak" value="2" >
+    </E>
+    <E key="sneeker" value="1" >
+    </E>
+    <E key="stalker" value="3" >
+    </E>
+    <E key="yoyoer_shaman" value="1" >
+    </E>
+    <E key="zombie_weak" value="9" >
+    </E>
+  </kill_map>
+</Stats>

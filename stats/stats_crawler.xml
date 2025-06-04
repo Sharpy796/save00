@@ -1,12 +1,12 @@
-<Stats deaths="51" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="60" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -20,7 +20,9 @@
     </E>
     <E key="eye_monster | $damage_projectile" value="1" >
     </E>
-    <E key="fireworkman | $damage_projectile" value="1" >
+    <E key="fairy_big | $damage_projectile" value="1" >
+    </E>
+    <E key="fireworkman | $damage_projectile" value="2" >
     </E>
     <E key="frog_bot | $damage_explosion" value="1" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="16" >
+    <E key="player | $damage_projectile" value="18" >
     </E>
   </death_map>
   <kill_map>

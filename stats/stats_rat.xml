@@ -1,20 +1,22 @@
-<Stats deaths="2293" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2365" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="64" >
+    <E key="NULL | $damage_drowning" value="67" >
     </E>
     <E key="NULL | $damage_electricity" value="44" >
     </E>
-    <E key="NULL | $damage_explosion" value="140" >
+    <E key="NULL | $damage_explosion" value="144" >
     </E>
-    <E key="NULL | $damage_fire" value="63" >
+    <E key="NULL | $damage_fire" value="65" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="69" >
+    <E key="NULL | $damage_physicshit" value="70" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="4" >
     </E>
@@ -28,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="12" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
     <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="3" >
     </E>
@@ -62,7 +64,7 @@
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
-    <E key="axeman | $damage_melee" value="18" >
+    <E key="axeman | $damage_melee" value="25" >
     </E>
     <E key="bat | $damage_melee" value="18" >
     </E>
@@ -104,7 +106,7 @@
     </E>
     <E key="fly | $damage_melee" value="3" >
     </E>
-    <E key="forsaken_eye | $damage_projectile" value="2" >
+    <E key="forsaken_eye | $damage_projectile" value="3" >
     </E>
     <E key="frog | $damage_melee" value="5" >
     </E>
@@ -126,9 +128,11 @@
     </E>
     <E key="graham_fuzz | $damage_electricity" value="1" >
     </E>
-    <E key="graham_gasser_hell | $damage_curse" value="13" >
+    <E key="graham_gasser_hell | $damage_curse" value="16" >
     </E>
     <E key="graham_gasser_hell | $damage_melee" value="1" >
+    </E>
+    <E key="graham_miner_gasser | $damage_melee" value="1" >
     </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="7" >
     </E>
@@ -156,17 +160,17 @@
     </E>
     <E key="icemage_big2 | $damage_explosion" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="10" >
+    <E key="iceskull | $damage_explosion" value="12" >
     </E>
-    <E key="iceskull | $damage_ice" value="50" >
+    <E key="iceskull | $damage_ice" value="54" >
     </E>
-    <E key="iceskull | $damage_melee" value="21" >
+    <E key="iceskull | $damage_melee" value="22" >
     </E>
     <E key="icicle_king | $damage_projectile" value="1" >
     </E>
     <E key="invisiman | $damage_melee" value="2" >
     </E>
-    <E key="invisiman | $damage_slice" value="4" >
+    <E key="invisiman | $damage_slice" value="5" >
     </E>
     <E key="lukki_fungus | hit" value="1" >
     </E>
@@ -198,6 +202,8 @@
     </E>
     <E key="monk | $damage_projectile" value="13" >
     </E>
+    <E key="mutant2 | $damage_melee" value="2" >
+    </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02 | $damage_melee" value="2" >
@@ -220,7 +226,7 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="181" >
+    <E key="player | $damage_projectile" value="194" >
     </E>
     <E key="player | $damage_rock_curse" value="15" >
     </E>
@@ -248,19 +254,19 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="31" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="71" >
+    <E key="scavenger_grenade | $damage_projectile" value="72" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
-    <E key="scavenger_leader | $damage_projectile" value="3" >
+    <E key="scavenger_leader | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="40" >
+    <E key="scavenger_smg | $damage_explosion" value="41" >
     </E>
-    <E key="scavenger_smg | $damage_melee" value="21" >
+    <E key="scavenger_smg | $damage_melee" value="22" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="45" >
+    <E key="scavenger_smg | $damage_projectile" value="50" >
     </E>
     <E key="scavenger_trigger | $damage_projectile" value="3" >
     </E>
@@ -268,9 +274,9 @@
     </E>
     <E key="shaman_greater_apotheosis | $damage_projectile" value="2" >
     </E>
-    <E key="shotgunner | $damage_melee" value="23" >
+    <E key="shotgunner | $damage_melee" value="25" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="93" >
+    <E key="shotgunner | $damage_projectile" value="97" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
@@ -286,7 +292,7 @@
     </E>
     <E key="sniper | $damage_melee" value="20" >
     </E>
-    <E key="sniper | $damage_projectile" value="68" >
+    <E key="sniper | $damage_projectile" value="70" >
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>
@@ -306,7 +312,7 @@
     </E>
     <E key="tank | $damage_explosion" value="9" >
     </E>
-    <E key="tank | $damage_projectile" value="8" >
+    <E key="tank | $damage_projectile" value="10" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="7" >
     </E>
@@ -318,7 +324,7 @@
     </E>
     <E key="tesla_turret | $damage_electricity" value="3" >
     </E>
-    <E key="thundermage | $damage_electricity" value="6" >
+    <E key="thundermage | $damage_electricity" value="7" >
     </E>
     <E key="thundermage | $damage_explosion" value="11" >
     </E>
@@ -328,7 +334,7 @@
     </E>
     <E key="thunderskull | $damage_electricity" value="15" >
     </E>
-    <E key="thunderskull | $damage_explosion" value="14" >
+    <E key="thunderskull | $damage_explosion" value="15" >
     </E>
     <E key="thunderskull | $damage_melee" value="7" >
     </E>

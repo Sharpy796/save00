@@ -1,12 +1,14 @@
-<Stats deaths="64" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="80" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+    <E key="ccc_bat_psychic | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
@@ -14,10 +16,12 @@
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="31" >
+    <E key="player | $damage_projectile" value="33" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
     <E key="chainsawer" value="1" >
     </E>
   </kill_map>

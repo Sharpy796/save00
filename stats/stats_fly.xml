@@ -1,14 +1,14 @@
-<Stats deaths="297" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="303" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="9" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="6" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="boss_pit | $damage_slice" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="3" >
     </E>
     <E key="fly | $damage_melee" value="1" >
     </E>
@@ -56,6 +56,8 @@
     </E>
     <E key="player | chop!" value="6" >
     </E>
+    <E key="scavenger_plasma | $damage_projectile" value="1" >
+    </E>
     <E key="shooterflower | $damage_projectile" value="7" >
     </E>
     <E key="slicing_blade | chop!" value="15" >
@@ -67,6 +69,8 @@
     <E key="spider | $damage_explosion" value="1" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="tesla_turret | $damage_electricity" value="1" >
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>

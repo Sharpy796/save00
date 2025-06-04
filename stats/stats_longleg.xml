@@ -1,32 +1,34 @@
-<Stats deaths="1645" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1812" kills="30" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="60" >
+    <E key="NULL | $damage_drowning" value="64" >
     </E>
-    <E key="NULL | $damage_electricity" value="8" >
+    <E key="NULL | $damage_electricity" value="23" >
     </E>
-    <E key="NULL | $damage_explosion" value="86" >
+    <E key="NULL | $damage_explosion" value="87" >
     </E>
-    <E key="NULL | $damage_fire" value="190" >
+    <E key="NULL | $damage_fire" value="218" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="65" >
+    <E key="NULL | $damage_physicshit" value="67" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="14" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
     <E key="NULL | $status_apotheosis_hex_oil_name" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="12" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="16" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
@@ -54,7 +56,7 @@
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
-    <E key="conduit | $damage_melee" value="3" >
+    <E key="conduit | $damage_melee" value="6" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
@@ -72,11 +74,13 @@
     </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="3" >
+    <E key="hazmat | $damage_melee" value="7" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="3" >
     </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
+    </E>
+    <E key="hisii_giga_bomb | $damage_explosion" value="5" >
     </E>
     <E key="kantele_d | " value="4" >
     </E>
@@ -94,11 +98,13 @@
     </E>
     <E key="mimic_physics | $damage_projectile" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="miner_weak | $damage_explosion" value="15" >
     </E>
     <E key="miner_weak | $damage_melee" value="8" >
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="4" >
+    </E>
+    <E key="mutant2 | $damage_melee" value="7" >
     </E>
     <E key="phantom_a | $damage_projectile" value="3" >
     </E>
@@ -108,7 +114,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="24" >
+    <E key="player | $damage_explosion" value="28" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -116,11 +122,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="780" >
+    <E key="player | $damage_projectile" value="827" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="23" >
+    <E key="player | $damage_slice" value="38" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
@@ -147,6 +153,8 @@
     <E key="singularity | " value="1" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
+    </E>
+    <E key="skeleton_pride | $damage_melee" value="3" >
     </E>
     <E key="slicing_blade | chop!" value="7" >
     </E>
@@ -176,6 +184,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="conduit" value="1" >
+    </E>
     <E key="longleg" value="3" >
     </E>
     <E key="longleg_pillar" value="1" >

@@ -1,4 +1,4 @@
-<Stats deaths="117" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="120" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
@@ -25,6 +25,8 @@
     <E key="rat | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="3" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="3" >
     </E>

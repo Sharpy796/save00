@@ -1,12 +1,14 @@
-<Stats deaths="271" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="282" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="27" >
+    <E key="NULL | $damage_explosion" value="28" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="20" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="5" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="6" >
     </E>
@@ -16,15 +18,15 @@
     </E>
     <E key="drone_lasership | $damage_explosion" value="1" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="1" >
+    <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="player | $damage_curse" value="7" >
     </E>
     <E key="player | $damage_electricity" value="48" >
     </E>
-    <E key="player | $damage_explosion" value="28" >
+    <E key="player | $damage_explosion" value="29" >
     </E>
-    <E key="player | $damage_projectile" value="83" >
+    <E key="player | $damage_projectile" value="87" >
     </E>
     <E key="player | $damage_rock_curse" value="22" >
     </E>
@@ -42,6 +44,8 @@
     </E>
     <E key="tesla_turret | $damage_electricity" value="1" >
     </E>
+    <E key="watermage_greater | $damage_explosion" value="1" >
+    </E>
     <E key="wizard_transmutation | $damage_projectile" value="1" >
     </E>
   </death_map>
@@ -52,7 +56,9 @@
     </E>
     <E key="bluemancer" value="1" >
     </E>
-    <E key="bubble_liquid" value="3" >
+    <E key="bubble_liquid" value="4" >
+    </E>
+    <E key="conduit" value="2" >
     </E>
     <E key="fish" value="2" >
     </E>

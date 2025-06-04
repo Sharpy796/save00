@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="4" damage_taken="11.9285" dead="1" death_count="0" death_pos.x="730.761" death_pos.y="3977.18" enemies_killed="34" gold="266" gold_all="1361" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="22" kicks="82" killed_by="(Vanilla) Kranuhiisi | projectile" killed_by_extra="" places_visited="4" playtime="1349.97" playtime_str="0:22:29" projectiles_shot="1098" streaks="0" teleports="0" wands_edited="6" world_seed="1036534431" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="3" damage_taken="7.02106" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="34" gold="266" gold_all="1361" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="21" kicks="82" killed_by="" killed_by_extra="" places_visited="3" playtime="1229.35" playtime_str="0:20:29" projectiles_shot="1015" streaks="0" teleports="0" wands_edited="6" world_seed="1036534431" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Blast Pit" value="1" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

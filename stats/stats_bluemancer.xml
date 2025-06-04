@@ -1,10 +1,12 @@
-<Stats deaths="13" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>

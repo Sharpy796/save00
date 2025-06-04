@@ -119,7 +119,7 @@
   </Mod>
   <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="identify" settings_fold_open="1" workshop_item_id="3147836844" >
+  <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
@@ -132,5 +132,15 @@
   <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
   </Mod>
   <Mod enabled="0" name="deep_end" settings_fold_open="0" workshop_item_id="3356681136" >
+  </Mod>
+  <Mod enabled="1" name="copi.RocketPropelledProjectiles" settings_fold_open="0" workshop_item_id="3038735357" >
+  </Mod>
+  <Mod enabled="1" name="cards" settings_fold_open="0" workshop_item_id="3426908771" >
+  </Mod>
+  <Mod enabled="0" name="conga_fast_enemies" settings_fold_open="0" workshop_item_id="3486156581" >
+  </Mod>
+  <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
+  </Mod>
+  <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
   </Mod>
 </Mods>

@@ -1,8 +1,8 @@
-<Stats deaths="23" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="26" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="11" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="monk | $damage_projectile" value="1" >
     </E>
@@ -25,6 +25,8 @@
     <E key="scavenger_mine" value="1" >
     </E>
     <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
     </E>
     <E key="tank" value="1" >
     </E>

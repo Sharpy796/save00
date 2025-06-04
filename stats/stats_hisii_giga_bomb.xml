@@ -1,10 +1,50 @@
-<Stats deaths="3" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="6" kills="33" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
+    <E key="hisii_giga_bomb | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
     </E>
   </death_map>
   <kill_map>
+    <E key="altar_skull" value="1" >
+    </E>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="dripping_water" value="2" >
+    </E>
+    <E key="hisii_giga_bomb" value="1" >
+    </E>
+    <E key="hybrid" value="3" >
+    </E>
+    <E key="llama" value="1" >
+    </E>
+    <E key="longleg" value="5" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="ritualist_a" value="1" >
+    </E>
+    <E key="ritualist_b" value="1" >
+    </E>
+    <E key="ritualist_c" value="1" >
+    </E>
+    <E key="ritualist_d" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton_pride" value="3" >
+    </E>
+    <E key="slime_ghoul" value="1" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
   </kill_map>
 </Stats>

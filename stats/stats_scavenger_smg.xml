@@ -1,30 +1,34 @@
-<Stats deaths="811" kills="143" player_kills="1" player_projectile_count="0" >
+<Stats deaths="841" kills="150" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="6" >
     </E>
-    <E key="NULL | $damage_drowning" value="13" >
+    <E key="NULL | $damage_drowning" value="15" >
     </E>
     <E key="NULL | $damage_electricity" value="20" >
     </E>
-    <E key="NULL | $damage_explosion" value="80" >
+    <E key="NULL | $damage_explosion" value="84" >
     </E>
     <E key="NULL | $damage_fire" value="25" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="53" >
+    <E key="NULL | $damage_physicshit" value="55" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="9" >
+    <E key="NULL | $damage_radioactive" value="10" >
+    </E>
+    <E key="NULL | $damage_slice" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="8" >
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="10" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
@@ -92,7 +96,7 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="228" >
+    <E key="player | $damage_projectile" value="241" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
@@ -109,6 +113,8 @@
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="3" >
+    </E>
+    <E key="scavenger_laser | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
@@ -136,13 +142,15 @@
     </E>
     <E key="thunderskull | $damage_electricity" value="2" >
     </E>
+    <E key="watermage_greater | $damage_explosion" value="1" >
+    </E>
     <E key="worm | worm bite" value="2" >
     </E>
     <E key="worm_big | worm bite" value="7" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
-    <E key="worm_tiny | worm bite" value="7" >
+    <E key="worm_tiny | worm bite" value="8" >
     </E>
   </death_map>
   <kill_map>
@@ -166,7 +174,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="106" >
+    <E key="rat" value="113" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

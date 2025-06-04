@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bouncer" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="whisp" value="3" >
+    </E>
+    <E key="zombie_water" value="1" >
+    </E>
+  </kill_map>
+</Stats>

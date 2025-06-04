@@ -1,18 +1,20 @@
-<Stats deaths="139" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="171" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="13" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_fire" value="17" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -20,15 +22,21 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
     <E key="bigbat | $damage_melee" value="1" >
     </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
+    </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
     <E key="chainsawer | Minced!" value="1" >
+    </E>
+    <E key="fairy_big | $damage_explosion" value="3" >
+    </E>
+    <E key="fireworkman | $damage_explosion" value="1" >
     </E>
     <E key="fireworkman | $damage_projectile" value="2" >
     </E>
@@ -52,7 +60,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="56" >
+    <E key="player | $damage_projectile" value="66" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -70,17 +78,31 @@
   <kill_map>
     <E key="acidshot" value="6" >
     </E>
+    <E key="bat" value="2" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
     <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="crawler" value="1" >
+    </E>
+    <E key="fairy_big" value="3" >
     </E>
     <E key="firebug" value="2" >
     </E>
-    <E key="goblin_bomb" value="1" >
+    <E key="goblin_bomb" value="2" >
+    </E>
+    <E key="invisiman" value="1" >
     </E>
     <E key="longleg" value="1" >
     </E>
     <E key="rat" value="1" >
     </E>
+    <E key="slimeshooter" value="1" >
+    </E>
     <E key="sporeling_tiny" value="2" >
+    </E>
+    <E key="whisp" value="18" >
     </E>
   </kill_map>
 </Stats>

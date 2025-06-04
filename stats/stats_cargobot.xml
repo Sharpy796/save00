@@ -1,4 +1,4 @@
-<Stats deaths="21" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_curse" value="1" >
     </E>
@@ -38,7 +38,11 @@
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
     <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="slime_leaker" value="1" >
     </E>
     <E key="tank_rocket" value="1" >
     </E>

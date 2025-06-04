@@ -1,14 +1,14 @@
-<Stats deaths="138" kills="22" player_kills="0" player_projectile_count="0" >
+<Stats deaths="167" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="15" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -16,13 +16,25 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="6" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="2" >
+    <E key="axeman | $damage_explosion" value="1" >
+    </E>
+    <E key="fireworkman | $damage_projectile" value="1" >
+    </E>
+    <E key="graham_fuzz | $damage_electricity" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="3" >
     </E>
     <E key="iceskull | $damage_ice" value="2" >
     </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
     <E key="mexxi | $damage_projectile" value="1" >
+    </E>
+    <E key="miner | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
@@ -36,7 +48,7 @@
     </E>
     <E key="player | $damage_melee" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="64" >
     </E>
     <E key="player | chop!" value="2" >
     </E>
@@ -44,7 +56,7 @@
     </E>
     <E key="sentry | $damage_projectile" value="1" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="2" >
+    <E key="slimeshooter | $damage_explosion" value="3" >
     </E>
     <E key="tesla_turret | $damage_electricity" value="1" >
     </E>
@@ -52,11 +64,13 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="axeman" value="1" >
+    </E>
     <E key="fairy_big" value="1" >
     </E>
     <E key="longleg" value="1" >
     </E>
-    <E key="rat" value="18" >
+    <E key="rat" value="25" >
     </E>
     <E key="skeleton" value="1" >
     </E>
