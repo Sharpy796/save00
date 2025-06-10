@@ -1,4 +1,4 @@
-<Stats deaths="677" kills="15" player_kills="1" player_projectile_count="0" >
+<Stats deaths="680" kills="15" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="24" >
     </E>
-    <E key="NULL | $damage_fire" value="59" >
+    <E key="NULL | $damage_fire" value="60" >
     </E>
     <E key="NULL | $damage_physicshit" value="19" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
-    <E key="conduit | $damage_melee" value="5" >
+    <E key="conduit | $damage_melee" value="6" >
     </E>
     <E key="disc_bullet_big | bzzt!" value="1" >
     </E>
@@ -41,6 +41,8 @@
     <E key="goomonster | $damage_melee" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
+    </E>
+    <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
     <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
     </E>
