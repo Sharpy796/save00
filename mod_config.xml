@@ -109,6 +109,8 @@
   </Mod>
   <Mod enabled="1" name="QoL_mod" settings_fold_open="0" workshop_item_id="2744309004" >
   </Mod>
+  <Mod enabled="1" name="progress_reminder" settings_fold_open="0" workshop_item_id="2843578487" >
+  </Mod>
   <Mod enabled="1" name="Copis_Connection_Alert" settings_fold_open="0" workshop_item_id="2902285009" >
   </Mod>
   <Mod enabled="1" name="config_lib" settings_fold_open="0" workshop_item_id="2287710542" >
@@ -132,5 +134,15 @@
   <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
   </Mod>
   <Mod enabled="0" name="deep_end" settings_fold_open="0" workshop_item_id="3356681136" >
+  </Mod>
+  <Mod enabled="0" name="copi.RocketPropelledProjectiles" settings_fold_open="0" workshop_item_id="3038735357" >
+  </Mod>
+  <Mod enabled="0" name="cards" settings_fold_open="0" workshop_item_id="3426908771" >
+  </Mod>
+  <Mod enabled="0" name="conga_fast_enemies" settings_fold_open="0" workshop_item_id="3486156581" >
+  </Mod>
+  <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
+  </Mod>
+  <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
   </Mod>
 </Mods>
