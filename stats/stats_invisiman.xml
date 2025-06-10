@@ -1,10 +1,10 @@
-<Stats deaths="53" kills="14" player_kills="1" player_projectile_count="0" >
+<Stats deaths="60" kills="15" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="2" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="6" >
+    <E key="NULL | $damage_explosion" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -13,6 +13,8 @@
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="chest_great_boss | $damage_melee" value="1" >
+    </E>
+    <E key="icemage_big2 | $damage_ice" value="1" >
     </E>
     <E key="invisiman | $damage_projectile" value="1" >
     </E>
@@ -30,7 +32,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="22" >
+    <E key="player | $damage_projectile" value="25" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
@@ -45,6 +47,8 @@
     <E key="player" value="1" >
     </E>
     <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_undercover" value="1" >
     </E>
     <E key="zombie" value="1" >
     </E>

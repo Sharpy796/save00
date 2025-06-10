@@ -1,4 +1,4 @@
-<Stats deaths="6" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="7" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -6,15 +6,17 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>
+    <E key="boss_tnt" value="1" >
+    </E>
     <E key="fairy_big" value="1" >
     </E>
     <E key="player_ai_hitbox" value="1" >
     </E>
-    <E key="poring" value="1" >
+    <E key="poring" value="2" >
     </E>
   </kill_map>
 </Stats>

@@ -1,20 +1,20 @@
-<Stats deaths="1648" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1715" kills="31" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="60" >
+    <E key="NULL | $damage_drowning" value="62" >
     </E>
-    <E key="NULL | $damage_electricity" value="8" >
+    <E key="NULL | $damage_electricity" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="86" >
+    <E key="NULL | $damage_explosion" value="97" >
     </E>
-    <E key="NULL | $damage_fire" value="190" >
+    <E key="NULL | $damage_fire" value="192" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="65" >
+    <E key="NULL | $damage_physicshit" value="69" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -26,11 +26,11 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="16" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="19" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
+    <E key="NULL | damage from material: (Vanilla) toxic gas" value="2" >
     </E>
     <E key="NULL | damage from material: Weak Acid" value="1" >
     </E>
@@ -48,7 +48,11 @@
     </E>
     <E key="bean_pod_crackle | $damage_explosion" value="9" >
     </E>
-    <E key="blob | $damage_melee" value="1" >
+    <E key="bigfirebug | $damage_melee" value="2" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="7" >
+    </E>
+    <E key="blob | $damage_melee" value="6" >
     </E>
     <E key="chainsawer | $damage_melee" value="1" >
     </E>
@@ -72,15 +76,15 @@
     </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="3" >
+    <E key="hazmat | $damage_melee" value="5" >
     </E>
-    <E key="hideous_mass | $damage_projectile" value="3" >
+    <E key="hideous_mass | $damage_projectile" value="4" >
     </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
     <E key="kantele_d | " value="4" >
     </E>
-    <E key="longleg | $damage_melee" value="3" >
+    <E key="longleg | $damage_melee" value="4" >
     </E>
     <E key="lukki | hit" value="3" >
     </E>
@@ -106,9 +110,11 @@
     </E>
     <E key="player | " value="9" >
     </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="24" >
+    <E key="player | $damage_explosion" value="33" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -116,7 +122,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="781" >
+    <E key="player | $damage_projectile" value="793" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
@@ -142,7 +148,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="9" >
+    <E key="shotgunner_weak | $damage_projectile" value="11" >
     </E>
     <E key="singularity | " value="1" >
     </E>
@@ -176,7 +182,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="longleg" value="3" >
+    <E key="firebug" value="1" >
+    </E>
+    <E key="longleg" value="4" >
     </E>
     <E key="longleg_pillar" value="1" >
     </E>

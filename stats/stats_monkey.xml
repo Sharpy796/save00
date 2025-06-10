@@ -1,4 +1,4 @@
-<Stats deaths="50" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="54" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -14,13 +14,17 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="2" >
     </E>
+    <E key="alien | $damage_projectile" value="1" >
+    </E>
     <E key="gem_tiny | $damage_explosion" value="1" >
+    </E>
+    <E key="mexxi | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="12" >
+    <E key="player | $damage_projectile" value="13" >
     </E>
     <E key="poring | $damage_melee" value="1" >
     </E>

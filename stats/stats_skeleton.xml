@@ -1,10 +1,10 @@
-<Stats deaths="147" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="157" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="fallen_alchemist | $damage_projectile" value="5" >
+    <E key="fallen_alchemist | $damage_projectile" value="6" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
@@ -30,11 +30,11 @@
     </E>
     <E key="longleg | $damage_melee" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="8" >
+    <E key="miner_weak | $damage_explosion" value="11" >
     </E>
-    <E key="miner_weak | $damage_melee" value="2" >
+    <E key="miner_weak | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="51" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
     <E key="player | $damage_slice" value="5" >
     </E>

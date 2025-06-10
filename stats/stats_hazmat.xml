@@ -1,10 +1,10 @@
-<Stats deaths="53" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="55" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="8" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
     <E key="NULL | $damage_fire" value="9" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="8" >
+    <E key="player | $damage_projectile" value="9" >
     </E>
     <E key="watermage | $damage_explosion" value="1" >
     </E>
@@ -32,7 +32,7 @@
   <kill_map>
     <E key="hazmat" value="1" >
     </E>
-    <E key="longleg" value="3" >
+    <E key="longleg" value="5" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>

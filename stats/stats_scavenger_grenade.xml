@@ -1,4 +1,4 @@
-<Stats deaths="1320" kills="164" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1358" kills="168" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -6,13 +6,13 @@
     </E>
     <E key="NULL | $damage_drowning" value="20" >
     </E>
-    <E key="NULL | $damage_electricity" value="64" >
+    <E key="NULL | $damage_electricity" value="66" >
     </E>
-    <E key="NULL | $damage_explosion" value="131" >
+    <E key="NULL | $damage_explosion" value="132" >
     </E>
-    <E key="NULL | $damage_fire" value="34" >
+    <E key="NULL | $damage_fire" value="36" >
     </E>
-    <E key="NULL | $damage_ice" value="1" >
+    <E key="NULL | $damage_ice" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="67" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="8" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="14" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -86,7 +86,9 @@
     </E>
     <E key="icemage2 | $damage_explosion" value="1" >
     </E>
-    <E key="icemage_big2 | $damage_explosion" value="1" >
+    <E key="icemage_big2 | $damage_explosion" value="3" >
+    </E>
+    <E key="icemage_big2 | $damage_ice" value="1" >
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
@@ -114,7 +116,7 @@
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
-    <E key="player | $damage_electricity" value="30" >
+    <E key="player | $damage_electricity" value="33" >
     </E>
     <E key="player | $damage_explosion" value="118" >
     </E>
@@ -124,13 +126,13 @@
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
-    <E key="player | $damage_projectile" value="387" >
+    <E key="player | $damage_projectile" value="408" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
-    <E key="player | $damage_slice" value="34" >
+    <E key="player | $damage_slice" value="35" >
     </E>
     <E key="player | bzzt!" value="3" >
     </E>
@@ -234,7 +236,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="102" >
+    <E key="rat" value="106" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

@@ -1,8 +1,8 @@
-<Stats deaths="138" kills="22" player_kills="0" player_projectile_count="0" >
+<Stats deaths="158" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="12" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="6" >
+    <E key="NULL | $damage_radioactive" value="7" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="6" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="player | $damage_melee" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="53" >
+    <E key="player | $damage_projectile" value="66" >
     </E>
     <E key="player | chop!" value="2" >
     </E>
@@ -48,15 +48,19 @@
     </E>
     <E key="tesla_turret | $damage_electricity" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="5" >
+    <E key="worm_big | worm bite" value="7" >
     </E>
   </death_map>
   <kill_map>
     <E key="fairy_big" value="1" >
     </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
     <E key="longleg" value="1" >
     </E>
-    <E key="rat" value="18" >
+    <E key="mexxi" value="1" >
+    </E>
+    <E key="rat" value="20" >
     </E>
     <E key="skeleton" value="1" >
     </E>

@@ -85,7 +85,7 @@
   </Mod>
   <Mod enabled="1" name="boss_reworks" settings_fold_open="0" workshop_item_id="3235530450" >
   </Mod>
-  <Mod enabled="1" name="biome-plus" settings_fold_open="0" workshop_item_id="2554761457" >
+  <Mod enabled="1" name="biome-plus" settings_fold_open="1" workshop_item_id="2554761457" >
   </Mod>
   <Mod enabled="1" name="anvil_of_destiny" settings_fold_open="0" workshop_item_id="1974488139" >
   </Mod>
@@ -121,7 +121,7 @@
   </Mod>
   <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="identify" settings_fold_open="1" workshop_item_id="3147836844" >
+  <Mod enabled="1" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
