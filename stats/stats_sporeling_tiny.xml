@@ -1,26 +1,26 @@
-<Stats deaths="501" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="565" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="122" >
+    <E key="NULL | $damage_explosion" value="133" >
     </E>
-    <E key="NULL | $damage_fire" value="53" >
+    <E key="NULL | $damage_fire" value="57" >
     </E>
     <E key="NULL | $damage_physicshit" value="10" >
     </E>
-    <E key="NULL | $damage_projectile" value="29" >
+    <E key="NULL | $damage_projectile" value="36" >
     </E>
     <E key="NULL | damage from material: (Chemical Curiosities) Nullium" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="106" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="133" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="44" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="6" >
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="7" >
     </E>
     <E key="alien | $damage_projectile" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="blob_big | $damage_melee" value="3" >
     </E>
-    <E key="bloom | $damage_projectile" value="3" >
+    <E key="bloom | $damage_projectile" value="4" >
     </E>
     <E key="boss_pit | $damage_projectile" value="2" >
     </E>
@@ -70,6 +70,10 @@
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="pollen_bloom | $damage_projectile" value="1" >
+    </E>
     <E key="random_spell_chaotic | $damage_physicshit" value="3" >
     </E>
     <E key="random_spell_chaotic | $damage_projectile" value="2" >
@@ -80,7 +84,7 @@
     </E>
     <E key="shaman_greater_apotheosis | $damage_projectile" value="1" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="9" >
+    <E key="shooterflower | $damage_projectile" value="20" >
     </E>
     <E key="sporeling_tiny | $damage_holy" value="1" >
     </E>

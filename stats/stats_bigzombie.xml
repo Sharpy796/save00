@@ -1,10 +1,10 @@
-<Stats deaths="85" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="86" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="8" >
     </E>
     <E key="NULL | $damage_fire" value="8" >
     </E>
@@ -79,6 +79,8 @@
     <E key="scavenger_trigger" value="1" >
     </E>
     <E key="scorpion" value="2" >
+    </E>
+    <E key="sniper" value="1" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>

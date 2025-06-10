@@ -1,4 +1,4 @@
-<Stats deaths="51" kills="57" player_kills="0" player_projectile_count="0" >
+<Stats deaths="52" kills="61" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="19" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
-    <E key="NULL | $damage_radioactive" value="2" >
+    <E key="NULL | $damage_radioactive" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="chest_mimic" value="1" >
     </E>
-    <E key="frog_bot" value="1" >
+    <E key="frog_bot" value="5" >
     </E>
     <E key="miniblob" value="3" >
     </E>

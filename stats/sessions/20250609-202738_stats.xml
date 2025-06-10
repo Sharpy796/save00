@@ -1,22 +1,36 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="16" damage_taken="51.3354" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="382" gold="7165" gold_all="8885" gold_infinite="0" healed="0.1" heart_containers="0" hp="100" items="98" kicks="235" killed_by="" killed_by_extra="" places_visited="16" playtime="6952.88" playtime_str="1:55:52" projectiles_shot="45972" streaks="0" teleports="0" wands_edited="23" world_seed="264193532" >
+  <stats biomes_visited_with_wands="29" damage_taken="360.506" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="814" gold="2579" gold_all="260039" gold_infinite="0" healed="3.95" heart_containers="0" hp="100" items="204" kicks="368" killed_by="" killed_by_extra="" places_visited="29" playtime="12218.8" playtime_str="3:23:38" projectiles_shot="86125" streaks="0" teleports="0" wands_edited="35" world_seed="264193532" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
   <item_map>
   </item_map>
   <biomes_visited>
+    <E key="$biome_ant_hell" value="1" >
+    </E>
     <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_darkness" value="1" >
     </E>
     <E key="$biome_desert" value="1" >
     </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
     <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_lake" value="1" >
     </E>
     <E key="$biome_liquidcave" value="1" >
     </E>
     <E key="$biome_orbroom" value="1" >
     </E>
+    <E key="$biome_potion_mimics" value="1" >
+    </E>
     <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
     </E>
     <E key="$biome_sandcave" value="1" >
     </E>
@@ -28,15 +42,27 @@
     </E>
     <E key="$biome_toxic_worm_cave" value="1" >
     </E>
+    <E key="$biome_vault" value="1" >
+    </E>
     <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
     </E>
     <E key="$biome_winter" value="1" >
     </E>
+    <E key="???" value="1" >
+    </E>
     <E key="Aquifer" value="1" >
     </E>
-    <E key="Blast Pit" value="1" >
+    <E key="Blast Pit" value="2" >
     </E>
-    <E key="Overgrown Laboratory" value="1" >
+    <E key="Floating Mountain" value="1" >
+    </E>
+    <E key="Hidden Grove" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="2" >
+    </E>
+    <E key="Worm Tunnels" value="1" >
     </E>
   </biomes_visited>
 </Stats>

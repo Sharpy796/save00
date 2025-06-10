@@ -1,5 +1,7 @@
-<Stats deaths="87" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="88" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
     <E key="boss_toxic_worm_minion | worm bite" value="1" >
     </E>
     <E key="gazer_cold_apotheosis | $damage_explosion" value="1" >
@@ -30,9 +32,9 @@
     </E>
     <E key="gazer_greater_cold" value="1" >
     </E>
-    <E key="iceskull" value="3" >
+    <E key="iceskull" value="6" >
     </E>
-    <E key="pebble_physics" value="2" >
+    <E key="pebble_physics" value="3" >
     </E>
     <E key="poring_holy" value="1" >
     </E>

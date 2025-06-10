@@ -1,4 +1,4 @@
-<Stats deaths="835" kills="146" player_kills="1" player_projectile_count="0" >
+<Stats deaths="857" kills="146" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,23 +6,23 @@
     </E>
     <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="22" >
+    <E key="NULL | $damage_electricity" value="24" >
     </E>
     <E key="NULL | $damage_explosion" value="82" >
     </E>
-    <E key="NULL | $damage_fire" value="27" >
+    <E key="NULL | $damage_fire" value="31" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="53" >
+    <E key="NULL | $damage_physicshit" value="54" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | $damage_radioactive" value="9" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="11" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="12" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="cargobot | $damage_projectile" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="3" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="4" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
@@ -94,11 +94,13 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="237" >
+    <E key="player | $damage_projectile" value="244" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
     <E key="player | $damage_slice" value="19" >
+    </E>
+    <E key="player | $perkname_graham_zaptap" value="5" >
     </E>
     <E key="player | chop!" value="5" >
     </E>

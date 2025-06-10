@@ -19,16 +19,16 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="50.6724" 
-    clouds_02_target="74.3042" 
+    clouds_01_target="23.2074" 
+    clouds_02_target="12.6701" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="0" 
-    fog="0.00499654" 
+    fog="0.00499637" 
     fog_target="0" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
-    gradient_sky_alpha_target="0" 
+    gradient_sky_alpha_target="0.00499961" 
     intro_weather="0" 
     is_initialized="1" 
     lightning_count="0" 
@@ -48,30 +48,58 @@
     player_did_infinite_spell_count="0" 
     player_living_with_minus_hp="0" 
     player_polymorph_count="0" 
-    player_polymorph_random_count="0" 
+    player_polymorph_random_count="1" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.00499462" 
-    rain_target="0" 
+    rain="0.0258843" 
+    rain_target="0.0208977" 
     session_stat_file="??STA/sessions/20250609-202738" 
     sky_sunset_alpha_target="1" 
-    time="0.436831" 
+    time="0.507664" 
     time_dt="1" 
-    time_total="10.3803" 
+    time_total="18.2145" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="0.16253" 
-    wind_speed="9.75187" 
+    wind="0.35302" 
+    wind_speed="21.1813" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
+      <E 
+        key="ACTION_ACCELERATING_SHOT" 
+        value="data/entities/projectiles/deck/white_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_ACID_TRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
       <E 
         key="ACTION_AIR_BULLET" 
         value="data/entities/projectiles/deck/light_bullet_air.xml" >
       </E>
       <E 
         key="ACTION_ALPHA" 
-        value="data/entities/projectiles/deck/black_hole.xml" >
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_ALT_FIRE_TELEPORT_SHORT" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_HEX_OIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_HITFX_HEX_WATER" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_LIQUIDSPHERE_WATER" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_water.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_LUA_SHARING" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
       </E>
       <E 
         key="ACTION_APOTHEOSIS_MASS_DRY" 
@@ -82,36 +110,184 @@
         value="mods/Apotheosis/files/entities/projectiles/deck/musical_delayed_attack_end.xml" >
       </E>
       <E 
+        key="ACTION_APOTHEOSIS_PORTAL_LUKKI_BLUE_PORTAL" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_blue_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_PORTAL_LUKKI_GREEN_PORTAL" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_PORTAL_LUKKI_RED_PORTAL" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_red_portal.xml" >
+      </E>
+      <E 
         key="ACTION_APOTHEOSIS_RAT_BITE" 
         value="mods/Apotheosis/files/entities/projectiles/deck/rat_bite.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_SAWBLADE_BIG_RAY" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/targetter.xml" >
+      </E>
+      <E 
+        key="ACTION_APOTHEOSIS_TARGETTER" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/targetter.xml" >
+      </E>
+      <E 
+        key="ACTION_ARC_FIRE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_AREA_DAMAGE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_AVOIDING_ARC" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
       </E>
       <E 
         key="ACTION_BLACK_HOLE" 
         value="data/entities/projectiles/deck/black_hole.xml" >
       </E>
       <E 
-        key="ACTION_BURST_2" 
+        key="ACTION_BLACK_HOLE_BIG" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_BLOODLUST" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_REWARD_DRAGON" 
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_REWARD_SQUIDWARD" 
+        value="mods/boss_reworks/files/spells/reward_squidward.xml" >
+      </E>
+      <E 
+        key="ACTION_BR_SHORTTELETRIGGER" 
         value="data/entities/projectiles/deck/digger.xml" >
+      </E>
+      <E 
+        key="ACTION_BUCKSHOT" 
+        value="data/entities/projectiles/deck/buckshot_player.xml" >
+      </E>
+      <E 
+        key="ACTION_BURST_2" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_BURST_3" 
+        value="data/entities/projectiles/deck/white_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_CC_GUNPOWDER_BUFF" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
       </E>
       <E 
         key="ACTION_CHAINSAW" 
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
+        key="ACTION_CLIPPING_SHOT" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_BALANCE" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_COPITH_BARRIER_ARC" 
+        value="" >
+      </E>
+      <E 
         key="ACTION_COPITH_BLINDNESS" 
         value="data/entities/projectiles/deck/touch_water.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_CONFETTI_TRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DAMAGE_BOUNCE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_DAMAGE_CRITICAL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_ELECTRIC_TELEPORT" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GLITTERING_TRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GRAPPLING_HOOK_SHOT" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_GUNNER_SHOT_STRONG" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_HITFX_WET_2X_DAMAGE_FREEZE" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
       </E>
       <E 
         key="ACTION_COPITH_HOMING_SEEKER" 
         value="data/entities/projectiles/deck/digger.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_IF_ALT_FIRE" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_INFERNAL_STREAK" 
         value="mods/copis_things/files/entities/projectiles/infernal_streak.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_LIFETIME_RANDOM" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_LUNGE" 
-        value="data/entities/projectiles/deck/digger.xml" >
+        value="data/entities/projectiles/deck/powerdigger.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_ENGINE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MANA_RANDOM" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MATRA_MAGIC" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_MINI_SHIELD" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_POWDER_TO_WATER" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_RAINBOW_TRAIL" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_COPITH_REDIRECT_THIS" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_REDIRECT_THIS_RARE" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
       </E>
       <E 
         key="ACTION_COPITH_ROOT_GROWER" 
@@ -122,12 +298,52 @@
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
+        key="ACTION_COPITH_SILVER_BULLET_RAY" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SILVER_BULLET_RAY_6" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SILVER_MAGNUM_DEATH_TRIGGER" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_SLOW" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_VACUUM_CLAW" 
+        value="mods/copis_things/files/entities/projectiles/vacuum_claw.xml" >
+      </E>
+      <E 
+        key="ACTION_COPITH_VERTICAL_ARC" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
         key="ACTION_COPITH_VOID_TRAIL" 
         value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
         key="ACTION_COPITH_ZAP" 
         value="data/entities/projectiles/deck/digger.xml" >
+      </E>
+      <E 
+        key="ACTION_CRITICAL_HIT" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE_FOREVER" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_DAMAGE_RANDOM" 
+        value="data/entities/projectiles/deck/laser.xml" >
       </E>
       <E 
         key="ACTION_DIGGER" 
@@ -142,28 +358,124 @@
         value="data/entities/projectiles/deck/disc_bullet_big.xml" >
       </E>
       <E 
+        key="ACTION_ELECTRIC_CHARGE" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_ENERGY_SHIELD_SHOT" 
+        value="mods/copis_things/files/entities/projectiles/electric_teleport.xml" >
+      </E>
+      <E 
+        key="ACTION_FIREBALL_RAY_LINE" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_FLY_UPWARDS" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_FREEZE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_AGITINE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_GLITTERING_LIQUID" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_CC_COLOUR_URANIUM" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_ACID" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_TEAL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WEIRD_FUNGUS" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_COLOUR_WHITE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GLIMMERS_EXPANDED_SOULS_COLOUR_SOUL_BLOOD" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GOKI_CLINGING_SHOT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_BLACKLIGHT_ARROW" 
+        value="mods/grahamsperks/files/spells/blacklight_arrow.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_BUBBLES" 
+        value="mods/grahamsperks/files/spells/bubble_toxic.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_CONNECTIONTRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_ECHO_BUBBLE" 
         value="mods/grahamsperks/files/spells/echo_bubble.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_EXTINGUISHER" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="" >
       </E>
       <E 
         key="ACTION_GRAHAM_GOLDEN" 
-        value="data/entities/projectiles/deck/digger.xml" >
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_GUARDIAN_SHOT" 
+        value="mods/copis_things/files/entities/projectiles/matra_magic.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_INVISIBLE" 
         value="mods/grahamsperks/files/spells/invisible.xml" >
       </E>
       <E 
+        key="ACTION_GRAHAM_MANAHEART" 
+        value="data/entities/projectiles/deck/powerdigger.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MANAHEARTBREAK" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MATERIAL_RADIOACTIVE" 
+        value="mods/grahamsperks/files/spells/material_radioactive.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_MIXUP" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_ORBIT_BLUE" 
         value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
       </E>
       <E 
+        key="ACTION_GRAHAM_ROLLOUT" 
+        value="mods/grahamsperks/files/spells/rollout.xml" >
+      </E>
+      <E 
         key="ACTION_GRAHAM_ROT" 
-        value="data/entities/projectiles/deck/vacuum_entities.xml" >
+        value="mods/spellbound_bundle/files/entities/projectiles/mine_trigger.xml" >
+      </E>
+      <E 
+        key="ACTION_GRAHAM_TOXIC_POTION" 
+        value="mods/grahamsperks/files/spells/toxic_potion.xml" >
       </E>
       <E 
         key="ACTION_GRAHAM_WOOD" 
@@ -174,12 +486,84 @@
         value="data/entities/projectiles/deck/grenade.xml" >
       </E>
       <E 
+        key="ACTION_GRENADE_TIER_3" 
+        value="data/entities/projectiles/deck/grenade_tier_3.xml" >
+      </E>
+      <E 
+        key="ACTION_GROWSHOT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_GUNPOWDER_TRAIL" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_HEAVY_BULLET" 
+        value="data/entities/projectiles/deck/bullet_heavy.xml" >
+      </E>
+      <E 
+        key="ACTION_HEAVY_SHOT" 
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_CRITICAL_OIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_HITFX_TOXIC_CHARM" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_HOMING_SHORT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_ELSE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+      </E>
+      <E 
         key="ACTION_IF_END" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_ENEMY" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_HALF" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_HP" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
+      </E>
+      <E 
+        key="ACTION_IF_PROJECTILE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/markerportals/portal_green_portal.xml" >
       </E>
       <E 
         key="ACTION_I_SHAPE" 
         value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+      </E>
+      <E 
+        key="ACTION_LARPA_CHAOS_2" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER" 
+        value="data/entities/projectiles/deck/laser.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_EMITTER_DIGGING" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_LASER_EMITTER_WIDER" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_LIFETIME_DOWN" 
+        value="mods/boss_reworks/files/spells/reward_dragon.xml" >
       </E>
       <E 
         key="ACTION_LIGHTNING" 
@@ -187,19 +571,35 @@
       </E>
       <E 
         key="ACTION_LIGHT_BULLET_TIMER" 
-        value="data/entities/projectiles/deck/regeneration_field.xml" >
+        value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
       </E>
       <E 
         key="ACTION_MANA_REDUCE" 
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
+        key="ACTION_MEGALASER" 
+        value="data/entities/projectiles/deck/megalaser.xml" >
+      </E>
+      <E 
         key="ACTION_MINE" 
         value="data/entities/projectiles/deck/mine.xml" >
       </E>
       <E 
+        key="ACTION_MOLDOS_HIISI_PISTOL" 
+        value="mods/moldos_arsenal/files/entities/items/hiisipistol/projectile.xml" >
+      </E>
+      <E 
         key="ACTION_MOLDOS_HIISI_SHOTGUN" 
         value="mods/moldos_arsenal/files/entities/items/hiisishotgun/projectile.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SCALING_RECHARGE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_MOLDOS_SOUL_TINKER" 
+        value="data/entities/projectiles/deck/powerdigger.xml" >
       </E>
       <E 
         key="ACTION_MOLDOS_WAND_CONSUMES_X_SOULS" 
@@ -211,11 +611,27 @@
       </E>
       <E 
         key="ACTION_NOLLA" 
-        value="data/entities/projectiles/deck/teleport_projectile_short.xml" >
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_ORBIT_LARPA" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_PEBBLE" 
+        value="data/entities/projectiles/deck/pebble_player.xml" >
+      </E>
+      <E 
+        key="ACTION_PHASING_ARC" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
       </E>
       <E 
         key="ACTION_PIPE_BOMB" 
         value="data/entities/projectiles/deck/pipe_bomb.xml" >
+      </E>
+      <E 
+        key="ACTION_POWERDIGGER" 
+        value="data/entities/projectiles/deck/powerdigger.xml" >
       </E>
       <E 
         key="ACTION_RANDOM_SPELL" 
@@ -226,36 +642,112 @@
         value="data/entities/projectiles/deck/alcohol_blast.xml" >
       </E>
       <E 
+        key="ACTION_RECOIL" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_REGENERATION_FIELD" 
+        value="data/entities/projectiles/deck/regeneration_field.xml" >
+      </E>
+      <E 
         key="ACTION_ROCKET" 
         value="data/entities/projectiles/deck/rocket.xml" >
       </E>
       <E 
+        key="ACTION_ROCKET_DOWNWARDS" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
         key="ACTION_SCATTER_2" 
-        value="data/entities/projectiles/deck/chainsaw.xml" >
+        value="data/entities/projectiles/deck/black_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_SCATTER_3" 
+        value="data/entities/projectiles/deck/grenade_tier_3.xml" >
       </E>
       <E 
         key="ACTION_SCATTER_4" 
-        value="data/entities/projectiles/deck/digger.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
+      </E>
+      <E 
+        key="ACTION_SINEWAVE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SLOW_BUT_STEADY" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
       </E>
       <E 
         key="ACTION_SPEED" 
-        value="data/entities/projectiles/deck/digger.xml" >
+        value="data/entities/projectiles/deck/white_hole.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_AIR_BURST" 
+        value="" >
       </E>
       <E 
         key="ACTION_SPELLBOUND_BUBBLE_PROJECTILES" 
-        value="mods/Apotheosis/files/entities/projectiles/deck/mass_status_dry.xml" >
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_BUNDLE_SPELL_MERGE" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_DARK_FLAME_TRAIL" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_DUCK" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_ENERGETIC_PROJECTILES" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_FREEZING" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_GAS_SHOT_POISON" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_HELL_FIRE" 
+        value="mods/Apotheosis/files/entities/projectiles/deck/liquidsphere_water.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_SHARD_SHOT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_SPELLBOUND_STICKY_BOMB_TRIGGER" 
+        value="mods/spellbound_bundle/files/entities/projectiles/mine_trigger.xml" >
       </E>
       <E 
         key="ACTION_SPITTER_TIMER" 
-        value="data/entities/projectiles/deck/touch_water.xml" >
+        value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
         key="ACTION_SPREAD_REDUCE" 
         value="data/entities/projectiles/deck/chainsaw.xml" >
       </E>
       <E 
+        key="ACTION_STATIC_TO_SAND" 
+        value="" >
+      </E>
+      <E 
+        key="ACTION_SUN_POWER" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
         key="ACTION_TAU" 
-        value="data/entities/projectiles/deck/black_hole.xml" >
+        value="data/entities/projectiles/deck/white_hole.xml" >
       </E>
       <E 
         key="ACTION_TELEPORT_PROJECTILE_SHORT" 
@@ -264,6 +756,22 @@
       <E 
         key="ACTION_TOUCH_WATER" 
         value="data/entities/projectiles/deck/touch_water.xml" >
+      </E>
+      <E 
+        key="ACTION_TRUE_ORBIT" 
+        value="mods/spellbound_bundle/files/entities/projectiles/shardshot.xml" >
+      </E>
+      <E 
+        key="ACTION_TWITCH_DUCK" 
+        value="data/entities/projectiles/deck/black_hole_big.xml" >
+      </E>
+      <E 
+        key="ACTION_T_SHAPE" 
+        value="mods/spellbound_bundle/files/entities/projectiles/mine_trigger.xml" >
+      </E>
+      <E 
+        key="ACTION_WHITE_HOLE" 
+        value="data/entities/projectiles/deck/white_hole.xml" >
       </E>
       <E 
         key="ACTION_Y_SHAPE" 
@@ -279,11 +787,11 @@
       </E>
       <E 
         key="AdvancedSpellInventory_stored_spells" 
-        value="3;SPELLBOUND_SNARK;-1|1;BOMB;3|1;AIR_BULLET;-1|1;LASER;-1|2;DIGGER;-1|6;DISC_BULLET;-1|1;GRAHAM_ECHO_BUBBLE;-1|5;COPITH_SPECTRAL_HOOK;-1|3;DISC_BULLET_BIG;-1|1;MOLDOS_HIISI_POISON_SHOT;-1|1;GRAHAM_INVISIBLE;-1|5;LIGHTNING;-1|1;HEAVY_BULLET;-1|2;ROCKET;10|1;APOTHEOSIS_MUSICAL_STRIKE;30|4;APOTHEOSIS_MUSICAL_STRIKE_TRIGGER;30|3;DARKFLAME;60|6;TELEPORT_PROJECTILE_SHORT;-1|7;LIGHT_BULLET_TIMER;-1|1;RANDOM_SPELL;-1|1;BR_LONGTELETRIGGER;-1|1;MINE;15|1;COPITH_ZAP;-1|1;ALCOHOL_BLAST;-1|1;RANDOM_STATIC_PROJECTILE;-1|1;HOMING_SHOOTER;-1|1;HITFX_TOXIC_CHARM;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;COPITH_LIQUID_EATER;-1|1;ESSENCE_TO_POWER;-1|1;GRAHAM_EXTINGUISHER;-1|1;APOTHEOSIS_MIND_VISION;-1|1;NOLLA;-1|1;MOLDOS_TOME_PAGE_PYRAMID;-1|1;SPREAD_REDUCE;-1|1;COPITH_HOMING_SEEKER;-1|1;MOLDOS_TOME_PAGE_ALCHEMIST;-1|1;TRUE_ORBIT;-1|1;COPITH_VOID_TRAIL;-1|1;COPITH_DELAY_2;-1|1;BR_REWARD_ALCHEMIST;-1|1;GAMMA;-1|2;Y_SHAPE;-1|1;SCATTER_4;-1|1;COPITH_SCATTER_6;-1|1;GRAHAM_WOOD;-1|1;TOUCH_WATER;4|1;IF_END;-1|1;GRAHAM_TOGGLE_BLUE;-1|1;BR_REWARD_LIMBS;-1|1;GRAHAM_TOGGLER_ALT;-1|1;SIGMA;-1|1;ALPHA;-1|1;PHI;-1|1;SPITTER_TIMER;-1|1;APOTHEOSIS_MASS_DRY;19|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;COPITH_ROOT_GROWER;9|1;COPITH_BLINDNESS;50|1;SPELLBOUND_BUBBLE_PROJECTILES;-1|1;I_SHAPE;-1|1;MOLDOS_WAND_CONSUMES_X_SOULS;-1||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
+        value="3;SPELLBOUND_SNARK;-1|1;BOMB;3|1;AIR_BULLET;-1|1;CHAINSAW;-1|1;LASER;-1|5;DIGGER;-1|6;DISC_BULLET;-1|1;GRAHAM_ECHO_BUBBLE;-1|5;COPITH_SPECTRAL_HOOK;-1|3;DISC_BULLET_BIG;-1|11;COPITH_GILDED_AXE;-1|1;MOLDOS_HIISI_POISON_SHOT;-1|1;MOLDOS_HIISI_SHOTGUN;-1|2;COPITH_INFERNAL_STREAK;-1|1;GRAHAM_INVISIBLE;-1|5;LIGHTNING;-1|1;HEAVY_BULLET;-1|2;ROCKET;10|4;COPITH_MATRA_MAGIC;-1|1;APOTHEOSIS_MUSICAL_STRIKE;30|4;APOTHEOSIS_MUSICAL_STRIKE_TRIGGER;30|3;DARKFLAME;60|12;COPITH_POLY_PROPANE_TANK;10|2;GRAHAM_ROLLOUT;12|2;GRAHAM_ROLLOUT;10|1;GRAHAM_ROLLOUT;11|6;TELEPORT_PROJECTILE_SHORT;-1|3;BR_SHORTTELETRIGGER;-1|7;LIGHT_BULLET_TIMER;-1|1;SPITTER_TIMER;-1|1;BR_LONGTELETRIGGER;-1|1;BUCKSHOT;-1|1;MINE;15|7;CC_WISPY_FLAME;-1|1;COPITH_ZAP;-1|1;COPITH_ROOT_GROWER;9|1;ALCOHOL_BLAST;-1|1;WORM_RAIN;2|1;RANDOM_STATIC_PROJECTILE;-1|1;GLIMMERS_EXPANDED_COLOUR_ACID;-1|1;COPITH_BLINDNESS;50|1;HOMING_SHOOTER;-1|1;SPELLBOUND_BUBBLE_PROJECTILES;-1|1;HITFX_TOXIC_CHARM;-1|1;GRAHAM_CONNECTIONTRAIL;-1|1;CRITICAL_HIT;-1|1;COPITH_DIMIGE;-1|1;COPITH_LIQUID_EATER;-1|1;ESSENCE_TO_POWER;-1|1;GRAHAM_EXTINGUISHER;-1|1;COPITH_HITFX_OILED_2X_DAMAGE_BURN;-1|1;GRAHAM_GOLDEN;-1|1;GRAHAM_GUARDIAN_SHOT;8|1;COPITH_GRAPPLING_HOOK_SHOT;-1|1;MOLDOS_TOME_PAGE_SQUIDWARD;-1|1;LINE_ARC;-1|1;APOTHEOSIS_LUA_SHARING;-1|1;APOTHEOSIS_MIND_VISION;-1|1;MOLDOS_TOME_PAGE_ALCHEMIST;-1|1;NOLLA;-1|1;GRAHAM_ORBIT_BLUE;-1|1;ORBIT_LARPA;-1|1;MOLDOS_TOME_PAGE_PYRAMID;-1|1;MOLDOS_TOME_PAGE_DRAGON;-1|1;SPREAD_REDUCE;-1|1;COPITH_HOMING_SEEKER;-1|1;GRAHAM_STASIS;-1|1;TRUE_ORBIT;-1|1;COPITH_VOID_TRAIL;-1|1;APOTHEOSIS_HITFX_HEX_WATER;-1|1;MOLDOS_SOUL_SPELL_WORM;-1|1;COPITH_DELAY_2;-1|3;SCATTER_2;-1|2;BURST_2;-1|1;I_SHAPE;-1|2;Y_SHAPE;-1|1;SCATTER_4;-1|1;COPITH_SCATTER_6;-1||1;GRAHAM_WOOD;-1|1;TOUCH_WATER;4|1;GRAHAM_MATERIAL_RADIOACTIVE;-1|2;ALPHA;-1|1;DIVIDE_4;-1|3;GAMMA;-1|1;PHI;-1|1;RANDOM_SPELL;-1|1;GRAHAM_TOGGLE_BLUE;-1|3;SIGMA;-1|2;TAU;-1|1;APOTHEOSIS_MASS_STATUS_FIRE;20|1;APOTHEOSIS_MASS_DRY;19|1;BR_REWARD_ALCHEMIST;-1|1;BR_REWARD_LIMBS;-1|1;APOTHEOSIS_ALT_FIRE_TELEPORT_SHORT;-1|1;GRAHAM_TOGGLER_ALT;-1|1;MOLDOS_WAND_CONSUMES_X_SOULS;-1|1;LIFETIME_DOWN;-1|1;BLOODLUST;-1|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||" >
       </E>
       <E 
         key="BR_BOSS_RUSH_FRAME_NOW" 
-        value="417172" >
+        value="733125" >
       </E>
       <E 
         key="BR_MODE" 
@@ -295,7 +803,7 @@
       </E>
       <E 
         key="GLOBAL_CAST_STATE" 
-        value="20526" >
+        value="108479" >
       </E>
       <E 
         key="GRAHAM_MAGIC_SKIN_CURSE" 
@@ -303,7 +811,7 @@
       </E>
       <E 
         key="GRAHAM_ONEOFFS" 
-        value="0" >
+        value="1" >
       </E>
       <E 
         key="GRAHAM_TECH_CHEST_COUNT_OPENED" 
@@ -318,16 +826,20 @@
         value="null" >
       </E>
       <E 
+        key="GUN_ACTION_IF_HALF_STATUS" 
+        value="0" >
+      </E>
+      <E 
         key="HELPLESS_KILLS" 
-        value="23" >
+        value="36" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="9" >
+        value="20" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="3" >
+        value="6" >
       </E>
       <E 
         key="InventoryBags_active_item_tab" 
@@ -354,7 +866,23 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_COPITH_FOCUS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_COPITH_INVINCIBILITY_FRAMES_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_COPITH_PROTECTION_LOTTERY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GRAHAM_LIFE_LOTTERY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GRAHAM_ZAP_TAP_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -363,6 +891,10 @@
       </E>
       <E 
         key="PERK_PICKED_NO_MORE_SHUFFLE_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_PROTECTION_MELEE_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -375,6 +907,10 @@
       </E>
       <E 
         key="STEVARI_DEATHS" 
+        value="3" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_10523" 
         value="1" >
       </E>
       <E 
@@ -390,7 +926,27 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_ACTIVE_-359_6427" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_8475" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_12" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_16" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_LEAKED_0_2" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_20" 
         value="1" >
       </E>
       <E 
@@ -403,19 +959,43 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="11" >
+        value="20" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="TEMPLE_REROLL_PERK_INDEX" 
-        value="168" >
+        value="165" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
         value="1" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_blue_x" 
+        value="-12805" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_blue_y" 
+        value="631" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_green_x" 
+        value="-73" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_green_y" 
+        value="1377" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_red_x" 
+        value="-8500" >
+      </E>
+      <E 
+        key="apotheosis_markerportal_red_y" 
+        value="16606" >
       </E>
       <E 
         key="apotheosis_tabletghost_count" 
@@ -451,7 +1031,7 @@
       </E>
       <E 
         key="extra_entities" 
-        value="mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/grahamsperks/files/spells/golden.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml,mods/Hydroxide/files/mystical_mixtures/alchemy/action_welding/spawn.xml," >
+        value="" >
       </E>
       <E 
         key="fungal_shift_iteration" 
@@ -466,20 +1046,116 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/AI/enchanted_duck.xml" 
+        value="$enemy_apotheosis_enchanted_duck" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/AI/poring_holy.xml" 
+        value="$enemy_apotheosis_poring_holy" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/boss_alchemist/key.xml" 
         value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/corrupt_alchemist.xml" 
+        value="$corrupt_alchemist" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/devourer_magic.xml" 
+        value="$enemy_apotheosis_devourer_magic" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/lavashooter.xml" 
+        value="$lavashooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/long_ghost.xml" 
+        value="$long_ghost" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/phantom_b.xml" 
+        value="$animal_phantom_b" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/phantom_c_apotheosis.xml" 
+        value="$enemy_apotheosis_phantom_c_apotheosis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/phantom_trapper.xml" 
+        value="$phantom_trapper" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/skullfly.xml" 
+        value="$animal_skullfly" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/skullrat.xml" 
+        value="$animal_skullrat" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/skullspider.xml" 
+        value="$skullspider" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/tentacler_small.xml" 
+        value="$animal_tentacler_small" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/watermage.xml" 
+        value="$enemy_apotheosis_watermage" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/wizard_earthquake.xml" 
+        value="$wizard_earthquake" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/wizard_returner.xml" 
+        value="$animal_wizard_returner" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/crypt/zombie_giant.xml" 
+        value="$zombie_giant" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/desert/locust_swarm.xml" 
         value="$enemy_apotheosis_locust_swarm" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/flutterpede_hitbox.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/fungicave/lukki_fungus.xml" 
         value="$enemy_apotheosis_lukki_fungus" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/ground_terror_friendly.xml" 
+        value="$ground_terror" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/jungle/locust_swarm.xml" 
+        value="$enemy_apotheosis_locust_swarm" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/liquidcave/potionmaster2.xml" 
         value="$potionmaster2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/giant.xml" 
+        value="$animal_giant" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/iceskull.xml" 
+        value="$animal_iceskull" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/necrobot.xml" 
+        value="$animal_necrobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/floating_mountain/necromancer.xml" 
+        value="$animal_necromancer" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/mod/overgrown_lab/necromancer.xml" 
@@ -488,6 +1164,154 @@
       <E 
         key="grahamsdialogue.readback.data/entities/animals/mod/overgrown_lab/potionmaster.xml" 
         value="Mestari alkemistia" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/sulfur_cave/bloom.xml" 
+        value="$animal_bloom" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/mod/sulfur_cave/shooterflower.xml" 
+        value="$animal_shooterflower" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/monk.xml" 
+        value="$animal_monk" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/bigfly.xml" 
+        value="$bigfly" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/bloom.xml" 
+        value="$animal_bloom" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/chameleon.xml" 
+        value="$chameleon" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/coward.xml" 
+        value="$animal_coward" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/ent.xml" 
+        value="$ent" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/eyeling.xml" 
+        value="$eyeling" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/flamer.xml" 
+        value="$animal_flamer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/flutterpede.xml" 
+        value="$flutterpede" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/fly.xml" 
+        value="$animal_fly" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/fungus.xml" 
+        value="$animal_fungus" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/jungle_flower.xml" 
+        value="$jungle_flower" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/lukki_blue.xml" 
+        value="$lukki_blue" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/lukki_white.xml" 
+        value="$lukki_white" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/mantis.xml" 
+        value="$mantis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scarab.xml" 
+        value="$scarab" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_alcohol.xml" 
+        value="$scavenger_alcohol" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_clusterbomb.xml" 
+        value="$animal_scavenger_clusterbomb" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_compressor.xml" 
+        value="$scavenger_compressor" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_grenade.xml" 
+        value="$animal_scavenger_grenade" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_leader.xml" 
+        value="$animal_scavenger_leader" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_oiler.xml" 
+        value="$scavenger_oiler" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_plasma.xml" 
+        value="$scavenger_plasma" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_poison.xml" 
+        value="$animal_scavenger_poison" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_smg.xml" 
+        value="$animal_scavenger_smg" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_trigger.xml" 
+        value="$scavenger_trigger" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scavenger_turbo.xml" 
+        value="$scavenger_turbo" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/scorpio.xml" 
+        value="$scorpio" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/shooterflower.xml" 
+        value="$animal_shooterflower" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/sniper.xml" 
+        value="$animal_sniper" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/spider.xml" 
+        value="$spider" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/tank_fire2.xml" 
+        value="$tank_fire2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/worm_fungal.xml" 
+        value="$worm_fungal" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/rainforest/yoyoer.xml" 
+        value="$yoyoer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/sandcave/whisp.xml" 
+        value="$enemy_apotheosis_whisp" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/animals/slime_turret.xml" 
@@ -506,6 +1330,10 @@
         value="$radiobot" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/snow_castle/shotgunner.xml" 
+        value="$animal_shotgunner" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/snow_castle/smoke_bot.xml" 
         value="$smoke_bot" >
       </E>
@@ -514,8 +1342,256 @@
         value="$welder" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/forsaken_eye.xml" 
+        value="$enemy_apotheosis_forsaken_eye" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/gazer_cold_apotheosis.xml" 
+        value="$enemy_apotheosis_gazer_cold_apotheosis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/gazer_greater_cold.xml" 
+        value="$enemy_apotheosis_gazer_greater_cold" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/skycrystal_physics.xml" 
+        value="$animal_skycrystal_physics" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/the_end/wraith_returner_apotheosis.xml" 
+        value="$enemy_apotheosis_wraith_returner_apotheosis" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/train_left_long.xml" 
+        value="$train" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/animals/twig_grower.xml" 
         value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/acidshooter.xml" 
+        value="$animal_acidshooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/alchaos.xml" 
+        value="$alchaos" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/assassin.xml" 
+        value="$animal_assassin" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/bigzombie.xml" 
+        value="$animal_bigzombie" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/blob.xml" 
+        value="$animal_blob" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/bluemancer.xml" 
+        value="$bluemancer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/bot.xml" 
+        value="$bot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/cargobot.xml" 
+        value="$cargobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/chaoticpolyshooter.xml" 
+        value="$chaoticpolyshooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/corrupt_alchemist.xml" 
+        value="$corrupt_alchemist" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/coward.xml" 
+        value="$animal_coward" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone2.xml" 
+        value="$drone2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_mini.xml" 
+        value="$enemy_apotheosis_drone_mini" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_physics.xml" 
+        value="$animal_drone_physics" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_status_ailment.xml" 
+        value="$enemy_apotheosis_drone_status_ailment" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/drone_trail.xml" 
+        value="$drone_trail" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/electrobot.xml" 
+        value="$electrobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/eradicator.xml" 
+        value="$eradicator" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/firemage.xml" 
+        value="$animal_firemage" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/flamer.xml" 
+        value="$animal_flamer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/frog_bot.xml" 
+        value="$frog_bot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/goo_slug.xml" 
+        value="$enemy_apotheosis_goo_slug" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/healerdrone_physics.xml" 
+        value="$animal_healerdrone_physics" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/hisii_engineer.xml" 
+        value="$enemy_apotheosis_hisii_engineer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/icer.xml" 
+        value="$animal_icer" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/junkbot.xml" 
+        value="$junkbot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/laserbot.xml" 
+        value="$laserbot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/lasershooter.xml" 
+        value="$animal_lasershooter" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/maggot.xml" 
+        value="$animal_maggot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/mimic_explosive_box.xml" 
+        value="$enemy_apotheosis_mimic_explosive_box" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/missilecrab.xml" 
+        value="$animal_missilecrab" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/nautilus.xml" 
+        value="$nautilus" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/radiobot.xml" 
+        value="$radiobot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/roboguard.xml" 
+        value="$animal_roboguard" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/sawbot.xml" 
+        value="$sawbot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_compressor_robot.xml" 
+        value="$scavenger_compressor_robot" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_electrocuter2.xml" 
+        value="$scavenger_electrocuter2" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_glue.xml" 
+        value="$animal_scavenger_glue" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_grenade.xml" 
+        value="$animal_scavenger_grenade" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_heal.xml" 
+        value="$animal_scavenger_heal" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_leader.xml" 
+        value="$animal_scavenger_leader" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_mine.xml" 
+        value="$animal_scavenger_mine" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_plasma.xml" 
+        value="$scavenger_plasma" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_radiolava.xml" 
+        value="$scavenger_radiolava" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_smg.xml" 
+        value="$animal_scavenger_smg" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/scavenger_trigger.xml" 
+        value="$scavenger_trigger" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/sniper.xml" 
+        value="$animal_sniper" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/tentacler.xml" 
+        value="$animal_tentacler" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/tentacler_big.xml" 
+        value="$enemy_apotheosis_tentacler_big" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/tentacler_small.xml" 
+        value="$animal_tentacler_small" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/thundermage.xml" 
+        value="$animal_thundermage" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/turret_right.xml" 
+        value="$animal_turret" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/wizard_dark.xml" 
+        value="$animal_wizard_dark" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/wizard_earthquake.xml" 
+        value="$wizard_earthquake" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/wizard_random.xml" 
+        value="$wizard_random" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/animals/vault/worm_robot.xml" 
+        value="$worm_robot" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/buildings/altar_skull.xml" 
@@ -530,6 +1606,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/buildings/firetrap_right.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/buildings/hut.xml" 
         value="" >
       </E>
@@ -538,11 +1618,19 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/buildings/lukki_eggs.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/buildings/mod/water_pipe.xml" 
         value="" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/buildings/mod/water_pipe_drain.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/physics_cocoon.xml" 
         value="" >
       </E>
       <E 
@@ -578,6 +1666,18 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/buildings/thundertrap_left.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/buildings/thundertrap_right.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/new/small_meteor.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/orbs/orb_00.xml" 
         value="" >
       </E>
@@ -590,7 +1690,19 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_04.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/orbs/orb_06.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/items/orbs/orb_07.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/apotheosis/egg_robot.xml" 
         value="" >
       </E>
       <E 
@@ -623,6 +1735,14 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/items/pickup/heart25.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_better.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/items/pickup/heart_fullhp.xml" 
         value="" >
       </E>
       <E 
@@ -694,11 +1814,51 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/crystal_green.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/crystal_lime.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/crystal_opal.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/crystal_pink.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/crystal_red.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/dripping_oil.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/dripping_radioactive.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/dripping_water.xml" 
         value="" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/props/forcefield_generator.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/mod/root_grower_big.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/mod/sulfur_cave/physics_flower_big.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/mod/sulfur_cave/physics_flower_small.xml" 
         value="" >
       </E>
       <E 
@@ -711,6 +1871,18 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/props/new/keg.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_flower_confusion.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_flower_poison.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/new/suspended_flower_toxic.xml" 
         value="" >
       </E>
       <E 
@@ -730,6 +1902,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/chain_torch.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/physics/chain_torch_blue.xml" 
         value="" >
       </E>
@@ -739,6 +1915,10 @@
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/props/physics/temple_lantern.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics/trap_laser_toggling.xml" 
         value="" >
       </E>
       <E 
@@ -798,7 +1978,19 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_hugeish.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/physics_fungus_small.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_trap.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_fungus_trap_custom.xml" 
         value="" >
       </E>
       <E 
@@ -830,11 +2022,23 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_mining_lamp.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_pressure_tank.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/physics_propane_tank.xml" 
         value="" >
       </E>
       <E 
         key="grahamsdialogue.readback.data/entities/props/physics_seamine.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/physics_torch_stand.xml" 
         value="" >
       </E>
       <E 
@@ -858,6 +2062,10 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/root_grower.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/root_grower_branch.xml" 
         value="" >
       </E>
@@ -870,7 +2078,23 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/sarcophagus_evil.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.data/entities/props/suspended_container.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_seamine.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_tank_acid.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/suspended_tank_radioactive.xml" 
         value="" >
       </E>
       <E 
@@ -882,7 +2106,19 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.data/entities/props/vault_apparatus_01.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.data/entities/props/vault_apparatus_02.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/suspended_tank_fire.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/Apotheosis/files/entities/props/suspended_tank_lava.xml" 
         value="" >
       </E>
       <E 
@@ -906,7 +2142,15 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/Hydroxide/files/mystical_mixtures/entities/catfood.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/copis_things/files/entities/props/root_grower.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/grahamsperks/files/entities/fireplace_worse.xml" 
         value="" >
       </E>
       <E 
@@ -934,7 +2178,15 @@
         value="" >
       </E>
       <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/dragon.xml" 
+        value="" >
+      </E>
+      <E 
         key="grahamsdialogue.readback.mods/souls/files/entities/items/_soulcrystals/pyramid.xml" 
+        value="" >
+      </E>
+      <E 
+        key="grahamsdialogue.readback.mods/souls/files/entities/items/soulrefresh/thing.xml" 
         value="" >
       </E>
       <E 
@@ -1018,6 +2270,26 @@
         value="172470" >
       </E>
       <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_1" 
+        value="420225" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_HEALED_4" 
+        value="420403" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_2" 
+        value="422190" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_3" 
+        value="420390" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_genericpool_GENERIC_ONFIRE_4" 
+        value="513600" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_genericpool_GENERIC_TOXIC_1" 
         value="176040" >
       </E>
@@ -1034,8 +2306,72 @@
         value="294180" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_127_2" 
+        value="612630" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_127_3" 
+        value="635070" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_127_4" 
+        value="612930" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_142_2" 
+        value="572040" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_142_3" 
+        value="569160" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_142_4" 
+        value="571440" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_147_3" 
+        value="574740" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_147_4" 
+        value="574560" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_14_2" 
+        value="518070" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_14_4" 
-        value="260700" >
+        value="525990" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_15_4" 
+        value="542010" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_15_5" 
+        value="547740" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_15_6" 
+        value="543900" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_15_7" 
+        value="543600" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_180_3" 
+        value="447540" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_180_4" 
+        value="448680" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_184_2" 
+        value="458910" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_19_3" 
@@ -1046,8 +2382,16 @@
         value="163590" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_1_2" 
+        value="420390" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_1_3" 
         value="401400" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_1_4" 
+        value="420300" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_23_2" 
@@ -1055,15 +2399,43 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_24_2" 
-        value="358560" >
+        value="513570" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_24_3" 
-        value="358560" >
+        value="559410" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_24_4" 
-        value="197580" >
+        value="514680" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_27_2" 
+        value="422730" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_27_3" 
+        value="419340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_27_4" 
+        value="423060" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_28_5" 
+        value="504870" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_42_2" 
+        value="459450" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_44_3" 
+        value="655680" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_44_4" 
+        value="663240" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_47_2" 
@@ -1074,24 +2446,52 @@
         value="176160" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_4_2" 
+        value="681780" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_4_3" 
-        value="70410" >
+        value="474330" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_4" 
-        value="27690" >
+        value="670140" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_5" 
-        value="38520" >
+        value="474810" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_4_6" 
+        value="453300" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_4_7" 
-        value="38220" >
+        value="670110" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_50_2" 
+        value="447930" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_50_4" 
+        value="448380" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_52_2" 
-        value="173700" >
+        value="452760" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_52_3" 
+        value="441930" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_52_4" 
+        value="579750" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_56_2" 
+        value="658860" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_59_2" 
@@ -1115,23 +2515,91 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_2" 
-        value="258570" >
+        value="632400" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_3" 
-        value="258660" >
+        value="626190" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_60_4" 
-        value="258720" >
+        value="644430" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_62_2" 
+        value="634590" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_62_4" 
+        value="634650" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_65_3" 
+        value="458340" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_66_2" 
-        value="199890" >
+        value="513210" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_66_3" 
+        value="684960" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_66_4" 
+        value="417930" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_67_2" 
+        value="458490" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_68_3" 
+        value="458520" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_68_4" 
+        value="458340" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_6_2" 
+        value="664200" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_6_3" 
+        value="658260" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_6_4" 
+        value="664290" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_70_3" 
         value="224460" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_2" 
+        value="667500" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_3" 
+        value="667500" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_73_4" 
+        value="667530" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_74_2" 
+        value="667380" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_74_3" 
+        value="667320" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_74_4" 
+        value="667440" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_0_79_4" 
@@ -1162,12 +2630,64 @@
         value="416520" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_92_3" 
+        value="512190" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_92_4" 
         value="416400" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_0_95_4" 
+        value="438120" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_98_2" 
+        value="578880" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_98_4" 
+        value="456210" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_99_2" 
+        value="450540" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_99_3" 
+        value="580920" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_0_99_4" 
+        value="451020" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_0_9_3" 
-        value="29250" >
+        value="661680" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_2" 
+        value="440397" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_3" 
+        value="440422" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_4" 
+        value="440422" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_5" 
+        value="440450" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_6" 
+        value="440422" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_103_7" 
+        value="440397" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_10_2" 
@@ -1226,6 +2746,10 @@
         value="416295" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_17_5" 
+        value="547866" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_1_184_3" 
         value="139063" >
       </E>
@@ -1271,15 +2795,39 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_3" 
-        value="415608" >
+        value="487307" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_26_4" 
-        value="415608" >
+        value="487503" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_29_3" 
+        value="487426" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_2" 
+        value="501772" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_3" 
+        value="501741" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_4" 
+        value="501741" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_5" 
+        value="501741" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_30_6" 
-        value="369654" >
+        value="501772" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_30_7" 
+        value="501741" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_44_2" 
@@ -1300,6 +2848,10 @@
       <E 
         key="mods_grahamsdialogue_pool_1_49_4" 
         value="169475" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_59_2" 
+        value="660615" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_64_2" 
@@ -1323,7 +2875,11 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_68_4" 
-        value="357164" >
+        value="524935" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_6_3" 
+        value="452309" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_71_2" 
@@ -1348,6 +2904,14 @@
       <E 
         key="mods_grahamsdialogue_pool_1_72_4" 
         value="359685" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_75_3" 
+        value="666824" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_76_3" 
+        value="665639" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_1_7_3" 
@@ -1390,8 +2954,56 @@
         value="225551" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_1_94_4" 
+        value="525997" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_97_2" 
+        value="451809" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_97_3" 
+        value="451809" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_1_97_4" 
+        value="451809" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_126_2" 
+        value="610128" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_126_4" 
+        value="610475" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_2" 
+        value="545705" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_3" 
+        value="546196" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_4" 
+        value="545535" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_5" 
+        value="545929" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_17_7" 
+        value="546174" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_1_4" 
         value="264925" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_29_4" 
+        value="420437" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_30_2" 
@@ -1415,7 +3027,7 @@
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_30_7" 
-        value="370771" >
+        value="505340" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_44_2" 
@@ -1426,8 +3038,24 @@
         value="263802" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_65_2" 
+        value="458610" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_65_3" 
+        value="458576" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_2_66_2" 
-        value="228530" >
+        value="513396" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_66_3" 
+        value="684570" >
+      </E>
+      <E 
+        key="mods_grahamsdialogue_pool_2_66_4" 
+        value="513523" >
       </E>
       <E 
         key="mods_grahamsdialogue_pool_2_69_2" 
@@ -1454,6 +3082,10 @@
         value="238272" >
       </E>
       <E 
+        key="mods_grahamsdialogue_pool_2_92_2" 
+        value="659858" >
+      </E>
+      <E 
         key="mods_grahamsdialogue_pool_5_7_4" 
         value="201559" >
       </E>
@@ -1462,12 +3094,32 @@
         value="201560" >
       </E>
       <E 
+        key="new_enemies_aquatitan_spawn_in_chunk" 
+        value="1535" >
+      </E>
+      <E 
         key="new_enemies_desert_skull_loaded" 
         value="1" >
       </E>
       <E 
+        key="new_enemies_devourer_spawn_in_chunk" 
+        value="2245" >
+      </E>
+      <E 
+        key="new_enemies_lake_chunks_loaded" 
+        value="11" >
+      </E>
+      <E 
         key="new_enemies_mod_load_done" 
         value="1" >
+      </E>
+      <E 
+        key="new_enemies_omegafish_spawn_in_chunk" 
+        value="155" >
+      </E>
+      <E 
+        key="new_enemies_piranha_spawn_in_chunk" 
+        value="233" >
       </E>
       <E 
         key="new_enemies_player_evil_active" 
@@ -1487,11 +3139,11 @@
       </E>
       <E 
         key="projectile_filename" 
-        value="data/entities/projectiles/deck/digger.xml" >
+        value="data/entities/projectiles/deck/powerdigger.xml" >
       </E>
       <E 
         key="random_twitch_user" 
-        value="absentfriend_,#8f8f8f,false,false,false:ChipIcing,#5F9EA0,false,false,false:" >
+        value="" >
       </E>
       <E 
         key="random_twitch_user_used" 
@@ -1583,11 +3235,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_snowcastle,$biome_holymountain,$biome_wandcave,$biome_snowcave,Bl" >
+        value="$biome_lake,Blast Pit,Aquifer,_EMPTY_,$biome_holymountain,$biome_winter,$biome_l" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="44" >
+        value="126" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -1611,6 +3263,12 @@
       </primitive>
       <primitive>
         1
+      </primitive>
+      <primitive>
+        4
+      </primitive>
+      <primitive>
+        6
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -1773,6 +3431,141 @@
       <string>
         new_action_copith_root_grower
       </string>
+      <string>
+        new_action_graham_rollout
+      </string>
+      <string>
+        PERK_GLOBAL_GORE
+      </string>
+      <string>
+        PERK_MOLDOS_REAP_BULLET
+      </string>
+      <string>
+        PERK_NO_MORE_KNOCKBACK
+      </string>
+      <string>
+        PERK_LOWER_SPREAD
+      </string>
+      <string>
+        PERK_GRAHAM_ZAP_TAP
+      </string>
+      <string>
+        PERK_HUNGRY_GHOST
+      </string>
+      <string>
+        new_perk_picked_graham_zap_tap
+      </string>
+      <string>
+        PERK_PICKED_GRAHAM_ZAP_TAP
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_MELEE
+      </string>
+      <string>
+        tome_magic_dragon_dead
+      </string>
+      <string>
+        br_killed_animal_boss_dragon
+      </string>
+      <string>
+        PERK_EXTRA_PERK
+      </string>
+      <string>
+        PERK_GRAHAM_BREADCRUMBS
+      </string>
+      <string>
+        PERK_COPITH_INVINCIBILITY_FRAMES
+      </string>
+      <string>
+        PERK_PICKED_COPITH_INVINCIBILITY_FRAMES
+      </string>
+      <string>
+        new_kill_worm_esoteric
+      </string>
+      <string>
+        new_action_copith_grappling_hook_shot
+      </string>
+      <string>
+        new_action_apotheosis_hitfx_hex_water
+      </string>
+      <string>
+        br_killed_animal_boss_pit
+      </string>
+      <string>
+        tome_magic_squidward_dead
+      </string>
+      <string>
+        new_action_copith_lifetime_random
+      </string>
+      <string>
+        new_action_graham_toxic_potion
+      </string>
+      <string>
+        new_action_copith_glittering_trail
+      </string>
+      <string>
+        new_action_twitch_duck
+      </string>
+      <string>
+        new_action_sun_power
+      </string>
+      <string>
+        new_action_graham_blacklight_arrow
+      </string>
+      <string>
+        new_action_apotheosis_targetter
+      </string>
+      <string>
+        ne_sand_worm_spawned0
+      </string>
+      <string>
+        PERK_PICKED_GRAHAM_LIFE_LOTTERY
+      </string>
+      <string>
+        ne_worm_robot_spawned0
+      </string>
+      <string>
+        ne_player_ai_vault_spawned0
+      </string>
+      <string>
+        PERK_COPITH_SPINDOWN
+      </string>
+      <string>
+        PERK_MEGA_BEAM_STONE
+      </string>
+      <string>
+        PERK_COPITH_FOCUS
+      </string>
+      <string>
+        new_perk_picked_copith_focus
+      </string>
+      <string>
+        PERK_PICKED_COPITH_FOCUS
+      </string>
+      <string>
+        apotheosis_blob_boss_slain
+      </string>
+      <string>
+        new_action_apotheosis_alt_fire_teleport_short
+      </string>
+      <string>
+        new_action_apotheosis_lua_sharing
+      </string>
+      <string>
+        new_action_graham_material_radioactive
+      </string>
+      <string>
+        new_action_moldos_soul_tinker
+      </string>
+      <string>
+        apotheosis_fire_lukki_boss_summoned
+      </string>
+      <string>
+        apotheosis_miniboss_boss_fire_lukki
+      </string>
+      <string>
+        fishing_hut_b
+      </string>
     </flags>
     <changed_materials>
       <string>
@@ -1816,6 +3609,1275 @@
       scale.x="1" 
       scale.y="1" >
     </_Transform>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="eye" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Hämähäkki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Amppari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tapio" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Pikkuhämähäkki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Louskutin" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Plasmakukka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kaasusiimajalkainen" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Isohiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sirkka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="grahamsdialogue.no_name" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Toimari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Hirvihiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Villiviini" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suuramppari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tulimurkku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sairaanhoitajamurkku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Murkku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tukahduttajamurkku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Hurtta" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Ant Egg" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sudenkorento" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Myrkkyhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Kranuhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="scarab_head" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Liekkari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Raukka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Rotta" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Hämis" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kutistusmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Jojohiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Puksutinhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Puska" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Hammaslukki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Valkolukki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Transmutaatioidenmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Varjokupla" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Eimitäänmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="limb2" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Seititär" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(new_enemies) Iso Haukku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Apotheosis) Jättikeiju" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Stevari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Puistokemisti" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Märkiäinen" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Metallisammakko" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Parantajahiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Pieni Lennokki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Valuvainen" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Plasmahiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Rynkkyhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Insinöörihiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Moottorisahahiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Jättilaser-lennokki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Apotheosis) Nestemäinen kupla" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Teslatötterö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Salahiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(grahamsperks) Suojapukuhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sytytystankki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Savukone" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Hiisikomentaja" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Torjuntalaite" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Infernohäivealus" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) KK-Tankki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Säteilykeskus" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Snipuhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Puolihiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tuikkaajahiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Laserhiisi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Talonpoika" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kulkusirkka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kameli" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Mököttäjä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Lumottuhyytelö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Muodonmuutosmustikka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Härö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Taikainen syöjä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Jättiristiriitakeiju" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Liekinheitin-tankki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Porepaukku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Röyhtäilijä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) projectile" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suurpore" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Pikkuporepaukku" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Revitty sieni" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suokas" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Myrkyllinensieni" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sininen kukka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Laahustussieni" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Sienimestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Hiidenkivi" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Lohkare" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Taivaskristalli" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Enkeli" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Jäätiö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Hylättysilmä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Antihyypiö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Jumalallinenhyytelö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Heijastava Härö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Turvattomuusmestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Apotheosis) Jäänkatse" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Suur Pakkasukko" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Apotheosis) Tarkkailija" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Esoteerinenmato" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Henkevä potu" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Lukki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Repaleinen Alkemisti" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tunteeton" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Nemesis" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Happonuljaska" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Robottikyttä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Pikkuturso" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Turso" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Heinäsirkka" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Vartiomies" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Mulkkio" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Ukko" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Eldari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Tuhorobotti" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Lennokki" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kolmijalkalaser" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Vahtaaja" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Yhdistäjä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kyhäelmä" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Mätänevä ruumis" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Vuotavajaska" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Muodonmuutosmöykky" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Siniotus" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kotilonkero" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Kiukkumöykky" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Vanilla) Möykky" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="eye6" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Maamestari" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Isoturso" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="(Apotheosis) Isomöykky" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Happama velho" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Kattosieni" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Limaörvelö" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Mammutti" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Mammutinpoikanen" >
+    </VariableStorageComponent>
+    <VariableStorageComponent 
+      _enabled="1" 
+      _tags="dragon_soul" 
+      name="" 
+      value_bool="0" 
+      value_float="0" 
+      value_int="0" 
+      value_string="Metsämahti" >
+    </VariableStorageComponent>
   </Entity>
   <Entity 
     _version="1" 

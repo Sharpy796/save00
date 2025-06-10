@@ -1,32 +1,34 @@
-<Stats deaths="1358" kills="168" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1428" kills="170" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="20" >
+    <E key="NULL | $damage_drowning" value="25" >
     </E>
-    <E key="NULL | $damage_electricity" value="66" >
+    <E key="NULL | $damage_electricity" value="72" >
     </E>
-    <E key="NULL | $damage_explosion" value="132" >
+    <E key="NULL | $damage_explosion" value="136" >
     </E>
-    <E key="NULL | $damage_fire" value="36" >
+    <E key="NULL | $damage_fire" value="37" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="67" >
+    <E key="NULL | $damage_physicshit" value="69" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="20" >
+    <E key="NULL | $damage_radioactive" value="28" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="7" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="8" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="18" >
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="22" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -62,7 +64,9 @@
     </E>
     <E key="cargobot | $damage_explosion" value="5" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    <E key="chainsawer | Minced!" value="4" >
+    </E>
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="3" >
     </E>
     <E key="drill_giant | $damage_explosion" value="1" >
     </E>
@@ -100,7 +104,7 @@
     </E>
     <E key="laser_bot_trail | Luminous Electricity" value="1" >
     </E>
-    <E key="locust_swarm | Locust bite" value="6" >
+    <E key="locust_swarm | Locust bite" value="8" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
@@ -126,13 +130,15 @@
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
-    <E key="player | $damage_projectile" value="408" >
+    <E key="player | $damage_projectile" value="428" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
     <E key="player | $damage_slice" value="35" >
+    </E>
+    <E key="player | $perkname_graham_zaptap" value="4" >
     </E>
     <E key="player | bzzt!" value="3" >
     </E>
@@ -152,6 +158,8 @@
     </E>
     <E key="scavenger_leader | $damage_explosion" value="4" >
     </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
     <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_undercover | $damage_explosion" value="1" >
@@ -167,6 +175,8 @@
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="5" >
+    </E>
+    <E key="spore_sentient | $damage_explosion" value="1" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
@@ -214,6 +224,8 @@
     </E>
     <E key="blob_mini" value="1" >
     </E>
+    <E key="drone_mini" value="1" >
+    </E>
     <E key="fish_large" value="1" >
     </E>
     <E key="frog_bot" value="2" >
@@ -225,6 +237,8 @@
     <E key="iceskull" value="8" >
     </E>
     <E key="locust_swarm" value="3" >
+    </E>
+    <E key="lukki_fungus" value="1" >
     </E>
     <E key="miniblob" value="1" >
     </E>

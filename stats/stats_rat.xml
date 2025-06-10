@@ -1,10 +1,10 @@
-<Stats deaths="2329" kills="50" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2334" kills="51" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="67" >
+    <E key="NULL | $damage_drowning" value="68" >
     </E>
     <E key="NULL | $damage_electricity" value="44" >
     </E>
@@ -82,6 +82,8 @@
     </E>
     <E key="boss_dragon | $damage_projectile" value="1" >
     </E>
+    <E key="crawler | $damage_projectile" value="1" >
+    </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="6" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
@@ -126,6 +128,8 @@
     </E>
     <E key="goblin_bomb | $damage_melee" value="7" >
     </E>
+    <E key="goomonster | $damage_melee" value="1" >
+    </E>
     <E key="graham_fuzz | $damage_electricity" value="1" >
     </E>
     <E key="graham_gasser_hell | $damage_curse" value="13" >
@@ -160,7 +164,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="11" >
     </E>
-    <E key="iceskull | $damage_ice" value="52" >
+    <E key="iceskull | $damage_ice" value="53" >
     </E>
     <E key="iceskull | $damage_melee" value="22" >
     </E>
@@ -227,6 +231,8 @@
     <E key="player | $damage_rock_curse" value="15" >
     </E>
     <E key="player | $damage_slice" value="18" >
+    </E>
+    <E key="player | $perkname_graham_zaptap" value="1" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
@@ -387,6 +393,8 @@
     <E key="axeman" value="1" >
     </E>
     <E key="bat" value="5" >
+    </E>
+    <E key="crawler" value="1" >
     </E>
     <E key="firebug" value="2" >
     </E>

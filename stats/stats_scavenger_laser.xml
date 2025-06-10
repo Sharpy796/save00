@@ -1,4 +1,4 @@
-<Stats deaths="37" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="38" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -13,6 +13,8 @@
     <E key="iceskull | $damage_melee" value="1" >
     </E>
     <E key="icicle_king | $damage_explosion" value="1" >
+    </E>
+    <E key="locust_swarm | Locust bite" value="1" >
     </E>
     <E key="long_ghost | $damage_projectile" value="1" >
     </E>
@@ -36,7 +38,7 @@
     </E>
     <E key="blob_mini" value="1" >
     </E>
-    <E key="bubble_liquid" value="1" >
+    <E key="bubble_liquid" value="2" >
     </E>
     <E key="scorpion" value="3" >
     </E>

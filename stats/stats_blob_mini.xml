@@ -1,8 +1,8 @@
-<Stats deaths="2933" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3228" kills="23" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="114" >
     </E>
-    <E key="NULL | $damage_electricity" value="25" >
+    <E key="NULL | $damage_electricity" value="253" >
     </E>
     <E key="NULL | $damage_explosion" value="81" >
     </E>
@@ -56,11 +56,13 @@
     </E>
     <E key="player | $damage_melee" value="94" >
     </E>
-    <E key="player | $damage_projectile" value="904" >
+    <E key="player | $damage_projectile" value="951" >
     </E>
     <E key="player | $damage_rock_curse" value="391" >
     </E>
-    <E key="player | $damage_slice" value="68" >
+    <E key="player | $damage_slice" value="74" >
+    </E>
+    <E key="player | $perkname_graham_zaptap" value="14" >
     </E>
     <E key="player | bzzt!" value="58" >
     </E>

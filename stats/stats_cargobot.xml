@@ -1,4 +1,4 @@
-<Stats deaths="21" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_curse" value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="2" >
+    <E key="acidshooter" value="3" >
     </E>
     <E key="blindgazer" value="1" >
     </E>

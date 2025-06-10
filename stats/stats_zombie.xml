@@ -1,18 +1,20 @@
-<Stats deaths="579" kills="46" player_kills="0" player_projectile_count="0" >
+<Stats deaths="589" kills="46" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="51" >
+    <E key="NULL | $damage_drowning" value="52" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
     <E key="NULL | $damage_explosion" value="58" >
     </E>
-    <E key="NULL | $damage_fire" value="11" >
+    <E key="NULL | $damage_fire" value="15" >
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
     <E key="NULL | $damage_physicshit" value="11" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -30,9 +32,11 @@
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="2" >
+    <E key="ant | $damage_melee" value="3" >
     </E>
-    <E key="ant_fire | $damage_melee" value="1" >
+    <E key="ant_fire | $damage_melee" value="2" >
+    </E>
+    <E key="ant_suffocate | $damage_melee" value="1" >
     </E>
     <E key="bat | $damage_melee" value="3" >
     </E>
@@ -97,6 +101,8 @@
     <E key="player | $damage_rock_curse" value="4" >
     </E>
     <E key="player | $damage_slice" value="12" >
+    </E>
+    <E key="player | $perkname_graham_zaptap" value="1" >
     </E>
     <E key="player | bzzt!" value="1" >
     </E>
