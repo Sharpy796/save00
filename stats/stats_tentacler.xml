@@ -1,4 +1,4 @@
-<Stats deaths="116" kills="46" player_kills="0" player_projectile_count="0" >
+<Stats deaths="121" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -20,6 +20,8 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="4" >
     </E>
+    <E key="broken_wand_big | $damage_explosion" value="1" >
+    </E>
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
     <E key="player | " value="1" >
@@ -34,7 +36,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="59" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
@@ -45,6 +47,8 @@
     <E key="sunegg | $damage_sun" value="2" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="2" >
+    </E>
+    <E key="tentacler_small | $damage_plasmabeam" value="1" >
     </E>
     <E key="yoyoer | $damage_slice" value="1" >
     </E>
@@ -60,7 +64,7 @@
     </E>
     <E key="pollen" value="14" >
     </E>
-    <E key="rat" value="8" >
+    <E key="rat" value="10" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>

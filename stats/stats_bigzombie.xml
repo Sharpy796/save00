@@ -1,4 +1,4 @@
-<Stats deaths="86" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="89" kills="41" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -30,11 +30,13 @@
     </E>
     <E key="missilecrab | $damage_projectile" value="1" >
     </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="26" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -60,7 +62,7 @@
     </E>
     <E key="blob_mini" value="2" >
     </E>
-    <E key="glue" value="12" >
+    <E key="glue" value="13" >
     </E>
     <E key="miniblob" value="1" >
     </E>
@@ -70,7 +72,7 @@
     </E>
     <E key="scavenger_glue" value="4" >
     </E>
-    <E key="scavenger_grenade" value="5" >
+    <E key="scavenger_grenade" value="6" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
@@ -79,6 +81,8 @@
     <E key="scavenger_trigger" value="1" >
     </E>
     <E key="scorpion" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
     </E>
     <E key="sniper" value="1" >
     </E>

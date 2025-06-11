@@ -1,12 +1,12 @@
-<Stats deaths="666" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="711" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="369" >
+    <E key="NULL | $damage_explosion" value="400" >
     </E>
-    <E key="NULL | $damage_fire" value="68" >
+    <E key="NULL | $damage_fire" value="70" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
-    <E key="NULL | $damage_projectile" value="5" >
+    <E key="NULL | $damage_projectile" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="13" >
     </E>
@@ -18,9 +18,9 @@
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="4" >
+    <E key="NULL | damage from material: toxic rock" value="5" >
     </E>
     <E key="blob | $damage_melee" value="7" >
     </E>
@@ -29,6 +29,10 @@
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
     <E key="firemage | $damage_fire" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="4" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -44,7 +48,7 @@
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="21" >
+    <E key="player | $damage_projectile" value="23" >
     </E>
     <E key="player | $damage_rock_curse" value="38" >
     </E>
@@ -57,6 +61,8 @@
     <E key="tentacle_portal_npc | $damage_melee" value="1" >
     </E>
     <E key="tentacler_big | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_neutral | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>

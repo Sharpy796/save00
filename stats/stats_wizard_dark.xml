@@ -1,4 +1,4 @@
-<Stats deaths="61" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="66" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -22,15 +22,15 @@
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
-    <E key="lukki_dark | $damage_curse" value="4" >
+    <E key="lukki_dark | $damage_curse" value="5" >
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="19" >
+    <E key="player | $damage_projectile" value="22" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
-    <E key="player | $damage_slice" value="1" >
+    <E key="player | $damage_slice" value="2" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>

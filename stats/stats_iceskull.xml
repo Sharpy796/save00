@@ -1,4 +1,4 @@
-<Stats deaths="409" kills="347" player_kills="0" player_projectile_count="0" >
+<Stats deaths="416" kills="349" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -50,13 +50,13 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="10" >
+    <E key="player | $damage_explosion" value="11" >
     </E>
     <E key="player | $damage_fire" value="10" >
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="100" >
+    <E key="player | $damage_projectile" value="105" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="9" >
+    <E key="sniper | $damage_projectile" value="10" >
     </E>
     <E key="tank | $damage_projectile" value="8" >
     </E>
@@ -121,6 +121,8 @@
     <E key="graham_miner_gasser" value="1" >
     </E>
     <E key="iceskull" value="63" >
+    </E>
+    <E key="miniblob" value="2" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>

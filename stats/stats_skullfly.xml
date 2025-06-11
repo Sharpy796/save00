@@ -1,4 +1,4 @@
-<Stats deaths="46" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="46" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
@@ -44,7 +44,7 @@
   <kill_map>
     <E key="acidshooter" value="3" >
     </E>
-    <E key="acidshot" value="2" >
+    <E key="acidshot" value="7" >
     </E>
     <E key="crawler_bug" value="1" >
     </E>
@@ -65,6 +65,8 @@
     <E key="scavenger_smg" value="1" >
     </E>
     <E key="scorpion" value="4" >
+    </E>
+    <E key="statue" value="1" >
     </E>
     <E key="tentacler" value="2" >
     </E>

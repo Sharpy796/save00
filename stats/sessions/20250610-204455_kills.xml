@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="127" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="exploding_deer" value="90" >
+    </E>
+    <E key="fish" value="7" >
+    </E>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="fox" value="3" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="glue" value="6" >
+    </E>
+    <E key="miner_chef" value="1" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

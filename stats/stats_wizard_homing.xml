@@ -1,6 +1,6 @@
-<Stats deaths="39" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="41" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
     <E key="NULL | $damage_fire" value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="lukki_dark | $damage_curse" value="4" >
+    <E key="lukki_dark | $damage_curse" value="5" >
     </E>
     <E key="lukki_dark | $damage_melee" value="1" >
     </E>
@@ -34,6 +34,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="fly" value="1" >
+    </E>
     <E key="physics_torch_stand_purple" value="1" >
     </E>
     <E key="scorpion" value="1" >

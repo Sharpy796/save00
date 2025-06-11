@@ -1,4 +1,4 @@
-<Stats deaths="1893" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1916" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="96" >
     </E>
@@ -17,6 +17,10 @@
     <E key="NULL | $damage_projectile" value="23" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
+    </E>
+    <E key="NULL | $damage_water" value="10" >
+    </E>
+    <E key="NULL | damage from material: Water" value="2" >
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
@@ -86,6 +90,10 @@
     </E>
     <E key="icer | $damage_explosion" value="1" >
     </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
+    </E>
     <E key="jungle_flower | $damage_melee" value="1" >
     </E>
     <E key="lukki_fungus | hit" value="160" >
@@ -112,15 +120,19 @@
     </E>
     <E key="player | $damage_melee" value="18" >
     </E>
-    <E key="player | $damage_projectile" value="502" >
+    <E key="player | $damage_projectile" value="507" >
     </E>
     <E key="player | $damage_rock_curse" value="130" >
     </E>
-    <E key="player | $damage_slice" value="45" >
+    <E key="player | $damage_slice" value="46" >
+    </E>
+    <E key="player | SLASH!" value="1" >
     </E>
     <E key="player | bzzt!" value="4" >
     </E>
     <E key="player | chop!" value="39" >
+    </E>
+    <E key="rat | $damage_melee" value="2" >
     </E>
     <E key="roboguard | $damage_explosion" value="1" >
     </E>
@@ -216,7 +228,7 @@
     </E>
     <E key="poisonmushroom" value="1" >
     </E>
-    <E key="rat" value="10" >
+    <E key="rat" value="12" >
     </E>
     <E key="scorpion" value="1" >
     </E>

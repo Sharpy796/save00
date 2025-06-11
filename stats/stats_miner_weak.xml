@@ -1,24 +1,24 @@
-<Stats deaths="392" kills="183" player_kills="0" player_projectile_count="0" >
+<Stats deaths="440" kills="217" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="20" >
     </E>
-    <E key="NULL | $damage_drowning" value="24" >
+    <E key="NULL | $damage_drowning" value="30" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_fire" value="37" >
+    <E key="NULL | $damage_fire" value="42" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="20" >
+    <E key="NULL | $damage_physicshit" value="25" >
     </E>
     <E key="NULL | $damage_projectile" value="9" >
     </E>
-    <E key="NULL | $damage_radioactive" value="21" >
+    <E key="NULL | $damage_radioactive" value="24" >
     </E>
     <E key="NULL | Drowning" value="3" >
     </E>
@@ -38,19 +38,21 @@
     </E>
     <E key="firemage_weak | $damage_melee" value="2" >
     </E>
+    <E key="frog_big | $damage_melee" value="1" >
+    </E>
     <E key="longleg | $damage_melee" value="4" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="miner_weak | $damage_explosion" value="11" >
     </E>
-    <E key="miner_weak | $damage_melee" value="1" >
+    <E key="miner_weak | $damage_melee" value="2" >
     </E>
     <E key="player | " value="5" >
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_ice" value="1" >
+    <E key="player | $damage_ice" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="170" >
+    <E key="player | $damage_projectile" value="182" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -70,7 +72,7 @@
     </E>
     <E key="eye_bat" value="2" >
     </E>
-    <E key="frog" value="2" >
+    <E key="frog" value="9" >
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>
@@ -82,9 +84,11 @@
     </E>
     <E key="miner_santa" value="1" >
     </E>
-    <E key="miner_weak" value="7" >
+    <E key="miner_weak" value="13" >
     </E>
     <E key="mutant2" value="1" >
+    </E>
+    <E key="pollen" value="1" >
     </E>
     <E key="poring" value="2" >
     </E>
@@ -102,11 +106,11 @@
     </E>
     <E key="wizard_tiny" value="1" >
     </E>
-    <E key="zombie" value="11" >
+    <E key="zombie" value="18" >
     </E>
     <E key="zombie_water" value="13" >
     </E>
-    <E key="zombie_weak" value="91" >
+    <E key="zombie_weak" value="104" >
     </E>
   </kill_map>
 </Stats>

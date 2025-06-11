@@ -1,4 +1,4 @@
-<Stats deaths="23" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="28" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,11 +6,13 @@
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="giant_centipede | worm bite" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="12" >
+    <E key="player | $damage_projectile" value="16" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -18,6 +20,10 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="fireskull" value="1" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
     <E key="fungus_tiny" value="1" >
     </E>
     <E key="physics_torch_stand_purple" value="1" >

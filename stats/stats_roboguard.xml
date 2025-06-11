@@ -1,4 +1,4 @@
-<Stats deaths="66" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="69" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="18" >
     </E>
-    <E key="NULL | $damage_physicshit" value="3" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="33" >
+    <E key="player | $damage_projectile" value="35" >
     </E>
   </death_map>
   <kill_map>
@@ -40,9 +40,11 @@
     </E>
     <E key="player_ai_hitbox" value="1" >
     </E>
-    <E key="rat" value="10" >
+    <E key="rat" value="11" >
     </E>
-    <E key="scavenger_grenade" value="1" >
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_heal" value="1" >
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="1735" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1739" kills="33" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="62" >
+    <E key="NULL | $damage_drowning" value="63" >
     </E>
     <E key="NULL | $damage_electricity" value="15" >
     </E>
@@ -104,6 +104,8 @@
     </E>
     <E key="miniboss_pit_02 | $damage_projectile" value="4" >
     </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
     <E key="phantom_a | $damage_projectile" value="3" >
     </E>
     <E key="plague_rats_rat | $damage_melee" value="2" >
@@ -122,7 +124,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="804" >
+    <E key="player | $damage_projectile" value="806" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
@@ -192,7 +194,7 @@
     </E>
     <E key="miner_weak" value="4" >
     </E>
-    <E key="player" value="1" >
+    <E key="player" value="2" >
     </E>
     <E key="shotgunner_weak" value="4" >
     </E>
@@ -204,7 +206,7 @@
     </E>
     <E key="zombie_water" value="1" >
     </E>
-    <E key="zombie_weak" value="11" >
+    <E key="zombie_weak" value="12" >
     </E>
   </kill_map>
 </Stats>

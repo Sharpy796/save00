@@ -1,18 +1,18 @@
-<Stats deaths="589" kills="46" player_kills="0" player_projectile_count="0" >
+<Stats deaths="628" kills="48" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="52" >
+    <E key="NULL | $damage_drowning" value="57" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="58" >
+    <E key="NULL | $damage_explosion" value="68" >
     </E>
-    <E key="NULL | $damage_fire" value="15" >
+    <E key="NULL | $damage_fire" value="16" >
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
-    <E key="NULL | $damage_physicshit" value="11" >
+    <E key="NULL | $damage_physicshit" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="3" >
+    <E key="ant | $damage_melee" value="4" >
     </E>
     <E key="ant_fire | $damage_melee" value="2" >
     </E>
@@ -58,7 +58,9 @@
     </E>
     <E key="fly | $damage_melee" value="4" >
     </E>
-    <E key="frog | $damage_melee" value="1" >
+    <E key="frog | $damage_melee" value="3" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
     </E>
     <E key="hiisi_thief | $damage_melee" value="2" >
     </E>
@@ -66,17 +68,19 @@
     </E>
     <E key="invisiman | $damage_melee" value="1" >
     </E>
+    <E key="lukki_dark | $damage_curse" value="3" >
+    </E>
     <E key="lukki_fungus | hit" value="2" >
     </E>
     <E key="maggot | $damage_explosion" value="1" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner | $damage_explosion" value="11" >
+    <E key="miner | $damage_explosion" value="12" >
     </E>
     <E key="miner | $damage_melee" value="3" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="8" >
+    <E key="miner_weak | $damage_explosion" value="15" >
     </E>
     <E key="miner_weak | $damage_melee" value="3" >
     </E>
@@ -96,7 +100,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="71" >
+    <E key="player | $damage_projectile" value="76" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -124,7 +128,7 @@
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner | $damage_melee" value="1" >
+    <E key="shotgunner | $damage_melee" value="2" >
     </E>
     <E key="shotgunner | $damage_projectile" value="12" >
     </E>
@@ -166,13 +170,13 @@
     </E>
     <E key="elk" value="1" >
     </E>
-    <E key="frog" value="1" >
+    <E key="frog" value="2" >
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
     <E key="miniblob" value="8" >
     </E>
-    <E key="rat" value="16" >
+    <E key="rat" value="17" >
     </E>
     <E key="scorpion" value="3" >
     </E>
