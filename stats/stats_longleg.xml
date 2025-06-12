@@ -1,16 +1,16 @@
-<Stats deaths="1735" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1741" kills="31" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="62" >
+    <E key="NULL | $damage_drowning" value="63" >
     </E>
     <E key="NULL | $damage_electricity" value="15" >
     </E>
     <E key="NULL | $damage_explosion" value="97" >
     </E>
-    <E key="NULL | $damage_fire" value="193" >
+    <E key="NULL | $damage_fire" value="195" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="5" >
+    <E key="hazmat | $damage_melee" value="7" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="4" >
     </E>
@@ -155,6 +155,8 @@
     <E key="singularity | " value="1" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
+    </E>
+    <E key="skullmage | $damage_explosion" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="7" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="409" kills="347" player_kills="0" player_projectile_count="0" >
+<Stats deaths="412" kills="348" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -16,11 +16,11 @@
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
-    <E key="curse_strong | $damage_hitfx_curse" value="9" >
+    <E key="curse_strong | $damage_hitfx_curse" value="10" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
-    <E key="forsaken_eye | $damage_projectile" value="3" >
+    <E key="forsaken_eye | $damage_projectile" value="4" >
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
@@ -110,7 +110,7 @@
     </E>
     <E key="axeman" value="5" >
     </E>
-    <E key="coldshot" value="45" >
+    <E key="coldshot" value="46" >
     </E>
     <E key="coldshot_BoC" value="14" >
     </E>

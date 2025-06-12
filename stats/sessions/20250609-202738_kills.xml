@@ -1,8 +1,8 @@
-<Stats deaths="0" kills="671" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="734" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="1" >
+    <E key="acidshooter" value="3" >
     </E>
     <E key="acidshooter_weak" value="1" >
     </E>
@@ -52,11 +52,17 @@
     </E>
     <E key="chameleon" value="1" >
     </E>
+    <E key="coldshot" value="1" >
+    </E>
+    <E key="coldshot_BoC" value="12" >
+    </E>
     <E key="coldshot_BoC_weak" value="1" >
     </E>
     <E key="commander" value="1" >
     </E>
     <E key="conduit" value="1" >
+    </E>
+    <E key="copter" value="2" >
     </E>
     <E key="crawler" value="1" >
     </E>
@@ -99,6 +105,8 @@
     <E key="fungus" value="2" >
     </E>
     <E key="fungus_giga" value="1" >
+    </E>
+    <E key="fungus_spore" value="1" >
     </E>
     <E key="fungus_swamp2" value="2" >
     </E>
@@ -146,6 +154,8 @@
     </E>
     <E key="knight" value="6" >
     </E>
+    <E key="locust" value="2" >
+    </E>
     <E key="locust_swarm" value="1" >
     </E>
     <E key="longleg" value="36" >
@@ -174,7 +184,7 @@
     </E>
     <E key="miner_weak" value="11" >
     </E>
-    <E key="miniblob" value="4" >
+    <E key="miniblob" value="7" >
     </E>
     <E key="monkey" value="1" >
     </E>
@@ -186,17 +196,21 @@
     </E>
     <E key="necromancer_shop" value="3" >
     </E>
-    <E key="pebble_physics" value="4" >
+    <E key="orb_homing" value="3" >
+    </E>
+    <E key="pebble_physics" value="5" >
     </E>
     <E key="physics_ragdoll_ai_flopper" value="2" >
     </E>
-    <E key="physics_torch_stand" value="2" >
+    <E key="physics_torch_stand" value="10" >
     </E>
     <E key="physics_torch_stand_blue" value="1" >
     </E>
     <E key="pipe_bomb" value="2" >
     </E>
     <E key="player_evil" value="1" >
+    </E>
+    <E key="pollen" value="22" >
     </E>
     <E key="polymorph_crystal_chaotic" value="1" >
     </E>
@@ -206,7 +220,7 @@
     </E>
     <E key="poring" value="3" >
     </E>
-    <E key="poring_holy" value="5" >
+    <E key="poring_holy" value="6" >
     </E>
     <E key="poring_magic" value="1" >
     </E>
@@ -226,7 +240,7 @@
     </E>
     <E key="scavenger_glue" value="3" >
     </E>
-    <E key="scavenger_grenade" value="49" >
+    <E key="scavenger_grenade" value="50" >
     </E>
     <E key="scavenger_heal" value="4" >
     </E>
@@ -262,7 +276,7 @@
     </E>
     <E key="shaman_greater_apotheosis" value="1" >
     </E>
-    <E key="shooterflower" value="5" >
+    <E key="shooterflower" value="6" >
     </E>
     <E key="shotgunner" value="4" >
     </E>
@@ -316,7 +330,9 @@
     </E>
     <E key="thou" value="1" >
     </E>
-    <E key="thundermage" value="1" >
+    <E key="thundermage" value="2" >
+    </E>
+    <E key="thundermage_big" value="1" >
     </E>
     <E key="toilet_paper" value="3" >
     </E>
@@ -326,7 +342,7 @@
     </E>
     <E key="twig" value="4" >
     </E>
-    <E key="valkyrie" value="2" >
+    <E key="valkyrie" value="3" >
     </E>
     <E key="water_pipe" value="1" >
     </E>

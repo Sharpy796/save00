@@ -1,4 +1,4 @@
-<Stats deaths="65" kills="43" player_kills="0" player_projectile_count="0" >
+<Stats deaths="65" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -43,6 +43,8 @@
     <E key="pebble_physics" value="3" >
     </E>
     <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="poring_holy" value="1" >
     </E>
     <E key="valkyrie" value="1" >
     </E>

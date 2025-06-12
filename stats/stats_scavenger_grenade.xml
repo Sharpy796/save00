@@ -1,4 +1,4 @@
-<Stats deaths="1428" kills="170" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1433" kills="170" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="72" >
     </E>
-    <E key="NULL | $damage_explosion" value="136" >
+    <E key="NULL | $damage_explosion" value="137" >
     </E>
     <E key="NULL | $damage_fire" value="37" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="22" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="laser_bot_trail | Luminous Electricity" value="1" >
     </E>
-    <E key="locust_swarm | Locust bite" value="8" >
+    <E key="locust_swarm | Locust bite" value="10" >
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
@@ -122,7 +122,7 @@
     </E>
     <E key="player | $damage_electricity" value="33" >
     </E>
-    <E key="player | $damage_explosion" value="118" >
+    <E key="player | $damage_explosion" value="119" >
     </E>
     <E key="player | $damage_fire" value="14" >
     </E>
