@@ -1,4 +1,4 @@
-<Stats deaths="2334" kills="51" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2369" kills="53" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="68" >
     </E>
-    <E key="NULL | $damage_electricity" value="44" >
+    <E key="NULL | $damage_electricity" value="47" >
     </E>
     <E key="NULL | $damage_explosion" value="146" >
     </E>
@@ -18,6 +18,8 @@
     </E>
     <E key="NULL | $damage_projectile" value="5" >
     </E>
+    <E key="NULL | $damage_slice" value="1" >
+    </E>
     <E key="NULL | $status_apotheosis_hex_water_name" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="4" >
@@ -28,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="12" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
     <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="3" >
     </E>
@@ -84,7 +86,7 @@
     </E>
     <E key="crawler | $damage_projectile" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="6" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="7" >
     </E>
     <E key="drone_physics | $damage_explosion" value="1" >
     </E>
@@ -92,7 +94,7 @@
     </E>
     <E key="eel | worm bite" value="7" >
     </E>
-    <E key="electrolukki | zap!" value="5" >
+    <E key="electrolukki | zap!" value="6" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
@@ -238,6 +240,10 @@
     </E>
     <E key="player_ai | $damage_projectile" value="2" >
     </E>
+    <E key="rat | $damage_explosion" value="1" >
+    </E>
+    <E key="rat | $damage_holy" value="1" >
+    </E>
     <E key="rat | $damage_melee" value="16" >
     </E>
     <E key="roboguard | $damage_explosion" value="3" >
@@ -272,7 +278,7 @@
     </E>
     <E key="scavenger_trigger | $damage_projectile" value="3" >
     </E>
-    <E key="seeker | Etsijä's shock" value="46" >
+    <E key="seeker | Etsijä's shock" value="65" >
     </E>
     <E key="shaman_greater_apotheosis | $damage_projectile" value="2" >
     </E>
@@ -324,7 +330,7 @@
     </E>
     <E key="tentacler_small | $damage_melee" value="18" >
     </E>
-    <E key="tesla_turret | $damage_electricity" value="3" >
+    <E key="tesla_turret | $damage_electricity" value="4" >
     </E>
     <E key="thundermage | $damage_electricity" value="6" >
     </E>
@@ -334,9 +340,11 @@
     </E>
     <E key="thundermage_big | $damage_electricity" value="1" >
     </E>
+    <E key="thundermage_big | $damage_explosion" value="1" >
+    </E>
     <E key="thunderskull | $damage_electricity" value="15" >
     </E>
-    <E key="thunderskull | $damage_explosion" value="14" >
+    <E key="thunderskull | $damage_explosion" value="15" >
     </E>
     <E key="thunderskull | $damage_melee" value="7" >
     </E>
@@ -350,11 +358,13 @@
     </E>
     <E key="wallmouth | $damage_melee" value="2" >
     </E>
-    <E key="watermage | $damage_explosion" value="5" >
+    <E key="watermage | $damage_explosion" value="7" >
     </E>
     <E key="watermage | $damage_melee" value="8" >
     </E>
-    <E key="watermage | $damage_projectile" value="12" >
+    <E key="watermage | $damage_projectile" value="13" >
+    </E>
+    <E key="watermage_greater | $damage_explosion" value="1" >
     </E>
     <E key="waterskull | $damage_melee" value="1" >
     </E>
@@ -410,7 +420,7 @@
     </E>
     <E key="miner" value="1" >
     </E>
-    <E key="rat" value="16" >
+    <E key="rat" value="18" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>

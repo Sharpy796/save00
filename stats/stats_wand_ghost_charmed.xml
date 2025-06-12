@@ -1,4 +1,4 @@
-<Stats deaths="11" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
@@ -14,8 +14,14 @@
     </E>
     <E key="lukki_fungus | hit" value="1" >
     </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="wand_ghost_charmed | $damage_explosion" value="2" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
     <E key="blob" value="8" >
     </E>
     <E key="blob_big" value="5" >
@@ -24,9 +30,13 @@
     </E>
     <E key="blob_mini" value="20" >
     </E>
+    <E key="eye_monster" value="1" >
+    </E>
     <E key="fly" value="1" >
     </E>
     <E key="longleg" value="1" >
+    </E>
+    <E key="wand_ghost_charmed" value="2" >
     </E>
   </kill_map>
 </Stats>

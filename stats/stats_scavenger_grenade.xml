@@ -1,4 +1,4 @@
-<Stats deaths="1433" kills="170" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1442" kills="170" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
-    <E key="NULL | $damage_electricity" value="72" >
+    <E key="NULL | $damage_electricity" value="74" >
     </E>
-    <E key="NULL | $damage_explosion" value="137" >
+    <E key="NULL | $damage_explosion" value="139" >
     </E>
     <E key="NULL | $damage_fire" value="37" >
     </E>
@@ -28,9 +28,9 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="22" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="23" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
@@ -130,7 +130,7 @@
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
-    <E key="player | $damage_projectile" value="428" >
+    <E key="player | $damage_projectile" value="429" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -158,7 +158,7 @@
     </E>
     <E key="scavenger_leader | $damage_explosion" value="4" >
     </E>
-    <E key="scavenger_leader | $damage_projectile" value="1" >
+    <E key="scavenger_leader | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
@@ -194,7 +194,7 @@
     </E>
     <E key="thundermage_big | $damage_electricity" value="1" >
     </E>
-    <E key="thundermage_big | $damage_explosion" value="5" >
+    <E key="thundermage_big | $damage_explosion" value="6" >
     </E>
     <E key="thunderskull | $damage_electricity" value="4" >
     </E>

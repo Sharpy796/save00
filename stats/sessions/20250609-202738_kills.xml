@@ -1,10 +1,12 @@
-<Stats deaths="0" kills="734" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="750" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="3" >
     </E>
     <E key="acidshooter_weak" value="1" >
+    </E>
+    <E key="acidshot" value="2" >
     </E>
     <E key="alchemist" value="1" >
     </E>
@@ -16,7 +18,7 @@
     </E>
     <E key="axeman" value="13" >
     </E>
-    <E key="bat" value="4" >
+    <E key="bat" value="5" >
     </E>
     <E key="bigfirebug" value="5" >
     </E>
@@ -42,9 +44,11 @@
     </E>
     <E key="boss_tnt" value="1" >
     </E>
+    <E key="boss_toxic_worm" value="1" >
+    </E>
     <E key="bouncer" value="2" >
     </E>
-    <E key="bubble_liquid" value="7" >
+    <E key="bubble_liquid" value="8" >
     </E>
     <E key="ccc_bat_psychic" value="5" >
     </E>
@@ -88,11 +92,11 @@
     </E>
     <E key="fairy_big_discord" value="1" >
     </E>
-    <E key="firebug" value="13" >
+    <E key="firebug" value="15" >
     </E>
     <E key="firebugnest" value="1" >
     </E>
-    <E key="fish" value="32" >
+    <E key="fish" value="36" >
     </E>
     <E key="flopper_mother" value="1" >
     </E>
@@ -154,6 +158,8 @@
     </E>
     <E key="knight" value="6" >
     </E>
+    <E key="lavashot" value="2" >
+    </E>
     <E key="locust" value="2" >
     </E>
     <E key="locust_swarm" value="1" >
@@ -200,7 +206,7 @@
     </E>
     <E key="pebble_physics" value="5" >
     </E>
-    <E key="physics_ragdoll_ai_flopper" value="2" >
+    <E key="physics_ragdoll_ai_flopper" value="3" >
     </E>
     <E key="physics_torch_stand" value="10" >
     </E>
@@ -240,7 +246,7 @@
     </E>
     <E key="scavenger_glue" value="3" >
     </E>
-    <E key="scavenger_grenade" value="50" >
+    <E key="scavenger_grenade" value="51" >
     </E>
     <E key="scavenger_heal" value="4" >
     </E>
@@ -347,6 +353,8 @@
     <E key="water_pipe" value="1" >
     </E>
     <E key="watermonster" value="1" >
+    </E>
+    <E key="whisp" value="1" >
     </E>
     <E key="wizard_neutral" value="1" >
     </E>

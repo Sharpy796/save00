@@ -1,4 +1,4 @@
-<Stats deaths="49" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="49" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -24,7 +24,7 @@
   <kill_map>
     <E key="bubble_liquid" value="1" >
     </E>
-    <E key="scorpion" value="24" >
+    <E key="scorpion" value="25" >
     </E>
     <E key="seeker" value="1" >
     </E>

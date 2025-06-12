@@ -1,18 +1,20 @@
-<Stats deaths="928" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="949" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="58" >
     </E>
-    <E key="NULL | $damage_explosion" value="27" >
+    <E key="NULL | $damage_explosion" value="31" >
     </E>
     <E key="NULL | $damage_fall" value="8" >
     </E>
     <E key="NULL | $damage_fire" value="11" >
     </E>
-    <E key="NULL | $damage_projectile" value="15" >
+    <E key="NULL | $damage_projectile" value="25" >
     </E>
     <E key="NULL | damage from material: (Vanilla) concentrated mana" value="7" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="angler | worm bite" value="12" >
     </E>
@@ -40,6 +42,10 @@
     </E>
     <E key="forgotten_alchemist | $damage_projectile" value="1" >
     </E>
+    <E key="invisiman | $damage_melee" value="1" >
+    </E>
+    <E key="invisiman | $damage_slice" value="1" >
+    </E>
     <E key="necromancer_shop | $damage_explosion" value="37" >
     </E>
     <E key="necromancer_shop | $damage_projectile" value="6" >
@@ -62,7 +68,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="157" >
+    <E key="player | $damage_projectile" value="161" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
