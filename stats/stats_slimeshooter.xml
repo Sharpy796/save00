@@ -1,4 +1,4 @@
-<Stats deaths="379" kills="113" player_kills="1" player_projectile_count="0" >
+<Stats deaths="379" kills="114" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -111,6 +111,8 @@
     <E key="bat" value="1" >
     </E>
     <E key="blob" value="2" >
+    </E>
+    <E key="bubble_liquid" value="1" >
     </E>
     <E key="drone_mini" value="3" >
     </E>

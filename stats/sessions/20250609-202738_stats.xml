@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="34" damage_taken="424.012" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="873" gold="6354" gold_all="263814" gold_infinite="0" healed="5" heart_containers="0" hp="100" items="221" kicks="405" killed_by="" killed_by_extra="" places_visited="34" playtime="15850.7" playtime_str="4:24:10" projectiles_shot="109831" streaks="0" teleports="0" wands_edited="35" world_seed="264193532" >
+  <stats biomes_visited_with_wands="36" damage_taken="28173" dead="1" death_count="0" death_pos.x="132.677" death_pos.y="37665.5" enemies_killed="902" gold="216190" gold_all="498450" gold_infinite="0" healed="6.775" heart_containers="0" hp="100" items="233" kicks="405" killed_by=" | midas" killed_by_extra="" places_visited="36" playtime="16369.8" playtime_str="4:32:49" projectiles_shot="122323" streaks="0" teleports="3" wands_edited="35" world_seed="264193532" >
   </stats>
   <biome_baseline biomes_visited_with_wands="34" damage_taken="406.491" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="870" gold="6342" gold_all="263802" gold_infinite="0" healed="5" heart_containers="0" hp="100" items="219" kicks="401" killed_by="" killed_by_extra="" places_visited="34" playtime="14368.5" playtime_str="3:59:28" projectiles_shot="109380" streaks="0" teleports="0" wands_edited="35" world_seed="264193532" >
   </biome_baseline>
@@ -21,6 +21,8 @@
     <E key="$biome_desert" value="1" >
     </E>
     <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
     </E>
     <E key="$biome_gold" value="1" >
     </E>
@@ -66,11 +68,13 @@
     </E>
     <E key="Blast Pit" value="3" >
     </E>
-    <E key="Floating Mountain" value="3" >
+    <E key="Floating Mountain" value="5" >
     </E>
     <E key="Hidden Grove" value="1" >
     </E>
     <E key="Overgrown Laboratory" value="3" >
+    </E>
+    <E key="Underground Swamp" value="1" >
     </E>
     <E key="Worm Tunnels" value="1" >
     </E>

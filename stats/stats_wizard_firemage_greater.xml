@@ -1,4 +1,4 @@
-<Stats deaths="10" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="10" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_projectile" value="8" >
     </E>
@@ -6,7 +6,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="lavashot_BoC_weak" value="5" >
+    <E key="lavashot_BoC_weak" value="24" >
+    </E>
+    <E key="poisonshot" value="18" >
     </E>
     <E key="poring_magic" value="1" >
     </E>

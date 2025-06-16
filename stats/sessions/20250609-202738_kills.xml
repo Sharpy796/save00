@@ -1,5 +1,7 @@
-<Stats deaths="0" kills="750" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="779" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="acidshooter" value="3" >
@@ -33,6 +35,8 @@
     <E key="blob_titan" value="1" >
     </E>
     <E key="bloom" value="5" >
+    </E>
+    <E key="boid" value="1" >
     </E>
     <E key="boss_alchemist" value="3" >
     </E>
@@ -96,7 +100,7 @@
     </E>
     <E key="firebugnest" value="1" >
     </E>
-    <E key="fish" value="36" >
+    <E key="fish" value="56" >
     </E>
     <E key="flopper_mother" value="1" >
     </E>
@@ -164,7 +168,7 @@
     </E>
     <E key="locust_swarm" value="1" >
     </E>
-    <E key="longleg" value="36" >
+    <E key="longleg" value="40" >
     </E>
     <E key="longleg_gold" value="1" >
     </E>
@@ -173,6 +177,8 @@
     <E key="lukki_fungus" value="1" >
     </E>
     <E key="lukki_tiny" value="3" >
+    </E>
+    <E key="mammoth_baby" value="1" >
     </E>
     <E key="material_physics" value="1" >
     </E>
@@ -230,9 +236,13 @@
     </E>
     <E key="poring_magic" value="1" >
     </E>
+    <E key="potion_reinforced" value="1" >
+    </E>
     <E key="radiobot" value="1" >
     </E>
     <E key="rat" value="5" >
+    </E>
+    <E key="ritualist_a" value="1" >
     </E>
     <E key="root_grower" value="1" >
     </E>
@@ -284,7 +294,7 @@
     </E>
     <E key="shooterflower" value="6" >
     </E>
-    <E key="shotgunner" value="4" >
+    <E key="shotgunner" value="5" >
     </E>
     <E key="shotgunner_weak" value="7" >
     </E>
