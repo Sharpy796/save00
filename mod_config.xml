@@ -57,6 +57,8 @@
   </Mod>
   <Mod enabled="0" name="worse_enemies" settings_fold_open="0" workshop_item_id="2506744865" >
   </Mod>
+  <Mod enabled="1" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="3502041976" >
+  </Mod>
   <Mod enabled="1" name="SpicyTP_EUI" settings_fold_open="0" workshop_item_id="2887405712" >
   </Mod>
   <Mod enabled="1" name="AdvancedSpellInventory" settings_fold_open="0" workshop_item_id="3267869519" >
@@ -144,5 +146,7 @@
   <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
   </Mod>
   <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
+  </Mod>
+  <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>
