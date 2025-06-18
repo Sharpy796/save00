@@ -1,8 +1,10 @@
-<Stats deaths="23" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="26" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="player | $action_black_hole_giga" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
@@ -10,7 +12,7 @@
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="2" >
+    <E key="player | $damage_slice" value="4" >
     </E>
     <E key="player | bzzt!" value="2" >
     </E>
@@ -25,6 +27,8 @@
     <E key="skeleton_christmas" value="1" >
     </E>
     <E key="skeleton_present" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
     </E>
     <E key="zombie_water" value="1" >
     </E>

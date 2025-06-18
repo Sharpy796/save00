@@ -1,10 +1,10 @@
-<Stats deaths="17" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="18" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="2" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
@@ -14,11 +14,23 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="berserkspirit" value="1" >
+    </E>
+    <E key="gazer" value="1" >
+    </E>
     <E key="glue" value="2" >
+    </E>
+    <E key="graham_fuzz" value="1" >
+    </E>
+    <E key="lavashot" value="2" >
     </E>
     <E key="miniblob" value="1" >
     </E>
     <E key="sniper" value="5" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
     </E>
   </kill_map>
 </Stats>

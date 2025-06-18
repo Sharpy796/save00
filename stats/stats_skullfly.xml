@@ -1,4 +1,4 @@
-<Stats deaths="46" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="46" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
@@ -48,6 +48,8 @@
     </E>
     <E key="crawler_bug" value="1" >
     </E>
+    <E key="larva_crawler" value="1" >
+    </E>
     <E key="locust_swarm" value="2" >
     </E>
     <E key="nautilus" value="1" >
@@ -65,6 +67,8 @@
     <E key="scavenger_smg" value="1" >
     </E>
     <E key="scorpion" value="4" >
+    </E>
+    <E key="skeleton" value="3" >
     </E>
     <E key="tentacler" value="2" >
     </E>

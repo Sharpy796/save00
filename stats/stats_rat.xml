@@ -1,14 +1,14 @@
-<Stats deaths="2386" kills="53" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2401" kills="54" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="68" >
+    <E key="NULL | $damage_drowning" value="73" >
     </E>
     <E key="NULL | $damage_electricity" value="48" >
     </E>
-    <E key="NULL | $damage_explosion" value="146" >
+    <E key="NULL | $damage_explosion" value="149" >
     </E>
     <E key="NULL | $damage_fire" value="63" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="12" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="14" >
     </E>
-    <E key="acidshooter | $damage_projectile" value="4" >
+    <E key="acidshooter | $damage_projectile" value="5" >
     </E>
     <E key="alien | $damage_projectile" value="2" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="ant_fire | $damage_melee" value="2" >
     </E>
-    <E key="ant_suffocate | $damage_melee" value="3" >
+    <E key="ant_suffocate | $damage_melee" value="4" >
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
@@ -196,6 +196,8 @@
     </E>
     <E key="miner | $damage_melee" value="8" >
     </E>
+    <E key="miner | $damage_projectile" value="2" >
+    </E>
     <E key="miner_hell | $damage_explosion" value="13" >
     </E>
     <E key="miner_hell | $damage_melee" value="4" >
@@ -205,6 +207,8 @@
     <E key="miniboss_pit_02 | $damage_projectile" value="2" >
     </E>
     <E key="monk | $damage_projectile" value="13" >
+    </E>
+    <E key="monkey | $damage_projectile" value="1" >
     </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
@@ -229,6 +233,8 @@
     <E key="player | $damage_melee" value="13" >
     </E>
     <E key="player | $damage_projectile" value="185" >
+    </E>
+    <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_rock_curse" value="15" >
     </E>
@@ -406,7 +412,7 @@
     </E>
     <E key="bat" value="5" >
     </E>
-    <E key="crawler" value="1" >
+    <E key="crawler" value="2" >
     </E>
     <E key="firebug" value="2" >
     </E>

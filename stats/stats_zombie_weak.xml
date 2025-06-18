@@ -1,4 +1,4 @@
-<Stats deaths="681" kills="15" player_kills="1" player_projectile_count="0" >
+<Stats deaths="690" kills="15" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,11 +6,13 @@
     </E>
     <E key="NULL | $damage_drowning" value="20" >
     </E>
-    <E key="NULL | $damage_explosion" value="24" >
+    <E key="NULL | $damage_explosion" value="25" >
     </E>
     <E key="NULL | $damage_fire" value="60" >
     </E>
     <E key="NULL | $damage_physicshit" value="19" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | Radiation" value="1" >
     </E>
@@ -50,9 +52,9 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="61" >
+    <E key="miner_weak | $damage_explosion" value="63" >
     </E>
-    <E key="miner_weak | $damage_melee" value="30" >
+    <E key="miner_weak | $damage_melee" value="31" >
     </E>
     <E key="miner_weak | $damage_projectile" value="1" >
     </E>
@@ -62,15 +64,17 @@
     </E>
     <E key="player | $damage_projectile" value="182" >
     </E>
-    <E key="player | $damage_slice" value="36" >
+    <E key="player | $damage_slice" value="37" >
     </E>
     <E key="player | $graham_name_bramball" value="1" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="2" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="18" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
     </E>
-    <E key="poring | $damage_melee" value="1" >
+    <E key="poring | $damage_melee" value="2" >
     </E>
     <E key="shotgunner_weak | $damage_melee" value="12" >
     </E>

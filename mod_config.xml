@@ -97,7 +97,7 @@
   </Mod>
   <Mod enabled="1" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
-  <Mod enabled="1" name="Apotheosis" settings_fold_open="1" workshop_item_id="3032128572" >
+  <Mod enabled="1" name="Apotheosis" settings_fold_open="0" workshop_item_id="3032128572" >
   </Mod>
   <Mod enabled="1" name="moldos_arsenal" settings_fold_open="0" workshop_item_id="3358063295" >
   </Mod>
@@ -105,7 +105,7 @@
   </Mod>
   <Mod enabled="1" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
   </Mod>
-  <Mod enabled="1" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="3436708696" >
+  <Mod enabled="1" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
   </Mod>
   <Mod enabled="1" name="noita-emotes" settings_fold_open="0" workshop_item_id="2980713406" >
   </Mod>

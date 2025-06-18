@@ -1,4 +1,4 @@
-<Stats deaths="90" kills="30" player_kills="0" player_projectile_count="0" >
+<Stats deaths="90" kills="31" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -69,6 +69,8 @@
     <E key="whisp" value="1" >
     </E>
     <E key="wizard_manaeater" value="1" >
+    </E>
+    <E key="wraith_returner_apotheosis" value="1" >
     </E>
   </kill_map>
 </Stats>

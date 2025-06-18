@@ -1,8 +1,8 @@
-<Stats deaths="51" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="54" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="16" >
+    <E key="NULL | $damage_drowning" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -25,6 +25,8 @@
     <E key="player | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_projectile" value="14" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
     <E key="player | chop!" value="1" >
     </E>

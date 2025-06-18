@@ -1,4 +1,4 @@
-<Stats deaths="14" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -22,13 +22,15 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bubble_liquid" value="1" >
+    </E>
     <E key="lightling" value="1" >
     </E>
     <E key="locust_swarm" value="1" >
     </E>
     <E key="physics_ragdoll_ai_flopper" value="1" >
     </E>
-    <E key="scorpion" value="4" >
+    <E key="scorpion" value="5" >
     </E>
     <E key="skullmage" value="1" >
     </E>

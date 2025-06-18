@@ -1,4 +1,4 @@
-<Stats deaths="397" kills="184" player_kills="0" player_projectile_count="0" >
+<Stats deaths="410" kills="189" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="30" >
     </E>
-    <E key="NULL | $damage_fire" value="41" >
+    <E key="NULL | $damage_fire" value="42" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -34,6 +34,8 @@
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
+    <E key="eye_bat | $damage_melee" value="2" >
+    </E>
     <E key="firemage_weak | $damage_explosion" value="1" >
     </E>
     <E key="firemage_weak | $damage_fire" value="2" >
@@ -52,9 +54,11 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="170" >
+    <E key="player | $damage_projectile" value="171" >
     </E>
-    <E key="player | $damage_slice" value="4" >
+    <E key="player | $damage_slice" value="9" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="6" >
     </E>
@@ -92,11 +96,11 @@
     </E>
     <E key="shotgunner_weak" value="4" >
     </E>
-    <E key="skeleton" value="14" >
+    <E key="skeleton" value="15" >
     </E>
     <E key="slimeshooter" value="3" >
     </E>
-    <E key="slimeshooter_weak" value="8" >
+    <E key="slimeshooter_weak" value="9" >
     </E>
     <E key="toxicskull" value="1" >
     </E>
@@ -108,7 +112,7 @@
     </E>
     <E key="zombie_water" value="13" >
     </E>
-    <E key="zombie_weak" value="92" >
+    <E key="zombie_weak" value="95" >
     </E>
   </kill_map>
 </Stats>

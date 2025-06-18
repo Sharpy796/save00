@@ -1,0 +1,44 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="17" damage_taken="181.908" dead="1" death_count="0" death_pos.x="2109.41" death_pos.y="13292.5" enemies_killed="529" gold="1191" gold_all="6681" gold_infinite="0" healed="67.515" heart_containers="0" hp="100" items="135" kicks="522" killed_by=" | Omega Black Hole" killed_by_extra="" places_visited="17" playtime="9864.05" playtime_str="2:44:24" projectiles_shot="7471" streaks="0" teleports="0" wands_edited="32" world_seed="744044906" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="15" damage_taken="109.578" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="498" gold="1145" gold_all="6635" gold_infinite="0" healed="67.515" heart_containers="0" hp="100" items="135" kicks="522" killed_by="" killed_by_extra="" places_visited="15" playtime="9763.38" playtime_str="2:42:43" projectiles_shot="7004" streaks="0" teleports="0" wands_edited="32" world_seed="744044906" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_ant_hell" value="1" >
+    </E>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_dragoncave" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+    <E key="Overgrown Laboratory" value="1" >
+    </E>
+    <E key="The Forge" value="1" >
+    </E>
+    <E key="Worm Tunnels" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="160" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="179" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="12" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="14" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -18,9 +18,11 @@
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
-    <E key="chainsawer | Minced!" value="3" >
+    <E key="chainsawer | Minced!" value="4" >
     </E>
     <E key="conduit | $damage_melee" value="3" >
+    </E>
+    <E key="eye_bat | $damage_melee" value="1" >
     </E>
     <E key="fallen_alchemist | $damage_projectile" value="6" >
     </E>
@@ -34,9 +36,15 @@
     </E>
     <E key="miner_weak | $damage_melee" value="3" >
     </E>
+    <E key="miner_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="monkey | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_projectile" value="54" >
     </E>
-    <E key="player | $damage_slice" value="5" >
+    <E key="player | $damage_slice" value="8" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
     <E key="player_ai | $damage_explosion" value="1" >
     </E>
@@ -44,15 +52,21 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="13" >
+    <E key="shotgunner_weak | $damage_projectile" value="14" >
     </E>
     <E key="skeleton | $damage_explosion" value="1" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
     </E>
+    <E key="skull_abomination | $damage_projectile" value="5" >
+    </E>
+    <E key="skullfly | $damage_fire" value="3" >
+    </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>
     <E key="snowman2 | $damage_projectile" value="1" >
+    </E>
+    <E key="stone_crab | $damage_melee" value="1" >
     </E>
     <E key="worm | worm bite" value="2" >
     </E>

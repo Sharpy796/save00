@@ -1,4 +1,4 @@
-<Stats deaths="76" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="77" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -25,6 +25,8 @@
     <E key="electrolukki | $damage_electricity" value="1" >
     </E>
     <E key="giant_centipede | worm bite" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>

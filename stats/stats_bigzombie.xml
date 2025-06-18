@@ -1,4 +1,4 @@
-<Stats deaths="88" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="92" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_fire" value="8" >
+    <E key="NULL | $damage_fire" value="12" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -59,6 +59,8 @@
     <E key="acidshot" value="1" >
     </E>
     <E key="blob_mini" value="2" >
+    </E>
+    <E key="drone_mini" value="1" >
     </E>
     <E key="glue" value="12" >
     </E>

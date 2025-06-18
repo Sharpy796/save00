@@ -1,4 +1,4 @@
-<Stats deaths="284" kills="208" player_kills="0" player_projectile_count="0" >
+<Stats deaths="313" kills="233" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -14,13 +14,15 @@
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
+    </E>
     <E key="slime_turret | $damage_projectile" value="1" >
     </E>
-    <E key="twig | " value="208" >
+    <E key="twig | " value="233" >
     </E>
   </death_map>
   <kill_map>
-    <E key="twig" value="208" >
+    <E key="twig" value="233" >
     </E>
   </kill_map>
 </Stats>

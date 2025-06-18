@@ -1,4 +1,4 @@
-<Stats deaths="64" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="66" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -11,6 +11,8 @@
     <E key="cargobot | $damage_electricity" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
     </E>
     <E key="player | " value="1" >
     </E>
@@ -30,7 +32,7 @@
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
-    <E key="tank_rocket | $damage_explosion" value="1" >
+    <E key="tank_rocket | $damage_explosion" value="2" >
     </E>
   </death_map>
   <kill_map>
@@ -52,7 +54,7 @@
     </E>
     <E key="tank" value="2" >
     </E>
-    <E key="tank_rocket" value="1" >
+    <E key="tank_rocket" value="2" >
     </E>
   </kill_map>
 </Stats>

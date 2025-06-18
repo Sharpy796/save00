@@ -1,12 +1,12 @@
-<Stats deaths="595" kills="46" player_kills="0" player_projectile_count="0" >
+<Stats deaths="610" kills="46" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="52" >
+    <E key="NULL | $damage_drowning" value="53" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="58" >
+    <E key="NULL | $damage_explosion" value="59" >
     </E>
     <E key="NULL | $damage_fire" value="17" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
@@ -39,6 +39,8 @@
     <E key="ant_suffocate | $damage_melee" value="1" >
     </E>
     <E key="bat | $damage_melee" value="3" >
+    </E>
+    <E key="black_hole_giga | " value="1" >
     </E>
     <E key="blob | $damage_melee" value="5" >
     </E>
@@ -62,7 +64,7 @@
     </E>
     <E key="hiisi_thief | $damage_melee" value="2" >
     </E>
-    <E key="hisii_hobo | $damage_melee" value="48" >
+    <E key="hisii_hobo | $damage_melee" value="50" >
     </E>
     <E key="invisiman | $damage_melee" value="1" >
     </E>
@@ -98,6 +100,8 @@
     </E>
     <E key="player | $damage_projectile" value="71" >
     </E>
+    <E key="player | $damage_radioactive" value="2" >
+    </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
     <E key="player | $damage_slice" value="12" >
@@ -126,7 +130,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="12" >
+    <E key="shotgunner | $damage_projectile" value="15" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>

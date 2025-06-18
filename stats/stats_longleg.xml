@@ -1,16 +1,16 @@
-<Stats deaths="1763" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1809" kills="31" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="63" >
+    <E key="NULL | $damage_drowning" value="66" >
     </E>
     <E key="NULL | $damage_electricity" value="15" >
     </E>
-    <E key="NULL | $damage_explosion" value="97" >
+    <E key="NULL | $damage_explosion" value="99" >
     </E>
-    <E key="NULL | $damage_fire" value="202" >
+    <E key="NULL | $damage_fire" value="208" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | $status_apotheosis_hex_oil_name" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="12" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
@@ -58,13 +58,17 @@
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
-    <E key="conduit | $damage_melee" value="3" >
+    <E key="conduit | $damage_melee" value="4" >
+    </E>
+    <E key="crawler | $damage_projectile" value="9" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="5" >
     </E>
     <E key="enlightened_alchemist | $damage_fire" value="1" >
+    </E>
+    <E key="eye_bat | $damage_melee" value="2" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
@@ -126,11 +130,11 @@
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="23" >
+    <E key="player | $damage_slice" value="29" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="3" >
     </E>
-    <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
+    <E key="player | $spell_apotheosis_electrosphere_name" value="13" >
     </E>
     <E key="player | chop!" value="7" >
     </E>

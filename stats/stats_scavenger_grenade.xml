@@ -1,12 +1,12 @@
-<Stats deaths="1447" kills="170" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1476" kills="170" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="25" >
+    <E key="NULL | $damage_drowning" value="27" >
     </E>
-    <E key="NULL | $damage_electricity" value="76" >
+    <E key="NULL | $damage_electricity" value="77" >
     </E>
     <E key="NULL | $damage_explosion" value="140" >
     </E>
@@ -14,13 +14,13 @@
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="69" >
+    <E key="NULL | $damage_physicshit" value="73" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="28" >
+    <E key="NULL | $damage_radioactive" value="30" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="13" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="23" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="24" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
@@ -49,6 +49,8 @@
     <E key="bigzombie | $damage_explosion" value="5" >
     </E>
     <E key="bigzombietorso | $damage_explosion" value="1" >
+    </E>
+    <E key="black_hole_giga | " value="2" >
     </E>
     <E key="blob | $damage_melee" value="1" >
     </E>
@@ -75,6 +77,8 @@
     <E key="effect_curse_cloud_01_temporary | $damage_electricity" value="1" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="electrolukki | $damage_electricity" value="2" >
     </E>
     <E key="electrolukki_big | zap!" value="1" >
     </E>
@@ -116,29 +120,33 @@
     </E>
     <E key="player | " value="9" >
     </E>
-    <E key="player | $damage_curse" value="1" >
+    <E key="player | $action_black_hole_giga" value="4" >
+    </E>
+    <E key="player | $damage_curse" value="3" >
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
-    <E key="player | $damage_electricity" value="33" >
+    <E key="player | $damage_electricity" value="36" >
     </E>
     <E key="player | $damage_explosion" value="119" >
     </E>
     <E key="player | $damage_fire" value="14" >
     </E>
-    <E key="player | $damage_ice" value="15" >
+    <E key="player | $damage_ice" value="16" >
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
     <E key="player | $damage_projectile" value="429" >
     </E>
-    <E key="player | $damage_radioactive" value="1" >
+    <E key="player | $damage_radioactive" value="2" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
     <E key="player | $damage_slice" value="35" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="4" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="3" >
     </E>
     <E key="player | bzzt!" value="3" >
     </E>
@@ -174,7 +182,7 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="5" >
+    <E key="sniper | $damage_projectile" value="6" >
     </E>
     <E key="spore_sentient | $damage_explosion" value="1" >
     </E>

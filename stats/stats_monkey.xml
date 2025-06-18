@@ -1,8 +1,8 @@
-<Stats deaths="56" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="64" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="11" >
+    <E key="NULL | $damage_explosion" value="14" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
@@ -14,9 +14,11 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) poison gas" value="2" >
+    <E key="NULL | damage from material: (Vanilla) poison gas" value="3" >
     </E>
     <E key="alien | $damage_projectile" value="1" >
+    </E>
+    <E key="black_hole_giga | " value="1" >
     </E>
     <E key="gem_tiny | $damage_explosion" value="1" >
     </E>
@@ -27,6 +29,8 @@
     <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_projectile" value="13" >
+    </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="3" >
     </E>
     <E key="poring | $damage_melee" value="1" >
     </E>
@@ -39,6 +43,12 @@
     <E key="bat" value="1" >
     </E>
     <E key="fairy_big" value="1" >
+    </E>
+    <E key="ground_terror" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
     </E>
   </kill_map>
 </Stats>

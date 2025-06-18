@@ -1,4 +1,4 @@
-<Stats deaths="105" kills="24" player_kills="0" player_projectile_count="0" >
+<Stats deaths="107" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -32,6 +32,8 @@
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
+    <E key="player | $spell_apotheosis_electrosphere_name" value="2" >
+    </E>
     <E key="player | chop!" value="1" >
     </E>
     <E key="poring | $damage_explosion" value="2" >
@@ -60,7 +62,7 @@
     </E>
     <E key="wizard_tiny" value="1" >
     </E>
-    <E key="zombie_weak" value="1" >
+    <E key="zombie_weak" value="2" >
     </E>
   </kill_map>
 </Stats>
