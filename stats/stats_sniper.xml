@@ -1,4 +1,4 @@
-<Stats deaths="329" kills="222" player_kills="0" player_projectile_count="0" >
+<Stats deaths="335" kills="229" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,13 +6,13 @@
     </E>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="9" >
+    <E key="NULL | $damage_electricity" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="41" >
+    <E key="NULL | $damage_explosion" value="42" >
     </E>
     <E key="NULL | $damage_fire" value="15" >
     </E>
-    <E key="NULL | $damage_physicshit" value="25" >
+    <E key="NULL | $damage_physicshit" value="26" >
     </E>
     <E key="NULL | $damage_radioactive" value="20" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="chainsawer | Minced!" value="1" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="1" >
+    <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="flamer | $damage_explosion" value="3" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="2" >
+    <E key="iceskull | $damage_explosion" value="3" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="88" >
+    <E key="player | $damage_projectile" value="89" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -112,13 +112,15 @@
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
+    <E key="mine" value="1" >
+    </E>
     <E key="miniblob" value="7" >
     </E>
-    <E key="pebble_physics" value="1" >
+    <E key="pebble_physics" value="3" >
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="103" >
+    <E key="rat" value="106" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>
@@ -128,7 +130,7 @@
     </E>
     <E key="shotgunner" value="6" >
     </E>
-    <E key="slimeshooter" value="16" >
+    <E key="slimeshooter" value="17" >
     </E>
     <E key="sniper" value="4" >
     </E>

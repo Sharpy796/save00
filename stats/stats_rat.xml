@@ -1,4 +1,4 @@
-<Stats deaths="2401" kills="54" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2433" kills="54" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="48" >
     </E>
-    <E key="NULL | $damage_explosion" value="149" >
+    <E key="NULL | $damage_explosion" value="152" >
     </E>
     <E key="NULL | $damage_fire" value="63" >
     </E>
@@ -164,9 +164,9 @@
     </E>
     <E key="icemage_big2 | $damage_explosion" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="11" >
+    <E key="iceskull | $damage_explosion" value="12" >
     </E>
-    <E key="iceskull | $damage_ice" value="53" >
+    <E key="iceskull | $damage_ice" value="54" >
     </E>
     <E key="iceskull | $damage_melee" value="22" >
     </E>
@@ -262,17 +262,17 @@
     </E>
     <E key="scavenger_glue | $damage_explosion" value="1" >
     </E>
-    <E key="scavenger_glue | $damage_melee" value="6" >
+    <E key="scavenger_glue | $damage_melee" value="7" >
     </E>
     <E key="scavenger_glue | $damage_projectile" value="6" >
     </E>
     <E key="scavenger_grenade | $damage_melee" value="33" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="73" >
+    <E key="scavenger_grenade | $damage_projectile" value="79" >
     </E>
-    <E key="scavenger_leader | $damage_explosion" value="2" >
+    <E key="scavenger_leader | $damage_explosion" value="4" >
     </E>
-    <E key="scavenger_leader | $damage_projectile" value="4" >
+    <E key="scavenger_leader | $damage_projectile" value="5" >
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>
@@ -286,11 +286,13 @@
     </E>
     <E key="seeker | Etsijä's shock" value="74" >
     </E>
+    <E key="shaman | $damage_projectile" value="3" >
+    </E>
     <E key="shaman_greater_apotheosis | $damage_projectile" value="2" >
     </E>
     <E key="shotgunner | $damage_melee" value="23" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="93" >
+    <E key="shotgunner | $damage_projectile" value="97" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
@@ -306,7 +308,7 @@
     </E>
     <E key="sniper | $damage_melee" value="20" >
     </E>
-    <E key="sniper | $damage_projectile" value="68" >
+    <E key="sniper | $damage_projectile" value="71" >
     </E>
     <E key="sniper_hell | $damage_melee" value="2" >
     </E>
@@ -326,7 +328,9 @@
     </E>
     <E key="tank | $damage_explosion" value="9" >
     </E>
-    <E key="tank | $damage_projectile" value="8" >
+    <E key="tank | $damage_projectile" value="10" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="3" >
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="7" >
     </E>
@@ -394,7 +398,7 @@
     </E>
     <E key="worm | worm bite" value="10" >
     </E>
-    <E key="worm_big | worm bite" value="28" >
+    <E key="worm_big | worm bite" value="30" >
     </E>
     <E key="worm_fungal | worm bite" value="2" >
     </E>

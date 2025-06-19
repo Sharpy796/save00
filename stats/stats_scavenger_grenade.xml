@@ -1,20 +1,20 @@
-<Stats deaths="1476" kills="170" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1498" kills="180" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="27" >
+    <E key="NULL | $damage_drowning" value="28" >
     </E>
-    <E key="NULL | $damage_electricity" value="77" >
+    <E key="NULL | $damage_electricity" value="78" >
     </E>
-    <E key="NULL | $damage_explosion" value="140" >
+    <E key="NULL | $damage_explosion" value="147" >
     </E>
-    <E key="NULL | $damage_fire" value="38" >
+    <E key="NULL | $damage_fire" value="39" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="73" >
+    <E key="NULL | $damage_physicshit" value="75" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -40,9 +40,9 @@
     </E>
     <E key="NULL | damage from material: acid" value="11" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="2" >
+    <E key="NULL | damage from material: freezing liquid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="38" >
+    <E key="NULL | damage from material: freezing vapour" value="40" >
     </E>
     <E key="NULL | damage from material: toxic ice" value="1" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
-    <E key="player | $damage_projectile" value="429" >
+    <E key="player | $damage_projectile" value="436" >
     </E>
     <E key="player | $damage_radioactive" value="2" >
     </E>
@@ -242,7 +242,7 @@
     </E>
     <E key="hisii_engineer" value="1" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="11" >
     </E>
     <E key="locust_swarm" value="3" >
     </E>
@@ -258,7 +258,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="106" >
+    <E key="rat" value="112" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -272,7 +272,7 @@
     </E>
     <E key="shotgunner" value="1" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>

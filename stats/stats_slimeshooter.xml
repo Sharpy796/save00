@@ -1,4 +1,4 @@
-<Stats deaths="387" kills="114" player_kills="1" player_projectile_count="0" >
+<Stats deaths="392" kills="115" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -37,6 +37,8 @@
     <E key="firebug | $damage_fire" value="1" >
     </E>
     <E key="fireworkman | $damage_projectile" value="1" >
+    </E>
+    <E key="giant | $damage_melee" value="1" >
     </E>
     <E key="goblin_bomb | $damage_melee" value="1" >
     </E>
@@ -72,7 +74,7 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
     <E key="shotgunner | $damage_projectile" value="6" >
     </E>
@@ -80,7 +82,7 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="16" >
+    <E key="sniper | $damage_projectile" value="17" >
     </E>
     <E key="tank | $damage_projectile" value="1" >
     </E>
@@ -110,7 +112,7 @@
     </E>
     <E key="axeman" value="2" >
     </E>
-    <E key="bat" value="1" >
+    <E key="bat" value="2" >
     </E>
     <E key="blob" value="2" >
     </E>

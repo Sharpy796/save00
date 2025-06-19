@@ -1,4 +1,4 @@
-<Stats deaths="642" kills="180" player_kills="3" player_projectile_count="0" >
+<Stats deaths="656" kills="184" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="62" >
+    <E key="NULL | $damage_explosion" value="66" >
     </E>
-    <E key="NULL | $damage_fire" value="34" >
+    <E key="NULL | $damage_fire" value="35" >
     </E>
     <E key="NULL | $damage_physicshit" value="50" >
     </E>
-    <E key="NULL | $damage_radioactive" value="48" >
+    <E key="NULL | $damage_radioactive" value="49" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -48,7 +48,9 @@
     </E>
     <E key="drone_lasership | $damage_explosion" value="1" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="4" >
+    <E key="drone_lasership | $damage_projectile" value="5" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
     <E key="firebug | $damage_fire" value="2" >
     </E>
@@ -62,7 +64,9 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner | $damage_explosion" value="4" >
+    <E key="miner | $damage_explosion" value="5" >
+    </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="2" >
     </E>
     <E key="player | " value="5" >
     </E>
@@ -78,7 +82,7 @@
     </E>
     <E key="player | $damage_melee" value="14" >
     </E>
-    <E key="player | $damage_projectile" value="174" >
+    <E key="player | $damage_projectile" value="177" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -142,7 +146,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="116" >
+    <E key="rat" value="120" >
     </E>
     <E key="scorpion" value="1" >
     </E>

@@ -155,6 +155,6 @@
   </Mod>
   <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>
