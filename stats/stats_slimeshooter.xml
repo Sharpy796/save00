@@ -1,4 +1,4 @@
-<Stats deaths="463" kills="181" player_kills="1" player_projectile_count="0" >
+<Stats deaths="475" kills="190" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="141" >
+    <E key="NULL | $damage_explosion" value="149" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="10" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_fire" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="103" >
+    <E key="player | $damage_projectile" value="105" >
     </E>
     <E key="player | $damage_rock_curse" value="10" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="12" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="5" >
+    <E key="slimeshooter | $damage_explosion" value="6" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
@@ -132,6 +132,8 @@
     </E>
     <E key="frog_bot" value="1" >
     </E>
+    <E key="fungus" value="5" >
+    </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
     <E key="iceskull" value="2" >
@@ -146,7 +148,7 @@
     </E>
     <E key="radioactive_blob_trail" value="2" >
     </E>
-    <E key="rat" value="122" >
+    <E key="rat" value="124" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -156,9 +158,11 @@
     </E>
     <E key="skeleton" value="1" >
     </E>
-    <E key="slimeshooter" value="5" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
     </E>
     <E key="zombie" value="2" >
     </E>

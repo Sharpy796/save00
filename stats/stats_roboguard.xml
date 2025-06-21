@@ -1,4 +1,4 @@
-<Stats deaths="66" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="67" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -15,6 +15,8 @@
     <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="NULL | damage from material: concentrated mana" value="1" >
+    </E>
+    <E key="blob | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>

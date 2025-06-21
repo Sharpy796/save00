@@ -157,10 +157,10 @@
   </Mod>
   <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
   </Mod>
-  <Mod enabled="1" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
+  <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
   </Mod>
   <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
+  <Mod enabled="1" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
   </Mod>
 </Mods>

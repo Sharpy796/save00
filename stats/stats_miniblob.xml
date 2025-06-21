@@ -1,14 +1,14 @@
-<Stats deaths="1938" kills="40" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1963" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="96" >
     </E>
-    <E key="NULL | $damage_electricity" value="118" >
+    <E key="NULL | $damage_electricity" value="126" >
     </E>
-    <E key="NULL | $damage_explosion" value="247" >
+    <E key="NULL | $damage_explosion" value="252" >
     </E>
     <E key="NULL | $damage_fire" value="3" >
     </E>
-    <E key="NULL | $damage_melee" value="2" >
+    <E key="NULL | $damage_melee" value="3" >
     </E>
     <E key="NULL | $damage_physicshit" value="61" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="black_hole_big_singularitor | " value="1" >
     </E>
-    <E key="blob | $damage_explosion" value="5" >
+    <E key="blob | $damage_explosion" value="11" >
     </E>
     <E key="blob | $damage_melee" value="13" >
     </E>
@@ -72,7 +72,9 @@
     </E>
     <E key="firemage | $damage_melee" value="5" >
     </E>
-    <E key="flamer | $damage_explosion" value="1" >
+    <E key="flamer | $damage_explosion" value="4" >
+    </E>
+    <E key="flamer | $damage_fire" value="1" >
     </E>
     <E key="fly | $damage_melee" value="5" >
     </E>
@@ -182,7 +184,7 @@
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>
-    <E key="thunderskull | $damage_melee" value="2" >
+    <E key="thunderskull | $damage_melee" value="3" >
     </E>
     <E key="triangle_gem | $damage_projectile" value="1" >
     </E>

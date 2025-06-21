@@ -1,4 +1,4 @@
-<Stats deaths="242" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="246" kills="35" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -20,13 +20,15 @@
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="firebug | $damage_fire" value="5" >
     </E>
-    <E key="goblin_bomb | $damage_explosion" value="3" >
+    <E key="goblin_bomb | $damage_explosion" value="5" >
     </E>
     <E key="lukki_fire_miniboss | $damage_curse" value="1" >
     </E>
@@ -46,7 +48,7 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="49" >
+    <E key="player | $damage_projectile" value="50" >
     </E>
     <E key="player | $damage_rock_curse" value="9" >
     </E>
@@ -66,11 +68,17 @@
   <kill_map>
     <E key="bigfirebug" value="1" >
     </E>
-    <E key="goblin_bomb" value="3" >
+    <E key="firebug" value="7" >
+    </E>
+    <E key="goblin_bomb" value="5" >
     </E>
     <E key="hisii_engineer" value="1" >
     </E>
-    <E key="rat" value="15" >
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="18" >
+    </E>
+    <E key="shotgunner" value="1" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

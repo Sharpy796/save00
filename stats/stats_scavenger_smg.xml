@@ -1,4 +1,4 @@
-<Stats deaths="1001" kills="199" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1015" kills="200" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="19" >
     </E>
-    <E key="NULL | $damage_electricity" value="28" >
+    <E key="NULL | $damage_electricity" value="30" >
     </E>
-    <E key="NULL | $damage_explosion" value="103" >
+    <E key="NULL | $damage_explosion" value="108" >
     </E>
-    <E key="NULL | $damage_fire" value="42" >
+    <E key="NULL | $damage_fire" value="43" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="41" >
+    <E key="NULL | damage from material: freezing vapour" value="44" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
@@ -116,9 +116,11 @@
     </E>
     <E key="rat | $damage_melee" value="2" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="2" >
+    <E key="rat | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="3" >
+    <E key="scavenger_grenade | $damage_melee" value="3" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
@@ -182,7 +184,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="151" >
+    <E key="rat" value="152" >
     </E>
     <E key="scavenger_grenade" value="4" >
     </E>

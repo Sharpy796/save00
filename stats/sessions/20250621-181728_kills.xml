@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="boss_alchemist" value="1" >
+    </E>
+    <E key="boss_centipede_minion" value="1" >
+    </E>
+    <E key="boss_dragon" value="1" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="481" kills="453" player_kills="0" player_projectile_count="0" >
+<Stats deaths="485" kills="461" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="icemage_big | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="76" >
+    <E key="iceskull | $damage_explosion" value="77" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
@@ -94,11 +94,11 @@
     </E>
     <E key="sniper | $damage_melee" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="12" >
+    <E key="sniper | $damage_projectile" value="14" >
     </E>
     <E key="tank | $damage_projectile" value="13" >
     </E>
-    <E key="tank_rocket | $damage_explosion" value="4" >
+    <E key="tank_rocket | $damage_explosion" value="5" >
     </E>
     <E key="tank_rocket | $damage_projectile" value="3" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
-    <E key="iceskull" value="76" >
+    <E key="iceskull" value="77" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -148,11 +148,11 @@
     </E>
     <E key="pollen" value="39" >
     </E>
-    <E key="potion" value="4" >
+    <E key="potion" value="5" >
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="149" >
+    <E key="rat" value="155" >
     </E>
     <E key="scavenger_glue" value="5" >
     </E>
