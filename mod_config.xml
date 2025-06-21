@@ -5,17 +5,15 @@
   </Mod>
   <Mod enabled="0" name="example" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="nightmare" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="1" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
   </Mod>
   <Mod enabled="0" name="starting_loadouts" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
   <Mod enabled="0" name="kae_waypoint" settings_fold_open="0" workshop_item_id="3199825595" >
+  </Mod>
+  <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="forsdel" settings_fold_open="0" workshop_item_id="3272653027" >
   </Mod>
@@ -93,9 +91,9 @@
   </Mod>
   <Mod enabled="0" name="boss_reworks" settings_fold_open="0" workshop_item_id="3235530450" >
   </Mod>
-  <Mod enabled="0" name="biome-plus" settings_fold_open="0" workshop_item_id="2554761457" >
-  </Mod>
   <Mod enabled="0" name="anvil_of_destiny" settings_fold_open="0" workshop_item_id="1974488139" >
+  </Mod>
+  <Mod enabled="0" name="biome-plus" settings_fold_open="0" workshop_item_id="2554761457" >
   </Mod>
   <Mod enabled="0" name="grahamsperks" settings_fold_open="0" workshop_item_id="2840072000" >
   </Mod>
@@ -111,9 +109,9 @@
   </Mod>
   <Mod enabled="0" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
   </Mod>
-  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
-  </Mod>
   <Mod enabled="0" name="noita-emotes" settings_fold_open="0" workshop_item_id="2980713406" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
   </Mod>
   <Mod enabled="0" name="QoL_mod" settings_fold_open="0" workshop_item_id="2744309004" >
   </Mod>
@@ -129,9 +127,17 @@
   </Mod>
   <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
+  <Mod enabled="0" name="nightmare" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="NightmarePerks" settings_fold_open="0" workshop_item_id="3114720130" >
+  </Mod>
+  <Mod enabled="0" name="enemywithperk" settings_fold_open="0" workshop_item_id="3048840527" >
+  </Mod>
+  <Mod enabled="1" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
   <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
-  <Mod enabled="0" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
+  <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
   <Mod enabled="0" name="noita.fairmod" settings_fold_open="1" workshop_item_id="3357618827" >
   </Mod>
@@ -151,10 +157,10 @@
   </Mod>
   <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
   </Mod>
-  <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
+  <Mod enabled="1" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
   </Mod>
   <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
   </Mod>
 </Mods>

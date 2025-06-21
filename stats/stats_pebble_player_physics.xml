@@ -1,8 +1,8 @@
-<Stats deaths="22" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="7" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -17,6 +17,8 @@
     <E key="player | " value="1" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
+    </E>
+    <E key="wand_ghost | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>

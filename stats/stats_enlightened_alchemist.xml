@@ -1,4 +1,4 @@
-<Stats deaths="34" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="36" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
@@ -12,13 +12,15 @@
     </E>
     <E key="lasergun | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="27" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
   </death_map>
   <kill_map>
     <E key="boss_ghost_polyp" value="3" >
+    </E>
+    <E key="failed_alchemist" value="1" >
     </E>
     <E key="hideous_mass" value="2" >
     </E>

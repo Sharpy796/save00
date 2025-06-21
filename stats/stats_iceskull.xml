@@ -1,4 +1,4 @@
-<Stats deaths="420" kills="352" player_kills="0" player_projectile_count="0" >
+<Stats deaths="481" kills="453" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="5" >
+    <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="42" >
+    <E key="NULL | $damage_explosion" value="46" >
     </E>
-    <E key="NULL | $damage_physicshit" value="11" >
+    <E key="NULL | $damage_physicshit" value="16" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -19,6 +19,8 @@
     <E key="curse_strong | $damage_hitfx_curse" value="10" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="4" >
     </E>
@@ -36,7 +38,7 @@
     </E>
     <E key="icemage_big | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="63" >
+    <E key="iceskull | $damage_explosion" value="76" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
@@ -56,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="100" >
+    <E key="player | $damage_projectile" value="109" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
@@ -66,29 +68,41 @@
     </E>
     <E key="poring_holy | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="11" >
+    <E key="scavenger_grenade | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="15" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="2" >
+    <E key="scavenger_smg | $damage_explosion" value="3" >
     </E>
-    <E key="scavenger_smg | $damage_melee" value="1" >
+    <E key="scavenger_smg | $damage_melee" value="2" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="7" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="8" >
+    <E key="shotgunner | $damage_explosion" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="13" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="9" >
+    <E key="sniper | $damage_melee" value="1" >
     </E>
-    <E key="tank | $damage_projectile" value="8" >
+    <E key="sniper | $damage_projectile" value="12" >
     </E>
-    <E key="tank_rocket | $damage_explosion" value="3" >
+    <E key="tank | $damage_projectile" value="13" >
     </E>
-    <E key="tank_rocket | $damage_projectile" value="2" >
+    <E key="tank_rocket | $damage_explosion" value="4" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="3" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_explosion" value="2" >
     </E>
@@ -116,11 +130,13 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="glue" value="7" >
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="glue" value="12" >
     </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
-    <E key="iceskull" value="63" >
+    <E key="iceskull" value="76" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -132,27 +148,27 @@
     </E>
     <E key="pollen" value="39" >
     </E>
-    <E key="potion" value="3" >
+    <E key="potion" value="4" >
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="88" >
+    <E key="rat" value="149" >
     </E>
     <E key="scavenger_glue" value="5" >
     </E>
-    <E key="scavenger_grenade" value="7" >
+    <E key="scavenger_grenade" value="13" >
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
     <E key="scavenger_mine" value="1" >
     </E>
-    <E key="scavenger_smg" value="12" >
+    <E key="scavenger_smg" value="17" >
     </E>
-    <E key="shotgunner" value="13" >
+    <E key="shotgunner" value="19" >
     </E>
     <E key="skycrystal_physics" value="4" >
     </E>
-    <E key="slimeshooter" value="4" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="sniper" value="4" >
     </E>
@@ -166,7 +182,7 @@
     </E>
     <E key="worm_big" value="2" >
     </E>
-    <E key="worm_tiny" value="2" >
+    <E key="worm_tiny" value="3" >
     </E>
     <E key="wraith_returner_apotheosis" value="4" >
     </E>

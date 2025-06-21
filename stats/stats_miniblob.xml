@@ -1,8 +1,8 @@
-<Stats deaths="1925" kills="40" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1938" kills="40" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="96" >
     </E>
-    <E key="NULL | $damage_electricity" value="116" >
+    <E key="NULL | $damage_electricity" value="118" >
     </E>
     <E key="NULL | $damage_explosion" value="247" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="61" >
     </E>
-    <E key="NULL | $damage_plasmabeam" value="2" >
+    <E key="NULL | $damage_plasmabeam" value="3" >
     </E>
     <E key="NULL | $damage_projectile" value="33" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="12" >
+    <E key="ant | $damage_melee" value="13" >
     </E>
     <E key="attack_drone | $damage_projectile" value="4" >
     </E>
@@ -32,9 +32,13 @@
     </E>
     <E key="blob | $damage_explosion" value="5" >
     </E>
-    <E key="blob | $damage_melee" value="12" >
+    <E key="blob | $damage_melee" value="13" >
     </E>
-    <E key="bloom | $damage_explosion" value="1" >
+    <E key="blob | $damage_projectile" value="2" >
+    </E>
+    <E key="bloom | $damage_explosion" value="2" >
+    </E>
+    <E key="bloom | $damage_projectile" value="2" >
     </E>
     <E key="boss_pit | $damage_explosion" value="1" >
     </E>
@@ -148,7 +152,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_melee" value="4" >
+    <E key="sniper | $damage_melee" value="5" >
     </E>
     <E key="sniper | $damage_projectile" value="2" >
     </E>
@@ -184,6 +188,8 @@
     </E>
     <E key="wizard_dark | $damage_projectile" value="2" >
     </E>
+    <E key="wizard_neutral | $damage_projectile" value="1" >
+    </E>
     <E key="wizard_swapper | $damage_explosion" value="6" >
     </E>
     <E key="wizard_twitchy | $damage_projectile" value="2" >
@@ -194,7 +200,7 @@
     </E>
     <E key="worm_skull | worm bite" value="37" >
     </E>
-    <E key="zombie | $damage_melee" value="8" >
+    <E key="zombie | $damage_melee" value="9" >
     </E>
   </death_map>
   <kill_map>

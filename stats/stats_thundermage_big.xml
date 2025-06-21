@@ -1,4 +1,4 @@
-<Stats deaths="12" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="12" kills="39" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $status_apotheosis_hex_blood_name" value="1" >
     </E>
@@ -22,11 +22,11 @@
     </E>
     <E key="rat" value="6" >
     </E>
-    <E key="scavenger_grenade" value="7" >
+    <E key="scavenger_grenade" value="9" >
     </E>
     <E key="scavenger_leader" value="1" >
     </E>
-    <E key="scavenger_smg" value="2" >
+    <E key="scavenger_smg" value="3" >
     </E>
     <E key="scorpion" value="2" >
     </E>

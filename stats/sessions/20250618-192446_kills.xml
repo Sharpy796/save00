@@ -1,0 +1,32 @@
+<Stats deaths="0" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="5" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="sniper" value="5" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="thundermage" value="2" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+  </kill_map>
+</Stats>

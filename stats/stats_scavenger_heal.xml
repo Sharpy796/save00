@@ -1,4 +1,4 @@
-<Stats deaths="130" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="141" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="28" >
+    <E key="NULL | $damage_explosion" value="29" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="cyborg | $damage_explosion" value="1" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="1" >
+    <E key="drone_lasership | $damage_projectile" value="2" >
     </E>
     <E key="locust_swarm | Locust bite" value="1" >
     </E>
@@ -54,19 +54,19 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="24" >
+    <E key="player | $damage_projectile" value="31" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    <E key="scavenger_grenade | $damage_projectile" value="3" >
     </E>
     <E key="scavenger_heal | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_projectile" value="1" >
+    <E key="scavenger_smg | $damage_projectile" value="2" >
     </E>
     <E key="slicing_blade | chop!" value="3" >
     </E>
@@ -78,7 +78,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="miner" value="1" >
+    </E>
     <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
     </E>
   </kill_map>
 </Stats>

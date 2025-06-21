@@ -1,12 +1,14 @@
-<Stats deaths="34" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="44" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="16" >
+    <E key="player | $damage_projectile" value="25" >
     </E>
     <E key="player | $damage_rock_curse" value="11" >
     </E>
@@ -18,6 +20,14 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="egg_hollow" value="1" >
+    </E>
+    <E key="glitter_bomb" value="2" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="tnt" value="3" >
+    </E>
     <E key="wand_ghost" value="2" >
     </E>
     <E key="wizard_random" value="1" >
