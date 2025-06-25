@@ -1,4 +1,4 @@
-<Stats deaths="878" kills="147" player_kills="1" player_projectile_count="0" >
+<Stats deaths="893" kills="150" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="59" >
+    <E key="NULL | $damage_physicshit" value="62" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -70,7 +70,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="3" >
     </E>
-    <E key="iceskull | $damage_ice" value="7" >
+    <E key="iceskull | $damage_ice" value="8" >
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="player | " value="7" >
     </E>
-    <E key="player | $damage_drill" value="6" >
+    <E key="player | $damage_drill" value="10" >
     </E>
     <E key="player | $damage_electricity" value="21" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="244" >
+    <E key="player | $damage_projectile" value="245" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
@@ -108,9 +108,11 @@
     </E>
     <E key="player | chop!" value="5" >
     </E>
+    <E key="player_rng_items | $damage_drill" value="2" >
+    </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="2" >
+    <E key="player_rng_items | $damage_projectile" value="4" >
     </E>
     <E key="rat | $damage_melee" value="2" >
     </E>
@@ -148,7 +150,7 @@
     </E>
     <E key="worm | worm bite" value="2" >
     </E>
-    <E key="worm_big | worm bite" value="9" >
+    <E key="worm_big | worm bite" value="11" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
@@ -176,7 +178,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="108" >
+    <E key="rat" value="111" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

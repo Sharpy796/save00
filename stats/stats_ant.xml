@@ -1,4 +1,4 @@
-<Stats deaths="86" kills="34" player_kills="0" player_projectile_count="0" >
+<Stats deaths="91" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,9 @@
     </E>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="9" >
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="10" >
     </E>
     <E key="NULL | $damage_fire" value="21" >
     </E>
@@ -38,9 +40,13 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="player_rng_items | $damage_drill" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
     <E key="roboguard | $damage_melee" value="2" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="1" >
+    <E key="slimeshooter | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>
@@ -62,9 +68,11 @@
     </E>
     <E key="miniblob" value="12" >
     </E>
-    <E key="rat" value="6" >
+    <E key="rat" value="7" >
     </E>
     <E key="slime_ghoul" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
     </E>
     <E key="waterskull" value="2" >
     </E>

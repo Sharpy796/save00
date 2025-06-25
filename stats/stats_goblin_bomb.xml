@@ -1,4 +1,4 @@
-<Stats deaths="218" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="239" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,17 +8,17 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="28" >
+    <E key="NULL | $damage_explosion" value="30" >
     </E>
     <E key="NULL | $damage_physicshit" value="10" >
     </E>
-    <E key="NULL | $damage_radioactive" value="26" >
+    <E key="NULL | $damage_radioactive" value="30" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="40" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="2" >
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="firebug | $damage_fire" value="5" >
     </E>
-    <E key="goblin_bomb | $damage_explosion" value="3" >
+    <E key="goblin_bomb | $damage_explosion" value="4" >
     </E>
     <E key="lukki_fire_miniboss | $damage_curse" value="1" >
     </E>
@@ -46,13 +46,17 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="41" >
+    <E key="player | $damage_projectile" value="42" >
     </E>
     <E key="player | $damage_rock_curse" value="9" >
     </E>
-    <E key="player | $damage_slice" value="13" >
+    <E key="player | $damage_slice" value="16" >
     </E>
     <E key="player | chop!" value="4" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
     </E>
     <E key="walleye | $damage_explosion" value="1" >
     </E>
@@ -64,11 +68,11 @@
   <kill_map>
     <E key="bigfirebug" value="1" >
     </E>
-    <E key="goblin_bomb" value="3" >
+    <E key="goblin_bomb" value="4" >
     </E>
     <E key="hisii_engineer" value="1" >
     </E>
-    <E key="rat" value="13" >
+    <E key="rat" value="14" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

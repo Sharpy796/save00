@@ -1,20 +1,20 @@
-<Stats deaths="642" kills="180" player_kills="3" player_projectile_count="0" >
+<Stats deaths="708" kills="208" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="16" >
     </E>
-    <E key="NULL | $damage_electricity" value="8" >
+    <E key="NULL | $damage_electricity" value="10" >
     </E>
-    <E key="NULL | $damage_explosion" value="62" >
+    <E key="NULL | $damage_explosion" value="65" >
     </E>
-    <E key="NULL | $damage_fire" value="34" >
+    <E key="NULL | $damage_fire" value="37" >
     </E>
-    <E key="NULL | $damage_physicshit" value="50" >
+    <E key="NULL | $damage_physicshit" value="53" >
     </E>
-    <E key="NULL | $damage_radioactive" value="48" >
+    <E key="NULL | $damage_radioactive" value="50" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -28,17 +28,17 @@
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="4" >
+    <E key="NULL | damage from material: freezing liquid" value="5" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="3" >
+    <E key="NULL | damage from material: freezing vapour" value="4" >
     </E>
-    <E key="NULL | damage from material: lava" value="7" >
+    <E key="NULL | damage from material: lava" value="9" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
     <E key="ant_fire | $damage_melee" value="1" >
     </E>
-    <E key="bat | $damage_melee" value="1" >
+    <E key="bat | $damage_melee" value="2" >
     </E>
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="player | " value="5" >
     </E>
-    <E key="player | $damage_drill" value="2" >
+    <E key="player | $damage_drill" value="5" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
@@ -78,19 +78,23 @@
     </E>
     <E key="player | $damage_melee" value="14" >
     </E>
-    <E key="player | $damage_projectile" value="174" >
+    <E key="player | $damage_projectile" value="178" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
-    <E key="player | $damage_slice" value="41" >
+    <E key="player | $damage_slice" value="52" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="7" >
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="player_rng_items | $damage_drill" value="6" >
+    </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="1" >
+    <E key="player_rng_items | $damage_projectile" value="15" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="3" >
     </E>
     <E key="rat | $damage_melee" value="2" >
     </E>
@@ -110,19 +114,21 @@
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="6" >
+    <E key="sniper | $damage_projectile" value="7" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
-    <E key="worm_big | worm bite" value="3" >
+    <E key="worm_big | worm bite" value="4" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
-    <E key="worm_tiny | worm bite" value="5" >
+    <E key="worm_tiny | worm bite" value="6" >
     </E>
   </death_map>
   <kill_map>
-    <E key="bat" value="1" >
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigfirebug" value="1" >
     </E>
     <E key="bubble_liquid" value="3" >
     </E>
@@ -134,7 +140,7 @@
     </E>
     <E key="glitter_bomb" value="1" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="11" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="1" >
     </E>
@@ -142,19 +148,19 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="116" >
+    <E key="rat" value="136" >
     </E>
     <E key="scorpion" value="1" >
     </E>
     <E key="shotgunner" value="5" >
     </E>
-    <E key="slimeshooter" value="6" >
+    <E key="slimeshooter" value="7" >
     </E>
     <E key="thunderskull" value="1" >
     </E>
     <E key="tnt" value="1" >
     </E>
-    <E key="zombie" value="16" >
+    <E key="zombie" value="18" >
     </E>
   </kill_map>
 </Stats>

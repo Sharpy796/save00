@@ -1,10 +1,10 @@
-<Stats deaths="1925" kills="40" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1978" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="96" >
     </E>
     <E key="NULL | $damage_electricity" value="116" >
     </E>
-    <E key="NULL | $damage_explosion" value="247" >
+    <E key="NULL | $damage_explosion" value="255" >
     </E>
     <E key="NULL | $damage_fire" value="3" >
     </E>
@@ -100,7 +100,7 @@
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
-    <E key="player | $damage_drill" value="1" >
+    <E key="player | $damage_drill" value="13" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
@@ -112,7 +112,7 @@
     </E>
     <E key="player | $damage_melee" value="18" >
     </E>
-    <E key="player | $damage_projectile" value="502" >
+    <E key="player | $damage_projectile" value="510" >
     </E>
     <E key="player | $damage_rock_curse" value="130" >
     </E>
@@ -121,6 +121,12 @@
     <E key="player | bzzt!" value="4" >
     </E>
     <E key="player | chop!" value="39" >
+    </E>
+    <E key="player_rng_items | $damage_drill" value="18" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="6" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="1" >
     </E>
     <E key="roboguard | $damage_explosion" value="1" >
     </E>
@@ -226,7 +232,7 @@
     </E>
     <E key="sporeling_tiny" value="2" >
     </E>
-    <E key="zombie" value="4" >
+    <E key="zombie" value="6" >
     </E>
   </kill_map>
 </Stats>

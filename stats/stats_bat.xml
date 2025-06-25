@@ -1,4 +1,4 @@
-<Stats deaths="631" kills="42" player_kills="1" player_projectile_count="0" >
+<Stats deaths="697" kills="54" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="21" >
     </E>
-    <E key="NULL | $damage_fire" value="60" >
+    <E key="NULL | $damage_fire" value="72" >
     </E>
-    <E key="NULL | $damage_physicshit" value="22" >
+    <E key="NULL | $damage_physicshit" value="24" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="3" >
+    <E key="NULL | damage from material: acid" value="4" >
     </E>
     <E key="NULL | damage from material: lava" value="20" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
-    <E key="player | $damage_drill" value="2" >
+    <E key="player | $damage_drill" value="6" >
     </E>
     <E key="player | $damage_explosion" value="23" >
     </E>
@@ -62,11 +62,17 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="193" >
+    <E key="player | $damage_projectile" value="195" >
     </E>
-    <E key="player | $damage_slice" value="23" >
+    <E key="player | $damage_slice" value="40" >
     </E>
     <E key="player | chop!" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_drill" value="3" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="20" >
+    </E>
+    <E key="player_rng_items | $damage_slice" value="3" >
     </E>
     <E key="rat | $damage_melee" value="5" >
     </E>
@@ -74,7 +80,7 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner | $damage_melee" value="1" >
+    <E key="shotgunner | $damage_melee" value="2" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>
@@ -90,7 +96,7 @@
     </E>
     <E key="crawler" value="1" >
     </E>
-    <E key="firebug" value="10" >
+    <E key="firebug" value="14" >
     </E>
     <E key="forsaken_eye" value="1" >
     </E>
@@ -98,11 +104,11 @@
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="18" >
+    <E key="rat" value="25" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
-    <E key="shotgunner" value="1" >
+    <E key="shotgunner" value="2" >
     </E>
     <E key="zombie" value="3" >
     </E>

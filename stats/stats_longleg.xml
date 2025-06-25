@@ -1,20 +1,20 @@
-<Stats deaths="1809" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1851" kills="32" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="66" >
+    <E key="NULL | $damage_drowning" value="67" >
     </E>
     <E key="NULL | $damage_electricity" value="15" >
     </E>
-    <E key="NULL | $damage_explosion" value="99" >
+    <E key="NULL | $damage_explosion" value="102" >
     </E>
-    <E key="NULL | $damage_fire" value="208" >
+    <E key="NULL | $damage_fire" value="214" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="69" >
+    <E key="NULL | $damage_physicshit" value="73" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="7" >
+    <E key="NULL | damage from material: toxic rock" value="8" >
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
@@ -102,7 +102,7 @@
     </E>
     <E key="mimic_physics | $damage_projectile" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="miner_weak | $damage_explosion" value="8" >
     </E>
     <E key="miner_weak | $damage_melee" value="8" >
     </E>
@@ -126,11 +126,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="808" >
+    <E key="player | $damage_projectile" value="810" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="29" >
+    <E key="player | $damage_slice" value="36" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="3" >
     </E>
@@ -140,7 +140,7 @@
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="10" >
+    <E key="player_rng_items | $damage_projectile" value="22" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
     </E>
@@ -152,7 +152,9 @@
     </E>
     <E key="seeker | Etsijä's shock" value="5" >
     </E>
-    <E key="shotgunner_weak | $damage_melee" value="5" >
+    <E key="shaman | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="7" >
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="11" >
     </E>
@@ -210,7 +212,7 @@
     </E>
     <E key="zombie_water" value="1" >
     </E>
-    <E key="zombie_weak" value="11" >
+    <E key="zombie_weak" value="12" >
     </E>
   </kill_map>
 </Stats>
