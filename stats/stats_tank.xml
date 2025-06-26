@@ -1,4 +1,4 @@
-<Stats deaths="189" kills="60" player_kills="0" player_projectile_count="0" >
+<Stats deaths="197" kills="64" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -44,7 +44,7 @@
     </E>
     <E key="player_rng_items | $damage_drill" value="4" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="1" >
+    <E key="player_rng_items | $damage_projectile" value="9" >
     </E>
     <E key="seeker | Etsijä's shock" value="1" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="24" >
+    <E key="rat" value="28" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>

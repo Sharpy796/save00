@@ -1,26 +1,26 @@
-<Stats deaths="1494" kills="191" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1586" kills="200" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="27" >
+    <E key="NULL | $damage_drowning" value="34" >
     </E>
     <E key="NULL | $damage_electricity" value="77" >
     </E>
-    <E key="NULL | $damage_explosion" value="141" >
+    <E key="NULL | $damage_explosion" value="143" >
     </E>
-    <E key="NULL | $damage_fire" value="38" >
+    <E key="NULL | $damage_fire" value="39" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="74" >
+    <E key="NULL | $damage_physicshit" value="75" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="30" >
+    <E key="NULL | $damage_radioactive" value="34" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="13" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="38" >
+    <E key="NULL | damage from material: freezing vapour" value="42" >
     </E>
     <E key="NULL | damage from material: toxic ice" value="1" >
     </E>
@@ -72,6 +72,8 @@
     </E>
     <E key="drill_giant | $damage_explosion" value="1" >
     </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
     <E key="drone_mini | $damage_projectile" value="1" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_electricity" value="1" >
@@ -100,7 +102,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="3" >
     </E>
-    <E key="iceskull | $damage_ice" value="4" >
+    <E key="iceskull | $damage_ice" value="6" >
     </E>
     <E key="iceskull | $damage_projectile" value="2" >
     </E>
@@ -156,7 +158,7 @@
     </E>
     <E key="player_rng_items | $damage_explosion" value="4" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="8" >
+    <E key="player_rng_items | $damage_projectile" value="74" >
     </E>
     <E key="pollen_bloom | $damage_projectile" value="1" >
     </E>
@@ -218,11 +220,11 @@
     </E>
     <E key="worm | worm bite" value="8" >
     </E>
-    <E key="worm_big | worm bite" value="10" >
+    <E key="worm_big | worm bite" value="11" >
     </E>
     <E key="worm_robot | worm bite" value="1" >
     </E>
-    <E key="worm_tiny | worm bite" value="3" >
+    <E key="worm_tiny | worm bite" value="5" >
     </E>
     <E key="worm_wall | worm bite" value="5" >
     </E>
@@ -260,7 +262,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="125" >
+    <E key="rat" value="134" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

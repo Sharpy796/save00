@@ -1,10 +1,10 @@
-<Stats deaths="157" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="163" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="15" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="3" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="6" >
+    <E key="NULL | damage from material: toxic rock" value="7" >
     </E>
     <E key="assassin | $damage_projectile" value="1" >
     </E>
@@ -60,6 +60,8 @@
     </E>
     <E key="player_rng_items | $damage_drill" value="1" >
     </E>
+    <E key="player_rng_items | $damage_explosion" value="3" >
+    </E>
     <E key="player_rng_items | $damage_projectile" value="2" >
     </E>
     <E key="rat | $damage_melee" value="1" >
@@ -78,7 +80,7 @@
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="1" >
     </E>
-    <E key="tentacler | $damage_melee" value="2" >
+    <E key="tentacler | $damage_melee" value="3" >
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>
@@ -102,7 +104,7 @@
     </E>
     <E key="longleg" value="1" >
     </E>
-    <E key="rat" value="18" >
+    <E key="rat" value="19" >
     </E>
     <E key="scorpion" value="7" >
     </E>

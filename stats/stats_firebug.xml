@@ -1,4 +1,4 @@
-<Stats deaths="840" kills="66" player_kills="0" player_projectile_count="0" >
+<Stats deaths="866" kills="67" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_explosion" value="87" >
     </E>
     <E key="NULL | $damage_physicshit" value="27" >
     </E>
@@ -20,7 +20,9 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
-    <E key="NULL | damage from material: Water" value="32" >
+    <E key="NULL | damage from material: Water" value="34" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
     </E>
     <E key="axeman | $damage_melee" value="3" >
     </E>
@@ -74,7 +76,11 @@
     </E>
     <E key="player | chop!" value="13" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="12" >
+    <E key="player_rng_items | $damage_explosion" value="7" >
+    </E>
+    <E key="player_rng_items | $damage_fire" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="18" >
     </E>
     <E key="player_rng_items | $damage_slice" value="2" >
     </E>
@@ -94,6 +100,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
     <E key="archer" value="1" >
     </E>
     <E key="bat" value="3" >

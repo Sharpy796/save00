@@ -1,18 +1,20 @@
-<Stats deaths="116" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="121" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="19" >
     </E>
-    <E key="NULL | $damage_explosion" value="43" >
+    <E key="NULL | $damage_explosion" value="45" >
     </E>
     <E key="NULL | $damage_physicshit" value="6" >
     </E>
-    <E key="NULL | physics body damaged" value="26" >
+    <E key="NULL | physics body damaged" value="28" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="4" >
     </E>
@@ -22,7 +24,7 @@
   <kill_map>
     <E key="miniblob" value="1" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="5" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

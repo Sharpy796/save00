@@ -1,4 +1,4 @@
-<Stats deaths="336" kills="231" player_kills="0" player_projectile_count="0" >
+<Stats deaths="353" kills="239" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -12,9 +12,9 @@
     </E>
     <E key="NULL | $damage_fire" value="15" >
     </E>
-    <E key="NULL | $damage_physicshit" value="28" >
+    <E key="NULL | $damage_physicshit" value="29" >
     </E>
-    <E key="NULL | $damage_radioactive" value="20" >
+    <E key="NULL | $damage_radioactive" value="21" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="5" >
+    <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
@@ -76,7 +76,7 @@
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="1" >
+    <E key="player_rng_items | $damage_projectile" value="15" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="13" >
+    <E key="iceskull" value="15" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="109" >
+    <E key="rat" value="114" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>
@@ -128,7 +128,7 @@
     </E>
     <E key="shotgunner" value="7" >
     </E>
-    <E key="slimeshooter" value="16" >
+    <E key="slimeshooter" value="17" >
     </E>
     <E key="sniper" value="4" >
     </E>

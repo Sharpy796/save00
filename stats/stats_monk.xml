@@ -1,4 +1,4 @@
-<Stats deaths="65" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="72" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -32,6 +32,8 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="player_rng_items | $damage_projectile" value="7" >
+    </E>
   </death_map>
   <kill_map>
     <E key="electrolukki" value="1" >
@@ -43,6 +45,8 @@
     <E key="rat" value="13" >
     </E>
     <E key="scorpion" value="2" >
+    </E>
+    <E key="shotgunner" value="1" >
     </E>
     <E key="thunderskull" value="2" >
     </E>

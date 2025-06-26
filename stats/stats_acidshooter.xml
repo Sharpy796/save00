@@ -1,10 +1,10 @@
-<Stats deaths="282" kills="23" player_kills="0" player_projectile_count="0" >
+<Stats deaths="298" kills="24" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="25" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
     <E key="NULL | $damage_fire" value="14" >
     </E>
@@ -31,6 +31,8 @@
     <E key="crystal_physics | $damage_projectile" value="1" >
     </E>
     <E key="drone_face2 | $damage_slice" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
     </E>
     <E key="fly | $damage_melee" value="2" >
     </E>
@@ -66,6 +68,10 @@
     </E>
     <E key="player | chop!" value="5" >
     </E>
+    <E key="player_rng_items | $damage_explosion" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="12" >
+    </E>
     <E key="rat | $damage_melee" value="1" >
     </E>
     <E key="scavenger_laser | $damage_projectile" value="1" >
@@ -96,7 +102,7 @@
     </E>
     <E key="peasant" value="1" >
     </E>
-    <E key="rat" value="5" >
+    <E key="rat" value="6" >
     </E>
     <E key="scorpion" value="8" >
     </E>

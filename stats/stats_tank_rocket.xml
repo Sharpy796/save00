@@ -1,4 +1,4 @@
-<Stats deaths="68" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="72" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
@@ -34,6 +34,8 @@
     </E>
     <E key="player_rng_items | $damage_drill" value="1" >
     </E>
+    <E key="player_rng_items | $damage_projectile" value="4" >
+    </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
     <E key="tank_rocket | $damage_explosion" value="2" >
@@ -50,7 +52,7 @@
     </E>
     <E key="locust_swarm" value="1" >
     </E>
-    <E key="rat" value="3" >
+    <E key="rat" value="4" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

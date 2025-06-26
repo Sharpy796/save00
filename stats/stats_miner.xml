@@ -1,20 +1,20 @@
-<Stats deaths="419" kills="86" player_kills="0" player_projectile_count="0" >
+<Stats deaths="451" kills="91" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
-    <E key="NULL | $damage_drowning" value="30" >
+    <E key="NULL | $damage_drowning" value="32" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="23" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
-    <E key="NULL | $damage_fire" value="47" >
+    <E key="NULL | $damage_fire" value="52" >
     </E>
-    <E key="NULL | $damage_physicshit" value="39" >
+    <E key="NULL | $damage_physicshit" value="40" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="34" >
+    <E key="NULL | $damage_radioactive" value="39" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -76,7 +76,9 @@
     </E>
     <E key="player_rng_items | $damage_drill" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="6" >
+    <E key="player_rng_items | $damage_fire" value="2" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="19" >
     </E>
     <E key="player_rng_items | $damage_slice" value="3" >
     </E>
@@ -104,7 +106,7 @@
     </E>
     <E key="poring" value="1" >
     </E>
-    <E key="rat" value="35" >
+    <E key="rat" value="40" >
     </E>
     <E key="root_grower" value="1" >
     </E>

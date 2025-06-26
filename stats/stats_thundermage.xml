@@ -1,4 +1,4 @@
-<Stats deaths="136" kills="89" player_kills="0" player_projectile_count="0" >
+<Stats deaths="138" kills="90" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="10" >
     </E>
@@ -34,11 +34,15 @@
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
     <E key="sniper | $damage_projectile" value="1" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_explosion" value="3" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
@@ -72,7 +76,7 @@
     </E>
     <E key="scavenger_grenade" value="4" >
     </E>
-    <E key="scavenger_smg" value="7" >
+    <E key="scavenger_smg" value="8" >
     </E>
     <E key="scorpion" value="9" >
     </E>
