@@ -133,9 +133,11 @@
   </Mod>
   <Mod enabled="0" name="enemywithperk" settings_fold_open="0" workshop_item_id="3048840527" >
   </Mod>
-  <Mod enabled="1" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
+  </Mod>
+  <Mod enabled="1" name="GlimmersExpanded" settings_fold_open="1" workshop_item_id="0" >
   </Mod>
   <Mod enabled="1" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
@@ -161,6 +163,6 @@
   </Mod>
   <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
+  <Mod enabled="0" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
   </Mod>
 </Mods>
