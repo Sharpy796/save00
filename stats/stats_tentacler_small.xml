@@ -1,14 +1,16 @@
-<Stats deaths="163" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="193" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_drowning" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="15" >
+    <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_fire" value="8" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -18,15 +20,19 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="3" >
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="7" >
     </E>
     <E key="assassin | $damage_projectile" value="1" >
     </E>
     <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="firemage | $damage_explosion" value="1" >
     </E>
@@ -35,6 +41,8 @@
     <E key="iceskull | $damage_ice" value="1" >
     </E>
     <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
     </E>
     <E key="orb_laseremitter_runestone | $damage_plasmabeam" value="1" >
     </E>
@@ -50,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="41" >
+    <E key="player | $damage_projectile" value="51" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -64,15 +72,15 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="2" >
     </E>
-    <E key="rat | $damage_melee" value="1" >
+    <E key="rat | $damage_melee" value="2" >
     </E>
     <E key="scavenger_glue | $damage_melee" value="1" >
     </E>
     <E key="scavenger_laser | $damage_projectile" value="1" >
     </E>
-    <E key="skullfly | $damage_fire" value="1" >
+    <E key="skullfly | $damage_fire" value="2" >
     </E>
-    <E key="skullrat | $damage_melee" value="1" >
+    <E key="skullrat | $damage_melee" value="2" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
     </E>
@@ -106,11 +114,11 @@
     </E>
     <E key="rat" value="19" >
     </E>
-    <E key="scorpion" value="7" >
+    <E key="scorpion" value="10" >
     </E>
     <E key="skullfly" value="1" >
     </E>
-    <E key="skullrat" value="1" >
+    <E key="skullrat" value="2" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

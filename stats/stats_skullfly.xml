@@ -1,4 +1,4 @@
-<Stats deaths="46" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="53" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="17" >
+    <E key="player | $damage_projectile" value="24" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -70,9 +70,9 @@
     </E>
     <E key="skeleton" value="3" >
     </E>
-    <E key="tentacler" value="2" >
+    <E key="tentacler" value="3" >
     </E>
-    <E key="tentacler_small" value="1" >
+    <E key="tentacler_small" value="2" >
     </E>
     <E key="wizard_hearty" value="1" >
     </E>

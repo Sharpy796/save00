@@ -1,4 +1,4 @@
-<Stats deaths="215" kills="67" player_kills="0" player_projectile_count="0" >
+<Stats deaths="222" kills="70" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -18,9 +18,9 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="11" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="2" >
     </E>
-    <E key="NULL | damage from material: lava" value="28" >
+    <E key="NULL | damage from material: lava" value="29" >
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="lukki_tentacle_hungry | $damage_projectile" value="4" >
     </E>
-    <E key="monk | $damage_projectile" value="2" >
+    <E key="monk | $damage_projectile" value="4" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="55" >
+    <E key="player | $damage_projectile" value="57" >
     </E>
     <E key="player | $damage_rock_curse" value="12" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="1" >
+    <E key="sniper | $damage_projectile" value="2" >
     </E>
     <E key="spitmonster | $damage_projectile" value="2" >
     </E>
@@ -112,13 +112,13 @@
     </E>
     <E key="physics_ragdoll_ai_flopper" value="1" >
     </E>
-    <E key="rat" value="39" >
+    <E key="rat" value="40" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="scorpion" value="9" >
+    <E key="scorpion" value="11" >
     </E>
     <E key="seeker" value="1" >
     </E>

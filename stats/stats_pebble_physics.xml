@@ -1,4 +1,4 @@
-<Stats deaths="593" kills="315" player_kills="0" player_projectile_count="0" >
+<Stats deaths="622" kills="331" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="5" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="11" >
     </E>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="8" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="62" >
+    <E key="NULL | damage from material: freezing vapour" value="66" >
     </E>
     <E key="NULL | physics body damaged" value="3" >
     </E>
@@ -32,13 +32,13 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="pebble_physics | $damage_explosion" value="314" >
+    <E key="pebble_physics | $damage_explosion" value="330" >
     </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="65" >
+    <E key="player | $damage_projectile" value="71" >
     </E>
     <E key="player | $damage_rock_curse" value="21" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="1" >
+    <E key="sniper | $damage_projectile" value="2" >
     </E>
     <E key="valkyrie | $damage_explosion" value="4" >
     </E>
@@ -72,7 +72,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="pebble_physics" value="314" >
+    <E key="pebble_physics" value="330" >
     </E>
     <E key="physics_torch_stand" value="1" >
     </E>

@@ -1,20 +1,22 @@
-<Stats deaths="748" kills="214" player_kills="3" player_projectile_count="0" >
+<Stats deaths="822" kills="231" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="17" >
+    <E key="NULL | $damage_drowning" value="22" >
     </E>
-    <E key="NULL | $damage_electricity" value="11" >
+    <E key="NULL | $damage_electricity" value="13" >
     </E>
-    <E key="NULL | $damage_explosion" value="70" >
+    <E key="NULL | $damage_explosion" value="87" >
     </E>
     <E key="NULL | $damage_fire" value="40" >
     </E>
-    <E key="NULL | $damage_physicshit" value="55" >
+    <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="52" >
+    <E key="NULL | $damage_physicshit" value="63" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="58" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -40,9 +42,9 @@
     </E>
     <E key="bat | $damage_melee" value="2" >
     </E>
-    <E key="bigbat | $damage_melee" value="1" >
+    <E key="bigbat | $damage_melee" value="2" >
     </E>
-    <E key="bigfirebug | $damage_fire" value="3" >
+    <E key="bigfirebug | $damage_fire" value="4" >
     </E>
     <E key="chest_great_mimic | $damage_melee" value="1" >
     </E>
@@ -58,9 +60,9 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="12" >
+    <E key="iceskull | $damage_explosion" value="14" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="5" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
@@ -70,13 +72,15 @@
     </E>
     <E key="orb_green | $damage_projectile" value="2" >
     </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
     <E key="player | " value="5" >
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="39" >
+    <E key="player | $damage_explosion" value="40" >
     </E>
     <E key="player | $damage_fire" value="9" >
     </E>
@@ -84,11 +88,11 @@
     </E>
     <E key="player | $damage_melee" value="14" >
     </E>
-    <E key="player | $damage_projectile" value="178" >
+    <E key="player | $damage_projectile" value="198" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
-    <E key="player | $damage_slice" value="52" >
+    <E key="player | $damage_slice" value="53" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="7" >
     </E>
@@ -120,7 +124,9 @@
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="7" >
+    <E key="sniper | $damage_projectile" value="9" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>
@@ -130,7 +136,7 @@
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
-    <E key="worm_tiny | worm bite" value="6" >
+    <E key="worm_tiny | worm bite" value="8" >
     </E>
   </death_map>
   <kill_map>
@@ -150,7 +156,7 @@
     </E>
     <E key="glitter_bomb" value="1" >
     </E>
-    <E key="iceskull" value="11" >
+    <E key="iceskull" value="12" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="1" >
     </E>
@@ -160,7 +166,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="140" >
+    <E key="rat" value="156" >
     </E>
     <E key="scorpion" value="1" >
     </E>

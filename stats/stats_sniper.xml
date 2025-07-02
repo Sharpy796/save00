@@ -1,20 +1,22 @@
-<Stats deaths="353" kills="239" player_kills="0" player_projectile_count="0" >
+<Stats deaths="414" kills="290" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="4" >
     </E>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_electricity" value="9" >
+    <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="42" >
+    <E key="NULL | $damage_explosion" value="53" >
     </E>
-    <E key="NULL | $damage_fire" value="15" >
+    <E key="NULL | $damage_fire" value="17" >
     </E>
-    <E key="NULL | $damage_physicshit" value="29" >
+    <E key="NULL | $damage_physicshit" value="34" >
     </E>
-    <E key="NULL | $damage_radioactive" value="21" >
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="26" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -22,7 +24,7 @@
     </E>
     <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="3" >
+    <E key="NULL | damage from material: acid" value="8" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
@@ -60,7 +62,7 @@
     </E>
     <E key="player | $damage_electricity" value="6" >
     </E>
-    <E key="player | $damage_explosion" value="17" >
+    <E key="player | $damage_explosion" value="18" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
@@ -68,11 +70,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="88" >
+    <E key="player | $damage_projectile" value="113" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="16" >
+    <E key="player | $damage_slice" value="17" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -90,45 +92,51 @@
     </E>
     <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="3" >
+    <E key="worm_big | worm bite" value="4" >
     </E>
     <E key="worm_tiny | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
     <E key="bubble_liquid" value="4" >
     </E>
     <E key="chest_mimic" value="1" >
     </E>
     <E key="drone_face" value="1" >
     </E>
-    <E key="drone_lasership" value="2" >
+    <E key="drone_lasership" value="4" >
     </E>
     <E key="fish" value="11" >
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="15" >
+    <E key="iceskull" value="21" >
+    </E>
+    <E key="lasershooter" value="1" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
-    <E key="miniblob" value="7" >
+    <E key="miner" value="1" >
     </E>
-    <E key="pebble_physics" value="1" >
+    <E key="miniblob" value="17" >
+    </E>
+    <E key="pebble_physics" value="2" >
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="114" >
+    <E key="rat" value="132" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>
     <E key="scavenger_grenade" value="6" >
     </E>
-    <E key="scavenger_smg" value="5" >
+    <E key="scavenger_smg" value="6" >
     </E>
-    <E key="shotgunner" value="7" >
+    <E key="shotgunner" value="9" >
     </E>
-    <E key="slimeshooter" value="17" >
+    <E key="slimeshooter" value="23" >
     </E>
     <E key="sniper" value="4" >
     </E>
@@ -136,7 +144,7 @@
     </E>
     <E key="thundermage" value="1" >
     </E>
-    <E key="thunderskull" value="1" >
+    <E key="thunderskull" value="2" >
     </E>
     <E key="zombie" value="1" >
     </E>

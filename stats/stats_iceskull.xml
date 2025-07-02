@@ -1,4 +1,4 @@
-<Stats deaths="456" kills="392" player_kills="0" player_projectile_count="0" >
+<Stats deaths="485" kills="437" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="42" >
+    <E key="NULL | $damage_explosion" value="44" >
     </E>
-    <E key="NULL | $damage_physicshit" value="11" >
+    <E key="NULL | $damage_physicshit" value="16" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="icemage_big | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="67" >
+    <E key="iceskull | $damage_explosion" value="68" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="102" >
+    <E key="player | $damage_projectile" value="114" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
@@ -78,17 +78,17 @@
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_smg | $damage_explosion" value="2" >
+    <E key="scavenger_smg | $damage_explosion" value="3" >
     </E>
-    <E key="scavenger_smg | $damage_melee" value="1" >
+    <E key="scavenger_smg | $damage_melee" value="2" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="7" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="11" >
+    <E key="shotgunner | $damage_projectile" value="12" >
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="13" >
+    <E key="sniper | $damage_projectile" value="19" >
     </E>
     <E key="tank | $damage_projectile" value="10" >
     </E>
@@ -122,11 +122,13 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="glue" value="7" >
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="glue" value="10" >
     </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
-    <E key="iceskull" value="67" >
+    <E key="iceskull" value="68" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -142,23 +144,23 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="114" >
+    <E key="rat" value="140" >
     </E>
-    <E key="scavenger_glue" value="5" >
+    <E key="scavenger_glue" value="6" >
     </E>
-    <E key="scavenger_grenade" value="11" >
+    <E key="scavenger_grenade" value="12" >
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
     <E key="scavenger_mine" value="1" >
     </E>
-    <E key="scavenger_smg" value="13" >
+    <E key="scavenger_smg" value="18" >
     </E>
-    <E key="shotgunner" value="14" >
+    <E key="shotgunner" value="19" >
     </E>
     <E key="skycrystal_physics" value="4" >
     </E>
-    <E key="slimeshooter" value="5" >
+    <E key="slimeshooter" value="7" >
     </E>
     <E key="sniper" value="4" >
     </E>

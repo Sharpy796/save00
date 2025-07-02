@@ -1,12 +1,12 @@
-<Stats deaths="92" kills="39" player_kills="0" player_projectile_count="0" >
+<Stats deaths="106" kills="41" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="5" >
     </E>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="13" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="3" >
+    <E key="NULL | damage from material: acid" value="6" >
     </E>
     <E key="blindgazer | $damage_projectile" value="1" >
     </E>
@@ -28,13 +28,15 @@
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
     <E key="missilecrab | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="25" >
+    <E key="player | $damage_projectile" value="31" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -45,6 +47,8 @@
     <E key="scavenger_glue | $damage_melee" value="1" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_mine | $damage_melee" value="1" >
     </E>
@@ -58,13 +62,15 @@
   <kill_map>
     <E key="acidshot" value="1" >
     </E>
+    <E key="blob" value="1" >
+    </E>
     <E key="blob_mini" value="2" >
     </E>
     <E key="drone_mini" value="1" >
     </E>
     <E key="glue" value="12" >
     </E>
-    <E key="miniblob" value="1" >
+    <E key="miniblob" value="2" >
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>

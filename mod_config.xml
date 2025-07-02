@@ -105,7 +105,7 @@
   </Mod>
   <Mod enabled="0" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
   </Mod>
-  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
+  <Mod enabled="1" name="MusicIntensityController" settings_fold_open="1" workshop_item_id="3436708696" >
   </Mod>
   <Mod enabled="0" name="noita-emotes" settings_fold_open="0" workshop_item_id="2980713406" >
   </Mod>
@@ -162,5 +162,7 @@
   <Mod enabled="0" name="NightmarePerks" settings_fold_open="0" workshop_item_id="3114720130" >
   </Mod>
   <Mod enabled="0" name="enemywithperk" settings_fold_open="0" workshop_item_id="3048840527" >
+  </Mod>
+  <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>

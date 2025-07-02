@@ -1,10 +1,10 @@
-<Stats deaths="70" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="80" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="2" >
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="23" >
+    <E key="player | $damage_projectile" value="29" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -40,7 +40,7 @@
   <kill_map>
     <E key="glue" value="2" >
     </E>
-    <E key="miniblob" value="5" >
+    <E key="miniblob" value="6" >
     </E>
     <E key="potion" value="1" >
     </E>

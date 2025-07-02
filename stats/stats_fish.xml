@@ -1,12 +1,12 @@
-<Stats deaths="1136" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1202" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="58" >
+    <E key="NULL | $damage_electricity" value="72" >
     </E>
     <E key="NULL | $damage_explosion" value="56" >
     </E>
-    <E key="NULL | $damage_fall" value="8" >
+    <E key="NULL | $damage_fall" value="12" >
     </E>
     <E key="NULL | $damage_fire" value="11" >
     </E>
@@ -70,13 +70,13 @@
     </E>
     <E key="player | $damage_ice" value="3" >
     </E>
-    <E key="player | $damage_kick" value="1" >
+    <E key="player | $damage_kick" value="2" >
     </E>
     <E key="player | $damage_melee" value="11" >
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="180" >
+    <E key="player | $damage_projectile" value="196" >
     </E>
     <E key="player | $damage_slice" value="14" >
     </E>
@@ -108,7 +108,13 @@
     </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="294" >
+    <E key="tank_rocket | $damage_explosion" value="10" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="4" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="2" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="309" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

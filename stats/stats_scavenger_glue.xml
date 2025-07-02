@@ -1,16 +1,16 @@
-<Stats deaths="164" kills="33" player_kills="1" player_projectile_count="0" >
+<Stats deaths="188" kills="40" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="2" >
     </E>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="13" >
+    <E key="NULL | $damage_explosion" value="18" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="23" >
     </E>
-    <E key="NULL | $damage_physicshit" value="12" >
+    <E key="NULL | $damage_physicshit" value="13" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="8" >
     </E>
@@ -22,9 +22,11 @@
     </E>
     <E key="NULL | damage from material: (new_enemies) liquid nitrogen" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="6" >
+    <E key="NULL | damage from material: acid" value="7" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="2" >
+    <E key="NULL | damage from material: freezing liquid" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
     <E key="basebot_sentry | $damage_projectile" value="1" >
     </E>
@@ -40,7 +42,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -56,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="35" >
+    <E key="player | $damage_projectile" value="42" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -78,7 +80,7 @@
     </E>
     <E key="worm | worm bite" value="2" >
     </E>
-    <E key="worm_big | worm bite" value="1" >
+    <E key="worm_big | worm bite" value="3" >
     </E>
     <E key="worm_mechanical | worm bite" value="1" >
     </E>
@@ -96,11 +98,13 @@
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="15" >
+    <E key="rat" value="21" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>
     <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="worm_tiny" value="1" >
     </E>
   </kill_map>
 </Stats>

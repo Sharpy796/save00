@@ -1,12 +1,12 @@
-<Stats deaths="310" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="386" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="27" >
+    <E key="NULL | $damage_explosion" value="44" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_physicshit" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="9" >
     </E>
@@ -52,15 +52,19 @@
     </E>
     <E key="player | $damage_melee" value="21" >
     </E>
-    <E key="player | $damage_projectile" value="97" >
+    <E key="player | $damage_projectile" value="142" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
-    <E key="player | $damage_slice" value="31" >
+    <E key="player | $damage_slice" value="32" >
     </E>
     <E key="player | chop!" value="6" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="7" >
+    <E key="scavenger_clusterbomb | $damage_explosion" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_melee" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="10" >
     </E>
     <E key="slicing_blade | chop!" value="15" >
     </E>
@@ -85,6 +89,8 @@
     <E key="fly" value="1" >
     </E>
     <E key="frog" value="2" >
+    </E>
+    <E key="lukki_longleg" value="1" >
     </E>
     <E key="miniblob" value="5" >
     </E>

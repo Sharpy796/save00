@@ -1,4 +1,4 @@
-<Stats deaths="130" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="147" kills="51" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="17" >
     </E>
-    <E key="NULL | $damage_fire" value="3" >
+    <E key="NULL | $damage_fire" value="4" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="59" >
+    <E key="player | $damage_projectile" value="73" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="skullfly | $damage_fire" value="1" >
     </E>
-    <E key="skullfly | $damage_projectile" value="1" >
+    <E key="skullfly | $damage_projectile" value="2" >
     </E>
     <E key="sunegg | $damage_sun" value="2" >
     </E>
@@ -68,11 +68,11 @@
     </E>
     <E key="pollen" value="14" >
     </E>
-    <E key="rat" value="10" >
+    <E key="rat" value="11" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scorpion" value="13" >
+    <E key="scorpion" value="14" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

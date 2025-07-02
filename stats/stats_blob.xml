@@ -1,4 +1,4 @@
-<Stats deaths="1134" kills="109" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1225" kills="125" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,23 +6,25 @@
     </E>
     <E key="NULL | $damage_electricity" value="76" >
     </E>
-    <E key="NULL | $damage_explosion" value="172" >
+    <E key="NULL | $damage_explosion" value="228" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
     <E key="NULL | $damage_holy" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="44" >
+    <E key="NULL | $damage_physicshit" value="50" >
     </E>
     <E key="NULL | $damage_projectile" value="8" >
     </E>
     <E key="NULL | $perkname_graham_zaptap" value="1" >
     </E>
-    <E key="ant | $damage_melee" value="1" >
+    <E key="ant | $damage_melee" value="3" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="1" >
     </E>
     <E key="blob | $damage_explosion" value="8" >
     </E>
-    <E key="blob | $damage_melee" value="4" >
+    <E key="blob | $damage_melee" value="5" >
     </E>
     <E key="blob_big | $damage_melee" value="1" >
     </E>
@@ -42,6 +44,8 @@
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
+    <E key="physics_die | $damage_electricity" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_drill" value="9" >
@@ -56,7 +60,7 @@
     </E>
     <E key="player | $damage_melee" value="32" >
     </E>
-    <E key="player | $damage_projectile" value="333" >
+    <E key="player | $damage_projectile" value="356" >
     </E>
     <E key="player | $damage_rock_curse" value="102" >
     </E>
@@ -69,6 +73,8 @@
     <E key="player_rng_items | $damage_drill" value="2" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="3" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
@@ -102,7 +108,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="blob" value="12" >
+    <E key="blob" value="13" >
     </E>
     <E key="blob_mini" value="1" >
     </E>
@@ -110,15 +116,15 @@
     </E>
     <E key="fish" value="2" >
     </E>
-    <E key="fungus_tiny" value="7" >
+    <E key="fungus_tiny" value="8" >
     </E>
     <E key="longleg" value="6" >
     </E>
-    <E key="miniblob" value="17" >
+    <E key="miniblob" value="22" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>
-    <E key="rat" value="34" >
+    <E key="rat" value="37" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -126,7 +132,7 @@
     </E>
     <E key="scorpion_watchtower" value="1" >
     </E>
-    <E key="sheep" value="4" >
+    <E key="sheep" value="6" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>
@@ -134,7 +140,9 @@
     </E>
     <E key="wizard_dark" value="3" >
     </E>
-    <E key="zombie" value="10" >
+    <E key="wizard_swapper" value="2" >
+    </E>
+    <E key="zombie" value="12" >
     </E>
   </kill_map>
 </Stats>
