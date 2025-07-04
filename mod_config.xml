@@ -131,4 +131,42 @@
   </Mod>
   <Mod enabled="0" name="deep_end" settings_fold_open="0" workshop_item_id="3356681136" >
   </Mod>
+  <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="NoitaDearImGuiExampleMod" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="NoitaDearImGuiExampleNative" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="quant.ew" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="twitch-helper" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="twitch-integration" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
+  </Mod>
+  <Mod enabled="0" name="NightmarePerks" settings_fold_open="0" workshop_item_id="3114720130" >
+  </Mod>
+  <Mod enabled="0" name="enemywithperk" settings_fold_open="0" workshop_item_id="3048840527" >
+  </Mod>
+  <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="3502041976" >
+  </Mod>
+  <Mod enabled="0" name="progress_reminder" settings_fold_open="0" workshop_item_id="2843578487" >
+  </Mod>
+  <Mod enabled="0" name="copi.RocketPropelledProjectiles" settings_fold_open="0" workshop_item_id="3038735357" >
+  </Mod>
+  <Mod enabled="0" name="cards" settings_fold_open="0" workshop_item_id="3426908771" >
+  </Mod>
+  <Mod enabled="0" name="conga_fast_enemies" settings_fold_open="0" workshop_item_id="3486156581" >
+  </Mod>
+  <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
+  </Mod>
+  <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
+  </Mod>
 </Mods>

@@ -1,4 +1,4 @@
-<Stats deaths="727" kills="64" player_kills="0" player_projectile_count="0" >
+<Stats deaths="745" kills="64" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="62" >
+    <E key="NULL | $damage_explosion" value="67" >
     </E>
     <E key="NULL | $damage_physicshit" value="17" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="4" >
     </E>
-    <E key="NULL | damage from material: Water" value="47" >
+    <E key="NULL | damage from material: Water" value="57" >
     </E>
     <E key="bat | $damage_melee" value="12" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="player | $damage_electricity" value="24" >
     </E>
-    <E key="player | $damage_explosion" value="22" >
+    <E key="player | $damage_explosion" value="24" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="player_rng_items | $damage_slice" value="7" >
     </E>
-    <E key="rat | $damage_melee" value="8" >
+    <E key="rat | $damage_melee" value="9" >
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
