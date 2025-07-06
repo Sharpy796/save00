@@ -1,4 +1,4 @@
-<Stats deaths="297" kills="282" player_kills="0" player_projectile_count="0" >
+<Stats deaths="299" kills="286" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="15" >
+    <E key="NULL | $damage_radioactive" value="17" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="138" >
+    <E key="rat" value="141" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="shotgunner" value="9" >
     </E>
-    <E key="slimeshooter" value="24" >
+    <E key="slimeshooter" value="25" >
     </E>
     <E key="sniper" value="4" >
     </E>

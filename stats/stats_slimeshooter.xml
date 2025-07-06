@@ -1,4 +1,4 @@
-<Stats deaths="340" kills="125" player_kills="1" player_projectile_count="0" >
+<Stats deaths="345" kills="125" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -21,6 +21,8 @@
     <E key="NULL | damage from material: lava" value="2" >
     </E>
     <E key="bigfirebug | $damage_fire" value="2" >
+    </E>
+    <E key="bigfirebug | $damage_melee" value="1" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
@@ -52,7 +54,7 @@
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="82" >
+    <E key="player | $damage_projectile" value="83" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -60,7 +62,7 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="14" >
     </E>
-    <E key="rat | $damage_melee" value="4" >
+    <E key="rat | $damage_melee" value="5" >
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
@@ -74,7 +76,9 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="24" >
+    <E key="sniper | $damage_projectile" value="25" >
+    </E>
+    <E key="tank | $damage_explosion" value="1" >
     </E>
     <E key="tank | $damage_projectile" value="2" >
     </E>

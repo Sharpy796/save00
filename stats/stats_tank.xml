@@ -1,4 +1,4 @@
-<Stats deaths="135" kills="57" player_kills="1" player_projectile_count="0" >
+<Stats deaths="135" kills="59" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -56,11 +56,11 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="28" >
+    <E key="rat" value="29" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="thunderskull" value="3" >
     </E>
