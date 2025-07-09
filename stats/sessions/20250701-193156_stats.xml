@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="61" damage_taken="10636.9" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1443" gold="255348" gold_all="992613" gold_infinite="0" healed="667.9" heart_containers="0" hp="100" items="323" kicks="237" killed_by="" killed_by_extra="" places_visited="61" playtime="21720.3" playtime_str="6:02:00" projectiles_shot="114452" streaks="0" teleports="10" wands_edited="52" world_seed="932415443" >
+  <stats biomes_visited_with_wands="63" damage_taken="22806.4" dead="1" death_count="0" death_pos.x="303.809" death_pos.y="-25854.2" enemies_killed="1444" gold="719017" gold_all="1456282" gold_infinite="0" healed="669.7" heart_containers="0" hp="100" items="335" kicks="237" killed_by=" | Valo" killed_by_extra="" places_visited="63" playtime="22262.2" playtime_str="6:11:02" projectiles_shot="114452" streaks="0" teleports="10" wands_edited="52" world_seed="932415443" >
   </stats>
   <biome_baseline biomes_visited_with_wands="50" damage_taken="314.237" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1397" gold="43036" gold_all="709611" gold_infinite="0" healed="46.6" heart_containers="0" hp="100" items="272" kicks="237" killed_by="" killed_by_extra="" places_visited="50" playtime="16698.6" playtime_str="4:38:18" projectiles_shot="114396" streaks="0" teleports="10" wands_edited="50" world_seed="932415443" >
   </biome_baseline>
@@ -34,11 +34,15 @@
     </E>
     <E key="$biome_lava" value="1" >
     </E>
+    <E key="$biome_meat" value="1" >
+    </E>
     <E key="$biome_orbroom" value="1" >
     </E>
     <E key="$biome_pyramid" value="1" >
     </E>
     <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
     </E>
     <E key="$biome_robobase" value="1" >
     </E>
