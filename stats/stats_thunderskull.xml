@@ -1,4 +1,4 @@
-<Stats deaths="222" kills="70" player_kills="0" player_projectile_count="0" >
+<Stats deaths="255" kills="70" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="2" >
     </E>
-    <E key="NULL | damage from material: lava" value="29" >
+    <E key="NULL | damage from material: lava" value="44" >
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="57" >
+    <E key="player | $damage_projectile" value="73" >
     </E>
     <E key="player | $damage_rock_curse" value="12" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="wizard_corrupt_weaken | $damage_projectile" value="3" >
     </E>
-    <E key="worm_end | worm bite" value="2" >
+    <E key="worm_end | worm bite" value="4" >
     </E>
     <E key="worm_spine | worm bite" value="1" >
     </E>

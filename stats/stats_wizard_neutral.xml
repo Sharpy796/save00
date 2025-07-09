@@ -1,4 +1,4 @@
-<Stats deaths="65" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="65" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -32,6 +32,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="longleg" value="1" >
+    </E>
     <E key="mosquito" value="1" >
     </E>
     <E key="rat" value="1" >

@@ -19,11 +19,11 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="55.8624" 
-    clouds_02_target="85.951" 
+    clouds_01_target="42.3234" 
+    clouds_02_target="55.5683" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="18" 
+    day_count="23" 
     fog="0" 
     fog_target="0" 
     global_genome_relations_modifier="25" 
@@ -35,7 +35,7 @@
     mFlashAlpha="0" 
     material_everything_to_gold="gold" 
     material_everything_to_gold_static="gold_static" 
-    mods_have_been_active_during_this_run="0" 
+    mods_have_been_active_during_this_run="1" 
     next_cut_through_world_id="0" 
     next_portal_id="1" 
     open_fog_of_war_everywhere="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0" 
+    rain="0.00499883" 
     rain_target="0" 
     session_stat_file="??STA/sessions/20250701-193156" 
     sky_sunset_alpha_target="1" 
-    time="0.61796" 
+    time="0.270298" 
     time_dt="1" 
-    time_total="18.2315" 
+    time_total="22.848" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.255571" 
-    wind_speed="-15.3343" 
+    wind="-0.235328" 
+    wind_speed="-14.1197" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -71,15 +71,15 @@
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="40" >
+        value="42" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="25" >
+        value="215" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="7" >
+        value="65" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -647,11 +647,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_vault,$biome_dragoncave,$biome_rainforest,$biome_holy" >
+        value="_EMPTY_,$biome_lava,$biome_gold,$biome_boss_victoryroom,_EMPTY_,$biome_lava,$bio" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="214" >
+        value="246" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -1178,6 +1178,21 @@
       </string>
       <string>
         new_action_white_hole_big
+      </string>
+      <string>
+        adventurer_$biome_sandcave_visited
+      </string>
+      <string>
+        adventurer_$biome_orbroom_visited
+      </string>
+      <string>
+        adventurer_$biome_lava_visited
+      </string>
+      <string>
+        adventurer_$biome_boss_victoryroom_visited
+      </string>
+      <string>
+        new_action_vacuum_entities
       </string>
     </flags>
     <changed_materials>

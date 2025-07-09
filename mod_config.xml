@@ -121,7 +121,7 @@
   </Mod>
   <Mod enabled="1" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="1" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
@@ -164,5 +164,9 @@
   <Mod enabled="0" name="enemywithperk" settings_fold_open="0" workshop_item_id="3048840527" >
   </Mod>
   <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="twitch-helper" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="twitch-integration" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>
