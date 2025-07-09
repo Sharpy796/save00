@@ -19,14 +19,14 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="45.4972" 
-    clouds_02_target="62.6906" 
+    clouds_01_target="41.4187" 
+    clouds_02_target="53.5379" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="23" 
+    day_count="26" 
     fog="0" 
     fog_target="0" 
-    global_genome_relations_modifier="25" 
+    global_genome_relations_modifier="100" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
     intro_weather="0" 
@@ -55,23 +55,23 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250701-193156" 
     sky_sunset_alpha_target="1" 
-    time="0.816811" 
+    time="0.695708" 
     time_dt="1" 
-    time_total="23.3903" 
+    time_total="26.2469" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
-    wind="-0.235328" 
-    wind_speed="-14.1197" 
+    wind="-0.323804" 
+    wind_speed="-19.4284" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HEARTS_MORE_EXTRA_HP_MULTIPLIER" 
-        value="2" >
+        value="2.75" >
       </E>
       <E 
         key="HELPLESS_KILLS" 
-        value="42" >
+        value="46" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -102,12 +102,16 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_BLEED_GAS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_BREATH_UNDERWATER_PICKUP_COUNT" 
         value="2" >
       </E>
       <E 
         key="PERK_PICKED_CRITICAL_HIT_PICKUP_COUNT" 
-        value="1" >
+        value="2" >
       </E>
       <E 
         key="PERK_PICKED_EDIT_WANDS_EVERYWHERE_PICKUP_COUNT" 
@@ -119,30 +123,50 @@
       </E>
       <E 
         key="PERK_PICKED_EXTRA_HP_PICKUP_COUNT" 
-        value="2" >
+        value="8" >
+      </E>
+      <E 
+        key="PERK_PICKED_EXTRA_MONEY_PICKUP_COUNT" 
+        value="6" >
       </E>
       <E 
         key="PERK_PICKED_EXTRA_MONEY_TRICK_KILL_PICKUP_COUNT" 
-        value="2" >
+        value="4" >
       </E>
       <E 
         key="PERK_PICKED_EXTRA_PERK_PICKUP_COUNT" 
         value="3" >
       </E>
       <E 
-        key="PERK_PICKED_GENOME_MORE_LOVE_PICKUP_COUNT" 
+        key="PERK_PICKED_EXTRA_SHOP_ITEM_PICKUP_COUNT" 
         value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_GENOME_MORE_LOVE_PICKUP_COUNT" 
+        value="4" >
       </E>
       <E 
         key="PERK_PICKED_HEARTS_MORE_EXTRA_HP_PICKUP_COUNT" 
-        value="1" >
+        value="4" >
       </E>
       <E 
         key="PERK_PICKED_HOVER_BOOST_PICKUP_COUNT" 
-        value="2" >
+        value="5" >
+      </E>
+      <E 
+        key="PERK_PICKED_INVISIBILITY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_IRON_STOMACH_PICKUP_COUNT" 
+        value="1" >
       </E>
       <E 
         key="PERK_PICKED_MANA_FROM_KILLS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_MOON_RADAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
@@ -159,7 +183,7 @@
       </E>
       <E 
         key="PERK_PICKED_PERKS_LOTTERY_PICKUP_COUNT" 
-        value="2" >
+        value="5" >
       </E>
       <E 
         key="PERK_PICKED_PROJECTILE_REPULSION_SECTOR_PICKUP_COUNT" 
@@ -183,11 +207,23 @@
       </E>
       <E 
         key="PERK_PICKED_PROTECTION_RADIOACTIVITY_PICKUP_COUNT" 
+        value="2" >
+      </E>
+      <E 
+        key="PERK_PICKED_REMOVE_FOG_OF_WAR_PICKUP_COUNT" 
         value="1" >
       </E>
       <E 
-        key="PERK_PICKED_RESPAWN_PICKUP_COUNT" 
+        key="PERK_PICKED_REPELLING_CAPE_PICKUP_COUNT" 
         value="3" >
+      </E>
+      <E 
+        key="PERK_PICKED_RESPAWN_PICKUP_COUNT" 
+        value="6" >
+      </E>
+      <E 
+        key="PERK_PICKED_RISKY_CRITICAL_PICKUP_COUNT" 
+        value="1" >
       </E>
       <E 
         key="PERK_PICKED_SAVING_GRACE_PICKUP_COUNT" 
@@ -199,7 +235,7 @@
       </E>
       <E 
         key="PERK_PICKED_STAINLESS_ARMOUR_PICKUP_COUNT" 
-        value="1" >
+        value="4" >
       </E>
       <E 
         key="PERK_PICKED_TELEKINESIS_PICKUP_COUNT" 
@@ -214,16 +250,60 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_WAND_EXPERIMENTER_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_WAND_RADAR_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_SHIELD_COUNT" 
         value="2" >
       </E>
       <E 
         key="PLAYER_HALO_LEVEL" 
-        value="5" >
+        value="11" >
       </E>
       <E 
         key="STEVARI_DEATHS" 
         value="3" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-107879_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-1290599_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-143719_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-179559_6427" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-179559_8475" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-215399_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-215399_6427" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-215399_8475" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-251239_2843" 
+        value="1" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_10523" 
@@ -247,6 +327,14 @@
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_8475" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-36199_1307" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-72039_2843" 
         value="1" >
       </E>
       <E 
@@ -386,6 +474,10 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_COLLAPSED_-5_16" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_COLLAPSED_2_20" 
         value="1" >
       </E>
@@ -479,7 +571,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="9" >
+        value="104" >
       </E>
       <E 
         key="TEMPLE_PEACE_WITH_GODS" 
@@ -491,7 +583,7 @@
       </E>
       <E 
         key="TEMPLE_PERK_DESTROY_CHANCE" 
-        value="25" >
+        value="3.125" >
       </E>
       <E 
         key="TEMPLE_PERK_REROLL_COUNT" 
@@ -500,6 +592,10 @@
       <E 
         key="TEMPLE_REROLL_PERK_INDEX" 
         value="83" >
+      </E>
+      <E 
+        key="TEMPLE_SHOP_ITEM_COUNT" 
+        value="6" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
@@ -647,11 +743,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="_EMPTY_,$biome_lava,$biome_gold,$biome_boss_victoryroom,_EMPTY_,$biome_lava,$bio" >
+        value="$biome_snowcastle,_EMPTY_,$biome_wandcave,$biome_snowcave,$biome_holymountain,$b" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="246" >
+        value="289" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -1196,6 +1292,39 @@
       </string>
       <string>
         kantele_secret_00
+      </string>
+      <string>
+        PERK_PICKED_MOON_RADAR
+      </string>
+      <string>
+        PERK_PICKED_IRON_STOMACH
+      </string>
+      <string>
+        PERK_PICKED_REPELLING_CAPE
+      </string>
+      <string>
+        PERK_PICKED_BLEED_GAS
+      </string>
+      <string>
+        PERK_PICKED_EXTRA_MONEY
+      </string>
+      <string>
+        PERK_PICKED_INVISIBILITY
+      </string>
+      <string>
+        PERK_PICKED_REMOVE_FOG_OF_WAR
+      </string>
+      <string>
+        PERK_PICKED_WAND_RADAR
+      </string>
+      <string>
+        PERK_PICKED_EXTRA_SHOP_ITEM
+      </string>
+      <string>
+        PERK_PICKED_WAND_EXPERIMENTER
+      </string>
+      <string>
+        PERK_PICKED_RISKY_CRITICAL
       </string>
     </flags>
     <changed_materials>

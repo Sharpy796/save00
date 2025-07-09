@@ -1,4 +1,4 @@
-<Stats deaths="415" kills="290" player_kills="0" player_projectile_count="0" >
+<Stats deaths="419" kills="294" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,11 +8,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="53" >
+    <E key="NULL | $damage_explosion" value="54" >
     </E>
     <E key="NULL | $damage_fire" value="17" >
     </E>
-    <E key="NULL | $damage_physicshit" value="34" >
+    <E key="NULL | $damage_physicshit" value="35" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -92,7 +92,9 @@
     </E>
     <E key="wizard_hearty | $damage_projectile" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="4" >
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="5" >
     </E>
     <E key="worm_tiny | worm bite" value="2" >
     </E>
@@ -126,7 +128,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="132" >
+    <E key="rat" value="136" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>

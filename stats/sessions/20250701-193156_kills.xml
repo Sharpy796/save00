@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1364" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1402" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -32,15 +32,19 @@
     </E>
     <E key="bigzombietorso" value="9" >
     </E>
-    <E key="blob" value="25" >
+    <E key="blob" value="26" >
     </E>
     <E key="bloodcrystal_physics" value="8" >
     </E>
     <E key="bloom" value="14" >
     </E>
-    <E key="boss_dragon" value="7" >
+    <E key="bomb_small" value="1" >
     </E>
-    <E key="chest_mimic" value="1" >
+    <E key="boss_dragon" value="8" >
+    </E>
+    <E key="chest_leggy" value="1" >
+    </E>
+    <E key="chest_mimic" value="3" >
     </E>
     <E key="confusespirit" value="1" >
     </E>
@@ -76,7 +80,7 @@
     </E>
     <E key="fireskull" value="1" >
     </E>
-    <E key="fish" value="17" >
+    <E key="fish" value="18" >
     </E>
     <E key="flamer" value="2" >
     </E>
@@ -88,11 +92,11 @@
     </E>
     <E key="frog_big" value="11" >
     </E>
-    <E key="fungus" value="22" >
+    <E key="fungus" value="25" >
     </E>
     <E key="fungus_big" value="23" >
     </E>
-    <E key="fungus_giga" value="10" >
+    <E key="fungus_giga" value="13" >
     </E>
     <E key="fungus_tiny" value="10" >
     </E>
@@ -100,7 +104,7 @@
     </E>
     <E key="giant" value="5" >
     </E>
-    <E key="goblin_bomb" value="1" >
+    <E key="goblin_bomb" value="2" >
     </E>
     <E key="icemage" value="2" >
     </E>
@@ -112,7 +116,7 @@
     </E>
     <E key="longleg" value="55" >
     </E>
-    <E key="lukki" value="8" >
+    <E key="lukki" value="9" >
     </E>
     <E key="lukki_eggs" value="2" >
     </E>
@@ -130,7 +134,7 @@
     </E>
     <E key="miner_weak" value="12" >
     </E>
-    <E key="miniblob" value="143" >
+    <E key="miniblob" value="151" >
     </E>
     <E key="missilecrab" value="4" >
     </E>
@@ -148,17 +152,17 @@
     </E>
     <E key="phantom_b" value="2" >
     </E>
-    <E key="physics_torch_stand" value="9" >
+    <E key="physics_torch_stand" value="10" >
     </E>
     <E key="physics_torch_stand_blue" value="1" >
     </E>
-    <E key="pollen" value="25" >
+    <E key="pollen" value="31" >
     </E>
     <E key="polyorb" value="1" >
     </E>
     <E key="potion" value="8" >
     </E>
-    <E key="rat" value="19" >
+    <E key="rat" value="21" >
     </E>
     <E key="roboguard" value="11" >
     </E>
@@ -170,7 +174,7 @@
     </E>
     <E key="scavenger_glue" value="11" >
     </E>
-    <E key="scavenger_grenade" value="124" >
+    <E key="scavenger_grenade" value="125" >
     </E>
     <E key="scavenger_heal" value="7" >
     </E>
@@ -182,7 +186,7 @@
     </E>
     <E key="scavenger_poison" value="10" >
     </E>
-    <E key="scavenger_smg" value="76" >
+    <E key="scavenger_smg" value="79" >
     </E>
     <E key="scorpion" value="4" >
     </E>
@@ -218,6 +222,8 @@
     </E>
     <E key="tank_rocket" value="5" >
     </E>
+    <E key="tank_super" value="1" >
+    </E>
     <E key="tentacler" value="16" >
     </E>
     <E key="tentacler_small" value="10" >
@@ -240,7 +246,7 @@
     </E>
     <E key="wizard_swapper" value="3" >
     </E>
-    <E key="wizard_tele" value="4" >
+    <E key="wizard_tele" value="5" >
     </E>
     <E key="wizard_twitchy" value="8" >
     </E>

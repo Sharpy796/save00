@@ -1,4 +1,4 @@
-<Stats deaths="822" kills="231" player_kills="3" player_projectile_count="0" >
+<Stats deaths="832" kills="233" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="13" >
     </E>
-    <E key="NULL | $damage_explosion" value="87" >
+    <E key="NULL | $damage_explosion" value="92" >
     </E>
-    <E key="NULL | $damage_fire" value="40" >
+    <E key="NULL | $damage_fire" value="41" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="63" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | $damage_radioactive" value="58" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="forsaken_eye | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="14" >
+    <E key="iceskull | $damage_explosion" value="15" >
     </E>
     <E key="iceskull | $damage_ice" value="5" >
     </E>
@@ -132,7 +132,7 @@
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
-    <E key="worm_big | worm bite" value="6" >
+    <E key="worm_big | worm bite" value="8" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
@@ -166,7 +166,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="156" >
+    <E key="rat" value="158" >
     </E>
     <E key="scorpion" value="1" >
     </E>

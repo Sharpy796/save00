@@ -1,16 +1,16 @@
-<Stats deaths="488" kills="103" player_kills="0" player_projectile_count="0" >
+<Stats deaths="495" kills="106" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
     <E key="NULL | $damage_drowning" value="33" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="28" >
+    <E key="NULL | $damage_explosion" value="29" >
     </E>
     <E key="NULL | $damage_fire" value="57" >
     </E>
-    <E key="NULL | $damage_physicshit" value="44" >
+    <E key="NULL | $damage_physicshit" value="47" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -26,9 +26,9 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="3" >
+    <E key="NULL | damage from material: acid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="4" >
+    <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
     <E key="NULL | damage from material: lava" value="8" >
     </E>
@@ -112,7 +112,7 @@
     </E>
     <E key="poring" value="1" >
     </E>
-    <E key="rat" value="51" >
+    <E key="rat" value="54" >
     </E>
     <E key="root_grower" value="1" >
     </E>

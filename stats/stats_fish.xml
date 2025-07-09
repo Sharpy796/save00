@@ -1,4 +1,4 @@
-<Stats deaths="1202" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1225" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="56" >
     </E>
-    <E key="NULL | $damage_fall" value="12" >
+    <E key="NULL | $damage_fall" value="18" >
     </E>
     <E key="NULL | $damage_fire" value="11" >
     </E>
@@ -72,7 +72,7 @@
     </E>
     <E key="player | $damage_kick" value="2" >
     </E>
-    <E key="player | $damage_melee" value="11" >
+    <E key="player | $damage_melee" value="12" >
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="puffer | $damage_projectile" value="1" >
     </E>
-    <E key="rat | $damage_melee" value="6" >
+    <E key="rat | $damage_melee" value="10" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
@@ -114,7 +114,7 @@
     </E>
     <E key="wizard_tele | $damage_projectile" value="2" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="309" >
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="321" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="485" kills="437" player_kills="0" player_projectile_count="0" >
+<Stats deaths="488" kills="450" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="44" >
+    <E key="NULL | $damage_explosion" value="45" >
     </E>
     <E key="NULL | $damage_physicshit" value="16" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="icemage_big | $damage_projectile" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="68" >
+    <E key="iceskull | $damage_explosion" value="69" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
@@ -98,7 +98,7 @@
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="2" >
+    <E key="worm_big | worm bite" value="3" >
     </E>
     <E key="worm_esoteric | Divine Light" value="1" >
     </E>
@@ -128,7 +128,7 @@
     </E>
     <E key="graham_miner_gasser" value="1" >
     </E>
-    <E key="iceskull" value="68" >
+    <E key="iceskull" value="69" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -144,7 +144,7 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="140" >
+    <E key="rat" value="149" >
     </E>
     <E key="scavenger_glue" value="6" >
     </E>
@@ -156,7 +156,7 @@
     </E>
     <E key="scavenger_smg" value="18" >
     </E>
-    <E key="shotgunner" value="19" >
+    <E key="shotgunner" value="20" >
     </E>
     <E key="skycrystal_physics" value="4" >
     </E>
@@ -174,7 +174,7 @@
     </E>
     <E key="worm_big" value="3" >
     </E>
-    <E key="worm_tiny" value="4" >
+    <E key="worm_tiny" value="6" >
     </E>
     <E key="wraith_returner_apotheosis" value="4" >
     </E>
