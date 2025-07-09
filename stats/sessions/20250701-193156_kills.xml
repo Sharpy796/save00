@@ -1,4 +1,4 @@
-<Stats deaths="0" kills="1358" player_kills="0" player_projectile_count="0" >
+<Stats deaths="0" kills="1364" player_kills="0" player_projectile_count="0" >
   <death_map>
   </death_map>
   <kill_map>
@@ -96,7 +96,7 @@
     </E>
     <E key="fungus_tiny" value="10" >
     </E>
-    <E key="gazer" value="36" >
+    <E key="gazer" value="37" >
     </E>
     <E key="giant" value="5" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="lasershooter" value="7" >
     </E>
-    <E key="lavashot" value="5" >
+    <E key="lavashot" value="6" >
     </E>
     <E key="longleg" value="55" >
     </E>
@@ -212,7 +212,7 @@
     </E>
     <E key="spidernest" value="1" >
     </E>
-    <E key="spitmonster" value="14" >
+    <E key="spitmonster" value="17" >
     </E>
     <E key="tank" value="14" >
     </E>
@@ -224,7 +224,7 @@
     </E>
     <E key="thundermage" value="11" >
     </E>
-    <E key="thunderskull" value="18" >
+    <E key="thunderskull" value="19" >
     </E>
     <E key="tnt" value="3" >
     </E>

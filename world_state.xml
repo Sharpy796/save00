@@ -19,8 +19,8 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="42.3234" 
-    clouds_02_target="55.5683" 
+    clouds_01_target="45.4972" 
+    clouds_02_target="62.6906" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
     day_count="23" 
@@ -55,9 +55,9 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20250701-193156" 
     sky_sunset_alpha_target="1" 
-    time="0.270298" 
+    time="0.816811" 
     time_dt="1" 
-    time_total="22.848" 
+    time_total="23.3903" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="1" 
     wind="-0.235328" 
@@ -75,11 +75,11 @@
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="215" >
+        value="261" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="65" >
+        value="78" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -1193,6 +1193,9 @@
       </string>
       <string>
         new_action_vacuum_entities
+      </string>
+      <string>
+        kantele_secret_00
       </string>
     </flags>
     <changed_materials>

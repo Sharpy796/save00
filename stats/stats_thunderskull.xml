@@ -1,4 +1,4 @@
-<Stats deaths="255" kills="70" player_kills="0" player_projectile_count="0" >
+<Stats deaths="262" kills="71" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="2" >
     </E>
-    <E key="NULL | damage from material: lava" value="44" >
+    <E key="NULL | damage from material: lava" value="50" >
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="73" >
+    <E key="player | $damage_projectile" value="74" >
     </E>
     <E key="player | $damage_rock_curse" value="12" >
     </E>
@@ -102,6 +102,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="arrowtrap_right" value="1" >
+    </E>
     <E key="blindgazer" value="1" >
     </E>
     <E key="cryogen" value="1" >
