@@ -1,4 +1,4 @@
-<Stats deaths="12" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $status_apotheosis_hex_blood_name" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="lukki_tentacle_hungry | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
     <E key="wizard_corrupt_neutral | $damage_projectile" value="1" >
     </E>

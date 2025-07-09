@@ -1,4 +1,4 @@
-<Stats deaths="1968" kills="38" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1970" kills="38" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -134,7 +134,7 @@
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="36" >
+    <E key="player | $damage_slice" value="38" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="3" >
     </E>

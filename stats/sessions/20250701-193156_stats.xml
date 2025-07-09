@@ -1,5 +1,5 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="57" damage_taken="318.756" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1403" gold="51136" gold_all="718051" gold_infinite="0" healed="46.6" heart_containers="0" hp="100" items="315" kicks="237" killed_by="" killed_by_extra="" places_visited="57" playtime="17617.8" playtime_str="4:53:37" projectiles_shot="114396" streaks="0" teleports="10" wands_edited="52" world_seed="932415443" >
+  <stats biomes_visited_with_wands="61" damage_taken="10636.9" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1443" gold="255348" gold_all="992613" gold_infinite="0" healed="667.9" heart_containers="0" hp="100" items="323" kicks="237" killed_by="" killed_by_extra="" places_visited="61" playtime="21720.3" playtime_str="6:02:00" projectiles_shot="114452" streaks="0" teleports="10" wands_edited="52" world_seed="932415443" >
   </stats>
   <biome_baseline biomes_visited_with_wands="50" damage_taken="314.237" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1397" gold="43036" gold_all="709611" gold_infinite="0" healed="46.6" heart_containers="0" hp="100" items="272" kicks="237" killed_by="" killed_by_extra="" places_visited="50" playtime="16698.6" playtime_str="4:38:18" projectiles_shot="114396" streaks="0" teleports="10" wands_edited="50" world_seed="932415443" >
   </biome_baseline>
@@ -15,6 +15,8 @@
     <E key="$biome_coalmine_alt" value="1" >
     </E>
     <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_darkness" value="1" >
     </E>
     <E key="$biome_desert" value="1" >
     </E>
@@ -38,6 +40,8 @@
     </E>
     <E key="$biome_rainforest" value="1" >
     </E>
+    <E key="$biome_robobase" value="1" >
+    </E>
     <E key="$biome_sandcave" value="1" >
     </E>
     <E key="$biome_secret_lab" value="1" >
@@ -47,6 +51,8 @@
     <E key="$biome_snowcave" value="1" >
     </E>
     <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
     </E>
     <E key="$biome_watchtower" value="1" >
     </E>
@@ -58,7 +64,7 @@
     </E>
     <E key="east $biome_coalmine" value="2" >
     </E>
-    <E key="east $biome_desert" value="2" >
+    <E key="east $biome_desert" value="3" >
     </E>
     <E key="east $biome_dragoncave" value="1" >
     </E>
@@ -76,13 +82,13 @@
     </E>
     <E key="east $biome_orbroom" value="1" >
     </E>
-    <E key="east $biome_pyramid" value="2" >
+    <E key="east $biome_pyramid" value="3" >
     </E>
     <E key="east $biome_rainforest" value="1" >
     </E>
     <E key="east $biome_sandcave" value="1" >
     </E>
-    <E key="east $biome_secret_lab" value="1" >
+    <E key="east $biome_secret_lab" value="2" >
     </E>
     <E key="east $biome_snowcastle" value="1" >
     </E>
@@ -90,11 +96,11 @@
     </E>
     <E key="east $biome_vault" value="1" >
     </E>
-    <E key="east $biome_winter" value="2" >
+    <E key="east $biome_winter" value="3" >
     </E>
     <E key="east ???" value="2" >
     </E>
-    <E key="west $biome_desert" value="1" >
+    <E key="west $biome_desert" value="2" >
     </E>
     <E key="west $biome_dragoncave" value="1" >
     </E>
@@ -104,7 +110,9 @@
     </E>
     <E key="west $biome_fungicave" value="1" >
     </E>
-    <E key="west $biome_holymountain" value="1" >
+    <E key="west $biome_holymountain" value="2" >
+    </E>
+    <E key="west $biome_lava" value="1" >
     </E>
     <E key="west $biome_orbroom" value="1" >
     </E>
