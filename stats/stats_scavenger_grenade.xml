@@ -1,4 +1,4 @@
-<Stats deaths="1668" kills="266" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1671" kills="267" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="81" >
     </E>
-    <E key="NULL | $damage_explosion" value="188" >
+    <E key="NULL | $damage_explosion" value="190" >
     </E>
     <E key="NULL | $damage_fire" value="45" >
     </E>
@@ -226,7 +226,7 @@
     </E>
     <E key="wizard_corrupt_weaken | $damage_projectile" value="2" >
     </E>
-    <E key="worm | worm bite" value="8" >
+    <E key="worm | worm bite" value="9" >
     </E>
     <E key="worm_big | worm bite" value="12" >
     </E>
@@ -274,7 +274,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="179" >
+    <E key="rat" value="180" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>

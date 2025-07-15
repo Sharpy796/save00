@@ -1,0 +1,22 @@
+<Stats deaths="0" kills="247" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="egg_hollow" value="13" >
+    </E>
+    <E key="exploding_deer" value="6" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fish" value="113" >
+    </E>
+    <E key="mine" value="48" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="pipe_bomb" value="61" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

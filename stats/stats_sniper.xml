@@ -1,4 +1,4 @@
-<Stats deaths="375" kills="287" player_kills="0" player_projectile_count="0" >
+<Stats deaths="379" kills="290" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -74,7 +74,9 @@
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="16" >
+    <E key="player | $damage_slice" value="18" >
+    </E>
+    <E key="player | bzzt!" value="2" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="giant" value="1" >
     </E>
-    <E key="iceskull" value="17" >
+    <E key="iceskull" value="18" >
     </E>
     <E key="mimic_explosive_box" value="1" >
     </E>
@@ -124,7 +126,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="148" >
+    <E key="rat" value="150" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>

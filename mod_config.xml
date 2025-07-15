@@ -5,9 +5,9 @@
   </Mod>
   <Mod enabled="0" name="example" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
+  <Mod enabled="1" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
   </Mod>
   <Mod enabled="0" name="starting_loadouts" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -137,13 +137,13 @@
   </Mod>
   <Mod enabled="0" name="identify" settings_fold_open="0" workshop_item_id="3147836844" >
   </Mod>
-  <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="1" workshop_item_id="0" >
+  <Mod enabled="1" name="GlimmersExpanded" settings_fold_open="1" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="EnableLogger" settings_fold_open="0" workshop_item_id="2124936579" >
   </Mod>
   <Mod enabled="0" name="noita.fairmod" settings_fold_open="1" workshop_item_id="3357618827" >
   </Mod>
-  <Mod enabled="0" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
+  <Mod enabled="1" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
   </Mod>
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
   </Mod>
@@ -165,8 +165,20 @@
   </Mod>
   <Mod enabled="0" name="enemies_random_perks" settings_fold_open="0" workshop_item_id="3479304121" >
   </Mod>
-  <Mod enabled="1" name="twitch-helper" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="twitch-helper" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="twitch-integration" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="deathium_blood" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="mariocore" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="overwriting_test" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="mariocore" settings_fold_open="0" workshop_item_id="3521385452" >
+  </Mod>
+  <Mod enabled="0" name="evaisa.gamblecore" settings_fold_open="0" workshop_item_id="3346470742" >
   </Mod>
 </Mods>

@@ -1,4 +1,4 @@
-<Stats deaths="1015" kills="200" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1022" kills="201" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="30" >
     </E>
-    <E key="NULL | $damage_explosion" value="108" >
+    <E key="NULL | $damage_explosion" value="109" >
     </E>
     <E key="NULL | $damage_fire" value="43" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="63" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -98,15 +98,17 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="295" >
+    <E key="player | $damage_projectile" value="296" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
-    <E key="player | $damage_slice" value="20" >
+    <E key="player | $damage_slice" value="21" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="5" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="1" >
+    </E>
+    <E key="player | bzzt!" value="2" >
     </E>
     <E key="player | chop!" value="5" >
     </E>
@@ -154,7 +156,7 @@
     </E>
     <E key="thunderskull | $damage_electricity" value="2" >
     </E>
-    <E key="worm | worm bite" value="3" >
+    <E key="worm | worm bite" value="4" >
     </E>
     <E key="worm_big | worm bite" value="11" >
     </E>
@@ -184,7 +186,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="152" >
+    <E key="rat" value="153" >
     </E>
     <E key="scavenger_grenade" value="4" >
     </E>

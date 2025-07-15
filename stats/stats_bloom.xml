@@ -1,4 +1,4 @@
-<Stats deaths="122" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="128" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="22" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="player | $damage_projectile" value="34" >
     </E>
-    <E key="player | $damage_slice" value="5" >
+    <E key="player | $damage_slice" value="7" >
     </E>
     <E key="player | chop!" value="2" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="tank_fire | $damage_fire" value="1" >
     </E>
-    <E key="worm | worm bite" value="2" >
+    <E key="worm | worm bite" value="3" >
     </E>
   </death_map>
   <kill_map>

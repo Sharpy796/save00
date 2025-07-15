@@ -1,4 +1,4 @@
-<Stats deaths="1963" kills="40" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1966" kills="41" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="96" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_melee" value="3" >
     </E>
-    <E key="NULL | $damage_physicshit" value="61" >
+    <E key="NULL | $damage_physicshit" value="64" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="3" >
     </E>
@@ -211,6 +211,8 @@
     <E key="ceiling_fungus_minion" value="4" >
     </E>
     <E key="failed_alchemist_b" value="3" >
+    </E>
+    <E key="firebug" value="1" >
     </E>
     <E key="fly" value="1" >
     </E>

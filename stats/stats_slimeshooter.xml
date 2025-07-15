@@ -1,4 +1,4 @@
-<Stats deaths="475" kills="190" player_kills="1" player_projectile_count="0" >
+<Stats deaths="476" kills="190" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -69,6 +69,8 @@
     <E key="player | $damage_slice" value="18" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="3" >
+    </E>
+    <E key="player | bzzt!" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>

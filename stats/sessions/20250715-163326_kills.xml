@@ -1,0 +1,72 @@
+<Stats deaths="0" kills="75" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fish" value="5" >
+    </E>
+    <E key="fly" value="5" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glitter_bomb" value="2" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="lukki" value="3" >
+    </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="lukki_tiny" value="2" >
+    </E>
+    <E key="mine_scavenger" value="3" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="2" >
+    </E>
+    <E key="radioactive_blob_trail" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="root_grower" value="2" >
+    </E>
+    <E key="root_grower_branch" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="sniper" value="4" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="2" >
+    </E>
+    <E key="worm" value="2" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>
