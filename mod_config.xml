@@ -169,4 +169,12 @@
   </Mod>
   <Mod enabled="0" name="twitch-integration" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
+  <Mod enabled="0" name="deathium_blood" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="mariocore" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="evaisa.gamblecore" settings_fold_open="0" workshop_item_id="3346470742" >
+  </Mod>
 </Mods>
