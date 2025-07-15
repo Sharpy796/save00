@@ -141,6 +141,8 @@
   </Mod>
   <Mod enabled="0" name="cards" settings_fold_open="0" workshop_item_id="3426908771" >
   </Mod>
+  <Mod enabled="1" name="mariocore" settings_fold_open="0" workshop_item_id="3521385452" >
+  </Mod>
   <Mod enabled="0" name="conga_fast_enemies" settings_fold_open="0" workshop_item_id="3486156581" >
   </Mod>
   <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
@@ -176,5 +178,7 @@
   <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="evaisa.gamblecore" settings_fold_open="0" workshop_item_id="3346470742" >
+  </Mod>
+  <Mod enabled="0" name="overwriting_test" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>
