@@ -1,16 +1,16 @@
-<Stats deaths="3040" kills="67" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3053" kills="67" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="80" >
+    <E key="NULL | $damage_drowning" value="82" >
     </E>
     <E key="NULL | $damage_electricity" value="50" >
     </E>
-    <E key="NULL | $damage_explosion" value="196" >
+    <E key="NULL | $damage_explosion" value="203" >
     </E>
-    <E key="NULL | $damage_fire" value="81" >
+    <E key="NULL | $damage_fire" value="82" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
@@ -118,9 +118,11 @@
     </E>
     <E key="frog | $damage_melee" value="7" >
     </E>
-    <E key="frog_big | $damage_melee" value="5" >
+    <E key="frog_big | $damage_melee" value="6" >
     </E>
     <E key="frog_bot | $damage_explosion" value="2" >
+    </E>
+    <E key="frog_bot | $damage_projectile" value="1" >
     </E>
     <E key="fungus | $damage_melee" value="1" >
     </E>
@@ -362,7 +364,7 @@
     </E>
     <E key="thundermage | $damage_electricity" value="11" >
     </E>
-    <E key="thundermage | $damage_explosion" value="15" >
+    <E key="thundermage | $damage_explosion" value="16" >
     </E>
     <E key="thundermage | $damage_melee" value="4" >
     </E>

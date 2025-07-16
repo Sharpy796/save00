@@ -1,10 +1,10 @@
-<Stats deaths="121" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="124" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="19" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="7" >
     </E>
@@ -13,6 +13,8 @@
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic rock" value="1" >
     </E>
@@ -34,7 +36,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="40" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>

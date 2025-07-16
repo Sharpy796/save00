@@ -1,4 +1,4 @@
-<Stats deaths="151" kills="52" player_kills="0" player_projectile_count="0" >
+<Stats deaths="158" kills="57" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="17" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
     <E key="NULL | $damage_fire" value="4" >
     </E>
@@ -26,11 +26,13 @@
     </E>
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
+    <E key="mutant2 | $damage_melee" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="3" >
+    <E key="player | $damage_explosion" value="4" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
@@ -38,7 +40,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="75" >
+    <E key="player | $damage_projectile" value="77" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
@@ -58,6 +60,8 @@
     </E>
     <E key="tentacle_portal_npc | $damage_melee" value="2" >
     </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
     <E key="yoyoer | $damage_slice" value="1" >
     </E>
   </death_map>
@@ -66,7 +70,9 @@
     </E>
     <E key="ceiling_fungus_minion" value="1" >
     </E>
-    <E key="conduit" value="1" >
+    <E key="conduit" value="2" >
+    </E>
+    <E key="longleg" value="3" >
     </E>
     <E key="phantom_b" value="1" >
     </E>
@@ -81,6 +87,8 @@
     <E key="slimeshooter" value="1" >
     </E>
     <E key="sporeling_tiny" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
     </E>
     <E key="tentacler_small" value="3" >
     </E>

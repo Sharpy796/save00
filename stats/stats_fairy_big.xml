@@ -1,14 +1,14 @@
-<Stats deaths="181" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="194" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="25" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="13" >
     </E>
-    <E key="NULL | $damage_physicshit" value="8" >
+    <E key="NULL | $damage_physicshit" value="10" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -46,6 +46,8 @@
     </E>
     <E key="monkey | $damage_projectile" value="1" >
     </E>
+    <E key="mudman_friendly | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_curse" value="1" >
     </E>
     <E key="player | $damage_electricity" value="3" >
@@ -56,7 +58,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="64" >
+    <E key="player | $damage_projectile" value="68" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
@@ -84,7 +86,11 @@
     </E>
     <E key="bubble_liquid" value="1" >
     </E>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
     <E key="firebug" value="2" >
+    </E>
+    <E key="fungus_smoking_creep" value="1" >
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
@@ -93,6 +99,8 @@
     <E key="rat" value="1" >
     </E>
     <E key="sporeling_tiny" value="2" >
+    </E>
+    <E key="whisp" value="2" >
     </E>
   </kill_map>
 </Stats>

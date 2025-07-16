@@ -1,12 +1,14 @@
-<Stats deaths="70" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="76" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="13" >
+    <E key="NULL | $damage_explosion" value="14" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="8" >
+    <E key="NULL | $damage_radioactive" value="9" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -21,6 +23,8 @@
     <E key="miner_weak | $damage_explosion" value="1" >
     </E>
     <E key="mutant2 | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
@@ -42,7 +46,9 @@
     </E>
     <E key="skeleton | $damage_melee" value="1" >
     </E>
-    <E key="tentacler | $damage_melee" value="1" >
+    <E key="tentacler | $damage_melee" value="2" >
+    </E>
+    <E key="toxicmage_acid2 | $damage_melee" value="1" >
     </E>
     <E key="worm | worm bite" value="1" >
     </E>

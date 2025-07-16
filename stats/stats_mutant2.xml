@@ -1,10 +1,10 @@
-<Stats deaths="21" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="23" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
-    <E key="NULL | $damage_fire" value="4" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -23,6 +23,10 @@
     <E key="peasant" value="1" >
     </E>
     <E key="skullmage" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
     </E>
     <E key="thundermage" value="1" >
     </E>

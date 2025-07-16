@@ -1,11 +1,19 @@
-<Stats deaths="11" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
     <E key="NULL | physics body damaged" value="7" >
     </E>
+    <E key="gem_tiny | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="gem_tiny" value="1" >
+    </E>
     <E key="monkey" value="1" >
     </E>
   </kill_map>

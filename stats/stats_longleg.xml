@@ -1,18 +1,18 @@
-<Stats deaths="1970" kills="38" player_kills="1" player_projectile_count="0" >
+<Stats deaths="2058" kills="45" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="75" >
+    <E key="NULL | $damage_drowning" value="83" >
     </E>
     <E key="NULL | $damage_electricity" value="15" >
     </E>
-    <E key="NULL | $damage_explosion" value="106" >
+    <E key="NULL | $damage_explosion" value="123" >
     </E>
-    <E key="NULL | $damage_fire" value="222" >
+    <E key="NULL | $damage_fire" value="229" >
     </E>
-    <E key="NULL | $damage_melee" value="7" >
+    <E key="NULL | $damage_melee" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="85" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="30" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="31" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="kantele_d | " value="4" >
     </E>
-    <E key="longleg | $damage_melee" value="4" >
+    <E key="longleg | $damage_melee" value="10" >
     </E>
     <E key="lukki | hit" value="3" >
     </E>
@@ -104,7 +104,9 @@
     </E>
     <E key="mimic_physics | $damage_projectile" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="13" >
+    <E key="miner_boss | $damage_melee" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="15" >
     </E>
     <E key="miner_weak | $damage_melee" value="9" >
     </E>
@@ -118,7 +120,7 @@
     </E>
     <E key="player | " value="9" >
     </E>
-    <E key="player | $damage_drill" value="1" >
+    <E key="player | $damage_drill" value="2" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -130,7 +132,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="849" >
+    <E key="player | $damage_projectile" value="888" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
@@ -174,6 +176,10 @@
     </E>
     <E key="slimeshooter_weak | $damage_projectile" value="4" >
     </E>
+    <E key="soul | $damage_explosion" value="2" >
+    </E>
+    <E key="tentacler | $damage_melee" value="3" >
+    </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_melee" value="1" >
@@ -200,9 +206,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="ceiling_fungus_minion" value="1" >
+    </E>
     <E key="firebug" value="1" >
     </E>
-    <E key="longleg" value="4" >
+    <E key="longleg" value="10" >
     </E>
     <E key="longleg_pillar" value="1" >
     </E>

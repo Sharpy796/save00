@@ -1,14 +1,16 @@
-<Stats deaths="81" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="88" kills="2" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="13" >
     </E>
     <E key="NULL | $damage_explosion" value="12" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="4" >
+    </E>
+    <E key="ccc_bat_psychic | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
@@ -16,12 +18,14 @@
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="36" >
+    <E key="player | $damage_projectile" value="40" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
     <E key="chainsawer" value="1" >
     </E>
   </kill_map>

@@ -1,20 +1,20 @@
-<Stats deaths="495" kills="234" player_kills="0" player_projectile_count="0" >
+<Stats deaths="507" kills="240" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="20" >
     </E>
-    <E key="NULL | $damage_drowning" value="27" >
+    <E key="NULL | $damage_drowning" value="28" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="38" >
     </E>
-    <E key="NULL | $damage_fire" value="54" >
+    <E key="NULL | $damage_fire" value="58" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="29" >
+    <E key="NULL | $damage_physicshit" value="30" >
     </E>
     <E key="NULL | $damage_projectile" value="9" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="180" >
+    <E key="player | $damage_projectile" value="186" >
     </E>
     <E key="player | $damage_slice" value="21" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="larva_crawler" value="1" >
     </E>
-    <E key="longleg" value="22" >
+    <E key="longleg" value="24" >
     </E>
     <E key="miner_santa" value="1" >
     </E>
@@ -102,7 +102,7 @@
     </E>
     <E key="shotgunner_weak" value="5" >
     </E>
-    <E key="skeleton" value="15" >
+    <E key="skeleton" value="16" >
     </E>
     <E key="slimeshooter" value="3" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="zombie_water" value="13" >
     </E>
-    <E key="zombie_weak" value="122" >
+    <E key="zombie_weak" value="125" >
     </E>
   </kill_map>
 </Stats>

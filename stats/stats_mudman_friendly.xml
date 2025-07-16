@@ -1,6 +1,6 @@
-<Stats deaths="246" kills="83" player_kills="1" player_projectile_count="0" >
+<Stats deaths="301" kills="111" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="135" >
+    <E key="NULL | $damage_drowning" value="166" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="3" >
+    <E key="NULL | $damage_radioactive" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="lurker | $damage_projectile" value="4" >
     </E>
-    <E key="mudman_friendly | $damage_melee" value="53" >
+    <E key="mudman_friendly | $damage_melee" value="75" >
     </E>
     <E key="mudman_friendly | $damage_projectile" value="7" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="3" >
+    <E key="player | $damage_projectile" value="4" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -46,11 +46,21 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
     <E key="bigfirebug" value="1" >
     </E>
     <E key="blob_mini" value="5" >
     </E>
     <E key="crawler" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fireworkman" value="1" >
     </E>
     <E key="flopper_mother" value="1" >
     </E>
@@ -70,9 +80,9 @@
     </E>
     <E key="miniblob" value="2" >
     </E>
-    <E key="mudman_friendly" value="60" >
+    <E key="mudman_friendly" value="82" >
     </E>
-    <E key="player" value="1" >
+    <E key="player" value="2" >
     </E>
     <E key="sporeling_tiny" value="1" >
     </E>

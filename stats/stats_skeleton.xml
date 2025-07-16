@@ -1,14 +1,14 @@
-<Stats deaths="179" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="199" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="13" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_fire" value="8" >
+    <E key="NULL | $damage_fire" value="10" >
     </E>
-    <E key="NULL | $damage_physicshit" value="4" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
@@ -22,9 +22,11 @@
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="eye_bat | $damage_melee" value="1" >
+    <E key="eye_bat | $damage_melee" value="2" >
     </E>
     <E key="fallen_alchemist | $damage_projectile" value="6" >
+    </E>
+    <E key="goomonster | $damage_melee" value="1" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="longleg | $damage_melee" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="11" >
+    <E key="miner_weak | $damage_explosion" value="12" >
     </E>
     <E key="miner_weak | $damage_melee" value="3" >
     </E>
@@ -40,7 +42,7 @@
     </E>
     <E key="monkey | $damage_projectile" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="54" >
+    <E key="player | $damage_projectile" value="63" >
     </E>
     <E key="player | $damage_slice" value="8" >
     </E>
@@ -50,7 +52,7 @@
     </E>
     <E key="playerghost | $damage_melee" value="2" >
     </E>
-    <E key="shotgunner_weak | $damage_melee" value="1" >
+    <E key="shotgunner_weak | $damage_melee" value="2" >
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="14" >
     </E>
