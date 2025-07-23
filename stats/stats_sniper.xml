@@ -1,4 +1,4 @@
-<Stats deaths="422" kills="294" player_kills="0" player_projectile_count="0" >
+<Stats deaths="432" kills="295" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_radioactive" value="28" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -68,9 +68,9 @@
     </E>
     <E key="player | $damage_ice" value="15" >
     </E>
-    <E key="player | $damage_melee" value="6" >
+    <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="114" >
+    <E key="player | $damage_projectile" value="121" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="scavenger_smg" value="6" >
     </E>
-    <E key="shotgunner" value="9" >
+    <E key="shotgunner" value="10" >
     </E>
     <E key="slimeshooter" value="23" >
     </E>

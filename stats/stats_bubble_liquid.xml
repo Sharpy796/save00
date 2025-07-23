@@ -1,4 +1,4 @@
-<Stats deaths="477" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="491" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_curse" value="1" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="19" >
+    <E key="NULL | $damage_explosion" value="20" >
     </E>
     <E key="NULL | $damage_melee" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="8" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="258" >
+    <E key="NULL | run out of material" value="261" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -45,6 +45,8 @@
     <E key="drone_face | $damage_slice" value="1" >
     </E>
     <E key="drone_mini | $damage_projectile" value="4" >
+    </E>
+    <E key="electrolukki | zap!" value="1" >
     </E>
     <E key="electrolukki_big | zap!" value="1" >
     </E>
@@ -72,6 +74,10 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
+    <E key="miner_axe | $damage_slice" value="1" >
+    </E>
+    <E key="miner_commander | $damage_projectile" value="1" >
+    </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
     <E key="phantom_a | $damage_projectile" value="1" >
@@ -84,7 +90,7 @@
     </E>
     <E key="player | $damage_melee" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="75" >
+    <E key="player | $damage_projectile" value="79" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -101,6 +107,8 @@
     <E key="poring_magic | $damage_projectile" value="1" >
     </E>
     <E key="sawbot | bzzt!" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_laser | $damage_projectile" value="2" >
     </E>
@@ -122,7 +130,7 @@
     </E>
     <E key="tank | $damage_projectile" value="1" >
     </E>
-    <E key="tank_flame_apotheosis | $damage_fire" value="1" >
+    <E key="tank_flame_apotheosis | $damage_fire" value="2" >
     </E>
     <E key="turret_shotgun_left | $damage_projectile" value="1" >
     </E>

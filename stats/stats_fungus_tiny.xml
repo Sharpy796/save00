@@ -1,20 +1,20 @@
-<Stats deaths="809" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="857" kills="13" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="464" >
+    <E key="NULL | $damage_explosion" value="490" >
     </E>
-    <E key="NULL | $damage_fire" value="83" >
+    <E key="NULL | $damage_fire" value="86" >
     </E>
     <E key="NULL | $damage_physicshit" value="11" >
     </E>
-    <E key="NULL | $damage_projectile" value="5" >
+    <E key="NULL | $damage_projectile" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="13" >
     </E>
     <E key="NULL | damage from material: (Vanilla) frozen acid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="4" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="5" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="23" >
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="27" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="17" >
     </E>
-    <E key="blob | $damage_melee" value="8" >
+    <E key="blob | $damage_melee" value="9" >
     </E>
     <E key="bloom | $damage_projectile" value="1" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="physics_fungus_trap_custom | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="2" >
     </E>
     <E key="player | $damage_explosion" value="59" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | $damage_ice" value="24" >
     </E>
-    <E key="player | $damage_melee" value="10" >
+    <E key="player | $damage_melee" value="21" >
     </E>
     <E key="player | $damage_projectile" value="31" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="bubble_liquid" value="1" >
     </E>
-    <E key="miniblob" value="2" >
+    <E key="miniblob" value="3" >
     </E>
   </kill_map>
 </Stats>

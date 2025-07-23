@@ -1,12 +1,12 @@
-<Stats deaths="1250" kills="125" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1316" kills="134" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_drowning" value="17" >
     </E>
-    <E key="NULL | $damage_electricity" value="76" >
+    <E key="NULL | $damage_electricity" value="77" >
     </E>
-    <E key="NULL | $damage_explosion" value="247" >
+    <E key="NULL | $damage_explosion" value="267" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="blob | $damage_explosion" value="8" >
     </E>
-    <E key="blob | $damage_melee" value="5" >
+    <E key="blob | $damage_melee" value="7" >
     </E>
     <E key="blob_big | $damage_melee" value="1" >
     </E>
@@ -36,21 +36,23 @@
     </E>
     <E key="frog_big | $damage_melee" value="1" >
     </E>
-    <E key="fungus_giga | $damage_projectile" value="2" >
+    <E key="fungus_giga | $damage_projectile" value="4" >
     </E>
     <E key="fungus_tiny | $damage_melee" value="3" >
     </E>
-    <E key="lukki_fungus | hit" value="58" >
+    <E key="lukki_fungus | hit" value="67" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
     <E key="physics_die | $damage_electricity" value="1" >
     </E>
+    <E key="physics_fungus_trap_custom | $damage_explosion" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_drill" value="11" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="7" >
     </E>
     <E key="player | $damage_explosion" value="55" >
     </E>
@@ -58,7 +60,7 @@
     </E>
     <E key="player | $damage_ice" value="7" >
     </E>
-    <E key="player | $damage_melee" value="32" >
+    <E key="player | $damage_melee" value="57" >
     </E>
     <E key="player | $damage_projectile" value="360" >
     </E>
@@ -108,19 +110,19 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="blob" value="13" >
+    <E key="blob" value="15" >
     </E>
     <E key="blob_mini" value="1" >
     </E>
-    <E key="ceiling_fungus_minion" value="5" >
+    <E key="ceiling_fungus_minion" value="6" >
     </E>
     <E key="fish" value="2" >
     </E>
-    <E key="fungus_tiny" value="8" >
+    <E key="fungus_tiny" value="9" >
     </E>
     <E key="longleg" value="6" >
     </E>
-    <E key="miniblob" value="22" >
+    <E key="miniblob" value="27" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>

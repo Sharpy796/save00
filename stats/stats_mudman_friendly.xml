@@ -1,6 +1,6 @@
-<Stats deaths="301" kills="111" player_kills="2" player_projectile_count="0" >
+<Stats deaths="302" kills="112" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="166" >
+    <E key="NULL | $damage_drowning" value="167" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -83,6 +83,8 @@
     <E key="mudman_friendly" value="82" >
     </E>
     <E key="player" value="2" >
+    </E>
+    <E key="sporeling_large" value="1" >
     </E>
     <E key="sporeling_tiny" value="1" >
     </E>

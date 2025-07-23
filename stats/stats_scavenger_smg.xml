@@ -1,4 +1,4 @@
-<Stats deaths="1135" kills="179" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1160" kills="180" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="128" >
+    <E key="NULL | $damage_explosion" value="135" >
     </E>
     <E key="NULL | $damage_fire" value="34" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="13" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="14" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -45,6 +45,8 @@
     <E key="devourer_magic | Taikuuden syöjä's bite" value="4" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="electrolukki | $damage_electricity" value="1" >
     </E>
     <E key="electrolukki | zap!" value="1" >
     </E>
@@ -84,7 +86,7 @@
     </E>
     <E key="player | " value="7" >
     </E>
-    <E key="player | $damage_drill" value="10" >
+    <E key="player | $damage_drill" value="11" >
     </E>
     <E key="player | $damage_electricity" value="22" >
     </E>
@@ -96,7 +98,7 @@
     </E>
     <E key="player | $damage_melee" value="51" >
     </E>
-    <E key="player | $damage_projectile" value="317" >
+    <E key="player | $damage_projectile" value="332" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
@@ -197,6 +199,8 @@
     <E key="thunderskull" value="2" >
     </E>
     <E key="worm_tiny" value="1" >
+    </E>
+    <E key="zombie" value="1" >
     </E>
   </kill_map>
 </Stats>

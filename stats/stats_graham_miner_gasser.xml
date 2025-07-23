@@ -1,10 +1,10 @@
-<Stats deaths="118" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="137" kills="27" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="18" >
+    <E key="NULL | $damage_electricity" value="19" >
     </E>
     <E key="NULL | $damage_explosion" value="8" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="19" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -24,9 +24,9 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_melee" value="6" >
+    <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="52" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -57,6 +57,8 @@
     <E key="scorpion" value="1" >
     </E>
     <E key="wandedit_crystal" value="1" >
+    </E>
+    <E key="zombie" value="8" >
     </E>
   </kill_map>
 </Stats>

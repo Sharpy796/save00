@@ -1,8 +1,8 @@
-<Stats deaths="41" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="43" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="6" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="player | $damage_ice" value="4" >
     </E>
-    <E key="player | $damage_melee" value="1" >
+    <E key="player | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_projectile" value="18" >
     </E>
@@ -26,7 +26,7 @@
   <kill_map>
     <E key="ant" value="1" >
     </E>
-    <E key="blob" value="2" >
+    <E key="blob" value="4" >
     </E>
     <E key="blob_mini" value="2" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="frog_big" value="1" >
     </E>
-    <E key="miniblob" value="2" >
+    <E key="miniblob" value="3" >
     </E>
     <E key="pollen" value="4" >
     </E>

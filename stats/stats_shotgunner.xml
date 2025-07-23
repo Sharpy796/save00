@@ -1,4 +1,4 @@
-<Stats deaths="836" kills="234" player_kills="3" player_projectile_count="0" >
+<Stats deaths="869" kills="234" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,15 +6,15 @@
     </E>
     <E key="NULL | $damage_drowning" value="22" >
     </E>
-    <E key="NULL | $damage_electricity" value="13" >
+    <E key="NULL | $damage_electricity" value="15" >
     </E>
-    <E key="NULL | $damage_explosion" value="93" >
+    <E key="NULL | $damage_explosion" value="98" >
     </E>
-    <E key="NULL | $damage_fire" value="41" >
+    <E key="NULL | $damage_fire" value="42" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="64" >
+    <E key="NULL | $damage_physicshit" value="68" >
     </E>
     <E key="NULL | $damage_radioactive" value="60" >
     </E>
@@ -46,6 +46,8 @@
     </E>
     <E key="bigfirebug | $damage_fire" value="4" >
     </E>
+    <E key="chainsawer | Minced!" value="1" >
+    </E>
     <E key="chest_great_mimic | $damage_melee" value="1" >
     </E>
     <E key="commander | $damage_explosion" value="2" >
@@ -64,9 +66,11 @@
     </E>
     <E key="iceskull | $damage_ice" value="5" >
     </E>
-    <E key="mimic_explosive_box | $damage_melee" value="1" >
+    <E key="mimic_explosive_box | $damage_melee" value="2" >
     </E>
     <E key="miner | $damage_explosion" value="4" >
+    </E>
+    <E key="miner_axe | $damage_slice" value="1" >
     </E>
     <E key="monk | $damage_projectile" value="1" >
     </E>
@@ -76,7 +80,7 @@
     </E>
     <E key="player | " value="5" >
     </E>
-    <E key="player | $damage_drill" value="5" >
+    <E key="player | $damage_drill" value="6" >
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
@@ -86,9 +90,9 @@
     </E>
     <E key="player | $damage_ice" value="13" >
     </E>
-    <E key="player | $damage_melee" value="14" >
+    <E key="player | $damage_melee" value="16" >
     </E>
-    <E key="player | $damage_projectile" value="199" >
+    <E key="player | $damage_projectile" value="213" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -124,7 +128,7 @@
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="9" >
+    <E key="sniper | $damage_projectile" value="10" >
     </E>
     <E key="thundermage | $damage_electricity" value="1" >
     </E>

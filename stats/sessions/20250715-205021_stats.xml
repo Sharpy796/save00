@@ -1,14 +1,18 @@
 <Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
-  <stats biomes_visited_with_wands="7" damage_taken="26.7019" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="274" gold="13031" gold_all="13081" gold_infinite="0" healed="25.9" heart_containers="0" hp="100" items="55" kicks="249" killed_by="" killed_by_extra="" places_visited="7" playtime="4038.97" playtime_str="1:07:18" projectiles_shot="10250" streaks="0" teleports="6" wands_edited="19" world_seed="1437580880" >
+  <stats biomes_visited_with_wands="16" damage_taken="107.56" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="1199" gold="30573" gold_all="32843" gold_infinite="0" healed="67.2" heart_containers="0" hp="100" items="120" kicks="453" killed_by="" killed_by_extra="" places_visited="16" playtime="10298.9" playtime_str="2:51:38" projectiles_shot="23378" streaks="0" teleports="6" wands_edited="31" world_seed="1437580880" >
   </stats>
   <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
   </biome_baseline>
   <item_map>
   </item_map>
   <biomes_visited>
+    <E key="$biome_ant_hell" value="1" >
+    </E>
     <E key="$biome_coalmine" value="1" >
     </E>
     <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
     </E>
     <E key="$biome_fungicave" value="1" >
     </E>
@@ -16,9 +20,23 @@
     </E>
     <E key="$biome_pyramid" value="1" >
     </E>
-    <E key="Blast Pit" value="1" >
+    <E key="$biome_sandcave" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
+    </E>
+    <E key="Blast Pit" value="2" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+    <E key="Hiisi Village" value="1" >
     </E>
     <E key="Tainted Mines" value="1" >
+    </E>
+    <E key="Underground Swamp" value="1" >
     </E>
   </biomes_visited>
 </Stats>

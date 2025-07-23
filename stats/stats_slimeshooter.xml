@@ -1,4 +1,4 @@
-<Stats deaths="503" kills="160" player_kills="1" player_projectile_count="0" >
+<Stats deaths="515" kills="161" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="150" >
+    <E key="NULL | $damage_explosion" value="162" >
     </E>
     <E key="NULL | $damage_fire" value="14" >
     </E>
@@ -153,6 +153,8 @@
     <E key="miniblob" value="6" >
     </E>
     <E key="pebble_physics" value="1" >
+    </E>
+    <E key="pipe_bomb" value="1" >
     </E>
     <E key="player" value="1" >
     </E>

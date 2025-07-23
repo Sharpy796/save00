@@ -1,8 +1,8 @@
-<Stats deaths="69" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="73" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
     <E key="player | $damage_fire" value="1" >
@@ -38,7 +40,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="17" >
+    <E key="player | $damage_projectile" value="18" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -69,6 +71,8 @@
     <E key="fish" value="2" >
     </E>
     <E key="frog_bot" value="1" >
+    </E>
+    <E key="giantshooter" value="1" >
     </E>
     <E key="iceskull" value="1" >
     </E>

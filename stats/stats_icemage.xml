@@ -1,20 +1,34 @@
-<Stats deaths="62" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="258" kills="63" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | $damage_projectile" value="4" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="icemage | $damage_explosion" value="2" >
+    <E key="gazer_greater_cold | $damage_projectile" value="4" >
+    </E>
+    <E key="icemage | $damage_explosion" value="9" >
+    </E>
+    <E key="icemage | $damage_melee" value="3" >
+    </E>
+    <E key="icemage | $damage_projectile" value="11" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="14" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_melee" value="2" >
+    <E key="player | $damage_melee" value="70" >
     </E>
-    <E key="player | $damage_projectile" value="35" >
+    <E key="player | $damage_projectile" value="84" >
     </E>
     <E key="player | $damage_radioactive" value="3" >
     </E>
@@ -24,11 +38,15 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="1" >
+    <E key="worm_big | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>
-    <E key="icemage" value="2" >
+    <E key="coldshot_BoC_weak" value="7" >
+    </E>
+    <E key="gazer_greater_cold" value="6" >
+    </E>
+    <E key="icemage" value="23" >
     </E>
     <E key="iceskull" value="2" >
     </E>
@@ -41,6 +59,8 @@
     <E key="scorpion" value="2" >
     </E>
     <E key="swarm_fly" value="4" >
+    </E>
+    <E key="worm_big" value="1" >
     </E>
   </kill_map>
 </Stats>

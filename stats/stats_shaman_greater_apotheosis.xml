@@ -1,4 +1,4 @@
-<Stats deaths="31" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="33" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -10,7 +10,11 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
     <E key="failed_alchemist | $damage_melee" value="1" >
+    </E>
+    <E key="locust_swarm | Locust bite" value="1" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>

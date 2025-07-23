@@ -1,8 +1,10 @@
-<Stats deaths="100" kills="179" player_kills="0" player_projectile_count="0" >
+<Stats deaths="107" kills="186" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="12" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
@@ -30,7 +32,7 @@
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="37" >
+    <E key="player | $damage_projectile" value="39" >
     </E>
     <E key="player | $damage_rock_curse" value="3" >
     </E>
@@ -46,7 +48,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="electric_bullet" value="174" >
+    <E key="electric_bullet" value="181" >
     </E>
     <E key="locust_swarm" value="1" >
     </E>

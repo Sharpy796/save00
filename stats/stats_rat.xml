@@ -1,4 +1,4 @@
-<Stats deaths="3053" kills="67" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3086" kills="67" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="82" >
     </E>
-    <E key="NULL | $damage_electricity" value="50" >
+    <E key="NULL | $damage_electricity" value="56" >
     </E>
     <E key="NULL | $damage_explosion" value="203" >
     </E>
-    <E key="NULL | $damage_fire" value="82" >
+    <E key="NULL | $damage_fire" value="83" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
@@ -28,9 +28,9 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="18" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="13" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
-    <E key="axeman | $damage_melee" value="20" >
+    <E key="axeman | $damage_melee" value="24" >
     </E>
     <E key="bat | $damage_melee" value="30" >
     </E>
@@ -188,6 +188,8 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="2" >
     </E>
+    <E key="lukki_tiny | hit" value="1" >
+    </E>
     <E key="maggot | $damage_explosion" value="1" >
     </E>
     <E key="maggot_tiny | $damage_curse" value="1" >
@@ -242,7 +244,7 @@
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="204" >
+    <E key="player | $damage_projectile" value="208" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -342,9 +344,9 @@
     </E>
     <E key="sunken_creature | hit" value="16" >
     </E>
-    <E key="tank | $damage_explosion" value="11" >
+    <E key="tank | $damage_explosion" value="12" >
     </E>
-    <E key="tank | $damage_projectile" value="23" >
+    <E key="tank | $damage_projectile" value="26" >
     </E>
     <E key="tank | bzzt!" value="2" >
     </E>
@@ -426,7 +428,7 @@
     </E>
     <E key="worm_tiny | worm bite" value="33" >
     </E>
-    <E key="zombie | $damage_melee" value="31" >
+    <E key="zombie | $damage_melee" value="36" >
     </E>
   </death_map>
   <kill_map>
