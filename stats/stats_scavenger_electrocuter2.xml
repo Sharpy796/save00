@@ -1,10 +1,10 @@
-<Stats deaths="107" kills="186" player_kills="0" player_projectile_count="0" >
+<Stats deaths="111" kills="203" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_fire" value="12" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
@@ -42,17 +42,17 @@
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="sawbot | bzzt!" value="1" >
+    <E key="sawbot | bzzt!" value="2" >
     </E>
     <E key="spitmonster | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="electric_bullet" value="181" >
+    <E key="electric_bullet" value="197" >
     </E>
     <E key="locust_swarm" value="1" >
     </E>
-    <E key="rat" value="1" >
+    <E key="rat" value="2" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

@@ -1,18 +1,18 @@
-<Stats deaths="766" kills="74" player_kills="0" player_projectile_count="0" >
+<Stats deaths="780" kills="76" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="70" >
+    <E key="NULL | $damage_drowning" value="72" >
     </E>
     <E key="NULL | $damage_electricity" value="12" >
     </E>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_explosion" value="79" >
     </E>
     <E key="NULL | $damage_fire" value="25" >
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="17" >
     </E>
     <E key="NULL | damage from material: (Hydroxide) Hydroxide" value="1" >
     </E>
@@ -70,9 +70,9 @@
     </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="6" >
     </E>
-    <E key="hiisi_thief | $damage_melee" value="2" >
+    <E key="hiisi_thief | $damage_melee" value="3" >
     </E>
-    <E key="hisii_hobo | $damage_melee" value="50" >
+    <E key="hisii_hobo | $damage_melee" value="52" >
     </E>
     <E key="invisiman | $damage_melee" value="1" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="player | $damage_drill" value="8" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="3" >
     </E>
     <E key="player | $damage_explosion" value="10" >
     </E>
@@ -146,11 +146,15 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="3" >
     </E>
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    </E>
     <E key="scavenger_laser | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_laser | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>
@@ -176,7 +180,7 @@
     </E>
     <E key="tank_flame_apotheosis | $damage_fire" value="1" >
     </E>
-    <E key="tentacler_small | $damage_melee" value="2" >
+    <E key="tentacler_small | $damage_melee" value="3" >
     </E>
     <E key="tesla | $damage_explosion" value="1" >
     </E>
@@ -212,11 +216,13 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
+    <E key="longleg" value="1" >
+    </E>
     <E key="miner" value="1" >
     </E>
     <E key="miniblob" value="12" >
     </E>
-    <E key="rat" value="36" >
+    <E key="rat" value="37" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>

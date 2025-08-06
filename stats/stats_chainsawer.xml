@@ -1,18 +1,20 @@
-<Stats deaths="134" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="155" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="29" >
     </E>
     <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_radioactive" value="15" >
     </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
@@ -24,7 +26,9 @@
     </E>
     <E key="chainsawer | $damage_explosion" value="2" >
     </E>
-    <E key="chainsawer | Minced!" value="1" >
+    <E key="chainsawer | Minced!" value="3" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="2" >
     </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="1" >
     </E>
@@ -36,13 +40,17 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="47" >
+    <E key="player | $damage_projectile" value="50" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="2" >
     </E>
+    <E key="scavenger_heal | $damage_slice" value="1" >
+    </E>
     <E key="skullmage | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>

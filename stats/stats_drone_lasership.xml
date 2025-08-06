@@ -1,12 +1,12 @@
-<Stats deaths="211" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="214" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_physicshit" value="13" >
+    <E key="NULL | $damage_physicshit" value="14" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>

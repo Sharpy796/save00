@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="lukki_swamp2 | hit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bomb" value="2" >
+    </E>
+    <E key="forsaken_eye" value="2" >
+    </E>
+  </kill_map>
+</Stats>

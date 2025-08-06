@@ -1,0 +1,46 @@
+<Stats deaths="1" kills="41" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="fish" value="12" >
+    </E>
+    <E key="frog_bot" value="2" >
+    </E>
+    <E key="giant_old" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="wandedit_crystal" value="1" >
+    </E>
+    <E key="whisp" value="9" >
+    </E>
+    <E key="wizard_tiny" value="1" >
+    </E>
+  </kill_map>
+</Stats>

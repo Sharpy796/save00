@@ -1,14 +1,18 @@
-<Stats deaths="35" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="40" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_slice" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
-    <E key="NULL | physics body damaged" value="4" >
+    <E key="NULL | physics body damaged" value="6" >
     </E>
     <E key="boss_centipede | $damage_explosion" value="1" >
     </E>
-    <E key="boss_centipede | $damage_holy" value="4" >
+    <E key="boss_centipede | $damage_holy" value="5" >
     </E>
     <E key="boss_centipede | $damage_projectile" value="5" >
     </E>

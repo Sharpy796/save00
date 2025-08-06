@@ -1,4 +1,4 @@
-<Stats deaths="36" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="36" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -41,6 +41,8 @@
     <E key="fungus_big" value="1" >
     </E>
     <E key="miniblob" value="5" >
+    </E>
+    <E key="sniper" value="1" >
     </E>
     <E key="sporeling" value="1" >
     </E>

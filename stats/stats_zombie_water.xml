@@ -1,8 +1,8 @@
-<Stats deaths="82" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="101" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -26,17 +26,19 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="9" >
+    <E key="miner_weak | $damage_explosion" value="16" >
     </E>
-    <E key="miner_weak | $damage_melee" value="4" >
+    <E key="miner_weak | $damage_melee" value="8" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="28" >
+    <E key="player | $damage_projectile" value="32" >
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="4" >
+    <E key="shotgunner_weak | $damage_projectile" value="6" >
+    </E>
+    <E key="skullmage | $damage_explosion" value="1" >
     </E>
     <E key="slimeshooter_weak | $damage_explosion" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="515" kills="161" player_kills="1" player_projectile_count="0" >
+<Stats deaths="533" kills="167" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,13 +8,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="162" >
+    <E key="NULL | $damage_explosion" value="172" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="15" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="16" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -66,7 +68,11 @@
     </E>
     <E key="player | $damage_fire" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="101" >
+    <E key="player | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_physicshit" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="102" >
     </E>
     <E key="player | $damage_rock_curse" value="10" >
     </E>
@@ -92,11 +98,11 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="7" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="6" >
+    <E key="slimeshooter | $damage_explosion" value="7" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="23" >
+    <E key="sniper | $damage_projectile" value="24" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
@@ -160,7 +166,7 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="106" >
+    <E key="rat" value="111" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -170,7 +176,7 @@
     </E>
     <E key="skeleton" value="1" >
     </E>
-    <E key="slimeshooter" value="6" >
+    <E key="slimeshooter" value="7" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

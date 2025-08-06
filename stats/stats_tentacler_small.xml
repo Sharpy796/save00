@@ -1,4 +1,4 @@
-<Stats deaths="208" kills="42" player_kills="0" player_projectile_count="0" >
+<Stats deaths="214" kills="43" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="10" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
@@ -30,6 +30,8 @@
     </E>
     <E key="assassin | $damage_projectile" value="1" >
     </E>
+    <E key="cargobot | $damage_electricity" value="1" >
+    </E>
     <E key="crystal_physics | $damage_projectile" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
@@ -37,6 +39,8 @@
     <E key="firemage | $damage_explosion" value="1" >
     </E>
     <E key="fly | $damage_melee" value="2" >
+    </E>
+    <E key="hisii_rocketshotgun | $damage_explosion" value="2" >
     </E>
     <E key="iceskull | $damage_ice" value="1" >
     </E>
@@ -130,7 +134,7 @@
     </E>
     <E key="wraith_weirdo_shield" value="1" >
     </E>
-    <E key="zombie" value="2" >
+    <E key="zombie" value="3" >
     </E>
   </kill_map>
 </Stats>

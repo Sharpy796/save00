@@ -1,6 +1,6 @@
-<Stats deaths="140" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="154" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="9" >
+    <E key="NULL | $damage_electricity" value="11" >
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="angler | worm bite" value="11" >
     </E>
-    <E key="eel | worm bite" value="39" >
+    <E key="eel | worm bite" value="48" >
     </E>
-    <E key="fish_angler | chomp!" value="28" >
+    <E key="fish_angler | chomp!" value="31" >
     </E>
     <E key="fish_giga | $animal_fish_giga" value="1" >
     </E>

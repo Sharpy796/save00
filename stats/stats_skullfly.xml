@@ -1,16 +1,20 @@
-<Stats deaths="55" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="59" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="2" >
     </E>
-    <E key="NULL | $damage_fire" value="2" >
+    <E key="NULL | $damage_fire" value="3" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="3" >
     </E>
     <E key="eldari_big | $damage_explosion" value="1" >
     </E>
@@ -46,15 +50,27 @@
     </E>
     <E key="acidshot" value="2" >
     </E>
+    <E key="bubble_liquid" value="2" >
+    </E>
     <E key="crawler_bug" value="1" >
+    </E>
+    <E key="enchanted_duck" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="healerdrone_physics" value="1" >
     </E>
     <E key="larva_crawler" value="1" >
     </E>
     <E key="locust_swarm" value="2" >
     </E>
+    <E key="longleg" value="1" >
+    </E>
     <E key="nautilus" value="1" >
     </E>
     <E key="physics_torch_stand_blue" value="1" >
+    </E>
+    <E key="potionmaster2" value="1" >
     </E>
     <E key="scavenger_clusterbomb" value="1" >
     </E>
@@ -73,6 +89,8 @@
     <E key="tentacler" value="3" >
     </E>
     <E key="tentacler_small" value="2" >
+    </E>
+    <E key="toilet_paper" value="1" >
     </E>
     <E key="wizard_hearty" value="1" >
     </E>

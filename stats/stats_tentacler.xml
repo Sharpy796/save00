@@ -1,18 +1,20 @@
-<Stats deaths="158" kills="57" player_kills="0" player_projectile_count="0" >
+<Stats deaths="165" kills="60" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="3" >
     </E>
-    <E key="NULL | $damage_drowning" value="1" >
+    <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="19" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_fire" value="4" >
+    <E key="NULL | $damage_fire" value="5" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -23,6 +25,8 @@
     <E key="NULL | damage from material: lava" value="1" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="5" >
+    </E>
+    <E key="hideous_mass | hit" value="1" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="1" >
     </E>
@@ -66,13 +70,17 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
     <E key="acidshot" value="2" >
     </E>
     <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="conduit" value="2" >
     </E>
-    <E key="longleg" value="3" >
+    <E key="hisii_rocketshotgun" value="1" >
+    </E>
+    <E key="longleg" value="4" >
     </E>
     <E key="phantom_b" value="1" >
     </E>

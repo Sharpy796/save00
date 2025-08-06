@@ -1,0 +1,56 @@
+<Stats deaths="1" kills="51" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="axeman" value="1" >
+    </E>
+    <E key="bomb" value="4" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="chainsawer" value="2" >
+    </E>
+    <E key="eye_bat" value="2" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="forsaken_eye" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="2" >
+    </E>
+    <E key="longleg" value="5" >
+    </E>
+    <E key="radiobot" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="7" >
+    </E>
+    <E key="scavenger_undercover" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="spider_crawler" value="3" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="zombie_weak" value="5" >
+    </E>
+  </kill_map>
+</Stats>

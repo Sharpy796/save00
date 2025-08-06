@@ -1,4 +1,4 @@
-<Stats deaths="61" kills="26" player_kills="1" player_projectile_count="0" >
+<Stats deaths="63" kills="27" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="5" >
     </E>
-    <E key="NULL | $damage_water" value="23" >
+    <E key="NULL | $damage_water" value="25" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="2" >
     </E>
@@ -33,6 +33,8 @@
     <E key="acidshooter_weak" value="1" >
     </E>
     <E key="blob_mini" value="2" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
     </E>
     <E key="giantshooter_weak" value="1" >
     </E>

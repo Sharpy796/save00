@@ -1,14 +1,14 @@
-<Stats deaths="345" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="366" kills="34" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="8" >
     </E>
-    <E key="NULL | $damage_electricity" value="7" >
+    <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="35" >
+    <E key="NULL | $damage_explosion" value="37" >
     </E>
-    <E key="NULL | $damage_fire" value="18" >
+    <E key="NULL | $damage_fire" value="20" >
     </E>
-    <E key="NULL | $damage_physicshit" value="9" >
+    <E key="NULL | $damage_physicshit" value="10" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="giant_centipede | worm bite" value="1" >
     </E>
+    <E key="hisii_rocketshotgun | $damage_explosion" value="1" >
+    </E>
     <E key="lukki_fungus | hit" value="4" >
     </E>
     <E key="miner | $damage_explosion" value="1" >
@@ -50,7 +52,7 @@
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="5" >
+    <E key="player | $damage_electricity" value="9" >
     </E>
     <E key="player | $damage_explosion" value="13" >
     </E>
@@ -58,9 +60,9 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_melee" value="23" >
+    <E key="player | $damage_melee" value="27" >
     </E>
-    <E key="player | $damage_projectile" value="105" >
+    <E key="player | $damage_projectile" value="110" >
     </E>
     <E key="player | $damage_rock_curse" value="17" >
     </E>
@@ -90,6 +92,8 @@
     </E>
     <E key="spore_sentient | $damage_explosion" value="1" >
     </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
     <E key="worm | worm bite" value="1" >
@@ -116,9 +120,11 @@
     </E>
     <E key="rat" value="8" >
     </E>
-    <E key="scorpion" value="13" >
+    <E key="scorpion" value="14" >
     </E>
     <E key="sheep" value="2" >
+    </E>
+    <E key="swamp_boil" value="1" >
     </E>
     <E key="zombie" value="1" >
     </E>

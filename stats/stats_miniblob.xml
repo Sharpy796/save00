@@ -1,16 +1,16 @@
-<Stats deaths="2626" kills="55" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2663" kills="55" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="114" >
     </E>
     <E key="NULL | $damage_electricity" value="133" >
     </E>
-    <E key="NULL | $damage_explosion" value="436" >
+    <E key="NULL | $damage_explosion" value="448" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
     <E key="NULL | $damage_melee" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="83" >
+    <E key="NULL | $damage_physicshit" value="87" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="9" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="ant | $damage_melee" value="23" >
     </E>
-    <E key="assassin | $damage_melee" value="1" >
+    <E key="assassin | $damage_melee" value="2" >
     </E>
     <E key="attack_drone | $damage_projectile" value="4" >
     </E>
@@ -48,9 +48,9 @@
     </E>
     <E key="boss_pit | bzzt!" value="1" >
     </E>
-    <E key="cargobot | $damage_explosion" value="5" >
+    <E key="cargobot | $damage_explosion" value="10" >
     </E>
-    <E key="cargobot | $damage_projectile" value="4" >
+    <E key="cargobot | $damage_projectile" value="5" >
     </E>
     <E key="chest_mimic | $damage_melee" value="5" >
     </E>
@@ -70,9 +70,9 @@
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="2" >
     </E>
-    <E key="firemage | $damage_explosion" value="1" >
+    <E key="firemage | $damage_explosion" value="2" >
     </E>
-    <E key="firemage | $damage_melee" value="5" >
+    <E key="firemage | $damage_melee" value="7" >
     </E>
     <E key="flamer | $damage_explosion" value="1" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="hisii_hobo | $damage_melee" value="3" >
     </E>
-    <E key="hisii_rocketshotgun | $damage_explosion" value="2" >
+    <E key="hisii_rocketshotgun | $damage_explosion" value="8" >
     </E>
     <E key="hisii_rocketshotgun | $damage_melee" value="1" >
     </E>
@@ -170,7 +170,7 @@
     </E>
     <E key="skullrat | $damage_melee" value="3" >
     </E>
-    <E key="slicing_blade | chop!" value="25" >
+    <E key="slicing_blade | chop!" value="30" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="6" >
     </E>

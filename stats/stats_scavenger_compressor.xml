@@ -1,4 +1,4 @@
-<Stats deaths="28" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="32" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
-    <E key="NULL | $damage_radioactive" value="1" >
+    <E key="NULL | $damage_radioactive" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="2" >
     </E>
     <E key="player | $damage_projectile" value="10" >
     </E>

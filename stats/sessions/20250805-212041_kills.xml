@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bubble_liquid" value="4" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="ground_terror" value="1" >
+    </E>
+  </kill_map>
+</Stats>

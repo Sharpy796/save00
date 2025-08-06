@@ -1,6 +1,6 @@
-<Stats deaths="37" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="40" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -12,6 +12,8 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
+    <E key="contact_damage | $damage_curse" value="1" >
+    </E>
     <E key="drone | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_explosion" value="1" >
@@ -22,5 +24,7 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="whisp" value="1" >
+    </E>
   </kill_map>
 </Stats>

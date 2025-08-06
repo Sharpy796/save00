@@ -1,16 +1,20 @@
-<Stats deaths="73" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="86" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="3" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -20,7 +24,11 @@
     </E>
     <E key="commander | $damage_explosion" value="1" >
     </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
     <E key="firemage | $damage_explosion" value="1" >
+    </E>
+    <E key="flamer | $damage_explosion" value="1" >
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
@@ -40,7 +48,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="18" >
+    <E key="player | $damage_projectile" value="19" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -58,6 +66,8 @@
     </E>
     <E key="spitmonster | $damage_projectile" value="1" >
     </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="blob" value="1" >
@@ -66,7 +76,9 @@
     </E>
     <E key="bluemancer" value="1" >
     </E>
-    <E key="bubble_liquid" value="2" >
+    <E key="bubble_liquid" value="5" >
+    </E>
+    <E key="ceiling_fungus_minion" value="2" >
     </E>
     <E key="fish" value="2" >
     </E>
@@ -82,9 +94,13 @@
     </E>
     <E key="miniblob" value="6" >
     </E>
+    <E key="pebble_old" value="2" >
+    </E>
     <E key="pebble_player_physics" value="1" >
     </E>
     <E key="physics_torch_stand_blue" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>

@@ -1,6 +1,8 @@
-<Stats deaths="14" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="15" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="1" >
     </E>
     <E key="miner_hell | $damage_explosion" value="1" >
     </E>
