@@ -7,8 +7,6 @@
   </Mod>
   <Mod enabled="0" name="nightmare" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
-  </Mod>
   <Mod enabled="0" name="starting_loadouts" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="translation_fi" settings_fold_open="0" workshop_item_id="0" >
@@ -85,7 +83,7 @@
   </Mod>
   <Mod enabled="1" name="new_enemies" settings_fold_open="0" workshop_item_id="1985600131" >
   </Mod>
-  <Mod enabled="1" name="biome-plus" settings_fold_open="1" workshop_item_id="2554761457" >
+  <Mod enabled="1" name="biome-plus" settings_fold_open="0" workshop_item_id="2554761457" >
   </Mod>
   <Mod enabled="1" name="boss_reworks" settings_fold_open="0" workshop_item_id="3235530450" >
   </Mod>
@@ -133,6 +131,10 @@
   </Mod>
   <Mod enabled="0" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
   </Mod>
+  <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="component-explorer" settings_fold_open="0" workshop_item_id="3073419779" >
+  </Mod>
   <Mod enabled="0" name="lamas_stats" settings_fold_open="0" workshop_item_id="3273702268" >
   </Mod>
   <Mod enabled="0" name="accel-seeds-only" settings_fold_open="0" workshop_item_id="3095221664" >
@@ -152,8 +154,6 @@
   <Mod enabled="0" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
-  </Mod>
-  <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="NoitaDearImGuiExampleMod" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
