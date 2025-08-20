@@ -1,4 +1,4 @@
-<Stats deaths="51" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="51" kills="17" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="polyorb" value="1" >
     </E>
-    <E key="scorpion" value="11" >
+    <E key="scorpion" value="12" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>

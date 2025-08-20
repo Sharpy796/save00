@@ -1,4 +1,4 @@
-<Stats deaths="214" kills="43" player_kills="0" player_projectile_count="0" >
+<Stats deaths="217" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_explosion" value="22" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_fire" value="11" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="2" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -106,6 +106,8 @@
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
+    <E key="wraith_returner_apotheosis | $damage_projectile" value="1" >
+    </E>
     <E key="zombie | $damage_melee" value="1" >
     </E>
   </death_map>
@@ -127,6 +129,8 @@
     <E key="skullfly" value="1" >
     </E>
     <E key="skullrat" value="2" >
+    </E>
+    <E key="watermage" value="1" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>

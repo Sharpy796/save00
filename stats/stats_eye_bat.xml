@@ -1,4 +1,4 @@
-<Stats deaths="157" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="202" kills="17" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
@@ -12,37 +12,43 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) toxic rock" value="4" >
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="8" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
     <E key="fallen_alchemist | $damage_projectile" value="1" >
     </E>
+    <E key="hazmat | $damage_melee" value="1" >
+    </E>
+    <E key="mexxi | $damage_projectile" value="1" >
+    </E>
     <E key="miner_weak | $damage_explosion" value="1" >
     </E>
-    <E key="miner_weak | $damage_melee" value="2" >
+    <E key="miner_weak | $damage_melee" value="3" >
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="67" >
+    <E key="player | $damage_projectile" value="83" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="10" >
+    <E key="player | $damage_slice" value="29" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="6" >
     </E>
     <E key="player_ai | $damage_melee" value="1" >
     </E>
-    <E key="skeleton | $damage_melee" value="4" >
+    <E key="skeleton | $damage_melee" value="5" >
     </E>
-    <E key="zombie_water | $damage_melee" value="1" >
+    <E key="zombie_water | $damage_melee" value="3" >
     </E>
     <E key="zombie_weak | $damage_melee" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="longleg" value="4" >
+    <E key="longleg" value="7" >
+    </E>
+    <E key="longleg_free" value="1" >
     </E>
     <E key="miner_weak" value="2" >
     </E>

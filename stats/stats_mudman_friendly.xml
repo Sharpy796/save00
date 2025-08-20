@@ -1,18 +1,18 @@
-<Stats deaths="302" kills="112" player_kills="2" player_projectile_count="0" >
+<Stats deaths="332" kills="116" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="167" >
     </E>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_explosion" value="5" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="4" >
     </E>
-    <E key="NULL | $damage_radioactive" value="4" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
+    <E key="NULL | damage from material: (Vanilla) Poison" value="2" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) acid" value="8" >
+    <E key="NULL | damage from material: (Vanilla) acid" value="25" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="7" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="lurker | $damage_projectile" value="4" >
     </E>
-    <E key="mudman_friendly | $damage_melee" value="75" >
+    <E key="mudman_friendly | $damage_melee" value="76" >
     </E>
     <E key="mudman_friendly | $damage_projectile" value="7" >
     </E>
@@ -66,6 +66,8 @@
     </E>
     <E key="fungus" value="1" >
     </E>
+    <E key="fungus_giga" value="3" >
+    </E>
     <E key="fungus_swamp2" value="1" >
     </E>
     <E key="gazer" value="1" >
@@ -80,7 +82,7 @@
     </E>
     <E key="miniblob" value="2" >
     </E>
-    <E key="mudman_friendly" value="82" >
+    <E key="mudman_friendly" value="83" >
     </E>
     <E key="player" value="2" >
     </E>

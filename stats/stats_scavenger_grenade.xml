@@ -1,4 +1,4 @@
-<Stats deaths="1921" kills="227" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1924" kills="227" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="29" >
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="30" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="4" >
     </E>
@@ -174,6 +174,8 @@
     </E>
     <E key="pollen_bloom | $damage_projectile" value="1" >
     </E>
+    <E key="random_spell_chaotic | $damage_explosion" value="1" >
+    </E>
     <E key="roboguard | $damage_melee" value="1" >
     </E>
     <E key="scavenger_electrocuter2 | $damage_electricity" value="1" >
@@ -184,7 +186,7 @@
     </E>
     <E key="scavenger_leader | $damage_projectile" value="2" >
     </E>
-    <E key="scavenger_plasma | $damage_projectile" value="1" >
+    <E key="scavenger_plasma | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>

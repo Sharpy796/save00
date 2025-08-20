@@ -1,4 +1,4 @@
-<Stats deaths="73" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="73" kills="6" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
@@ -36,6 +36,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="physics_torch_stand_purple" value="1" >
+    </E>
     <E key="poring_magic" value="1" >
     </E>
     <E key="scavenger_smg" value="1" >

@@ -1,4 +1,4 @@
-<Stats deaths="3184" kills="71" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3193" kills="73" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,17 +6,17 @@
     </E>
     <E key="NULL | $damage_drowning" value="88" >
     </E>
-    <E key="NULL | $damage_electricity" value="56" >
+    <E key="NULL | $damage_electricity" value="58" >
     </E>
     <E key="NULL | $damage_explosion" value="206" >
     </E>
-    <E key="NULL | $damage_fire" value="83" >
+    <E key="NULL | $damage_fire" value="86" >
     </E>
     <E key="NULL | $damage_ice" value="4" >
     </E>
     <E key="NULL | $damage_melee" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="102" >
+    <E key="NULL | $damage_physicshit" value="103" >
     </E>
     <E key="NULL | $damage_projectile" value="7" >
     </E>
@@ -100,6 +100,8 @@
     </E>
     <E key="electrolukki | zap!" value="6" >
     </E>
+    <E key="eye_monster | $damage_projectile" value="2" >
+    </E>
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="firebug | $damage_fire" value="7" >
@@ -170,7 +172,7 @@
     </E>
     <E key="icemage | $damage_melee" value="3" >
     </E>
-    <E key="icemage2 | $damage_explosion" value="2" >
+    <E key="icemage2 | $damage_explosion" value="3" >
     </E>
     <E key="icemage_big | $damage_projectile" value="1" >
     </E>
@@ -460,7 +462,7 @@
     </E>
     <E key="crawler" value="2" >
     </E>
-    <E key="firebug" value="3" >
+    <E key="firebug" value="5" >
     </E>
     <E key="fish" value="10" >
     </E>

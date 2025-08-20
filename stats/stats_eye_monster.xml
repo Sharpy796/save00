@@ -1,5 +1,7 @@
-<Stats deaths="13" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
     <E key="NULL | $damage_fire" value="2" >
     </E>
     <E key="attack_drone | $damage_projectile" value="1" >
@@ -15,6 +17,8 @@
   </death_map>
   <kill_map>
     <E key="crawler" value="1" >
+    </E>
+    <E key="rat" value="2" >
     </E>
     <E key="slimeshooter_nontoxic" value="1" >
     </E>

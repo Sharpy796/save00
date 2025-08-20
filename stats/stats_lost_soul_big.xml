@@ -1,6 +1,6 @@
-<Stats deaths="4" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="2" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -10,6 +10,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="bubble_liquid" value="1" >
+    </E>
     <E key="fairy_big_discord" value="2" >
     </E>
     <E key="physics_ragdoll_ai_flopper" value="1" >

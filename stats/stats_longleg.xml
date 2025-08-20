@@ -1,20 +1,20 @@
-<Stats deaths="2430" kills="47" player_kills="1" player_projectile_count="0" >
+<Stats deaths="2508" kills="48" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="91" >
+    <E key="NULL | $damage_drowning" value="96" >
     </E>
     <E key="NULL | $damage_electricity" value="16" >
     </E>
-    <E key="NULL | $damage_explosion" value="142" >
+    <E key="NULL | $damage_explosion" value="146" >
     </E>
-    <E key="NULL | $damage_fire" value="244" >
+    <E key="NULL | $damage_fire" value="249" >
     </E>
     <E key="NULL | $damage_melee" value="8" >
     </E>
-    <E key="NULL | $damage_physicshit" value="88" >
+    <E key="NULL | $damage_physicshit" value="94" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -33,6 +33,8 @@
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="6" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) toxic rock" value="4" >
     </E>
     <E key="NULL | damage from material: (new_enemies) toxic goo" value="1" >
     </E>
@@ -74,9 +76,11 @@
     </E>
     <E key="enlightened_alchemist | $damage_fire" value="1" >
     </E>
-    <E key="eye_bat | $damage_melee" value="4" >
+    <E key="eye_bat | $damage_melee" value="7" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
+    </E>
+    <E key="fallen_alchemist | $damage_projectile" value="1" >
     </E>
     <E key="firebug | $damage_melee" value="1" >
     </E>
@@ -86,13 +90,15 @@
     </E>
     <E key="forgotten_alchemist | $damage_projectile" value="1" >
     </E>
+    <E key="frog | $damage_melee" value="1" >
+    </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>
     <E key="giantshooter_weak | $damage_melee" value="1" >
     </E>
     <E key="goomonster | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="9" >
+    <E key="hazmat | $damage_melee" value="16" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="4" >
     </E>
@@ -118,7 +124,7 @@
     </E>
     <E key="miner_boss | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="16" >
+    <E key="miner_weak | $damage_explosion" value="17" >
     </E>
     <E key="miner_weak | $damage_melee" value="9" >
     </E>
@@ -146,11 +152,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="935" >
+    <E key="player | $damage_projectile" value="952" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="38" >
+    <E key="player | $damage_slice" value="62" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="3" >
     </E>
@@ -233,6 +239,8 @@
     <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="firebug" value="1" >
+    </E>
+    <E key="frog" value="1" >
     </E>
     <E key="longleg" value="10" >
     </E>

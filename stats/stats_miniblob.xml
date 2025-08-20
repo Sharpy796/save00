@@ -1,10 +1,10 @@
-<Stats deaths="2663" kills="55" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2677" kills="63" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="114" >
     </E>
     <E key="NULL | $damage_electricity" value="133" >
     </E>
-    <E key="NULL | $damage_explosion" value="448" >
+    <E key="NULL | $damage_explosion" value="449" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
@@ -26,6 +26,8 @@
     </E>
     <E key="attack_drone | $damage_projectile" value="4" >
     </E>
+    <E key="beanpodupine | $damage_melee" value="1" >
+    </E>
     <E key="bigzombie | $damage_melee" value="2" >
     </E>
     <E key="bigzombiehead | $damage_melee" value="1" >
@@ -36,9 +38,11 @@
     </E>
     <E key="black_hole_big_singularitor | " value="1" >
     </E>
+    <E key="black_hole_giga | " value="1" >
+    </E>
     <E key="blob | $damage_explosion" value="5" >
     </E>
-    <E key="blob | $damage_melee" value="22" >
+    <E key="blob | $damage_melee" value="27" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
@@ -100,7 +104,7 @@
     </E>
     <E key="lukki_weird | $damage_melee" value="1" >
     </E>
-    <E key="miniblob | $damage_melee" value="12" >
+    <E key="miniblob | $damage_melee" value="18" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="2" >
     </E>
@@ -238,7 +242,9 @@
     </E>
     <E key="bigzombie" value="1" >
     </E>
-    <E key="blob" value="1" >
+    <E key="blob" value="2" >
+    </E>
+    <E key="ccc_bat_psychic" value="1" >
     </E>
     <E key="ceiling_fungus_minion" value="5" >
     </E>
@@ -252,7 +258,7 @@
     </E>
     <E key="fungus_tiny" value="3" >
     </E>
-    <E key="miniblob" value="12" >
+    <E key="miniblob" value="18" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>

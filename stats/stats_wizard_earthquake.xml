@@ -1,4 +1,4 @@
-<Stats deaths="13" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="13" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -14,7 +14,11 @@
   <kill_map>
     <E key="lightling" value="1" >
     </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
     <E key="scorpion" value="2" >
+    </E>
+    <E key="skullspider_lukki_bomb_physics" value="1" >
     </E>
   </kill_map>
 </Stats>

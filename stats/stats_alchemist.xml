@@ -1,4 +1,4 @@
-<Stats deaths="71" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="72" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -11,6 +11,8 @@
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>

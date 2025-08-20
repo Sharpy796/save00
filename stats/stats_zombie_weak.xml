@@ -1,4 +1,4 @@
-<Stats deaths="928" kills="19" player_kills="1" player_projectile_count="0" >
+<Stats deaths="942" kills="19" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="31" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
     <E key="NULL | $damage_fire" value="83" >
     </E>
-    <E key="NULL | $damage_physicshit" value="38" >
+    <E key="NULL | $damage_physicshit" value="40" >
     </E>
-    <E key="NULL | $damage_projectile" value="3" >
+    <E key="NULL | $damage_projectile" value="4" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -50,9 +50,9 @@
     </E>
     <E key="goomonster | $damage_melee" value="2" >
     </E>
-    <E key="hazmat | $damage_melee" value="5" >
+    <E key="hazmat | $damage_melee" value="6" >
     </E>
-    <E key="hiisi_thief | $damage_melee" value="3" >
+    <E key="hiisi_thief | $damage_melee" value="4" >
     </E>
     <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="81" >
+    <E key="miner_weak | $damage_explosion" value="83" >
     </E>
     <E key="miner_weak | $damage_melee" value="47" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="player | $damage_explosion" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="222" >
+    <E key="player | $damage_projectile" value="228" >
     </E>
     <E key="player | $damage_slice" value="51" >
     </E>

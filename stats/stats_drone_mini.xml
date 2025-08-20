@@ -1,8 +1,8 @@
-<Stats deaths="339" kills="31" player_kills="0" player_projectile_count="0" >
+<Stats deaths="341" kills="32" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="40" >
+    <E key="NULL | $damage_explosion" value="42" >
     </E>
     <E key="NULL | $damage_physicshit" value="25" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="bluemancer" value="1" >
     </E>
-    <E key="bubble_liquid" value="5" >
+    <E key="bubble_liquid" value="6" >
     </E>
     <E key="drone_mini" value="3" >
     </E>

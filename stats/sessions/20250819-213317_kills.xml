@@ -1,0 +1,62 @@
+<Stats deaths="1" kills="55" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: (Vanilla) lava" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="archer" value="1" >
+    </E>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="2" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="dripper" value="3" >
+    </E>
+    <E key="fairy_big" value="2" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goo_slug" value="2" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="mine_environment" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="mutant_blob" value="1" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tank_drill" value="1" >
+    </E>
+    <E key="toxicmage2" value="2" >
+    </E>
+    <E key="toxicmage_barf" value="5" >
+    </E>
+    <E key="twig" value="2" >
+    </E>
+    <E key="whisp" value="9" >
+    </E>
+    <E key="zombie_weak" value="2" >
+    </E>
+  </kill_map>
+</Stats>

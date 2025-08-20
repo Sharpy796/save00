@@ -1,10 +1,10 @@
-<Stats deaths="110" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="117" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="13" >
     </E>
-    <E key="NULL | $damage_explosion" value="23" >
+    <E key="NULL | $damage_explosion" value="24" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -20,13 +20,15 @@
     </E>
     <E key="drone_face | bzzt!" value="1" >
     </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
     <E key="player | $damage_explosion" value="3" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="42" >
+    <E key="player | $damage_projectile" value="46" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
     </E>

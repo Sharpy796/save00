@@ -1,0 +1,76 @@
+<Stats deaths="1" kills="83" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_midas" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="chainsawer" value="1" >
+    </E>
+    <E key="conduit" value="1" >
+    </E>
+    <E key="eye_bat" value="20" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="giantshooter" value="2" >
+    </E>
+    <E key="goo_slug" value="3" >
+    </E>
+    <E key="ground_terror" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="irtokki" value="1" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="12" >
+    </E>
+    <E key="longleg_big" value="1" >
+    </E>
+    <E key="longleg_free" value="1" >
+    </E>
+    <E key="longleg_gold" value="1" >
+    </E>
+    <E key="mexxi" value="1" >
+    </E>
+    <E key="mexxi_triangle" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="skeleton" value="2" >
+    </E>
+    <E key="skull_animation" value="1" >
+    </E>
+    <E key="skullmage" value="1" >
+    </E>
+    <E key="slimeshooter_mega" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="toxicmage_barf" value="4" >
+    </E>
+    <E key="toxicskull" value="1" >
+    </E>
+    <E key="water_pipe_drain" value="1" >
+    </E>
+    <E key="zombie_water" value="3" >
+    </E>
+  </kill_map>
+</Stats>

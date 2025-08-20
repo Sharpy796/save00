@@ -1,4 +1,4 @@
-<Stats deaths="24" kills="8" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -7,6 +7,8 @@
     <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="hisii_minecart | $damage_projectile" value="1" >
     </E>
     <E key="miner_weak | $damage_explosion" value="1" >
     </E>

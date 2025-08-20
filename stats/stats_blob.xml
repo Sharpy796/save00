@@ -1,4 +1,4 @@
-<Stats deaths="1330" kills="134" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1334" kills="140" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="77" >
     </E>
-    <E key="NULL | $damage_explosion" value="275" >
+    <E key="NULL | $damage_explosion" value="276" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="52" >
     </E>
-    <E key="NULL | $damage_projectile" value="8" >
+    <E key="NULL | $damage_projectile" value="9" >
     </E>
     <E key="NULL | $perkname_graham_zaptap" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="blob | $damage_explosion" value="8" >
     </E>
-    <E key="blob | $damage_melee" value="7" >
+    <E key="blob | $damage_melee" value="8" >
     </E>
     <E key="blob_big | $damage_melee" value="1" >
     </E>
@@ -44,7 +44,7 @@
     </E>
     <E key="lukki_fungus | hit" value="67" >
     </E>
-    <E key="miniblob | $damage_melee" value="1" >
+    <E key="miniblob | $damage_melee" value="2" >
     </E>
     <E key="physics_die | $damage_electricity" value="1" >
     </E>
@@ -114,7 +114,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="blob" value="15" >
+    <E key="blob" value="16" >
     </E>
     <E key="blob_mini" value="1" >
     </E>
@@ -126,7 +126,7 @@
     </E>
     <E key="longleg" value="6" >
     </E>
-    <E key="miniblob" value="27" >
+    <E key="miniblob" value="32" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>

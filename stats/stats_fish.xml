@@ -1,4 +1,4 @@
-<Stats deaths="2127" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2246" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="angler | worm bite" value="12" >
     </E>
-    <E key="black_hole_giga | " value="11" >
+    <E key="black_hole_giga | " value="25" >
     </E>
     <E key="blob | $damage_melee" value="2" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="209" >
+    <E key="player | $damage_projectile" value="210" >
     </E>
     <E key="player | $damage_slice" value="15" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="wizard_tele | $damage_projectile" value="2" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="1127" >
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="1231" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

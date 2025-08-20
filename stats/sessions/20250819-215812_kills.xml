@@ -1,0 +1,14 @@
+<Stats deaths="1" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="newsun | $damage_sun" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="hiisi_thief" value="1" >
+    </E>
+    <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

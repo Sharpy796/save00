@@ -1,4 +1,4 @@
-<Stats deaths="143" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="145" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="frog_big | $damage_melee" value="6" >
     </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
     <E key="miner_weak | $damage_explosion" value="2" >
@@ -58,7 +60,7 @@
     </E>
     <E key="player | $damage_projectile" value="28" >
     </E>
-    <E key="player | $damage_slice" value="5" >
+    <E key="player | $damage_slice" value="6" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
     </E>
@@ -79,6 +81,8 @@
     <E key="conduit" value="1" >
     </E>
     <E key="frog" value="1" >
+    </E>
+    <E key="longleg" value="1" >
     </E>
     <E key="rat" value="7" >
     </E>

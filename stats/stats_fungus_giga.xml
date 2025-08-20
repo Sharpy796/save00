@@ -1,12 +1,16 @@
-<Stats deaths="43" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="53" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="11" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="mudman_friendly | $damage_melee" value="3" >
+    </E>
+    <E key="newsun | $damage_sun" value="2" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -36,7 +40,7 @@
     </E>
     <E key="miniblob" value="3" >
     </E>
-    <E key="pollen" value="4" >
+    <E key="pollen" value="6" >
     </E>
   </kill_map>
 </Stats>

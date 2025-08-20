@@ -1,8 +1,14 @@
-<Stats deaths="11" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="13" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_midas" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
@@ -10,9 +16,15 @@
     </E>
     <E key="boss_pit | bzzt!" value="1" >
     </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
     <E key="random_spell_chaotic | $damage_explosion" value="2" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="triangle_gem | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_earthquake | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>
@@ -22,7 +34,7 @@
     </E>
     <E key="eradicator" value="1" >
     </E>
-    <E key="larva_crawler" value="1" >
+    <E key="larva_crawler" value="4" >
     </E>
     <E key="longleg" value="2" >
     </E>
