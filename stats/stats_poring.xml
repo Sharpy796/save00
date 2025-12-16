@@ -1,5 +1,9 @@
-<Stats deaths="99" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="108" kills="23" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_slice" value="1" >
+    </E>
+    <E key=" | kill sync" value="1" >
+    </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="5" >
@@ -8,7 +12,11 @@
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="1" >
     </E>
     <E key="chainsawer | Minced!" value="2" >
     </E>
@@ -22,15 +30,19 @@
     </E>
     <E key="miner_weak | $damage_fire" value="2" >
     </E>
+    <E key="mudman_friendly | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="46" >
+    <E key="player | $damage_projectile" value="48" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
     <E key="player | chop!" value="1" >
+    </E>
+    <E key="player | kill sync" value="2" >
     </E>
     <E key="poring | $damage_explosion" value="2" >
     </E>
@@ -50,6 +62,8 @@
     </E>
     <E key="poring" value="2" >
     </E>
+    <E key="rat" value="1" >
+    </E>
     <E key="scavenger_laser" value="1" >
     </E>
     <E key="scorpion" value="1" >
@@ -57,6 +71,8 @@
     <E key="waterskull" value="2" >
     </E>
     <E key="wizard_tiny" value="1" >
+    </E>
+    <E key="zombie_weak" value="1" >
     </E>
   </kill_map>
 </Stats>

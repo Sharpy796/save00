@@ -1,4 +1,4 @@
-<Stats deaths="72" kills="29" player_kills="0" player_projectile_count="0" >
+<Stats deaths="81" kills="31" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="13" >
+    <E key="NULL | $damage_fire" value="14" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -16,13 +16,15 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | kill sync" value="1" >
+    <E key="NULL | kill sync" value="6" >
     </E>
     <E key="fungus_giga | $damage_melee" value="1" >
     </E>
     <E key="lukki_fungus | hit" value="2" >
     </E>
     <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="12" >
+    <E key="player | $damage_projectile" value="13" >
     </E>
     <E key="player | $damage_rock_curse" value="10" >
     </E>
@@ -60,7 +62,9 @@
     </E>
     <E key="miniblob" value="12" >
     </E>
-    <E key="rat" value="5" >
+    <E key="rat" value="6" >
+    </E>
+    <E key="roboguard" value="1" >
     </E>
     <E key="slime_ghoul" value="1" >
     </E>

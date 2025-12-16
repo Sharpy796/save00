@@ -1,22 +1,32 @@
-<Stats deaths="172" kills="32" player_kills="1" player_projectile_count="0" >
+<Stats deaths="262" kills="50" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="124" >
+    <E key=" | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key=" | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | $damage_drowning" value="146" >
+    </E>
+    <E key="NULL | $damage_explosion" value="10" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="2" >
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="7" >
     </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | kill sync" value="49" >
+    </E>
     <E key="blob_mini | $damage_melee" value="1" >
     </E>
     <E key="lurker | $damage_projectile" value="4" >
     </E>
-    <E key="mudman_friendly | $damage_melee" value="14" >
+    <E key="mudman_friendly | $damage_melee" value="16" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
@@ -38,11 +48,17 @@
     </E>
     <E key="blob_mini" value="5" >
     </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
     <E key="crawler" value="1" >
     </E>
     <E key="fungus" value="1" >
     </E>
     <E key="fungus_swamp2" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="goo_slug" value="9" >
     </E>
     <E key="lukki" value="1" >
     </E>
@@ -50,11 +66,19 @@
     </E>
     <E key="miner" value="1" >
     </E>
+    <E key="miner_weak" value="1" >
+    </E>
     <E key="miniblob" value="2" >
     </E>
-    <E key="mudman_friendly" value="14" >
+    <E key="mudman_friendly" value="17" >
     </E>
     <E key="player" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="sniper" value="1" >
     </E>
     <E key="sporeling_tiny" value="1" >
     </E>

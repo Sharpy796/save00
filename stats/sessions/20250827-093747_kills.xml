@@ -1,0 +1,34 @@
+<Stats deaths="1" kills="46" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key=" | No players are alive" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="" value="26" >
+    </E>
+    <E key="acidshot" value="3" >
+    </E>
+    <E key="bomb" value="2" >
+    </E>
+    <E key="boss_toxic_worm" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="longleg" value="2" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="polymorph_crystal_chaotic" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

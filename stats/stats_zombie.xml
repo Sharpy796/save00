@@ -1,8 +1,10 @@
-<Stats deaths="579" kills="45" player_kills="0" player_projectile_count="0" >
+<Stats deaths="590" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_explosion" value="1" >
     </E>
-    <E key=" | $damage_projectile" value="2" >
+    <E key=" | $damage_projectile" value="3" >
+    </E>
+    <E key=" | kill sync" value="1" >
     </E>
     <E key="NULL | " value="8" >
     </E>
@@ -30,7 +32,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="6" >
     </E>
-    <E key="NULL | kill sync" value="7" >
+    <E key="NULL | kill sync" value="14" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -64,6 +66,8 @@
     </E>
     <E key="hisii_hobo | $damage_melee" value="46" >
     </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
+    </E>
     <E key="invisiman | $damage_melee" value="1" >
     </E>
     <E key="lukki_fungus | hit" value="2" >
@@ -96,7 +100,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="67" >
+    <E key="player | $damage_projectile" value="68" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>

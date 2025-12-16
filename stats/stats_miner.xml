@@ -1,6 +1,8 @@
-<Stats deaths="375" kills="81" player_kills="0" player_projectile_count="0" >
+<Stats deaths="399" kills="81" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="7" >
+    <E key=" | $damage_projectile" value="8" >
+    </E>
+    <E key=" | $spell_apotheosis_electrosphere_name" value="1" >
     </E>
     <E key=" | kill sync" value="1" >
     </E>
@@ -10,15 +12,15 @@
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="22" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
-    <E key="NULL | $damage_fire" value="34" >
+    <E key="NULL | $damage_fire" value="36" >
     </E>
-    <E key="NULL | $damage_physicshit" value="34" >
+    <E key="NULL | $damage_physicshit" value="36" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="30" >
+    <E key="NULL | $damage_radioactive" value="31" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -32,7 +34,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="5" >
     </E>
-    <E key="NULL | kill sync" value="1" >
+    <E key="NULL | kill sync" value="7" >
     </E>
     <E key="ant_fire | $damage_fire" value="1" >
     </E>
@@ -45,6 +47,8 @@
     <E key="firebug | $damage_melee" value="2" >
     </E>
     <E key="graham_miner_gasser | $damage_radioactive" value="1" >
+    </E>
+    <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="7" >
     </E>
@@ -62,13 +66,13 @@
     </E>
     <E key="player | $damage_explosion" value="15" >
     </E>
-    <E key="player | $damage_fire" value="10" >
+    <E key="player | $damage_fire" value="12" >
     </E>
     <E key="player | $damage_ice" value="5" >
     </E>
     <E key="player | $damage_melee" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="86" >
+    <E key="player | $damage_projectile" value="90" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -76,7 +80,11 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="player | kill sync" value="1" >
+    </E>
     <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>

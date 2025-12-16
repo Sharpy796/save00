@@ -1,6 +1,8 @@
-<Stats deaths="797" kills="61" player_kills="0" player_projectile_count="0" >
+<Stats deaths="820" kills="64" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_projectile" value="1" >
+    </E>
+    <E key=" | $spell_apotheosis_electrosphere_name" value="2" >
     </E>
     <E key=" | kill sync" value="5" >
     </E>
@@ -14,7 +16,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="69" >
     </E>
-    <E key="NULL | $damage_physicshit" value="22" >
+    <E key="NULL | $damage_physicshit" value="23" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -26,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: Water" value="37" >
     </E>
-    <E key="NULL | kill sync" value="3" >
+    <E key="NULL | kill sync" value="13" >
     </E>
     <E key="bat | $damage_melee" value="10" >
     </E>
@@ -58,11 +60,11 @@
     </E>
     <E key="player | $damage_explosion" value="21" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="7" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="203" >
+    <E key="player | $damage_projectile" value="205" >
     </E>
     <E key="player | $damage_rock_curse" value="48" >
     </E>
@@ -70,7 +72,7 @@
     </E>
     <E key="player | chop!" value="13" >
     </E>
-    <E key="player | kill sync" value="2" >
+    <E key="player | kill sync" value="6" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="2" >
     </E>
@@ -106,11 +108,13 @@
     </E>
     <E key="rat" value="11" >
     </E>
+    <E key="sheep" value="2" >
+    </E>
     <E key="shotgunner" value="3" >
     </E>
     <E key="slimeshooter" value="2" >
     </E>
-    <E key="whisp" value="20" >
+    <E key="whisp" value="21" >
     </E>
   </kill_map>
 </Stats>

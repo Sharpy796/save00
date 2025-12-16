@@ -1,14 +1,16 @@
-<Stats deaths="1287" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1370" kills="29" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="4" >
+    <E key=" | $damage_melee" value="1" >
     </E>
-    <E key=" | kill sync" value="4" >
+    <E key=" | $damage_projectile" value="9" >
+    </E>
+    <E key=" | kill sync" value="12" >
     </E>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="57" >
+    <E key="NULL | $damage_drowning" value="60" >
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
@@ -18,7 +20,7 @@
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="64" >
+    <E key="NULL | $damage_physicshit" value="70" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
@@ -38,7 +40,7 @@
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
-    <E key="NULL | kill sync" value="10" >
+    <E key="NULL | kill sync" value="39" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -51,6 +53,8 @@
     <E key="chainsawer | Minced!" value="6" >
     </E>
     <E key="conduit | $damage_melee" value="3" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="3" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
@@ -110,7 +114,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="494" >
+    <E key="player | $damage_projectile" value="501" >
     </E>
     <E key="player | $damage_rock_curse" value="45" >
     </E>
@@ -120,7 +124,7 @@
     </E>
     <E key="player | chop!" value="7" >
     </E>
-    <E key="player | kill sync" value="9" >
+    <E key="player | kill sync" value="29" >
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
@@ -144,7 +148,7 @@
     </E>
     <E key="slimeshooter_weak | $damage_explosion" value="2" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="4" >
+    <E key="slimeshooter_weak | $damage_projectile" value="5" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>

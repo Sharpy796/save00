@@ -1,16 +1,22 @@
-<Stats deaths="14" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="9" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="2" >
+    <E key=" | kill sync" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
     </E>
     <E key="NULL | $damage_projectile" value="8" >
     </E>
-    <E key="hisii_minecart_tnt | $damage_explosion" value="2" >
+    <E key="NULL | kill sync" value="2" >
+    </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_projectile" value="2" >
     </E>
   </death_map>
   <kill_map>
-    <E key="hisii_minecart_tnt" value="2" >
+    <E key="hisii_minecart_tnt" value="5" >
+    </E>
+    <E key="zombie" value="1" >
     </E>
     <E key="zombie_water" value="2" >
     </E>

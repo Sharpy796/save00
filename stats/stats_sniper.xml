@@ -1,4 +1,4 @@
-<Stats deaths="302" kills="213" player_kills="0" player_projectile_count="0" >
+<Stats deaths="320" kills="216" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,9 +8,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="34" >
+    <E key="NULL | $damage_explosion" value="36" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="16" >
     </E>
     <E key="NULL | $damage_physicshit" value="24" >
     </E>
@@ -26,6 +26,8 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
+    <E key="NULL | kill sync" value="6" >
+    </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
     <E key="flamer | $damage_explosion" value="3" >
@@ -40,6 +42,10 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
+    <E key="mudman_friendly | $damage_melee" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="2" >
+    </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_curse" value="3" >
@@ -48,19 +54,21 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="17" >
+    <E key="player | $damage_explosion" value="19" >
     </E>
-    <E key="player | $damage_fire" value="6" >
+    <E key="player | $damage_fire" value="7" >
     </E>
     <E key="player | $damage_ice" value="15" >
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="85" >
+    <E key="player | $damage_projectile" value="86" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
     <E key="player | $damage_slice" value="15" >
+    </E>
+    <E key="player | kill sync" value="1" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -84,6 +92,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
     <E key="bubble_liquid" value="3" >
     </E>
     <E key="drone_face" value="1" >
@@ -100,6 +110,8 @@
     </E>
     <E key="miniblob" value="7" >
     </E>
+    <E key="missilecrab" value="1" >
+    </E>
     <E key="pebble_physics" value="1" >
     </E>
     <E key="pollen" value="37" >
@@ -109,6 +121,8 @@
     <E key="scavenger_grenade" value="5" >
     </E>
     <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
     <E key="shotgunner" value="6" >
     </E>

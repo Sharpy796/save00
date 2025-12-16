@@ -1,5 +1,7 @@
-<Stats deaths="1300" kills="154" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1335" kills="157" player_kills="1" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="1" >
+    </E>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
@@ -8,13 +10,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="61" >
     </E>
-    <E key="NULL | $damage_explosion" value="128" >
+    <E key="NULL | $damage_explosion" value="132" >
     </E>
-    <E key="NULL | $damage_fire" value="34" >
+    <E key="NULL | $damage_fire" value="36" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="66" >
+    <E key="NULL | $damage_physicshit" value="67" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -38,9 +40,11 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="38" >
+    <E key="NULL | damage from material: freezing vapour" value="40" >
     </E>
     <E key="NULL | damage from material: toxic ice" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="10" >
     </E>
     <E key="bigzombie | $damage_explosion" value="5" >
     </E>
@@ -114,15 +118,15 @@
     </E>
     <E key="player | $damage_electricity" value="30" >
     </E>
-    <E key="player | $damage_explosion" value="118" >
+    <E key="player | $damage_explosion" value="119" >
     </E>
-    <E key="player | $damage_fire" value="14" >
+    <E key="player | $damage_fire" value="22" >
     </E>
     <E key="player | $damage_ice" value="15" >
     </E>
     <E key="player | $damage_melee" value="83" >
     </E>
-    <E key="player | $damage_projectile" value="387" >
+    <E key="player | $damage_projectile" value="389" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -133,6 +137,8 @@
     <E key="player | bzzt!" value="3" >
     </E>
     <E key="player | chop!" value="5" >
+    </E>
+    <E key="player | kill sync" value="4" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="4" >
     </E>
@@ -232,7 +238,7 @@
     </E>
     <E key="pollen" value="15" >
     </E>
-    <E key="rat" value="92" >
+    <E key="rat" value="95" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

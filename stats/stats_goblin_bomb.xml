@@ -1,5 +1,7 @@
-<Stats deaths="199" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="208" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="2" >
+    </E>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="2" >
@@ -12,7 +14,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="10" >
     </E>
-    <E key="NULL | $damage_radioactive" value="22" >
+    <E key="NULL | $damage_radioactive" value="23" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="29" >
     </E>
@@ -20,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
-    <E key="NULL | kill sync" value="1" >
+    <E key="NULL | kill sync" value="2" >
     </E>
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
@@ -46,13 +48,17 @@
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="40" >
+    <E key="player | $damage_projectile" value="42" >
     </E>
     <E key="player | $damage_rock_curse" value="9" >
     </E>
     <E key="player | $damage_slice" value="12" >
     </E>
     <E key="player | chop!" value="4" >
+    </E>
+    <E key="player | kill sync" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
@@ -64,7 +70,7 @@
     </E>
     <E key="goblin_bomb" value="3" >
     </E>
-    <E key="rat" value="13" >
+    <E key="rat" value="16" >
     </E>
     <E key="slimeshooter" value="1" >
     </E>

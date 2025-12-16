@@ -1,8 +1,10 @@
-<Stats deaths="638" kills="177" player_kills="3" player_projectile_count="0" >
+<Stats deaths="679" kills="181" player_kills="3" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="2" >
+    <E key=" | $damage_projectile" value="4" >
     </E>
-    <E key=" | kill sync" value="2" >
+    <E key=" | $spell_apotheosis_electrosphere_name" value="2" >
+    </E>
+    <E key=" | kill sync" value="6" >
     </E>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -16,9 +18,9 @@
     </E>
     <E key="NULL | $damage_fire" value="33" >
     </E>
-    <E key="NULL | $damage_physicshit" value="44" >
+    <E key="NULL | $damage_physicshit" value="46" >
     </E>
-    <E key="NULL | $damage_radioactive" value="53" >
+    <E key="NULL | $damage_radioactive" value="54" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -40,7 +42,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
-    <E key="NULL | kill sync" value="3" >
+    <E key="NULL | kill sync" value="17" >
     </E>
     <E key="ant_fire | $damage_melee" value="1" >
     </E>
@@ -62,7 +64,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="10" >
     </E>
-    <E key="iceskull | $damage_ice" value="2" >
+    <E key="iceskull | $damage_ice" value="3" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
@@ -72,15 +74,15 @@
     </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
-    <E key="player | $damage_explosion" value="37" >
+    <E key="player | $damage_explosion" value="39" >
     </E>
-    <E key="player | $damage_fire" value="9" >
+    <E key="player | $damage_fire" value="11" >
     </E>
-    <E key="player | $damage_ice" value="13" >
+    <E key="player | $damage_ice" value="14" >
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="178" >
+    <E key="player | $damage_projectile" value="179" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -88,7 +90,7 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
-    <E key="player | kill sync" value="1" >
+    <E key="player | kill sync" value="8" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -116,7 +118,7 @@
     </E>
     <E key="worm | worm bite" value="3" >
     </E>
-    <E key="worm_big | worm bite" value="3" >
+    <E key="worm_big | worm bite" value="5" >
     </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
@@ -144,13 +146,13 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="115" >
+    <E key="rat" value="118" >
     </E>
     <E key="scorpion" value="1" >
     </E>
     <E key="shotgunner" value="5" >
     </E>
-    <E key="slimeshooter" value="8" >
+    <E key="slimeshooter" value="9" >
     </E>
     <E key="thunderskull" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="45" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="46" kills="11" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
@@ -38,6 +38,8 @@
     </E>
     <E key="player | chop!" value="1" >
     </E>
+    <E key="player | kill sync" value="1" >
+    </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
     <E key="sniper | $damage_projectile" value="1" >
@@ -53,6 +55,10 @@
     <E key="invisiman" value="1" >
     </E>
     <E key="mimic_explosive_box" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
     </E>
     <E key="scavenger_plasma" value="1" >
     </E>

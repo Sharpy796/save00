@@ -1,8 +1,12 @@
-<Stats deaths="64" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="81" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $spell_apotheosis_electrosphere_name" value="6" >
+    </E>
+    <E key=" | kill sync" value="6" >
+    </E>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="12" >
+    <E key="NULL | $damage_explosion" value="13" >
     </E>
     <E key="NULL | $damage_fire" value="5" >
     </E>
@@ -14,7 +18,9 @@
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="31" >
+    <E key="player | $damage_projectile" value="32" >
+    </E>
+    <E key="player | kill sync" value="3" >
     </E>
   </death_map>
   <kill_map>

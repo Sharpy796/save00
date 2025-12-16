@@ -1,4 +1,4 @@
-<Stats deaths="800" kills="138" player_kills="1" player_projectile_count="0" >
+<Stats deaths="852" kills="145" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="19" >
     </E>
-    <E key="NULL | $damage_explosion" value="80" >
+    <E key="NULL | $damage_explosion" value="84" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="26" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="53" >
+    <E key="NULL | $damage_physicshit" value="55" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -30,7 +30,9 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="35" >
+    <E key="NULL | damage from material: freezing vapour" value="39" >
+    </E>
+    <E key="NULL | kill sync" value="16" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
@@ -72,6 +74,8 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="2" >
+    </E>
     <E key="phantom_b | $damage_projectile" value="1" >
     </E>
     <E key="player | " value="7" >
@@ -80,21 +84,23 @@
     </E>
     <E key="player | $damage_electricity" value="19" >
     </E>
-    <E key="player | $damage_explosion" value="77" >
+    <E key="player | $damage_explosion" value="78" >
     </E>
-    <E key="player | $damage_fire" value="16" >
+    <E key="player | $damage_fire" value="24" >
     </E>
     <E key="player | $damage_ice" value="6" >
     </E>
     <E key="player | $damage_melee" value="50" >
     </E>
-    <E key="player | $damage_projectile" value="228" >
+    <E key="player | $damage_projectile" value="235" >
     </E>
     <E key="player | $damage_rock_curse" value="7" >
     </E>
     <E key="player | $damage_slice" value="19" >
     </E>
     <E key="player | chop!" value="5" >
+    </E>
+    <E key="player | kill sync" value="7" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
@@ -144,7 +150,7 @@
   <kill_map>
     <E key="bigfirebug" value="1" >
     </E>
-    <E key="bubble_liquid" value="3" >
+    <E key="bubble_liquid" value="4" >
     </E>
     <E key="electric_bullet" value="1" >
     </E>
@@ -162,7 +168,7 @@
     </E>
     <E key="pollen" value="9" >
     </E>
-    <E key="rat" value="101" >
+    <E key="rat" value="105" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
@@ -171,6 +177,8 @@
     <E key="scavenger_smg" value="2" >
     </E>
     <E key="scorpion" value="1" >
+    </E>
+    <E key="sheep" value="2" >
     </E>
     <E key="thunderskull" value="2" >
     </E>

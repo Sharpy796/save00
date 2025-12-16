@@ -1,10 +1,10 @@
-<Stats deaths="281" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="288" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="30" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="player | $damage_explosion" value="16" >
     </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
     <E key="player | $damage_ice" value="6" >
     </E>
     <E key="player | $damage_melee" value="20" >
@@ -51,6 +53,8 @@
     <E key="player | $damage_slice" value="30" >
     </E>
     <E key="player | chop!" value="6" >
+    </E>
+    <E key="player | kill sync" value="1" >
     </E>
     <E key="shooterflower | $damage_projectile" value="7" >
     </E>
@@ -81,6 +85,8 @@
     <E key="miniblob" value="5" >
     </E>
     <E key="rat" value="3" >
+    </E>
+    <E key="sheep_fly" value="1" >
     </E>
     <E key="tentacler_small" value="2" >
     </E>

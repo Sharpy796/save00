@@ -1,14 +1,20 @@
-<Stats deaths="138" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="172" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="3" >
+    </E>
+    <E key=" | $spell_apotheosis_electrosphere_name" value="6" >
+    </E>
+    <E key=" | kill sync" value="15" >
+    </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="13" >
+    <E key="NULL | $damage_explosion" value="14" >
     </E>
     <E key="NULL | $damage_fire" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="7" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -21,6 +27,8 @@
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    </E>
+    <E key="NULL | kill sync" value="5" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -60,9 +68,13 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="player | kill sync" value="1" >
+    </E>
     <E key="shooterflower | $damage_projectile" value="4" >
     </E>
     <E key="slicing_blade | chop!" value="2" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
     </E>
     <E key="worm_fungal | worm bite" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="1015" kills="85" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1038" kills="85" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_projectile" value="2" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="153" >
+    <E key="NULL | $damage_explosion" value="156" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -17,6 +17,8 @@
     <E key="NULL | $damage_physicshit" value="43" >
     </E>
     <E key="NULL | $damage_projectile" value="7" >
+    </E>
+    <E key="NULL | kill sync" value="15" >
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
@@ -46,9 +48,9 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="55" >
+    <E key="player | $damage_explosion" value="56" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="5" >
     </E>
     <E key="player | $damage_ice" value="7" >
     </E>
@@ -63,6 +65,10 @@
     <E key="player | bzzt!" value="4" >
     </E>
     <E key="player | chop!" value="88" >
+    </E>
+    <E key="player | kill sync" value="1" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
