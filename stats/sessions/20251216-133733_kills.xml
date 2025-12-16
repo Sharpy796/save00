@@ -1,0 +1,14 @@
+<Stats deaths="0" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="" value="3" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,10 +1,10 @@
-<Stats deaths="427" kills="180" player_kills="0" player_projectile_count="0" >
+<Stats deaths="435" kills="188" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="5" >
+    <E key=" | $damage_projectile" value="7" >
     </E>
     <E key=" | $damage_slice" value="1" >
     </E>
-    <E key=" | kill sync" value="3" >
+    <E key=" | kill sync" value="4" >
     </E>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="29" >
     </E>
-    <E key="NULL | $damage_fire" value="40" >
+    <E key="NULL | $damage_fire" value="42" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="4" >
     </E>
-    <E key="NULL | kill sync" value="17" >
+    <E key="NULL | kill sync" value="18" >
     </E>
     <E key="acidshooter | $damage_melee" value="1" >
     </E>
@@ -46,11 +46,11 @@
     </E>
     <E key="firemage_weak | $damage_projectile" value="1" >
     </E>
-    <E key="longleg | $damage_melee" value="4" >
+    <E key="longleg | $damage_melee" value="5" >
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="6" >
+    <E key="miner_weak | $damage_explosion" value="7" >
     </E>
     <E key="miner_weak | $damage_melee" value="1" >
     </E>
@@ -94,13 +94,13 @@
     </E>
     <E key="miner_santa" value="1" >
     </E>
-    <E key="miner_weak" value="7" >
+    <E key="miner_weak" value="8" >
     </E>
     <E key="mutant2" value="1" >
     </E>
     <E key="poring" value="2" >
     </E>
-    <E key="shotgunner_weak" value="3" >
+    <E key="shotgunner_weak" value="4" >
     </E>
     <E key="skeleton" value="9" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="zombie_water" value="8" >
     </E>
-    <E key="zombie_weak" value="96" >
+    <E key="zombie_weak" value="102" >
     </E>
   </kill_map>
 </Stats>

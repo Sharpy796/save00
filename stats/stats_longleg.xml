@@ -1,8 +1,8 @@
-<Stats deaths="1370" kills="29" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1386" kills="30" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_melee" value="1" >
     </E>
-    <E key=" | $damage_projectile" value="9" >
+    <E key=" | $damage_projectile" value="11" >
     </E>
     <E key=" | kill sync" value="12" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="60" >
+    <E key="NULL | $damage_drowning" value="62" >
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
-    <E key="NULL | kill sync" value="39" >
+    <E key="NULL | kill sync" value="42" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -78,6 +78,8 @@
     </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="6" >
+    </E>
     <E key="kantele_d | " value="4" >
     </E>
     <E key="longleg | $damage_melee" value="3" >
@@ -114,7 +116,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="501" >
+    <E key="player | $damage_projectile" value="504" >
     </E>
     <E key="player | $damage_rock_curse" value="45" >
     </E>
@@ -168,7 +170,7 @@
   <kill_map>
     <E key="longleg" value="3" >
     </E>
-    <E key="miner_weak" value="4" >
+    <E key="miner_weak" value="5" >
     </E>
     <E key="player" value="1" >
     </E>
