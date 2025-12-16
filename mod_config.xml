@@ -99,7 +99,7 @@
   </Mod>
   <Mod enabled="0" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
-  <Mod enabled="1" name="Apotheosis" settings_fold_open="0" workshop_item_id="3032128572" >
+  <Mod enabled="0" name="Apotheosis" settings_fold_open="0" workshop_item_id="3032128572" >
   </Mod>
   <Mod enabled="0" name="moldos_arsenal" settings_fold_open="0" workshop_item_id="3358063295" >
   </Mod>
@@ -113,9 +113,11 @@
   </Mod>
   <Mod enabled="0" name="Copis_Connection_Alert" settings_fold_open="0" workshop_item_id="2902285009" >
   </Mod>
-  <Mod enabled="0" name="config_lib" settings_fold_open="0" workshop_item_id="2287710542" >
+  <Mod enabled="1" name="config_lib" settings_fold_open="0" workshop_item_id="2287710542" >
   </Mod>
-  <Mod enabled="0" name="twitch_extended" settings_fold_open="0" workshop_item_id="2258441901" >
+  <Mod enabled="1" name="twitch_extended" settings_fold_open="0" workshop_item_id="2258441901" >
+  </Mod>
+  <Mod enabled="1" name="twitch_extended_chat_ping_sound" settings_fold_open="0" workshop_item_id="3561659127" >
   </Mod>
   <Mod enabled="0" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -180,5 +182,11 @@
   <Mod enabled="0" name="Fungal_Pain" settings_fold_open="0" workshop_item_id="3453539421" >
   </Mod>
   <Mod enabled="0" name="copi.gctroll" settings_fold_open="0" workshop_item_id="3473668545" >
+  </Mod>
+  <Mod enabled="0" name="safer_polymorphing" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="gkbrkn_noita" settings_fold_open="0" workshop_item_id="1975079109" >
+  </Mod>
+  <Mod enabled="0" name="larpa_bounce_debugger" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>
