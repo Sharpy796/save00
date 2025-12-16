@@ -1,16 +1,16 @@
-<Stats deaths="358" kills="93" player_kills="0" player_projectile_count="0" >
+<Stats deaths="388" kills="99" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
-    <E key="NULL | $damage_drowning" value="24" >
+    <E key="NULL | $damage_drowning" value="26" >
     </E>
-    <E key="NULL | $damage_electricity" value="2" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="16" >
+    <E key="NULL | $damage_explosion" value="17" >
     </E>
-    <E key="NULL | $damage_fire" value="52" >
+    <E key="NULL | $damage_fire" value="56" >
     </E>
-    <E key="NULL | $damage_physicshit" value="29" >
+    <E key="NULL | $damage_physicshit" value="36" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="4" >
     </E>
-    <E key="NULL | damage from material: lava" value="5" >
+    <E key="NULL | damage from material: lava" value="6" >
     </E>
     <E key="bat | $damage_melee" value="1" >
     </E>
@@ -54,19 +54,23 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="72" >
+    <E key="player | $damage_projectile" value="81" >
     </E>
     <E key="player | $damage_slice" value="24" >
     </E>
     <E key="player_rng_items | $damage_drill" value="1" >
     </E>
+    <E key="player_rng_items | $damage_explosion" value="2" >
+    </E>
     <E key="player_rng_items | $damage_ice" value="1" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="16" >
+    <E key="player_rng_items | $damage_projectile" value="17" >
     </E>
     <E key="player_rng_items | $damage_slice" value="1" >
     </E>
     <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_heal | $damage_projectile" value="1" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
@@ -82,15 +86,15 @@
     </E>
     <E key="bigfirebug" value="1" >
     </E>
-    <E key="firebug" value="6" >
+    <E key="firebug" value="7" >
     </E>
     <E key="miner" value="8" >
     </E>
-    <E key="rat" value="52" >
+    <E key="rat" value="56" >
     </E>
     <E key="root_grower" value="1" >
     </E>
-    <E key="scavenger_heal" value="1" >
+    <E key="scavenger_heal" value="2" >
     </E>
     <E key="shotgunner" value="6" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="88" kills="96" player_kills="0" player_projectile_count="0" >
+<Stats deaths="93" kills="100" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="10" >
     </E>
@@ -10,13 +10,13 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="5" >
+    <E key="player | $damage_explosion" value="7" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="55" >
+    <E key="player | $damage_projectile" value="57" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -29,6 +29,8 @@
     <E key="tentacler | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
@@ -46,17 +48,17 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="26" >
+    <E key="rat" value="28" >
     </E>
     <E key="scavenger_glue" value="4" >
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
-    <E key="scavenger_smg" value="11" >
+    <E key="scavenger_smg" value="12" >
     </E>
     <E key="scorpion" value="3" >
     </E>
-    <E key="slimeshooter" value="5" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="slimeshooter_nontoxic" value="1" >
     </E>

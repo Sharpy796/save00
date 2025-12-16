@@ -1,4 +1,4 @@
-<Stats deaths="152" kills="30" player_kills="1" player_projectile_count="0" >
+<Stats deaths="155" kills="30" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="27" >
     </E>
-    <E key="assassin | $damage_melee" value="1" >
+    <E key="assassin | $damage_melee" value="2" >
     </E>
     <E key="bloodcrystal_physics | $damage_projectile" value="1" >
     </E>
@@ -38,6 +38,8 @@
     </E>
     <E key="lukki_tentacle_hungry | $damage_projectile" value="2" >
     </E>
+    <E key="missilecrab | $damage_explosion" value="1" >
+    </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
     <E key="player | $damage_drill" value="1" >
@@ -46,7 +48,7 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="40" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="102" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="116" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,11 +6,11 @@
     </E>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="5" >
+    <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="21" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="3" >
+    <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>
-    <E key="miner | $damage_explosion" value="1" >
+    <E key="miner | $damage_explosion" value="2" >
     </E>
     <E key="player | " value="1" >
     </E>
@@ -42,13 +42,13 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="18" >
+    <E key="player | $damage_projectile" value="22" >
     </E>
     <E key="player_rng_items | $damage_ice" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    <E key="scavenger_grenade | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_heal | $damage_explosion" value="1" >
     </E>
@@ -66,7 +66,11 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="miner" value="1" >
+    </E>
     <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
     </E>
   </kill_map>
 </Stats>

@@ -1,20 +1,20 @@
-<Stats deaths="345" kills="125" player_kills="1" player_projectile_count="0" >
+<Stats deaths="380" kills="134" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="3" >
+    <E key="NULL | $damage_drowning" value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="55" >
+    <E key="NULL | $damage_explosion" value="58" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_fire" value="15" >
     </E>
     <E key="NULL | $damage_physicshit" value="11" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="3" >
+    <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="6" >
     </E>
@@ -48,19 +48,19 @@
     </E>
     <E key="player | " value="7" >
     </E>
-    <E key="player | $damage_electricity" value="1" >
+    <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="15" >
+    <E key="player | $damage_explosion" value="16" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="83" >
+    <E key="player | $damage_projectile" value="92" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
-    <E key="player_rng_items | $damage_explosion" value="1" >
+    <E key="player_rng_items | $damage_explosion" value="2" >
     </E>
-    <E key="player_rng_items | $damage_projectile" value="14" >
+    <E key="player_rng_items | $damage_projectile" value="20" >
     </E>
     <E key="rat | $damage_melee" value="5" >
     </E>
@@ -72,11 +72,11 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="12" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="4" >
+    <E key="slimeshooter | $damage_explosion" value="7" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="25" >
+    <E key="sniper | $damage_projectile" value="27" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
@@ -85,6 +85,8 @@
     <E key="tentacler | $damage_melee" value="1" >
     </E>
     <E key="thundermage | $damage_electricity" value="5" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
     </E>
     <E key="wizard_swapper | $damage_explosion" value="1" >
     </E>
@@ -126,19 +128,21 @@
     </E>
     <E key="radioactive_blob_trail" value="4" >
     </E>
-    <E key="rat" value="83" >
+    <E key="rat" value="86" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="shotgunner" value="5" >
+    <E key="shotgunner" value="6" >
     </E>
-    <E key="slimeshooter" value="4" >
+    <E key="slimeshooter" value="7" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
     </E>
     <E key="wizard_dark" value="2" >
     </E>
-    <E key="zombie" value="3" >
+    <E key="zombie" value="4" >
     </E>
   </kill_map>
 </Stats>
