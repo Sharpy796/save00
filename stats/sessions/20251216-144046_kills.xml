@@ -1,0 +1,134 @@
+<Stats deaths="0" kills="2485" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="" value="913" >
+    </E>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="blob" value="327" >
+    </E>
+    <E key="blob_big" value="42" >
+    </E>
+    <E key="blob_huge" value="5" >
+    </E>
+    <E key="blob_mini" value="981" >
+    </E>
+    <E key="blob_titan" value="1" >
+    </E>
+    <E key="bloom" value="3" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="cat_mocreeps" value="1" >
+    </E>
+    <E key="ceiling_fungus" value="3" >
+    </E>
+    <E key="ceiling_fungus_minion" value="5" >
+    </E>
+    <E key="coward" value="3" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="dripping_water_heavy" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="fungus_big" value="1" >
+    </E>
+    <E key="fungus_smoking_creep" value="1" >
+    </E>
+    <E key="hideous_mass" value="2" >
+    </E>
+    <E key="hisii_engineer" value="3" >
+    </E>
+    <E key="hisii_minecart_tnt" value="2" >
+    </E>
+    <E key="hisii_rocketshotgun" value="2" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_eggs" value="1" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miniblob" value="14" >
+    </E>
+    <E key="missilecrab" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="8" >
+    </E>
+    <E key="physics_torch_stand_blue" value="2" >
+    </E>
+    <E key="poisonmushroom" value="1" >
+    </E>
+    <E key="poring_magic" value="1" >
+    </E>
+    <E key="propane_tank" value="1" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="root_grower" value="2" >
+    </E>
+    <E key="root_grower_branch" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="scorpion" value="4" >
+    </E>
+    <E key="seeker" value="6" >
+    </E>
+    <E key="sentry" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="slime_leaker" value="1" >
+    </E>
+    <E key="slimeshooter_boss_limbs" value="3" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="2" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_big" value="1" >
+    </E>
+    <E key="tentacler_small" value="104" >
+    </E>
+    <E key="waterskull" value="1" >
+    </E>
+    <E key="wizard_ambrosia" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+  </kill_map>
+</Stats>

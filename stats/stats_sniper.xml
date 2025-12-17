@@ -1,14 +1,14 @@
-<Stats deaths="320" kills="216" player_kills="0" player_projectile_count="0" >
+<Stats deaths="323" kills="216" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="4" >
     </E>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="36" >
+    <E key="NULL | $damage_explosion" value="37" >
     </E>
     <E key="NULL | $damage_fire" value="16" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="NULL | kill sync" value="6" >
+    <E key="NULL | kill sync" value="7" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
     </E>

@@ -1,5 +1,7 @@
-<Stats deaths="156" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="159" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="2" >
+    </E>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
@@ -28,7 +30,7 @@
     </E>
     <E key="player | $damage_electricity" value="7" >
     </E>
-    <E key="player | $damage_explosion" value="19" >
+    <E key="player | $damage_explosion" value="20" >
     </E>
     <E key="player | $damage_hitfx_curse" value="8" >
     </E>

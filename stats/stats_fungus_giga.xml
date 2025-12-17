@@ -1,10 +1,12 @@
-<Stats deaths="24" kills="9" player_kills="0" player_projectile_count="0" >
+<Stats deaths="27" kills="12" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="7" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
@@ -24,15 +26,17 @@
   <kill_map>
     <E key="ant" value="1" >
     </E>
-    <E key="blob" value="2" >
+    <E key="blob" value="3" >
     </E>
     <E key="blob_mini" value="2" >
+    </E>
+    <E key="ceiling_fungus_minion" value="1" >
     </E>
     <E key="fairy_big_discord" value="1" >
     </E>
     <E key="frog_big" value="1" >
     </E>
-    <E key="miniblob" value="1" >
+    <E key="miniblob" value="2" >
     </E>
     <E key="pollen" value="1" >
     </E>

@@ -1,16 +1,24 @@
-<Stats deaths="2925" kills="26" player_kills="0" player_projectile_count="0" >
+<Stats deaths="5385" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="117" >
+    <E key=" | $damage_projectile" value="75" >
     </E>
-    <E key="NULL | $damage_electricity" value="25" >
+    <E key=" | $damage_slice" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="81" >
+    <E key=" | kill sync" value="35" >
     </E>
-    <E key="NULL | $damage_physicshit" value="102" >
+    <E key="NULL | $damage_drowning" value="444" >
+    </E>
+    <E key="NULL | $damage_electricity" value="29" >
+    </E>
+    <E key="NULL | $damage_explosion" value="103" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="131" >
     </E>
     <E key="NULL | $damage_projectile" value="38" >
     </E>
-    <E key="NULL | kill sync" value="6" >
+    <E key="NULL | $status_apotheosis_hex_water_name" value="102" >
+    </E>
+    <E key="NULL | kill sync" value="224" >
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
@@ -40,7 +48,7 @@
     </E>
     <E key="ice_ball_ray_enemy | $damage_explosion" value="2" >
     </E>
-    <E key="lukki_fungus | hit" value="266" >
+    <E key="lukki_fungus | hit" value="278" >
     </E>
     <E key="mudman_friendly | $damage_melee" value="5" >
     </E>
@@ -50,9 +58,9 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="140" >
+    <E key="player | $damage_explosion" value="1050" >
     </E>
-    <E key="player | $damage_fire" value="27" >
+    <E key="player | $damage_fire" value="28" >
     </E>
     <E key="player | $damage_hitfx_curse" value="1" >
     </E>
@@ -60,7 +68,7 @@
     </E>
     <E key="player | $damage_melee" value="94" >
     </E>
-    <E key="player | $damage_projectile" value="879" >
+    <E key="player | $damage_projectile" value="949" >
     </E>
     <E key="player | $damage_rock_curse" value="391" >
     </E>
@@ -69,6 +77,10 @@
     <E key="player | bzzt!" value="58" >
     </E>
     <E key="player | chop!" value="475" >
+    </E>
+    <E key="player | kill sync" value="649" >
+    </E>
+    <E key="roboguard | $damage_melee" value="5" >
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>

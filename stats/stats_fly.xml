@@ -1,5 +1,7 @@
-<Stats deaths="288" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="307" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="5" >
+    </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
@@ -15,6 +17,8 @@
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="10" >
     </E>
     <E key="acidshooter | $damage_projectile" value="2" >
     </E>
@@ -38,7 +42,7 @@
     </E>
     <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="16" >
+    <E key="player | $damage_explosion" value="17" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -66,7 +70,7 @@
     </E>
     <E key="spider | $damage_explosion" value="1" >
     </E>
-    <E key="tentacler_small | $damage_melee" value="1" >
+    <E key="tentacler_small | $damage_melee" value="4" >
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
     </E>

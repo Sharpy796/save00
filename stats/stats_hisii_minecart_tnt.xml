@@ -1,4 +1,4 @@
-<Stats deaths="21" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="23" kills="19" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key=" | kill sync" value="1" >
     </E>
@@ -10,19 +10,25 @@
     </E>
     <E key="hisii_minecart_tnt | $damage_explosion" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="2" >
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
     </E>
   </death_map>
   <kill_map>
+    <E key="goo_slug" value="1" >
+    </E>
     <E key="hisii_minecart_tnt" value="5" >
     </E>
     <E key="longleg" value="6" >
+    </E>
+    <E key="tentacler_small" value="2" >
     </E>
     <E key="zombie" value="1" >
     </E>
     <E key="zombie_water" value="2" >
     </E>
-    <E key="zombie_weak" value="1" >
+    <E key="zombie_weak" value="2" >
     </E>
   </kill_map>
 </Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="807" kills="19" player_kills="1" player_projectile_count="0" >
+<Stats deaths="808" kills="19" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_projectile" value="10" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="hiisi_thief | $damage_melee" value="1" >
     </E>
-    <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
+    <E key="hisii_minecart_tnt | $damage_explosion" value="2" >
     </E>
     <E key="longleg | $damage_melee" value="12" >
     </E>

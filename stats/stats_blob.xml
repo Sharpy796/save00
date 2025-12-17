@@ -1,6 +1,8 @@
-<Stats deaths="1038" kills="85" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1623" kills="88" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="2" >
+    <E key=" | $damage_projectile" value="9" >
+    </E>
+    <E key=" | kill sync" value="13" >
     </E>
     <E key="NULL | " value="1" >
     </E>
@@ -8,17 +10,19 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="156" >
+    <E key="NULL | $damage_explosion" value="172" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
     <E key="NULL | $damage_holy" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="43" >
+    <E key="NULL | $damage_physicshit" value="46" >
     </E>
     <E key="NULL | $damage_projectile" value="7" >
     </E>
-    <E key="NULL | kill sync" value="15" >
+    <E key="NULL | $status_apotheosis_hex_water_name" value="12" >
+    </E>
+    <E key="NULL | kill sync" value="31" >
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
@@ -34,11 +38,11 @@
     </E>
     <E key="frog_big | $damage_melee" value="1" >
     </E>
-    <E key="fungus_giga | $damage_projectile" value="2" >
+    <E key="fungus_giga | $damage_projectile" value="3" >
     </E>
     <E key="fungus_tiny | $damage_melee" value="3" >
     </E>
-    <E key="lukki_fungus | hit" value="56" >
+    <E key="lukki_fungus | hit" value="58" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -48,15 +52,15 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="56" >
+    <E key="player | $damage_explosion" value="354" >
     </E>
-    <E key="player | $damage_fire" value="5" >
+    <E key="player | $damage_fire" value="13" >
     </E>
     <E key="player | $damage_ice" value="7" >
     </E>
     <E key="player | $damage_melee" value="32" >
     </E>
-    <E key="player | $damage_projectile" value="300" >
+    <E key="player | $damage_projectile" value="321" >
     </E>
     <E key="player | $damage_rock_curse" value="102" >
     </E>
@@ -66,9 +70,9 @@
     </E>
     <E key="player | chop!" value="88" >
     </E>
-    <E key="player | kill sync" value="1" >
+    <E key="player | kill sync" value="188" >
     </E>
-    <E key="roboguard | $damage_melee" value="1" >
+    <E key="roboguard | $damage_melee" value="2" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="1" >
     </E>
@@ -104,11 +108,13 @@
     </E>
     <E key="blob_mini" value="1" >
     </E>
-    <E key="ceiling_fungus_minion" value="5" >
+    <E key="ceiling_fungus_minion" value="6" >
     </E>
     <E key="fish" value="2" >
     </E>
-    <E key="fungus_tiny" value="7" >
+    <E key="fungus_giga" value="1" >
+    </E>
+    <E key="fungus_tiny" value="8" >
     </E>
     <E key="longleg" value="1" >
     </E>

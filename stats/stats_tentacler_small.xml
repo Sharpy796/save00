@@ -1,28 +1,40 @@
-<Stats deaths="150" kills="37" player_kills="0" player_projectile_count="0" >
+<Stats deaths="765" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_explosion" value="1" >
+    </E>
+    <E key=" | $damage_projectile" value="131" >
+    </E>
+    <E key=" | kill sync" value="58" >
+    </E>
     <E key="NULL | " value="4" >
+    </E>
+    <E key="NULL | $damage_drowning" value="21" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="14" >
+    <E key="NULL | $damage_explosion" value="110" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="69" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="17" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="20" >
+    </E>
+    <E key="NULL | $status_apotheosis_hex_water_name" value="37" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="2" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: Water" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
     </E>
     <E key="NULL | damage from material: lava" value="3" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="4" >
     </E>
-    <E key="NULL | kill sync" value="3" >
+    <E key="NULL | kill sync" value="36" >
     </E>
     <E key="assassin | $damage_projectile" value="1" >
     </E>
@@ -31,6 +43,8 @@
     <E key="firemage | $damage_explosion" value="1" >
     </E>
     <E key="fly | $damage_melee" value="2" >
+    </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="2" >
     </E>
     <E key="iceskull | $damage_ice" value="1" >
     </E>
@@ -44,19 +58,21 @@
     </E>
     <E key="player | " value="2" >
     </E>
-    <E key="player | $damage_fire" value="2" >
+    <E key="player | $damage_explosion" value="16" >
+    </E>
+    <E key="player | $damage_fire" value="44" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="40" >
+    <E key="player | $damage_projectile" value="86" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
-    <E key="player | kill sync" value="1" >
+    <E key="player | kill sync" value="37" >
     </E>
     <E key="rat | $damage_melee" value="1" >
     </E>
@@ -90,17 +106,21 @@
   <kill_map>
     <E key="bigzombie" value="1" >
     </E>
+    <E key="cat_mocreeps_skateboard" value="1" >
+    </E>
     <E key="ceiling_fungus_minion" value="1" >
     </E>
-    <E key="fly" value="1" >
+    <E key="fly" value="4" >
     </E>
     <E key="fungus" value="1" >
     </E>
     <E key="longleg" value="1" >
     </E>
+    <E key="lukki_longleg" value="2" >
+    </E>
     <E key="rat" value="18" >
     </E>
-    <E key="scorpion" value="7" >
+    <E key="scorpion" value="8" >
     </E>
     <E key="skullfly" value="1" >
     </E>

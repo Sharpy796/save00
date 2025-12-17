@@ -1,6 +1,6 @@
-<Stats deaths="73" kills="35" player_kills="0" player_projectile_count="0" >
+<Stats deaths="77" kills="41" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | kill sync" value="1" >
+    <E key=" | kill sync" value="3" >
     </E>
     <E key="NULL | " value="1" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) concentrated mana" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="2" >
     </E>
     <E key="NULL | damage from material: concentrated mana" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="34" >
+    <E key="player | $damage_projectile" value="35" >
     </E>
   </death_map>
   <kill_map>
@@ -38,7 +38,9 @@
     </E>
     <E key="bat" value="1" >
     </E>
-    <E key="blob" value="1" >
+    <E key="blob" value="2" >
+    </E>
+    <E key="blob_mini" value="5" >
     </E>
     <E key="conduit" value="2" >
     </E>

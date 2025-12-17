@@ -1,4 +1,4 @@
-<Stats deaths="185" kills="44" player_kills="0" player_projectile_count="0" >
+<Stats deaths="189" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="24" >
+    <E key="NULL | $damage_explosion" value="25" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
-    <E key="wizard_corrupt_hearty | $damage_projectile" value="1" >
+    <E key="wizard_corrupt_hearty | $damage_projectile" value="2" >
     </E>
     <E key="wizard_corrupt_weaken | $damage_projectile" value="3" >
     </E>

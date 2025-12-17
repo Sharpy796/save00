@@ -1,20 +1,24 @@
-<Stats deaths="105" kills="28" player_kills="0" player_projectile_count="0" >
+<Stats deaths="120" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="3" >
+    </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="10" >
     </E>
-    <E key="NULL | $damage_fire" value="17" >
+    <E key="NULL | $damage_fire" value="18" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) poison gas" value="3" >
+    </E>
+    <E key="NULL | kill sync" value="1" >
     </E>
     <E key="boss_pit | $damage_projectile" value="2" >
     </E>
@@ -26,17 +30,19 @@
     </E>
     <E key="player | $damage_drill" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="6" >
+    <E key="player | $damage_explosion" value="8" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="28" >
+    <E key="player | $damage_projectile" value="29" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
     <E key="player | chop!" value="2" >
+    </E>
+    <E key="player | kill sync" value="2" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="1" >
     </E>

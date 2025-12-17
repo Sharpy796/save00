@@ -1,12 +1,14 @@
-<Stats deaths="429" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="451" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | kill sync" value="1" >
+    </E>
     <E key="NULL | " value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="159" >
+    <E key="NULL | $damage_explosion" value="171" >
     </E>
-    <E key="NULL | $damage_fire" value="62" >
+    <E key="NULL | $damage_fire" value="67" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_physicshit" value="11" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
@@ -16,7 +18,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="9" >
     </E>
-    <E key="NULL | kill sync" value="6" >
+    <E key="NULL | kill sync" value="8" >
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
@@ -40,7 +42,7 @@
     </E>
     <E key="player | $damage_explosion" value="38" >
     </E>
-    <E key="player | $damage_fire" value="16" >
+    <E key="player | $damage_fire" value="17" >
     </E>
     <E key="player | $damage_ice" value="10" >
     </E>

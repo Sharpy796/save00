@@ -1,6 +1,6 @@
-<Stats deaths="119" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="122" kills="13" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | kill sync" value="2" >
+    <E key=" | kill sync" value="3" >
     </E>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
-    <E key="NULL | kill sync" value="8" >
+    <E key="NULL | kill sync" value="10" >
     </E>
     <E key="ant | $damage_melee" value="2" >
     </E>
@@ -70,7 +70,7 @@
     </E>
     <E key="frog" value="1" >
     </E>
-    <E key="rat" value="6" >
+    <E key="rat" value="9" >
     </E>
     <E key="zombie" value="2" >
     </E>
