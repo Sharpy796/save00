@@ -1,8 +1,8 @@
-<Stats deaths="780" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="829" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="1" >
+    <E key=" | $damage_projectile" value="9" >
     </E>
-    <E key=" | kill sync" value="15" >
+    <E key=" | kill sync" value="26" >
     </E>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
@@ -10,7 +10,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="91" >
     </E>
-    <E key="NULL | $damage_physicshit" value="13" >
+    <E key="NULL | $damage_fire" value="8" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="14" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="47" >
     </E>
@@ -22,13 +24,17 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) slime" value="1" >
     </E>
-    <E key="NULL | damage from material: Water" value="3" >
+    <E key="NULL | damage from material: Water" value="4" >
     </E>
     <E key="NULL | damage from material: lava" value="7" >
     </E>
-    <E key="NULL | kill sync" value="46" >
+    <E key="NULL | damage from material: slime" value="2" >
+    </E>
+    <E key="NULL | kill sync" value="59" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="7" >
+    </E>
+    <E key="fairy_giant | $damage_projectile" value="2" >
     </E>
     <E key="firebug | $damage_fire" value="11" >
     </E>
@@ -69,6 +75,8 @@
     <E key="tank_fire2 | $damage_explosion" value="1" >
     </E>
     <E key="triangle_gem | $damage_projectile" value="3" >
+    </E>
+    <E key="watermage_greater | $damage_explosion" value="3" >
     </E>
   </death_map>
   <kill_map>

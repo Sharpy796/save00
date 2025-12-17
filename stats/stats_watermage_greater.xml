@@ -1,12 +1,28 @@
-<Stats deaths="0" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="6" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="3" >
+    </E>
+    <E key=" | kill sync" value="2" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="1" >
+    </E>
   </death_map>
   <kill_map>
+    <E key="ant_fire" value="2" >
+    </E>
+    <E key="ant_suffocate" value="3" >
+    </E>
+    <E key="apotheosis_ant_eggs" value="10" >
+    </E>
     <E key="basebot_sentry" value="1" >
     </E>
     <E key="mudman_friendly" value="3" >
     </E>
     <E key="pollen" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="whisp" value="3" >
     </E>
   </kill_map>
 </Stats>

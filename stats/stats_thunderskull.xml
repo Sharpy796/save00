@@ -1,12 +1,16 @@
-<Stats deaths="189" kills="44" player_kills="0" player_projectile_count="0" >
+<Stats deaths="205" kills="45" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="2" >
+    </E>
+    <E key=" | kill sync" value="5" >
+    </E>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="25" >
+    <E key="NULL | $damage_explosion" value="26" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -20,7 +24,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="28" >
     </E>
-    <E key="NULL | kill sync" value="1" >
+    <E key="NULL | kill sync" value="2" >
     </E>
     <E key="assassin | $damage_melee" value="1" >
     </E>
@@ -34,6 +38,8 @@
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="1" >
     </E>
+    <E key="enlightened_alchemist | $damage_projectile" value="1" >
+    </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
     </E>
     <E key="gazer | $damage_projectile" value="3" >
@@ -44,7 +50,7 @@
     </E>
     <E key="lukki_red | hit" value="1" >
     </E>
-    <E key="lukki_tentacle_hungry | $damage_projectile" value="3" >
+    <E key="lukki_tentacle_hungry | $damage_projectile" value="4" >
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
@@ -54,11 +60,13 @@
     </E>
     <E key="player | $damage_melee" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="51" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
     <E key="player | $damage_rock_curse" value="6" >
     </E>
     <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="player | kill sync" value="2" >
     </E>
     <E key="scavenger_electrocuter2 | $damage_melee" value="1" >
     </E>
@@ -106,7 +114,7 @@
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="scorpion" value="9" >
+    <E key="scorpion" value="10" >
     </E>
     <E key="seeker" value="1" >
     </E>

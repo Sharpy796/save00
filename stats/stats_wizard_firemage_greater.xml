@@ -1,12 +1,32 @@
-<Stats deaths="4" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="13" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_projectile" value="4" >
+    </E>
+    <E key=" | kill sync" value="5" >
+    </E>
     <E key="player | $damage_projectile" value="4" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ant" value="1" >
+    </E>
+    <E key="apotheosis_ant_eggs" value="3" >
+    </E>
     <E key="lavashot_BoC_weak" value="5" >
     </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
     <E key="scorpion" value="1" >
+    </E>
+    <E key="wand_ghost" value="1" >
+    </E>
+    <E key="whisp_big_dash" value="1" >
+    </E>
+    <E key="whisp_big_dash_planes" value="1" >
+    </E>
+    <E key="whisp_fast" value="3" >
     </E>
   </kill_map>
 </Stats>

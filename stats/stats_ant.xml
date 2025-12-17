@@ -1,22 +1,26 @@
-<Stats deaths="85" kills="31" player_kills="0" player_projectile_count="0" >
+<Stats deaths="149" kills="31" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="18" >
     </E>
     <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | $damage_fire" value="18" >
+    <E key="NULL | $damage_fire" value="31" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
     </E>
-    <E key="NULL | $damage_projectile" value="1" >
+    <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | kill sync" value="6" >
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="NULL | kill sync" value="39" >
+    </E>
+    <E key="devourer_magic | Manan syöjä's bite" value="1" >
     </E>
     <E key="fungus_giga | $damage_melee" value="1" >
     </E>
@@ -45,6 +49,8 @@
     <E key="roboguard | $damage_melee" value="2" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_firemage_greater | $damage_fire" value="1" >
     </E>
   </death_map>
   <kill_map>

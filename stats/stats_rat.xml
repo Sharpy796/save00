@@ -1,24 +1,24 @@
-<Stats deaths="2194" kills="54" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2309" kills="54" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key=" | $damage_projectile" value="1" >
+    <E key=" | $damage_projectile" value="2" >
     </E>
-    <E key=" | kill sync" value="6" >
+    <E key=" | kill sync" value="9" >
     </E>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="97" >
     </E>
-    <E key="NULL | $damage_drowning" value="56" >
+    <E key="NULL | $damage_drowning" value="64" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
-    <E key="NULL | $damage_explosion" value="144" >
+    <E key="NULL | $damage_explosion" value="147" >
     </E>
-    <E key="NULL | $damage_fire" value="63" >
+    <E key="NULL | $damage_fire" value="67" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="72" >
+    <E key="NULL | $damage_physicshit" value="73" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="14" >
     </E>
-    <E key="NULL | kill sync" value="68" >
+    <E key="NULL | kill sync" value="135" >
     </E>
     <E key="acidshooter | $damage_projectile" value="4" >
     </E>
@@ -54,13 +54,13 @@
     </E>
     <E key="ant | $damage_melee" value="6" >
     </E>
-    <E key="ant_fire | $damage_fire" value="10" >
+    <E key="ant_fire | $damage_fire" value="15" >
     </E>
-    <E key="ant_fire | $damage_melee" value="2" >
+    <E key="ant_fire | $damage_melee" value="6" >
     </E>
     <E key="ant_pheromone | $damage_melee" value="2" >
     </E>
-    <E key="ant_suffocate | $damage_melee" value="1" >
+    <E key="ant_suffocate | $damage_melee" value="2" >
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
@@ -83,6 +83,8 @@
     <E key="bluemancer | $damage_melee" value="1" >
     </E>
     <E key="boss_dragon | $damage_projectile" value="1" >
+    </E>
+    <E key="devourer_magic | Manan syöjä's bite" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="5" >
     </E>
@@ -120,7 +122,7 @@
     </E>
     <E key="giant | $damage_melee" value="2" >
     </E>
-    <E key="giant_centipede | worm bite" value="1" >
+    <E key="giant_centipede | worm bite" value="12" >
     </E>
     <E key="goblin_bomb | $damage_explosion" value="9" >
     </E>
@@ -242,7 +244,7 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="24" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="71" >
+    <E key="scavenger_grenade | $damage_projectile" value="72" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="2" >
     </E>
@@ -330,19 +332,23 @@
     </E>
     <E key="walleye | $damage_projectile" value="11" >
     </E>
-    <E key="watermage | $damage_explosion" value="4" >
+    <E key="watermage | $damage_explosion" value="6" >
     </E>
     <E key="watermage | $damage_melee" value="5" >
     </E>
-    <E key="watermage | $damage_projectile" value="9" >
+    <E key="watermage | $damage_projectile" value="10" >
     </E>
     <E key="waterskull | $damage_melee" value="1" >
+    </E>
+    <E key="whisp_big | $damage_fire" value="1" >
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="2" >
     </E>
     <E key="wizard_corrupt_weaken | $damage_projectile" value="15" >
     </E>
     <E key="wizard_dark | $damage_projectile" value="7" >
+    </E>
+    <E key="wizard_firemage_greater | $damage_explosion" value="1" >
     </E>
     <E key="wizard_neutral | $damage_projectile" value="1" >
     </E>

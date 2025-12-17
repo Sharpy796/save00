@@ -1,10 +1,10 @@
-<Stats deaths="1387" kills="30" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1435" kills="30" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key=" | $damage_melee" value="1" >
     </E>
-    <E key=" | $damage_projectile" value="11" >
+    <E key=" | $damage_projectile" value="19" >
     </E>
-    <E key=" | kill sync" value="12" >
+    <E key=" | kill sync" value="17" >
     </E>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -14,13 +14,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="81" >
+    <E key="NULL | $damage_explosion" value="88" >
     </E>
-    <E key="NULL | $damage_fire" value="175" >
+    <E key="NULL | $damage_fire" value="178" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="70" >
+    <E key="NULL | $damage_physicshit" value="72" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="10" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
-    <E key="NULL | kill sync" value="42" >
+    <E key="NULL | kill sync" value="51" >
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
@@ -108,7 +108,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="24" >
+    <E key="player | $damage_explosion" value="33" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="504" >
+    <E key="player | $damage_projectile" value="507" >
     </E>
     <E key="player | $damage_rock_curse" value="45" >
     </E>
@@ -126,7 +126,7 @@
     </E>
     <E key="player | chop!" value="7" >
     </E>
-    <E key="player | kill sync" value="29" >
+    <E key="player | kill sync" value="30" >
     </E>
     <E key="player_ai | $damage_projectile" value="1" >
     </E>
@@ -157,6 +157,8 @@
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
     <E key="wand_ghost_charmed | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_corrupt_twitchy | $damage_projectile" value="1" >
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="5" >
     </E>

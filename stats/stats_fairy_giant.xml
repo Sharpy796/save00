@@ -1,0 +1,20 @@
+<Stats deaths="7" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key=" | $damage_projectile" value="3" >
+    </E>
+    <E key=" | kill sync" value="2" >
+    </E>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="failed_alchemist_orb" value="1" >
+    </E>
+    <E key="whisp" value="2" >
+    </E>
+    <E key="whisp_fast" value="2" >
+    </E>
+  </kill_map>
+</Stats>

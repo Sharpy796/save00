@@ -1,12 +1,16 @@
-<Stats deaths="42" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="51" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="2" >
+    <E key=" | $damage_projectile" value="2" >
+    </E>
+    <E key=" | kill sync" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="4" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Apotheosis) Infectious Blood" value="1" >
     </E>
-    <E key="NULL | kill sync" value="1" >
+    <E key="NULL | kill sync" value="4" >
     </E>
     <E key="enlightened_alchemist | $damage_explosion" value="2" >
     </E>
@@ -25,6 +29,8 @@
     <E key="crawler_bug" value="1" >
     </E>
     <E key="longleg" value="1" >
+    </E>
+    <E key="lukki_tentacle_hungry" value="1" >
     </E>
     <E key="physics_torch_stand_blue" value="1" >
     </E>

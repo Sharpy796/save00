@@ -1,20 +1,36 @@
-<Stats deaths="31" kills="7" player_kills="1" player_projectile_count="0" >
+<Stats deaths="66" kills="8" player_kills="1" player_projectile_count="0" >
   <death_map>
+    <E key=" | $damage_explosion" value="1" >
+    </E>
+    <E key=" | $damage_projectile" value="3" >
+    </E>
+    <E key=" | $damage_slice" value="1" >
+    </E>
+    <E key=" | kill sync" value="2" >
+    </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
+    <E key="NULL | $status_apotheosis_hex_water_name" value="1" >
+    </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
-    <E key="NULL | kill sync" value="5" >
+    <E key="NULL | damage from material: lava" value="6" >
+    </E>
+    <E key="NULL | kill sync" value="12" >
     </E>
     <E key="death_ghost | $damage_curse" value="2" >
     </E>
+    <E key="devourer_magic | Manan syöjä's bite" value="5" >
+    </E>
+    <E key="notplayer | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="1" >
+    <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="8" >
     </E>
     <E key="player | $damage_rock_curse" value="7" >
     </E>
@@ -22,13 +38,17 @@
     </E>
     <E key="player | chop!" value="2" >
     </E>
+    <E key="watermage_greater | $damage_explosion" value="1" >
+    </E>
+    <E key="watermage_greater | $damage_melee" value="1" >
+    </E>
     <E key="worm_pale | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="1" >
+    <E key="rat" value="2" >
     </E>
     <E key="scavenger_civilian" value="2" >
     </E>

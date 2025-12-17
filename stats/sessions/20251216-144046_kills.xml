@@ -1,14 +1,22 @@
-<Stats deaths="0" kills="2485" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1" kills="2582" player_kills="0" player_projectile_count="0" >
   <death_map>
+    <E key="world_state | No players are alive" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="" value="913" >
+    <E key="" value="923" >
     </E>
     <E key="acidshooter" value="1" >
     </E>
     <E key="acidshot" value="1" >
     </E>
     <E key="alchemist" value="1" >
+    </E>
+    <E key="ant_fire" value="6" >
+    </E>
+    <E key="ant_suffocate" value="7" >
+    </E>
+    <E key="apotheosis_ant_eggs" value="14" >
     </E>
     <E key="bigzombiehead" value="1" >
     </E>
@@ -24,6 +32,10 @@
     </E>
     <E key="bloom" value="3" >
     </E>
+    <E key="boss_ghost" value="1" >
+    </E>
+    <E key="boss_ghost_polyp" value="1" >
+    </E>
     <E key="bubble_liquid" value="1" >
     </E>
     <E key="cat_mocreeps" value="1" >
@@ -34,11 +46,19 @@
     </E>
     <E key="coward" value="3" >
     </E>
+    <E key="crystal_wandsteal" value="2" >
+    </E>
     <E key="dripping_water" value="1" >
     </E>
     <E key="dripping_water_heavy" value="1" >
     </E>
     <E key="drone_lasership" value="1" >
+    </E>
+    <E key="ethereal_being" value="2" >
+    </E>
+    <E key="eviltemple_tentacle_trap_left" value="2" >
+    </E>
+    <E key="eviltemple_tentacle_trap_right" value="1" >
     </E>
     <E key="fairy_big" value="1" >
     </E>
@@ -54,6 +74,8 @@
     </E>
     <E key="fungus_smoking_creep" value="1" >
     </E>
+    <E key="giant_centipede" value="3" >
+    </E>
     <E key="hideous_mass" value="2" >
     </E>
     <E key="hisii_engineer" value="3" >
@@ -62,11 +84,17 @@
     </E>
     <E key="hisii_rocketshotgun" value="2" >
     </E>
+    <E key="longleg" value="12" >
+    </E>
     <E key="lukki" value="2" >
     </E>
     <E key="lukki_eggs" value="1" >
     </E>
     <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="lukki_tentacle_hungry" value="4" >
+    </E>
+    <E key="manadrain_crystal" value="5" >
     </E>
     <E key="miner" value="1" >
     </E>
@@ -76,7 +104,7 @@
     </E>
     <E key="physics_torch_stand" value="8" >
     </E>
-    <E key="physics_torch_stand_blue" value="2" >
+    <E key="physics_torch_stand_blue" value="5" >
     </E>
     <E key="poisonmushroom" value="1" >
     </E>
@@ -96,9 +124,9 @@
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
-    <E key="scorpion" value="4" >
+    <E key="scorpion" value="6" >
     </E>
-    <E key="seeker" value="6" >
+    <E key="seeker" value="16" >
     </E>
     <E key="sentry" value="1" >
     </E>
@@ -114,6 +142,8 @@
     </E>
     <E key="slimeshooter_weak" value="1" >
     </E>
+    <E key="snowcrystal" value="1" >
+    </E>
     <E key="tank" value="1" >
     </E>
     <E key="tank_rocket" value="2" >
@@ -124,9 +154,21 @@
     </E>
     <E key="tentacler_small" value="104" >
     </E>
+    <E key="thunderskull" value="3" >
+    </E>
+    <E key="ultimate_killer" value="2" >
+    </E>
     <E key="waterskull" value="1" >
     </E>
+    <E key="whisp_big_dash_planes" value="1" >
+    </E>
     <E key="wizard_ambrosia" value="1" >
+    </E>
+    <E key="wizard_corrupt_twitchy" value="1" >
+    </E>
+    <E key="wizard_corrupt_wands" value="3" >
+    </E>
+    <E key="worm_tiny" value="1" >
     </E>
     <E key="zombie" value="4" >
     </E>

@@ -1,6 +1,12 @@
-<Stats deaths="12" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="19" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_fire" value="1" >
+    <E key=" | $damage_projectile" value="2" >
+    </E>
+    <E key=" | kill sync" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="4" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_projectile" value="8" >
     </E>
@@ -10,7 +16,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="scorpion" value="4" >
+    <E key="longleg" value="1" >
+    </E>
+    <E key="scorpion" value="6" >
     </E>
   </kill_map>
 </Stats>

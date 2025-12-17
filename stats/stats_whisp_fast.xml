@@ -1,0 +1,22 @@
+<Stats deaths="25" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key=" | $damage_projectile" value="6" >
+    </E>
+    <E key=" | kill sync" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | kill sync" value="4" >
+    </E>
+    <E key="devourer_magic | Manan syöjä's bite" value="2" >
+    </E>
+    <E key="fairy_giant | $damage_projectile" value="2" >
+    </E>
+    <E key="player | kill sync" value="2" >
+    </E>
+    <E key="wizard_firemage_greater | $damage_explosion" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>
