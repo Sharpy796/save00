@@ -1,0 +1,84 @@
+<Stats deaths="1" kills="192" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshooter_weak" value="2" >
+    </E>
+    <E key="acidshot" value="5" >
+    </E>
+    <E key="bat" value="29" >
+    </E>
+    <E key="bigfirebug" value="6" >
+    </E>
+    <E key="blob" value="3" >
+    </E>
+    <E key="cocktail" value="2" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="firebug" value="16" >
+    </E>
+    <E key="fish" value="7" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="4" >
+    </E>
+    <E key="longleg" value="19" >
+    </E>
+    <E key="maggot" value="1" >
+    </E>
+    <E key="miner" value="8" >
+    </E>
+    <E key="miner_santa" value="2" >
+    </E>
+    <E key="miner_weak" value="12" >
+    </E>
+    <E key="miniblob" value="7" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="10" >
+    </E>
+    <E key="roboguard" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="tnt" value="7" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+    <E key="zombie_weak" value="12" >
+    </E>
+  </kill_map>
+</Stats>

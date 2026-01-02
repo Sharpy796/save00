@@ -1,18 +1,18 @@
-<Stats deaths="491" kills="42" player_kills="0" player_projectile_count="0" >
+<Stats deaths="537" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="37" >
+    <E key="NULL | $damage_drowning" value="42" >
     </E>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="78" >
+    <E key="NULL | $damage_explosion" value="82" >
     </E>
-    <E key="NULL | $damage_fire" value="10" >
+    <E key="NULL | $damage_fire" value="11" >
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
-    <E key="NULL | $damage_physicshit" value="5" >
+    <E key="NULL | $damage_physicshit" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
@@ -20,9 +20,9 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="10" >
+    <E key="NULL | damage from material: lava" value="12" >
     </E>
-    <E key="NULL | damage from material: toxic rock" value="7" >
+    <E key="NULL | damage from material: toxic rock" value="8" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -30,13 +30,15 @@
     </E>
     <E key="bat | $damage_melee" value="3" >
     </E>
-    <E key="blob | $damage_melee" value="5" >
+    <E key="blob | $damage_melee" value="6" >
     </E>
     <E key="conduit | $damage_melee" value="1" >
     </E>
+    <E key="contact_damage | $damage_curse" value="1" >
+    </E>
     <E key="eradicator | $damage_plasmabeam" value="1" >
     </E>
-    <E key="fly | $damage_melee" value="4" >
+    <E key="fly | $damage_melee" value="5" >
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>
@@ -48,11 +50,11 @@
     </E>
     <E key="miner | $damage_melee" value="3" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="13" >
+    <E key="miner_weak | $damage_explosion" value="16" >
     </E>
     <E key="miner_weak | $damage_melee" value="6" >
     </E>
-    <E key="miniblob | $damage_melee" value="9" >
+    <E key="miniblob | $damage_melee" value="10" >
     </E>
     <E key="monk | $damage_projectile" value="1" >
     </E>
@@ -62,11 +64,13 @@
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="5" >
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="52" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -78,21 +82,25 @@
     </E>
     <E key="player_rng_items | $damage_slice" value="1" >
     </E>
+    <E key="playerghost | $damage_melee" value="4" >
+    </E>
     <E key="rat | $damage_melee" value="5" >
     </E>
-    <E key="roboguard | $damage_explosion" value="4" >
+    <E key="roboguard | $damage_explosion" value="5" >
     </E>
     <E key="roboguard | $damage_melee" value="3" >
     </E>
-    <E key="roboguard | $damage_projectile" value="2" >
+    <E key="roboguard | $damage_projectile" value="3" >
     </E>
     <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_poison | $damage_projectile" value="4" >
     </E>
+    <E key="shotgunner | $damage_electricity" value="1" >
+    </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="9" >
+    <E key="shotgunner | $damage_projectile" value="13" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
     </E>
@@ -128,9 +136,11 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
+    <E key="miner_weak" value="1" >
+    </E>
     <E key="miniblob" value="11" >
     </E>
-    <E key="rat" value="17" >
+    <E key="rat" value="18" >
     </E>
     <E key="slimeshooter" value="2" >
     </E>

@@ -1,12 +1,12 @@
-<Stats deaths="149" kills="65" player_kills="1" player_projectile_count="0" >
+<Stats deaths="161" kills="83" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_electricity" value="3" >
+    <E key="NULL | $damage_electricity" value="4" >
     </E>
     <E key="NULL | $damage_explosion" value="23" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="19" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -18,13 +18,13 @@
     </E>
     <E key="player | $damage_electricity" value="11" >
     </E>
-    <E key="player | $damage_explosion" value="21" >
+    <E key="player | $damage_explosion" value="27" >
     </E>
     <E key="player | $damage_hitfx_curse" value="3" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="44" >
+    <E key="player | $damage_projectile" value="48" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -42,13 +42,15 @@
   <kill_map>
     <E key="bigzombie" value="1" >
     </E>
-    <E key="drone_lasership" value="2" >
+    <E key="drone_lasership" value="3" >
     </E>
-    <E key="iceskull" value="11" >
+    <E key="iceskull" value="12" >
     </E>
     <E key="lasershooter" value="1" >
     </E>
     <E key="miniblob" value="1" >
+    </E>
+    <E key="pebble_physics" value="1" >
     </E>
     <E key="player" value="1" >
     </E>
@@ -56,11 +58,11 @@
     </E>
     <E key="potion" value="1" >
     </E>
-    <E key="rat" value="34" >
+    <E key="rat" value="48" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
-    <E key="slimeshooter" value="3" >
+    <E key="slimeshooter" value="4" >
     </E>
     <E key="thunderskull" value="3" >
     </E>

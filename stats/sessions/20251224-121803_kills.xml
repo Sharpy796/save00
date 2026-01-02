@@ -1,0 +1,92 @@
+<Stats deaths="1" kills="177" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="assassin | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="6" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bloom" value="6" >
+    </E>
+    <E key="coward" value="2" >
+    </E>
+    <E key="firebug" value="3" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fish" value="9" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="frog" value="11" >
+    </E>
+    <E key="frog_big" value="2" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glue" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="iceskull" value="5" >
+    </E>
+    <E key="lukki" value="3" >
+    </E>
+    <E key="mine_scavenger" value="8" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="miner_santa" value="1" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="3" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="powder_stash" value="2" >
+    </E>
+    <E key="rat" value="15" >
+    </E>
+    <E key="root_grower" value="4" >
+    </E>
+    <E key="root_grower_branch" value="2" >
+    </E>
+    <E key="scavenger_glue" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="12" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="21" >
+    </E>
+    <E key="shaman" value="1" >
+    </E>
+    <E key="shooterflower" value="3" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="slimeshooter" value="6" >
+    </E>
+    <E key="sniper" value="8" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tank_rocket" value="1" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

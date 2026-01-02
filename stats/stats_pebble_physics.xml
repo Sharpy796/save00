@@ -1,22 +1,22 @@
-<Stats deaths="356" kills="212" player_kills="0" player_projectile_count="0" >
+<Stats deaths="385" kills="223" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="5" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="7" >
+    <E key="NULL | $damage_explosion" value="9" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="70" >
+    <E key="NULL | damage from material: freezing vapour" value="80" >
     </E>
     <E key="giant | $damage_explosion" value="1" >
     </E>
-    <E key="pebble_physics | $damage_explosion" value="211" >
+    <E key="pebble_physics | $damage_explosion" value="222" >
     </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $damage_explosion" value="12" >
     </E>
-    <E key="player | $damage_projectile" value="34" >
+    <E key="player | $damage_projectile" value="38" >
     </E>
     <E key="player | $damage_slice" value="4" >
     </E>
@@ -30,11 +30,13 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="1" >
+    <E key="sniper | $damage_projectile" value="2" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="pebble_physics" value="211" >
+    <E key="pebble_physics" value="222" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>

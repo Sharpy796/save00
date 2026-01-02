@@ -1,4 +1,4 @@
-<Stats deaths="64" kills="41" player_kills="0" player_projectile_count="0" >
+<Stats deaths="65" kills="44" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -23,6 +23,8 @@
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
     <E key="missilecrab | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
@@ -60,7 +62,7 @@
     </E>
     <E key="blob_mini" value="2" >
     </E>
-    <E key="glue" value="18" >
+    <E key="glue" value="21" >
     </E>
     <E key="miniblob" value="2" >
     </E>

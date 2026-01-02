@@ -1,4 +1,4 @@
-<Stats deaths="127" kills="25" player_kills="0" player_projectile_count="0" >
+<Stats deaths="159" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="11" >
+    <E key="NULL | $damage_explosion" value="15" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="1" >
     </E>
-    <E key="NULL | damage from material: Water" value="14" >
+    <E key="NULL | damage from material: Water" value="22" >
     </E>
     <E key="NULL | damage from material: swamp" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="lukki_tiny | hit" value="1" >
     </E>
-    <E key="miner | $damage_explosion" value="1" >
+    <E key="miner | $damage_explosion" value="2" >
     </E>
     <E key="player | " value="4" >
     </E>
@@ -30,11 +30,11 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="3" >
+    <E key="player | $damage_explosion" value="4" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="34" >
+    <E key="player | $damage_projectile" value="43" >
     </E>
     <E key="player | $damage_slice" value="7" >
     </E>
@@ -46,7 +46,9 @@
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="1" >
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="sunegg | $damage_sun" value="16" >
     </E>

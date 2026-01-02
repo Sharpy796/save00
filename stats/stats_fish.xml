@@ -1,8 +1,8 @@
-<Stats deaths="851" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1010" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
-    <E key="NULL | $damage_electricity" value="53" >
+    <E key="NULL | $damage_electricity" value="62" >
     </E>
     <E key="NULL | $damage_explosion" value="35" >
     </E>
@@ -44,11 +44,11 @@
     </E>
     <E key="player | $damage_electricity" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="20" >
+    <E key="player | $damage_explosion" value="26" >
     </E>
     <E key="player | $damage_kick" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="38" >
+    <E key="player | $damage_projectile" value="50" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -72,7 +72,7 @@
     </E>
     <E key="sniper | $damage_projectile" value="6" >
     </E>
-    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="497" >
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="629" >
     </E>
     <E key="worm | worm bite" value="3" >
     </E>

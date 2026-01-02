@@ -1,4 +1,4 @@
-<Stats deaths="13" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="14" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="9" >
+    <E key="player | $damage_projectile" value="10" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="roboguard" value="1" >
     </E>
-    <E key="scorpion" value="6" >
+    <E key="scorpion" value="8" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>
