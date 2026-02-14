@@ -1,8 +1,8 @@
-<Stats deaths="762" kills="57" player_kills="0" player_projectile_count="0" >
+<Stats deaths="764" kills="57" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="68" >
+    <E key="NULL | $damage_drowning" value="70" >
     </E>
     <E key="NULL | $damage_electricity" value="10" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="611" kills="400" player_kills="1" player_projectile_count="0" >
+<Stats deaths="611" kills="403" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="slimeshooter" value="4" >
     </E>
-    <E key="slimeshooter_weak" value="21" >
+    <E key="slimeshooter_weak" value="22" >
     </E>
     <E key="toxicskull" value="1" >
     </E>
@@ -148,7 +148,7 @@
     </E>
     <E key="zombie_water" value="13" >
     </E>
-    <E key="zombie_weak" value="180" >
+    <E key="zombie_weak" value="182" >
     </E>
   </kill_map>
 </Stats>

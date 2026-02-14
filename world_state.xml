@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="60.0147" 
-    clouds_02_target="95.2693" 
+    clouds_01_target="44.9492" 
+    clouds_02_target="61.4608" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="0" 
-    fog="0" 
-    fog_target="0" 
+    day_count="1" 
+    fog="0.430771" 
+    fog_target="0.430771" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -51,17 +51,17 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0" 
-    rain_target="0" 
-    session_stat_file="??STA/sessions/20251216-121602" 
+    rain="0.535744" 
+    rain_target="0.535744" 
+    session_stat_file="??STA/sessions/20260102-160723" 
     sky_sunset_alpha_target="1" 
-    time="0.372843" 
+    time="0.430737" 
     time_dt="1" 
-    time_total="0.00277499" 
+    time_total="0.531272" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="-0.0769686" 
-    wind_speed="-4.65041" 
+    wind="0.159734" 
+    wind_speed="9.58411" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
@@ -70,21 +70,44 @@
         value="" >
       </E>
       <E 
+        key="HELPLESS_KILLS" 
+        value="3" >
+      </E>
+      <E 
         key="ORB_MAP_STRING" 
         value="8,1 1,-3 -9,7 -8,19 -18,28 -20,5 -1,31 20,31 19,5 6,3 19,-3" >
       </E>
       <E 
+        key="mod_button_tr_current" 
+        value="0" >
+      </E>
+      <E 
+        key="mod_button_tr_width" 
+        value="0" >
+      </E>
+      <E 
+        key="spell_lab_shugged.refresh_player_state" 
+        value="0" >
+      </E>
+      <E 
+        key="spell_lab_shugged_mod_button_reservation" 
+        value="0" >
+      </E>
+      <E 
         key="visited_biomes" 
-        value="_EMPTY_," >
+        value="$biome_wizardcave,$biome_robobase,$biome_fun,_EMPTY_,$biome_sandcave,$biome_pyra" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="1" >
+        value="10" >
       </E>
     </lua_globals>
     <pending_portals>
     </pending_portals>
     <apparitions_per_level>
+      <primitive>
+        0
+      </primitive>
     </apparitions_per_level>
     <npc_parties>
     </npc_parties>
@@ -93,6 +116,12 @@
     <flags>
       <string>
         weather_this_run_no_gradient
+      </string>
+      <string>
+        glimmers_expanded_spliced_chunks_spawned
+      </string>
+      <string>
+        spell_lab_shugged_init
       </string>
     </flags>
     <changed_materials>
