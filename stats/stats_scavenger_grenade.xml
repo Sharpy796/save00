@@ -1,4 +1,4 @@
-<Stats deaths="1433" kills="263" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1469" kills="269" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="183" >
     </E>
-    <E key="NULL | $damage_fire" value="46" >
+    <E key="NULL | $damage_fire" value="51" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="68" >
+    <E key="NULL | damage from material: freezing vapour" value="69" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -100,7 +100,7 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="371" >
+    <E key="player | $damage_projectile" value="400" >
     </E>
     <E key="player | $damage_slice" value="34" >
     </E>
@@ -134,7 +134,7 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="10" >
+    <E key="sniper | $damage_projectile" value="11" >
     </E>
     <E key="tank | $damage_explosion" value="1" >
     </E>
@@ -184,6 +184,8 @@
     </E>
     <E key="longleg" value="3" >
     </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
     <E key="miniblob" value="1" >
     </E>
     <E key="pebble_physics" value="1" >
@@ -194,7 +196,7 @@
     </E>
     <E key="pollen" value="16" >
     </E>
-    <E key="rat" value="181" >
+    <E key="rat" value="186" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>

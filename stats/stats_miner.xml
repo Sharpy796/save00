@@ -1,14 +1,14 @@
-<Stats deaths="475" kills="125" player_kills="0" player_projectile_count="0" >
+<Stats deaths="490" kills="126" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
-    <E key="NULL | $damage_drowning" value="28" >
+    <E key="NULL | $damage_drowning" value="29" >
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
     <E key="NULL | $damage_explosion" value="20" >
     </E>
-    <E key="NULL | $damage_fire" value="73" >
+    <E key="NULL | $damage_fire" value="74" >
     </E>
     <E key="NULL | $damage_physicshit" value="45" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
-    <E key="miner | $damage_explosion" value="9" >
+    <E key="miner | $damage_explosion" value="10" >
     </E>
     <E key="miner | $damage_melee" value="1" >
     </E>
@@ -54,9 +54,9 @@
     </E>
     <E key="player | $damage_melee" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="100" >
+    <E key="player | $damage_projectile" value="109" >
     </E>
-    <E key="player | $damage_slice" value="26" >
+    <E key="player | $damage_slice" value="29" >
     </E>
     <E key="player_rng_items | $damage_drill" value="1" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="firebug" value="9" >
     </E>
-    <E key="miner" value="10" >
+    <E key="miner" value="11" >
     </E>
     <E key="rat" value="74" >
     </E>

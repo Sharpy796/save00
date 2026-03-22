@@ -1,4 +1,4 @@
-<Stats deaths="368" kills="363" player_kills="0" player_projectile_count="0" >
+<Stats deaths="378" kills="367" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="53" >
     </E>
-    <E key="NULL | $damage_fire" value="25" >
+    <E key="NULL | $damage_fire" value="26" >
     </E>
     <E key="NULL | $damage_physicshit" value="30" >
     </E>
@@ -44,6 +44,8 @@
     </E>
     <E key="iceskull | $damage_explosion" value="3" >
     </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
     <E key="lukki_minion | $damage_curse" value="2" >
     </E>
     <E key="physics_ragdoll_part_exploding | $damage_explosion" value="2" >
@@ -62,7 +64,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="90" >
+    <E key="player | $damage_projectile" value="98" >
     </E>
     <E key="player | $damage_slice" value="9" >
     </E>
@@ -114,17 +116,17 @@
     </E>
     <E key="miner" value="1" >
     </E>
-    <E key="miniblob" value="21" >
+    <E key="miniblob" value="22" >
     </E>
     <E key="pebble_physics" value="2" >
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="185" >
+    <E key="rat" value="187" >
     </E>
     <E key="scavenger_glue" value="1" >
     </E>
-    <E key="scavenger_grenade" value="10" >
+    <E key="scavenger_grenade" value="11" >
     </E>
     <E key="scavenger_smg" value="5" >
     </E>

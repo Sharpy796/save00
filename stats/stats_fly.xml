@@ -1,12 +1,12 @@
-<Stats deaths="302" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="329" kills="18" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="30" >
+    <E key="NULL | $damage_explosion" value="33" >
     </E>
-    <E key="NULL | $damage_physicshit" value="15" >
+    <E key="NULL | $damage_physicshit" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="player | $damage_melee" value="20" >
     </E>
-    <E key="player | $damage_projectile" value="120" >
+    <E key="player | $damage_projectile" value="137" >
     </E>
     <E key="player | $damage_slice" value="29" >
     </E>
@@ -47,6 +47,8 @@
     <E key="roboguard | $damage_explosion" value="1" >
     </E>
     <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="2" >
     </E>
     <E key="scavenger_poison | $damage_projectile" value="1" >
     </E>

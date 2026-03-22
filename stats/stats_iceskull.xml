@@ -1,4 +1,4 @@
-<Stats deaths="309" kills="362" player_kills="0" player_projectile_count="0" >
+<Stats deaths="314" kills="372" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -24,7 +24,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="5" >
     </E>
-    <E key="iceskull | $damage_explosion" value="45" >
+    <E key="iceskull | $damage_explosion" value="47" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="73" >
+    <E key="player | $damage_projectile" value="76" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="glue" value="23" >
     </E>
-    <E key="iceskull" value="46" >
+    <E key="iceskull" value="48" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -100,7 +100,7 @@
     </E>
     <E key="radioactive_blob_trail" value="2" >
     </E>
-    <E key="rat" value="150" >
+    <E key="rat" value="156" >
     </E>
     <E key="scavenger_glue" value="11" >
     </E>
@@ -114,9 +114,9 @@
     </E>
     <E key="shotgunner" value="17" >
     </E>
-    <E key="slimeshooter" value="8" >
+    <E key="slimeshooter" value="9" >
     </E>
-    <E key="sniper" value="3" >
+    <E key="sniper" value="4" >
     </E>
     <E key="swarm_fly" value="13" >
     </E>

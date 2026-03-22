@@ -1,4 +1,4 @@
-<Stats deaths="1183" kills="38" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1184" kills="38" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="58" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="sniper | $damage_melee" value="6" >
     </E>
-    <E key="sniper | $damage_projectile" value="11" >
+    <E key="sniper | $damage_projectile" value="12" >
     </E>
     <E key="spearbot | $damage_holy" value="1" >
     </E>

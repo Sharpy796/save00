@@ -1,4 +1,4 @@
-<Stats deaths="74" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="92" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_fire" value="3" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="failed_alchemist | $damage_melee" value="1" >
+    <E key="failed_alchemist | $damage_melee" value="2" >
     </E>
     <E key="firemage | $damage_explosion" value="1" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="28" >
+    <E key="player | $damage_projectile" value="45" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
@@ -40,17 +40,19 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="2" >
+    <E key="acidshooter" value="3" >
     </E>
     <E key="blob" value="1" >
     </E>
     <E key="locust_swarm" value="4" >
     </E>
+    <E key="longleg" value="1" >
+    </E>
     <E key="miniblob" value="3" >
     </E>
-    <E key="scorpion" value="5" >
+    <E key="scorpion" value="7" >
     </E>
-    <E key="tentacler_small" value="1" >
+    <E key="tentacler_small" value="2" >
     </E>
     <E key="whisp" value="1" >
     </E>
