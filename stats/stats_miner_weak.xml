@@ -1,4 +1,4 @@
-<Stats deaths="435" kills="278" player_kills="3" player_projectile_count="0" >
+<Stats deaths="436" kills="280" player_kills="4" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="33" >
     </E>
-    <E key="NULL | $damage_fire" value="44" >
+    <E key="NULL | $damage_fire" value="45" >
     </E>
     <E key="NULL | $damage_melee" value="2" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="ooion" value="1" >
     </E>
-    <E key="player" value="3" >
+    <E key="player" value="4" >
     </E>
     <E key="poring" value="6" >
     </E>
@@ -142,7 +142,7 @@
     </E>
     <E key="zombie_water" value="8" >
     </E>
-    <E key="zombie_weak" value="99" >
+    <E key="zombie_weak" value="100" >
     </E>
   </kill_map>
 </Stats>
