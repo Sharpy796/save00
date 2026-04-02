@@ -1,20 +1,20 @@
-<Stats deaths="1084" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1146" kills="33" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="34" >
+    <E key="NULL | $damage_drowning" value="35" >
     </E>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="88" >
+    <E key="NULL | $damage_explosion" value="94" >
     </E>
-    <E key="NULL | $damage_fire" value="182" >
+    <E key="NULL | $damage_fire" value="193" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
-    <E key="NULL | $damage_physicshit" value="72" >
+    <E key="NULL | $damage_physicshit" value="80" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="6" >
     </E>
@@ -82,9 +82,9 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="321" >
+    <E key="player | $damage_projectile" value="340" >
     </E>
-    <E key="player | $damage_slice" value="13" >
+    <E key="player | $damage_slice" value="16" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -102,9 +102,9 @@
     </E>
     <E key="seeker | Etsijä's shock" value="3" >
     </E>
-    <E key="shotgunner_weak | $damage_melee" value="5" >
+    <E key="shotgunner_weak | $damage_melee" value="6" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="7" >
+    <E key="shotgunner_weak | $damage_projectile" value="8" >
     </E>
     <E key="skeleton | $damage_melee" value="1" >
     </E>
@@ -122,9 +122,9 @@
     </E>
     <E key="wizard_corrupt_wands | $damage_projectile" value="1" >
     </E>
-    <E key="worm | worm bite" value="20" >
+    <E key="worm | worm bite" value="23" >
     </E>
-    <E key="zombie_weak | $damage_melee" value="24" >
+    <E key="zombie_weak | $damage_melee" value="33" >
     </E>
   </death_map>
   <kill_map>
@@ -134,7 +134,7 @@
     </E>
     <E key="sheep" value="2" >
     </E>
-    <E key="shotgunner_weak" value="3" >
+    <E key="shotgunner_weak" value="5" >
     </E>
     <E key="skeleton" value="1" >
     </E>

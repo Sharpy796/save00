@@ -1,14 +1,14 @@
-<Stats deaths="1469" kills="269" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1482" kills="273" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="29" >
+    <E key="NULL | $damage_drowning" value="30" >
     </E>
     <E key="NULL | $damage_electricity" value="70" >
     </E>
-    <E key="NULL | $damage_explosion" value="183" >
+    <E key="NULL | $damage_explosion" value="186" >
     </E>
     <E key="NULL | $damage_fire" value="51" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="6" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="69" >
+    <E key="NULL | damage from material: freezing vapour" value="72" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="3" >
+    <E key="iceskull | $damage_explosion" value="4" >
     </E>
     <E key="iceskull | $damage_ice" value="8" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="player | $damage_electricity" value="44" >
     </E>
-    <E key="player | $damage_explosion" value="134" >
+    <E key="player | $damage_explosion" value="136" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -100,9 +100,9 @@
     </E>
     <E key="player | $damage_melee" value="69" >
     </E>
-    <E key="player | $damage_projectile" value="400" >
+    <E key="player | $damage_projectile" value="402" >
     </E>
-    <E key="player | $damage_slice" value="34" >
+    <E key="player | $damage_slice" value="35" >
     </E>
     <E key="player | bzzt!" value="3" >
     </E>
@@ -196,7 +196,7 @@
     </E>
     <E key="pollen" value="16" >
     </E>
-    <E key="rat" value="186" >
+    <E key="rat" value="190" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>
