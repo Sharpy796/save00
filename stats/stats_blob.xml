@@ -1,4 +1,4 @@
-<Stats deaths="1026" kills="85" player_kills="0" player_projectile_count="0" >
+<Stats deaths="1040" kills="86" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="21" >
     </E>
-    <E key="NULL | $damage_explosion" value="154" >
+    <E key="NULL | $damage_explosion" value="163" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
@@ -28,6 +28,10 @@
     </E>
     <E key="circle_anchor | $damage_rock_curse" value="1" >
     </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
+    </E>
+    <E key="fly | $damage_melee" value="1" >
+    </E>
     <E key="frog_big | $damage_melee" value="1" >
     </E>
     <E key="fungus_giga | $damage_projectile" value="2" >
@@ -40,6 +44,8 @@
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
+    <E key="missilecrab | $damage_explosion" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_drill" value="7" >
@@ -48,13 +54,13 @@
     </E>
     <E key="player | $damage_explosion" value="55" >
     </E>
-    <E key="player | $damage_fire" value="3" >
+    <E key="player | $damage_fire" value="4" >
     </E>
     <E key="player | $damage_ice" value="7" >
     </E>
     <E key="player | $damage_melee" value="32" >
     </E>
-    <E key="player | $damage_projectile" value="308" >
+    <E key="player | $damage_projectile" value="309" >
     </E>
     <E key="player | $damage_rock_curse" value="102" >
     </E>
@@ -99,6 +105,8 @@
     <E key="blob_mini" value="1" >
     </E>
     <E key="ceiling_fungus_minion" value="5" >
+    </E>
+    <E key="firebug" value="1" >
     </E>
     <E key="fish" value="2" >
     </E>

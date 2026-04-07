@@ -1,4 +1,4 @@
-<Stats deaths="814" kills="70" player_kills="0" player_projectile_count="0" >
+<Stats deaths="825" kills="70" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,9 @@
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="76" >
+    <E key="NULL | $damage_explosion" value="79" >
+    </E>
+    <E key="NULL | $damage_melee" value="2" >
     </E>
     <E key="NULL | $damage_physicshit" value="26" >
     </E>
@@ -28,6 +30,8 @@
     </E>
     <E key="bigbat | $damage_melee" value="6" >
     </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
     <E key="fairy_big | $damage_projectile" value="2" >
     </E>
     <E key="firebug | $damage_melee" value="6" >
@@ -46,7 +50,7 @@
     </E>
     <E key="lukki_fire_tiny | $damage_curse" value="5" >
     </E>
-    <E key="miner | $damage_explosion" value="4" >
+    <E key="miner | $damage_explosion" value="6" >
     </E>
     <E key="miner | $damage_melee" value="3" >
     </E>
@@ -56,7 +60,7 @@
     </E>
     <E key="player | $damage_drill" value="3" >
     </E>
-    <E key="player | $damage_electricity" value="24" >
+    <E key="player | $damage_electricity" value="25" >
     </E>
     <E key="player | $damage_explosion" value="22" >
     </E>
@@ -64,7 +68,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="209" >
+    <E key="player | $damage_projectile" value="211" >
     </E>
     <E key="player | $damage_rock_curse" value="50" >
     </E>

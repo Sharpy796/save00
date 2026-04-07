@@ -1,16 +1,16 @@
-<Stats deaths="648" kills="182" player_kills="3" player_projectile_count="0" >
+<Stats deaths="667" kills="206" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="12" >
     </E>
-    <E key="NULL | $damage_drowning" value="12" >
+    <E key="NULL | $damage_drowning" value="13" >
     </E>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="69" >
+    <E key="NULL | $damage_explosion" value="73" >
     </E>
-    <E key="NULL | $damage_fire" value="35" >
+    <E key="NULL | $damage_fire" value="36" >
     </E>
     <E key="NULL | $damage_physicshit" value="46" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="3" >
+    <E key="NULL | damage from material: freezing vapour" value="5" >
     </E>
     <E key="NULL | damage from material: lava" value="7" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="player | $damage_melee" value="14" >
     </E>
-    <E key="player | $damage_projectile" value="179" >
+    <E key="player | $damage_projectile" value="189" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
@@ -102,7 +102,7 @@
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
-    <E key="shotgunner | $damage_explosion" value="4" >
+    <E key="shotgunner | $damage_explosion" value="5" >
     </E>
     <E key="shotgunner | $damage_projectile" value="1" >
     </E>
@@ -140,7 +140,7 @@
     </E>
     <E key="glitter_bomb" value="1" >
     </E>
-    <E key="iceskull" value="7" >
+    <E key="iceskull" value="8" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="1" >
     </E>
@@ -148,11 +148,11 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="122" >
+    <E key="rat" value="144" >
     </E>
     <E key="scorpion" value="1" >
     </E>
-    <E key="shotgunner" value="5" >
+    <E key="shotgunner" value="6" >
     </E>
     <E key="slimeshooter" value="6" >
     </E>

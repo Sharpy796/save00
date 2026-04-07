@@ -1,4 +1,4 @@
-<Stats deaths="118" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="126" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -40,6 +40,8 @@
     </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
     <E key="player | " value="1" >
     </E>
     <E key="player | $damage_curse" value="1" >
@@ -54,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="20" >
+    <E key="player | $damage_projectile" value="26" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
@@ -65,6 +67,8 @@
     <E key="scavenger_heal | $damage_explosion" value="1" >
     </E>
     <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
     </E>
     <E key="scavenger_smg | $damage_projectile" value="1" >
     </E>

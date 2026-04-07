@@ -1,10 +1,10 @@
-<Stats deaths="150" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="158" kills="29" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="1" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="22" >
     </E>
     <E key="NULL | $damage_physicshit" value="7" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="65" >
+    <E key="player | $damage_projectile" value="69" >
     </E>
     <E key="player | $damage_rock_curse" value="2" >
     </E>
@@ -44,11 +44,19 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="blob" value="1" >
+    </E>
     <E key="drone_mini" value="3" >
     </E>
     <E key="fish" value="1" >
     </E>
-    <E key="miniblob" value="3" >
+    <E key="graham_miner_gasser" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miniblob" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -56,13 +64,13 @@
     </E>
     <E key="shotgunner" value="5" >
     </E>
-    <E key="sniper" value="1" >
+    <E key="sniper" value="2" >
     </E>
     <E key="swarm_fly" value="3" >
     </E>
     <E key="thunderskull" value="1" >
     </E>
-    <E key="turret_right" value="1" >
+    <E key="turret_right" value="2" >
     </E>
   </kill_map>
 </Stats>

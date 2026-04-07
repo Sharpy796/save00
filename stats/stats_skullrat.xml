@@ -1,6 +1,8 @@
-<Stats deaths="91" kills="27" player_kills="0" player_projectile_count="0" >
+<Stats deaths="92" kills="28" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
@@ -58,7 +60,7 @@
     </E>
     <E key="miniblob" value="3" >
     </E>
-    <E key="scorpion" value="9" >
+    <E key="scorpion" value="10" >
     </E>
     <E key="tentacler_small" value="1" >
     </E>

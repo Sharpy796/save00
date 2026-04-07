@@ -1,4 +1,4 @@
-<Stats deaths="16" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="corrupt_alchemist | $damage_explosion" value="1" >
     </E>
-    <E key="lasergun | $damage_projectile" value="2" >
+    <E key="lasergun | $damage_projectile" value="7" >
     </E>
     <E key="miniblob | $damage_melee" value="3" >
     </E>

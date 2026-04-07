@@ -1,4 +1,4 @@
-<Stats deaths="64" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="64" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -34,6 +34,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="copi_ghost" value="8" >
+    </E>
     <E key="poring_magic" value="1" >
     </E>
     <E key="scorpion" value="8" >

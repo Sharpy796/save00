@@ -1,0 +1,22 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="4" damage_taken="10.2086" dead="1" death_count="0" death_pos.x="1.04919e+006" death_pos.y="143" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="1" kicks="0" killed_by="$animal_copi_ghost | projectile" killed_by_extra="" places_visited="6" playtime="91.7" playtime_str="0:01:31" projectiles_shot="3" streaks="0" teleports="0" wands_edited="0" world_seed="744748027" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="0" gold_all="0" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="0" playtime_str="" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="0" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="east $biome_desert" value="2" >
+    </E>
+    <E key="east $biome_lake" value="1" >
+    </E>
+    <E key="east $biome_liquidcave" value="1" >
+    </E>
+    <E key="east $biome_pyramid" value="4" >
+    </E>
+    <E key="west $biome_desert" value="3" >
+    </E>
+    <E key="west $biome_winter" value="3" >
+    </E>
+  </biomes_visited>
+</Stats>
