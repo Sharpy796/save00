@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="skullfly | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="giantshooter_weak" value="1" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="miner_weak" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+  </kill_map>
+</Stats>

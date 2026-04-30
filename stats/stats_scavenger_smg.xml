@@ -1,4 +1,4 @@
-<Stats deaths="870" kills="160" player_kills="1" player_projectile_count="0" >
+<Stats deaths="876" kills="161" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_drowning" value="15" >
     </E>
-    <E key="NULL | $damage_electricity" value="21" >
+    <E key="NULL | $damage_electricity" value="22" >
     </E>
     <E key="NULL | $damage_explosion" value="90" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="57" >
+    <E key="NULL | $damage_physicshit" value="58" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -32,9 +32,9 @@
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing liquid" value="1" >
+    <E key="NULL | damage from material: freezing liquid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="38" >
+    <E key="NULL | damage from material: freezing vapour" value="40" >
     </E>
     <E key="bigzombie | $damage_explosion" value="1" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="iceskull | $damage_explosion" value="4" >
     </E>
-    <E key="iceskull | $damage_ice" value="10" >
+    <E key="iceskull | $damage_ice" value="11" >
     </E>
     <E key="iceskull | $damage_melee" value="2" >
     </E>
@@ -174,7 +174,7 @@
     </E>
     <E key="physics_torch_stand_blue" value="1" >
     </E>
-    <E key="player" value="1" >
+    <E key="player" value="2" >
     </E>
     <E key="pollen" value="9" >
     </E>

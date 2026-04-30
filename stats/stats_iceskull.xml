@@ -1,4 +1,4 @@
-<Stats deaths="412" kills="372" player_kills="0" player_projectile_count="0" >
+<Stats deaths="418" kills="377" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -6,11 +6,13 @@
     </E>
     <E key="NULL | $damage_drowning" value="3" >
     </E>
-    <E key="NULL | $damage_electricity" value="4" >
+    <E key="NULL | $damage_electricity" value="6" >
     </E>
-    <E key="NULL | $damage_explosion" value="40" >
+    <E key="NULL | $damage_explosion" value="41" >
     </E>
     <E key="NULL | $damage_physicshit" value="15" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="2" >
     </E>
@@ -66,7 +68,7 @@
     </E>
     <E key="poring_holy | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="8" >
+    <E key="scavenger_grenade | $damage_projectile" value="10" >
     </E>
     <E key="scavenger_leader | $damage_melee" value="1" >
     </E>
@@ -142,11 +144,11 @@
     </E>
     <E key="scavenger_glue" value="5" >
     </E>
-    <E key="scavenger_grenade" value="12" >
+    <E key="scavenger_grenade" value="15" >
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
-    <E key="scavenger_smg" value="16" >
+    <E key="scavenger_smg" value="17" >
     </E>
     <E key="shotgunner" value="13" >
     </E>
@@ -159,6 +161,8 @@
     <E key="swarm_fly" value="13" >
     </E>
     <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thundermage" value="1" >
     </E>
     <E key="thunderskull" value="1" >
     </E>

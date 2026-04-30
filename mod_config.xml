@@ -77,7 +77,7 @@
   </Mod>
   <Mod enabled="0" name="GlimmersExpanded" settings_fold_open="0" workshop_item_id="3316355233" >
   </Mod>
-  <Mod enabled="1" name="copis_things" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="0" name="copis_things" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="spellbound_bundle" settings_fold_open="0" workshop_item_id="1976795806" >
   </Mod>
@@ -89,9 +89,9 @@
   </Mod>
   <Mod enabled="0" name="anvil_of_destiny" settings_fold_open="0" workshop_item_id="1974488139" >
   </Mod>
-  <Mod enabled="1" name="grahamsperks" settings_fold_open="0" workshop_item_id="2840072000" >
+  <Mod enabled="0" name="grahamsperks" settings_fold_open="0" workshop_item_id="2840072000" >
   </Mod>
-  <Mod enabled="1" name="more-stuff" settings_fold_open="0" workshop_item_id="2910427839" >
+  <Mod enabled="0" name="more-stuff" settings_fold_open="0" workshop_item_id="2910427839" >
   </Mod>
   <Mod enabled="0" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
@@ -101,9 +101,9 @@
   </Mod>
   <Mod enabled="0" name="Lightup" settings_fold_open="0" workshop_item_id="2316356772" >
   </Mod>
-  <Mod enabled="0" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
+  <Mod enabled="1" name="grahamsdialogue" settings_fold_open="0" workshop_item_id="3115476386" >
   </Mod>
-  <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="3436708696" >
+  <Mod enabled="1" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="3436708696" >
   </Mod>
   <Mod enabled="0" name="noita-emotes" settings_fold_open="0" workshop_item_id="2980713406" >
   </Mod>
@@ -117,7 +117,7 @@
   </Mod>
   <Mod enabled="1" name="noita_rtx" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
-  <Mod enabled="0" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
+  <Mod enabled="1" name="streamer_wands" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="noita_engine_patcher" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -157,6 +157,8 @@
   </Mod>
   <Mod enabled="0" name="MusicIntensityController" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
+  <Mod enabled="0" name="-- add skullflys after this step" settings_fold_open="0" workshop_item_id="3711858570" >
+  </Mod>
   <Mod enabled="0" name="nightmare_enemies_drop_perks" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
   <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
@@ -191,12 +193,20 @@
   </Mod>
   <Mod enabled="0" name="progress_reminder" settings_fold_open="0" workshop_item_id="2843578487" >
   </Mod>
-  <Mod enabled="1" name="glutton-mode" settings_fold_open="0" workshop_item_id="3701024918" >
+  <Mod enabled="0" name="glutton-mode" settings_fold_open="0" workshop_item_id="3701024918" >
   </Mod>
-  <Mod enabled="1" name="advanced_inventory" settings_fold_open="1" workshop_item_id="2762972423" >
+  <Mod enabled="0" name="advanced_inventory" settings_fold_open="1" workshop_item_id="2762972423" >
   </Mod>
   <Mod enabled="0" name="copi.spacejam" settings_fold_open="0" workshop_item_id="3573125661" >
   </Mod>
-  <Mod enabled="1" name="mega-perk-pack" settings_fold_open="0" workshop_item_id="2952583330" >
+  <Mod enabled="0" name="mega-perk-pack" settings_fold_open="0" workshop_item_id="2952583330" >
+  </Mod>
+  <Mod enabled="0" name="NotesExpanded" settings_fold_open="0" workshop_item_id="0" >
+  </Mod>
+  <Mod enabled="0" name="NotesExpanded" settings_fold_open="0" workshop_item_id="3705021946" >
+  </Mod>
+  <Mod enabled="0" name="conga_worst_luck" settings_fold_open="0" workshop_item_id="3713134977" >
+  </Mod>
+  <Mod enabled="0" name="copis_gun" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
 </Mods>

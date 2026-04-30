@@ -1,4 +1,4 @@
-<Stats deaths="393" kills="94" player_kills="0" player_projectile_count="0" >
+<Stats deaths="399" kills="94" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="7" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="beanpodupine | $damage_melee" value="1" >
     </E>
-    <E key="bigfirebug | $damage_fire" value="3" >
+    <E key="bigfirebug | $damage_fire" value="4" >
     </E>
     <E key="chainsawer | Minced!" value="1" >
     </E>
@@ -77,6 +77,10 @@
     <E key="player | chop!" value="2" >
     </E>
     <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="skullfly | $damage_fire" value="2" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="3" >
     </E>
   </death_map>
   <kill_map>

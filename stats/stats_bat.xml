@@ -1,4 +1,4 @@
-<Stats deaths="667" kills="50" player_kills="1" player_projectile_count="0" >
+<Stats deaths="673" kills="54" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="27" >
     </E>
-    <E key="NULL | $damage_fire" value="60" >
+    <E key="NULL | $damage_fire" value="61" >
     </E>
     <E key="NULL | $damage_physicshit" value="22" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
-    <E key="bat | $damage_melee" value="4" >
+    <E key="bat | $damage_melee" value="6" >
     </E>
     <E key="bigfirebug | $damage_fire" value="3" >
     </E>
@@ -86,6 +86,10 @@
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
+    <E key="skullfly | $damage_fire" value="2" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="1" >
+    </E>
     <E key="slimeshooter | $damage_explosion" value="1" >
     </E>
     <E key="sunbaby | $damage_sun" value="4" >
@@ -94,7 +98,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="bat" value="4" >
+    <E key="bat" value="6" >
     </E>
     <E key="bubble_liquid" value="1" >
     </E>
@@ -102,7 +106,7 @@
     </E>
     <E key="crawler" value="1" >
     </E>
-    <E key="firebug" value="10" >
+    <E key="firebug" value="12" >
     </E>
     <E key="forsaken_eye" value="1" >
     </E>

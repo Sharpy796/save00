@@ -1,4 +1,4 @@
-<Stats deaths="2479" kills="49" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2488" kills="49" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="44" >
     </E>
-    <E key="NULL | $damage_explosion" value="162" >
+    <E key="NULL | $damage_explosion" value="164" >
     </E>
-    <E key="NULL | $damage_fire" value="69" >
+    <E key="NULL | $damage_fire" value="73" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="70" >
+    <E key="NULL | $damage_physicshit" value="71" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -283,6 +283,8 @@
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
     <E key="shotgunner_hell | $damage_projectile" value="10" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="2" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="21" >
     </E>

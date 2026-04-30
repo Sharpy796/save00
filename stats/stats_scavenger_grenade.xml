@@ -1,20 +1,20 @@
-<Stats deaths="1407" kills="176" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1415" kills="178" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="20" >
+    <E key="NULL | $damage_drowning" value="21" >
     </E>
-    <E key="NULL | $damage_electricity" value="65" >
+    <E key="NULL | $damage_electricity" value="67" >
     </E>
-    <E key="NULL | $damage_explosion" value="161" >
+    <E key="NULL | $damage_explosion" value="162" >
     </E>
     <E key="NULL | $damage_fire" value="34" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="68" >
+    <E key="NULL | $damage_physicshit" value="69" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="3" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="icemage_big2 | $damage_explosion" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="2" >
+    <E key="iceskull | $damage_explosion" value="5" >
     </E>
     <E key="iceskull | $damage_ice" value="7" >
     </E>
@@ -234,7 +234,7 @@
     </E>
     <E key="hisii_engineer" value="1" >
     </E>
-    <E key="iceskull" value="8" >
+    <E key="iceskull" value="10" >
     </E>
     <E key="invisiman" value="1" >
     </E>
