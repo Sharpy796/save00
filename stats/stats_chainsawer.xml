@@ -1,16 +1,16 @@
-<Stats deaths="161" kills="6" player_kills="0" player_projectile_count="0" >
+<Stats deaths="174" kills="7" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="31" >
+    <E key="NULL | $damage_explosion" value="32" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="17" >
+    <E key="NULL | $damage_radioactive" value="20" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -28,7 +28,9 @@
     </E>
     <E key="chainsawer | $damage_explosion" value="2" >
     </E>
-    <E key="chainsawer | Minced!" value="3" >
+    <E key="chainsawer | Minced!" value="4" >
+    </E>
+    <E key="commander | $damage_explosion" value="2" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="2" >
     </E>
@@ -42,9 +44,13 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
+    <E key="player | $damage_melee" value="2" >
+    </E>
     <E key="player | $damage_projectile" value="50" >
     </E>
-    <E key="player | $damage_radioactive" value="1" >
+    <E key="player | $damage_radioactive" value="2" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="2" >
     </E>
@@ -54,11 +60,15 @@
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>
+    <E key="yoyoer_shaman | $damage_slice" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="chainsawer" value="2" >
     </E>
     <E key="longleg" value="1" >
+    </E>
+    <E key="zombie_water" value="1" >
     </E>
     <E key="zombie_weak" value="3" >
     </E>

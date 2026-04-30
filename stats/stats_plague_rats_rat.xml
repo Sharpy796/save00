@@ -1,12 +1,16 @@
-<Stats deaths="25" kills="13" player_kills="0" player_projectile_count="0" >
+<Stats deaths="52" kills="30" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_explosion" value="1" >
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="5" >
     </E>
     <E key="NULL | $damage_midas" value="4" >
     </E>
-    <E key="NULL | $damage_physicshit" value="2" >
+    <E key="NULL | $damage_physicshit" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
@@ -16,11 +20,31 @@
     </E>
     <E key="boss_pit | bzzt!" value="1" >
     </E>
+    <E key="chainsawer | Minced!" value="4" >
+    </E>
+    <E key="fairy_big | $damage_projectile" value="2" >
+    </E>
+    <E key="graham_miner_gasser | $damage_radioactive" value="2" >
+    </E>
+    <E key="laser_bot_trail | Luminous Electricity" value="1" >
+    </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="2" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_rocket | $damage_explosion" value="1" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
     <E key="triangle_gem | $damage_projectile" value="1" >
     </E>
@@ -30,17 +54,39 @@
   <kill_map>
     <E key="bloom" value="2" >
     </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
+    <E key="commander" value="1" >
+    </E>
     <E key="drone_face2" value="1" >
     </E>
     <E key="eradicator" value="1" >
     </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="graham_miner_gasser" value="3" >
+    </E>
+    <E key="hisii_hobo" value="1" >
+    </E>
     <E key="larva_crawler" value="4" >
+    </E>
+    <E key="laserbot" value="1" >
     </E>
     <E key="longleg" value="2" >
     </E>
+    <E key="scavenger_grenade" value="5" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
     <E key="skullrat" value="2" >
     </E>
+    <E key="sniper" value="1" >
+    </E>
     <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="yoyoer_shaman" value="1" >
     </E>
   </kill_map>
 </Stats>

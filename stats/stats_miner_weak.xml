@@ -1,16 +1,16 @@
-<Stats deaths="572" kills="298" player_kills="0" player_projectile_count="0" >
+<Stats deaths="580" kills="300" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
     <E key="NULL | " value="20" >
     </E>
-    <E key="NULL | $damage_drowning" value="33" >
+    <E key="NULL | $damage_drowning" value="34" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="50" >
     </E>
-    <E key="NULL | $damage_fire" value="64" >
+    <E key="NULL | $damage_fire" value="66" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -18,9 +18,9 @@
     </E>
     <E key="NULL | $damage_projectile" value="9" >
     </E>
-    <E key="NULL | $damage_radioactive" value="38" >
+    <E key="NULL | $damage_radioactive" value="39" >
     </E>
-    <E key="NULL | Drowning" value="3" >
+    <E key="NULL | Drowning" value="4" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="player | $damage_projectile" value="195" >
     </E>
-    <E key="player | $damage_slice" value="26" >
+    <E key="player | $damage_slice" value="29" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="4" >
     </E>
@@ -120,7 +120,7 @@
     </E>
     <E key="shotgunner_weak" value="7" >
     </E>
-    <E key="skeleton" value="34" >
+    <E key="skeleton" value="35" >
     </E>
     <E key="slimeshooter" value="3" >
     </E>
@@ -138,7 +138,7 @@
     </E>
     <E key="zombie_water" value="28" >
     </E>
-    <E key="zombie_weak" value="131" >
+    <E key="zombie_weak" value="132" >
     </E>
   </kill_map>
 </Stats>

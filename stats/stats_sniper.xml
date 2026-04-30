@@ -1,4 +1,4 @@
-<Stats deaths="446" kills="307" player_kills="0" player_projectile_count="0" >
+<Stats deaths="452" kills="311" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -19,6 +19,8 @@
     <E key="NULL | $damage_radioactive" value="29" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: (Vanilla) freezing liquid" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="3" >
     </E>
@@ -58,6 +60,8 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
     <E key="player | " value="3" >
     </E>
     <E key="player | $action_black_hole_giga" value="1" >
@@ -74,13 +78,13 @@
     </E>
     <E key="player | $damage_ice" value="15" >
     </E>
-    <E key="player | $damage_melee" value="8" >
+    <E key="player | $damage_melee" value="10" >
     </E>
     <E key="player | $damage_projectile" value="122" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
-    <E key="player | $damage_slice" value="17" >
+    <E key="player | $damage_slice" value="18" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
@@ -102,7 +106,7 @@
     </E>
     <E key="worm | worm bite" value="1" >
     </E>
-    <E key="worm_big | worm bite" value="5" >
+    <E key="worm_big | worm bite" value="6" >
     </E>
     <E key="worm_tiny | worm bite" value="2" >
     </E>
@@ -114,7 +118,7 @@
     </E>
     <E key="blob" value="1" >
     </E>
-    <E key="bubble_liquid" value="7" >
+    <E key="bubble_liquid" value="8" >
     </E>
     <E key="chaoticpolyshooter" value="1" >
     </E>
@@ -144,7 +148,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="139" >
+    <E key="rat" value="140" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>
@@ -152,7 +156,7 @@
     </E>
     <E key="scavenger_smg" value="6" >
     </E>
-    <E key="shotgunner" value="10" >
+    <E key="shotgunner" value="11" >
     </E>
     <E key="slimeshooter" value="24" >
     </E>
@@ -162,7 +166,7 @@
     </E>
     <E key="thundermage" value="1" >
     </E>
-    <E key="thunderskull" value="2" >
+    <E key="thunderskull" value="3" >
     </E>
     <E key="zombie" value="1" >
     </E>

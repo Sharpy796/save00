@@ -1,4 +1,4 @@
-<Stats deaths="942" kills="19" player_kills="1" player_projectile_count="0" >
+<Stats deaths="946" kills="20" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -36,7 +36,7 @@
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
-    <E key="conduit | $damage_melee" value="7" >
+    <E key="conduit | $damage_melee" value="8" >
     </E>
     <E key="disc_bullet_big | bzzt!" value="1" >
     </E>
@@ -52,7 +52,7 @@
     </E>
     <E key="hazmat | $damage_melee" value="6" >
     </E>
-    <E key="hiisi_thief | $damage_melee" value="4" >
+    <E key="hiisi_thief | $damage_melee" value="6" >
     </E>
     <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="mimic_explosive_box | $damage_melee" value="2" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="83" >
+    <E key="miner_weak | $damage_explosion" value="84" >
     </E>
     <E key="miner_weak | $damage_melee" value="47" >
     </E>
@@ -104,7 +104,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="eye_bat" value="1" >
+    <E key="eye_bat" value="2" >
     </E>
     <E key="longleg" value="9" >
     </E>

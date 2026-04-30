@@ -1,10 +1,12 @@
-<Stats deaths="16" kills="4" player_kills="0" player_projectile_count="0" >
+<Stats deaths="18" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
-    <E key="NULL | physics body damaged" value="9" >
+    <E key="NULL | physics body damaged" value="10" >
     </E>
     <E key="gem_tiny | $damage_explosion" value="1" >
+    </E>
+    <E key="mexxi | $damage_projectile" value="1" >
     </E>
     <E key="player | $damage_projectile" value="2" >
     </E>

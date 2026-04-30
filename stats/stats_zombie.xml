@@ -1,10 +1,10 @@
-<Stats deaths="780" kills="76" player_kills="0" player_projectile_count="0" >
+<Stats deaths="784" kills="76" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
     <E key="NULL | $damage_drowning" value="72" >
     </E>
-    <E key="NULL | $damage_electricity" value="12" >
+    <E key="NULL | $damage_electricity" value="13" >
     </E>
     <E key="NULL | $damage_explosion" value="79" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_melee" value="5" >
     </E>
-    <E key="NULL | $damage_physicshit" value="17" >
+    <E key="NULL | $damage_physicshit" value="18" >
     </E>
     <E key="NULL | damage from material: (Hydroxide) Hydroxide" value="1" >
     </E>
@@ -114,7 +114,7 @@
     </E>
     <E key="player | $damage_projectile" value="88" >
     </E>
-    <E key="player | $damage_radioactive" value="2" >
+    <E key="player | $damage_radioactive" value="4" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>

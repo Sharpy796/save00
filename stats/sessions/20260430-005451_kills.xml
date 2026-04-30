@@ -1,0 +1,60 @@
+<Stats deaths="1" kills="50" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="chainsawer | Minced!" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="beanpodupine" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
+    <E key="chainsawer" value="1" >
+    </E>
+    <E key="cryogen" value="2" >
+    </E>
+    <E key="cyborg" value="1" >
+    </E>
+    <E key="eye_bat" value="1" >
+    </E>
+    <E key="fairy_big" value="1" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fish" value="18" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="mine" value="2" >
+    </E>
+    <E key="player_ai" value="1" >
+    </E>
+    <E key="scavenger_civilian" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_mine" value="1" >
+    </E>
+    <E key="scavenger_monster" value="1" >
+    </E>
+    <E key="scavenger_plasma" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slime_roller" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

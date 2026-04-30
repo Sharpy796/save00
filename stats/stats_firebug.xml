@@ -1,4 +1,4 @@
-<Stats deaths="949" kills="71" player_kills="0" player_projectile_count="0" >
+<Stats deaths="959" kills="71" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="109" >
+    <E key="NULL | $damage_explosion" value="115" >
     </E>
     <E key="NULL | $damage_physicshit" value="40" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_water" value="4" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) Water" value="8" >
+    <E key="NULL | damage from material: (Vanilla) Water" value="9" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="2" >
     </E>
@@ -28,9 +28,11 @@
     </E>
     <E key="bat | $damage_melee" value="14" >
     </E>
+    <E key="bean_pod_crackle | $damage_explosion" value="1" >
+    </E>
     <E key="bigbat | $damage_melee" value="6" >
     </E>
-    <E key="fairy_big | $damage_projectile" value="2" >
+    <E key="fairy_big | $damage_projectile" value="3" >
     </E>
     <E key="firebug | $damage_melee" value="6" >
     </E>
@@ -72,7 +74,7 @@
     </E>
     <E key="player | $damage_rock_curse" value="50" >
     </E>
-    <E key="player | $damage_slice" value="37" >
+    <E key="player | $damage_slice" value="38" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="2" >
     </E>
