@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="44.9492" 
-    clouds_02_target="61.4608" 
+    clouds_01_target="40.8555" 
+    clouds_02_target="52.2742" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="1" 
-    fog="0.430771" 
-    fog_target="0.430771" 
+    day_count="0" 
+    fog="0" 
+    fog_target="0" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -51,27 +51,23 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.535744" 
-    rain_target="0.535744" 
-    session_stat_file="??STA/sessions/20260102-160723" 
+    rain="1" 
+    rain_target="1" 
+    session_stat_file="??STA/sessions/20260411-171019" 
     sky_sunset_alpha_target="1" 
-    time="0.430737" 
+    time="0.631348" 
     time_dt="1" 
-    time_total="0.531272" 
+    time_total="0.159873" 
     trick_kill_gold_multiplier="2" 
-    twitch_has_been_active_during_this_run="0" 
-    wind="0.159734" 
-    wind_speed="9.58411" 
+    twitch_has_been_active_during_this_run="1" 
+    wind="0.0573508" 
+    wind_speed="3.44107" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="CE_WATCH_ENTITY" 
         value="" >
-      </E>
-      <E 
-        key="HELPLESS_KILLS" 
-        value="3" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -95,19 +91,16 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_wizardcave,$biome_robobase,$biome_fun,_EMPTY_,$biome_sandcave,$biome_pyra" >
+        value="_EMPTY_," >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="10" >
+        value="1" >
       </E>
     </lua_globals>
     <pending_portals>
     </pending_portals>
     <apparitions_per_level>
-      <primitive>
-        0
-      </primitive>
     </apparitions_per_level>
     <npc_parties>
     </npc_parties>
@@ -116,9 +109,6 @@
     <flags>
       <string>
         weather_this_run_no_gradient
-      </string>
-      <string>
-        glimmers_expanded_spliced_chunks_spawned
       </string>
       <string>
         spell_lab_shugged_init
