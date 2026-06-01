@@ -1,4 +1,4 @@
-<Stats deaths="55" kills="32" player_kills="0" player_projectile_count="0" >
+<Stats deaths="55" kills="33" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="locust_swarm" value="1" >
     </E>
-    <E key="miniblob" value="9" >
+    <E key="miniblob" value="10" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="266" kills="60" player_kills="0" player_projectile_count="0" >
+<Stats deaths="269" kills="61" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="2" >
     </E>
@@ -14,7 +14,7 @@
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="98" >
+    <E key="player | $damage_projectile" value="99" >
     </E>
     <E key="player | $damage_slice" value="21" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="slimeshooter_mega | $damage_explosion" value="1" >
     </E>
-    <E key="slimeshooter_weak | $damage_explosion" value="9" >
+    <E key="slimeshooter_weak | $damage_explosion" value="10" >
     </E>
     <E key="worm | worm bite" value="1" >
     </E>
@@ -70,7 +70,7 @@
     </E>
     <E key="skeleton_present" value="1" >
     </E>
-    <E key="slimeshooter_weak" value="9" >
+    <E key="slimeshooter_weak" value="10" >
     </E>
     <E key="wizard_tiny" value="1" >
     </E>

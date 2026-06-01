@@ -1,8 +1,8 @@
-<Stats deaths="8" kills="2" player_kills="0" player_projectile_count="0" >
+<Stats deaths="9" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="1" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
     <E key="player | $damage_curse" value="1" >
     </E>
@@ -10,6 +10,10 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="devourer_ghost" value="1" >
+    </E>
+    <E key="ghost_crystal" value="1" >
+    </E>
     <E key="invisiman" value="1" >
     </E>
     <E key="miner_boss" value="1" >

@@ -1,4 +1,4 @@
-<Stats deaths="57" kills="19" player_kills="0" player_projectile_count="0" >
+<Stats deaths="57" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -39,6 +39,8 @@
     <E key="hisii_engineer" value="1" >
     </E>
     <E key="miniblob" value="5" >
+    </E>
+    <E key="polyshooter" value="1" >
     </E>
     <E key="tank_flame_apotheosis" value="2" >
     </E>

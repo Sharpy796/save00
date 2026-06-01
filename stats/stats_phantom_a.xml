@@ -1,4 +1,4 @@
-<Stats deaths="73" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="75" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="devourer_magic | Taikuuden syöjä's bite" value="2" >
+    <E key="devourer_magic | Taikuuden syöjä's bite" value="3" >
     </E>
     <E key="failed_alchemist | $damage_melee" value="1" >
     </E>
@@ -25,6 +25,8 @@
     <E key="player | $damage_projectile" value="39" >
     </E>
     <E key="player | $damage_slice" value="7" >
+    </E>
+    <E key="worm | worm bite" value="1" >
     </E>
     <E key="wraith_void | $damage_plasmabeam" value="1" >
     </E>

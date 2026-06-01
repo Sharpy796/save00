@@ -1,4 +1,4 @@
-<Stats deaths="281" kills="221" player_kills="1" player_projectile_count="0" >
+<Stats deaths="282" kills="225" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="93" >
+    <E key="player | $damage_projectile" value="94" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -70,7 +70,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter_weak" value="1" >
+    <E key="acidshooter_weak" value="2" >
     </E>
     <E key="bomb" value="1" >
     </E>
@@ -92,7 +92,7 @@
     </E>
     <E key="shotgunner_weak" value="1" >
     </E>
-    <E key="skeleton" value="22" >
+    <E key="skeleton" value="23" >
     </E>
     <E key="slimeshooter_weak" value="10" >
     </E>
@@ -104,7 +104,7 @@
     </E>
     <E key="zombie_water" value="9" >
     </E>
-    <E key="zombie_weak" value="128" >
+    <E key="zombie_weak" value="130" >
     </E>
   </kill_map>
 </Stats>

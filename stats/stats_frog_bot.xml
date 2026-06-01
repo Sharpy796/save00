@@ -1,10 +1,10 @@
-<Stats deaths="295" kills="21" player_kills="0" player_projectile_count="0" >
+<Stats deaths="309" kills="23" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="32" >
     </E>
-    <E key="NULL | $damage_explosion" value="61" >
+    <E key="NULL | $damage_explosion" value="63" >
     </E>
-    <E key="NULL | $damage_physicshit" value="24" >
+    <E key="NULL | $damage_physicshit" value="26" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -44,13 +44,13 @@
     </E>
     <E key="player | $damage_physicshit" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="89" >
+    <E key="player | $damage_projectile" value="97" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
     <E key="player | chop!" value="1" >
     </E>
-    <E key="rat | $damage_melee" value="6" >
+    <E key="rat | $damage_melee" value="8" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
@@ -80,6 +80,8 @@
     </E>
     <E key="drone_mini" value="1" >
     </E>
+    <E key="fish_large" value="1" >
+    </E>
     <E key="frog_bot" value="1" >
     </E>
     <E key="glue" value="1" >
@@ -88,7 +90,7 @@
     </E>
     <E key="longleg" value="1" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="5" >
     </E>
     <E key="scavenger_civilian" value="2" >
     </E>

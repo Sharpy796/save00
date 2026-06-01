@@ -1,6 +1,6 @@
-<Stats deaths="20" kills="12" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | physics body damaged" value="12" >
+    <E key="NULL | physics body damaged" value="13" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
@@ -14,11 +14,13 @@
     </E>
     <E key="locust_swarm" value="1" >
     </E>
+    <E key="nautilus" value="1" >
+    </E>
     <E key="necromancer" value="1" >
     </E>
     <E key="polyorb" value="2" >
     </E>
-    <E key="scorpion" value="1" >
+    <E key="scorpion" value="2" >
     </E>
     <E key="sheep" value="2" >
     </E>

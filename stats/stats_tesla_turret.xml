@@ -1,4 +1,4 @@
-<Stats deaths="31" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="31" kills="20" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -26,6 +26,8 @@
   <kill_map>
     <E key="axeman" value="1" >
     </E>
+    <E key="bubble_liquid" value="1" >
+    </E>
     <E key="drone_mini" value="1" >
     </E>
     <E key="miniblob" value="1" >
@@ -38,7 +40,7 @@
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
-    <E key="scavenger_smg" value="2" >
+    <E key="scavenger_smg" value="3" >
     </E>
     <E key="tesla_turret" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="97" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="98" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    <E key="shotgunner_weak | $damage_projectile" value="2" >
     </E>
     <E key="slimeshooter_mega | $damage_explosion" value="1" >
     </E>
