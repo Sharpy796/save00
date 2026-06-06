@@ -1,4 +1,4 @@
-<Stats deaths="25" kills="15" player_kills="0" player_projectile_count="0" >
+<Stats deaths="25" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -35,6 +35,8 @@
     <E key="slimeshooter" value="2" >
     </E>
     <E key="stone_crab" value="1" >
+    </E>
+    <E key="whisp" value="1" >
     </E>
     <E key="zombie" value="1" >
     </E>

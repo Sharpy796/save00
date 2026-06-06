@@ -1,4 +1,4 @@
-<Stats deaths="249" kills="58" player_kills="0" player_projectile_count="0" >
+<Stats deaths="251" kills="60" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
@@ -14,11 +14,11 @@
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="14" >
+    <E key="NULL | $damage_radioactive" value="15" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="7" >
     </E>
-    <E key="NULL | damage from material: (Vanilla) lava" value="2" >
+    <E key="NULL | damage from material: (Vanilla) lava" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
     </E>
@@ -106,7 +106,7 @@
     </E>
     <E key="miniblob" value="2" >
     </E>
-    <E key="rat" value="37" >
+    <E key="rat" value="39" >
     </E>
     <E key="skeleton" value="1" >
     </E>

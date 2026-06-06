@@ -1,4 +1,4 @@
-<Stats deaths="955" kills="20" player_kills="1" player_projectile_count="0" >
+<Stats deaths="967" kills="21" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -8,13 +8,13 @@
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="33" >
+    <E key="NULL | $damage_explosion" value="36" >
     </E>
-    <E key="NULL | $damage_fire" value="84" >
+    <E key="NULL | $damage_fire" value="85" >
     </E>
     <E key="NULL | $damage_physicshit" value="40" >
     </E>
-    <E key="NULL | $damage_projectile" value="4" >
+    <E key="NULL | $damage_projectile" value="5" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
-    <E key="chainsawer | $damage_melee" value="3" >
+    <E key="chainsawer | $damage_melee" value="4" >
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
@@ -40,9 +40,9 @@
     </E>
     <E key="disc_bullet_big | bzzt!" value="1" >
     </E>
-    <E key="eye_bat | $damage_melee" value="4" >
+    <E key="eye_bat | $damage_melee" value="6" >
     </E>
-    <E key="fallen_alchemist | $damage_projectile" value="6" >
+    <E key="fallen_alchemist | $damage_projectile" value="7" >
     </E>
     <E key="firemage_weak | $damage_fire" value="2" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="miner_weak | $damage_explosion" value="84" >
     </E>
-    <E key="miner_weak | $damage_melee" value="47" >
+    <E key="miner_weak | $damage_melee" value="48" >
     </E>
     <E key="miner_weak | $damage_projectile" value="1" >
     </E>
@@ -90,7 +90,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="13" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="117" >
+    <E key="shotgunner_weak | $damage_projectile" value="118" >
     </E>
     <E key="slimeshooter_weak | $damage_explosion" value="2" >
     </E>
@@ -102,9 +102,11 @@
     </E>
     <E key="worm_big | worm bite" value="1" >
     </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
   </death_map>
   <kill_map>
-    <E key="eye_bat" value="2" >
+    <E key="eye_bat" value="3" >
     </E>
     <E key="longleg" value="9" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="837" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="840" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="46" >
     </E>
@@ -34,9 +34,13 @@
     </E>
     <E key="firebug | $damage_melee" value="11" >
     </E>
+    <E key="fireworkman | $damage_projectile" value="1" >
+    </E>
     <E key="gazer | $damage_projectile" value="2" >
     </E>
     <E key="hurpa | $damage_melee" value="4" >
+    </E>
+    <E key="invisiman | $damage_slice" value="2" >
     </E>
     <E key="locust_swarm | Locust bite" value="1" >
     </E>

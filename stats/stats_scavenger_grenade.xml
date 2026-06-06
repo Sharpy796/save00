@@ -1,4 +1,4 @@
-<Stats deaths="1973" kills="233" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1974" kills="235" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="84" >
     </E>
-    <E key="NULL | $damage_explosion" value="221" >
+    <E key="NULL | $damage_explosion" value="222" >
     </E>
     <E key="NULL | $damage_fire" value="48" >
     </E>
@@ -274,6 +274,8 @@
     </E>
     <E key="locust_swarm" value="3" >
     </E>
+    <E key="longleg" value="1" >
+    </E>
     <E key="lukki_fungus" value="1" >
     </E>
     <E key="miniblob" value="1" >
@@ -306,7 +308,7 @@
     </E>
     <E key="swarm_fly" value="3" >
     </E>
-    <E key="thunderskull" value="1" >
+    <E key="thunderskull" value="2" >
     </E>
     <E key="worm_tiny" value="1" >
     </E>

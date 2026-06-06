@@ -1,22 +1,22 @@
-<Stats deaths="2535" kills="48" player_kills="1" player_projectile_count="0" >
+<Stats deaths="2560" kills="50" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="96" >
+    <E key="NULL | $damage_drowning" value="101" >
     </E>
     <E key="NULL | $damage_electricity" value="16" >
     </E>
-    <E key="NULL | $damage_explosion" value="152" >
+    <E key="NULL | $damage_explosion" value="156" >
     </E>
-    <E key="NULL | $damage_fire" value="251" >
+    <E key="NULL | $damage_fire" value="256" >
     </E>
     <E key="NULL | $damage_melee" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="94" >
     </E>
-    <E key="NULL | $damage_projectile" value="2" >
+    <E key="NULL | $damage_projectile" value="3" >
     </E>
     <E key="NULL | $damage_slice" value="1" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="blob | $damage_melee" value="6" >
     </E>
-    <E key="chainsawer | $damage_melee" value="1" >
+    <E key="chainsawer | $damage_melee" value="2" >
     </E>
     <E key="chainsawer | Minced!" value="6" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="eye_bat | $damage_melee" value="7" >
     </E>
-    <E key="fairy_big | $damage_projectile" value="1" >
+    <E key="fairy_big | $damage_projectile" value="3" >
     </E>
     <E key="fallen_alchemist | $damage_projectile" value="1" >
     </E>
@@ -176,6 +176,8 @@
     </E>
     <E key="rock_curse | $damage_rock_curse" value="2" >
     </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
     <E key="seeker | Etsijä's shock" value="5" >
     </E>
     <E key="shaman | $damage_projectile" value="2" >
@@ -196,9 +198,9 @@
     </E>
     <E key="slicing_blade | chop!" value="7" >
     </E>
-    <E key="slimeshooter_weak | $damage_explosion" value="2" >
+    <E key="slimeshooter_weak | $damage_explosion" value="6" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="4" >
+    <E key="slimeshooter_weak | $damage_projectile" value="6" >
     </E>
     <E key="soul | $damage_explosion" value="2" >
     </E>
@@ -238,6 +240,8 @@
   <kill_map>
     <E key="ceiling_fungus_minion" value="1" >
     </E>
+    <E key="chainsawer" value="1" >
+    </E>
     <E key="firebug" value="1" >
     </E>
     <E key="frog" value="1" >
@@ -249,6 +253,8 @@
     <E key="miner_weak" value="5" >
     </E>
     <E key="player" value="1" >
+    </E>
+    <E key="rat" value="1" >
     </E>
     <E key="shotgunner_weak" value="4" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="3237" kills="75" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3246" kills="75" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -66,7 +66,7 @@
     </E>
     <E key="archer | $damage_projectile" value="3" >
     </E>
-    <E key="axeman | $damage_melee" value="37" >
+    <E key="axeman | $damage_melee" value="39" >
     </E>
     <E key="bat | $damage_melee" value="30" >
     </E>
@@ -193,6 +193,8 @@
     <E key="invisiman | $damage_slice" value="4" >
     </E>
     <E key="locust_swarm | Locust bite" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
     </E>
     <E key="lukki_fungus | hit" value="1" >
     </E>
@@ -322,7 +324,7 @@
     </E>
     <E key="scavenger_smg | $damage_projectile" value="63" >
     </E>
-    <E key="scavenger_trigger | $damage_projectile" value="3" >
+    <E key="scavenger_trigger | $damage_projectile" value="5" >
     </E>
     <E key="seeker | Etsijä's shock" value="74" >
     </E>
@@ -330,7 +332,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="32" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="131" >
+    <E key="shotgunner | $damage_projectile" value="133" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
@@ -448,7 +450,7 @@
     </E>
     <E key="worm_maggot_big | worm bite" value="4" >
     </E>
-    <E key="worm_tiny | worm bite" value="33" >
+    <E key="worm_tiny | worm bite" value="35" >
     </E>
     <E key="zombie | $damage_melee" value="37" >
     </E>
