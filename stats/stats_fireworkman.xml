@@ -1,12 +1,14 @@
-<Stats deaths="25" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="30" kills="26" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="6" >
     </E>
-    <E key="NULL | $damage_fire" value="5" >
+    <E key="NULL | $damage_fire" value="6" >
     </E>
     <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
     <E key="mudman_friendly | $damage_projectile" value="1" >
     </E>
@@ -14,10 +16,14 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="7" >
+    <E key="player | $damage_projectile" value="8" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ccc_bat_psychic" value="5" >
+    </E>
     <E key="crawler" value="1" >
     </E>
     <E key="dripper" value="1" >
@@ -30,9 +36,9 @@
     </E>
     <E key="firebug" value="1" >
     </E>
-    <E key="rat" value="4" >
+    <E key="rat" value="8" >
     </E>
-    <E key="slimeshooter" value="2" >
+    <E key="slimeshooter" value="3" >
     </E>
     <E key="stone_crab" value="1" >
     </E>

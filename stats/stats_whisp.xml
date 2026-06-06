@@ -1,4 +1,4 @@
-<Stats deaths="840" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="885" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="46" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="106" >
     </E>
-    <E key="NULL | $damage_physicshit" value="21" >
+    <E key="NULL | $damage_physicshit" value="28" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
@@ -22,13 +22,19 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) slime" value="2" >
     </E>
+    <E key="NULL | damage from material: Water" value="9" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: slime" value="1" >
+    </E>
     <E key="axeman | $damage_melee" value="1" >
     </E>
     <E key="bigfirebug | $damage_fire" value="1" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="7" >
     </E>
-    <E key="fairy_big | $damage_projectile" value="7" >
+    <E key="fairy_big | $damage_projectile" value="9" >
     </E>
     <E key="firebug | $damage_fire" value="11" >
     </E>
@@ -60,7 +66,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="174" >
+    <E key="player | $damage_projectile" value="192" >
     </E>
     <E key="player | $damage_rock_curse" value="108" >
     </E>
@@ -68,9 +74,15 @@
     </E>
     <E key="player | chop!" value="18" >
     </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
     <E key="skullrat | $damage_melee" value="1" >
     </E>
     <E key="slicing_blade | chop!" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="5" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
     <E key="stalker | $damage_projectile" value="16" >
     </E>

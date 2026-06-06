@@ -1,24 +1,26 @@
-<Stats deaths="2560" kills="50" player_kills="1" player_projectile_count="0" >
+<Stats deaths="2723" kills="51" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
     <E key="NULL | " value="21" >
     </E>
-    <E key="NULL | $damage_drowning" value="101" >
+    <E key="NULL | $damage_drowning" value="112" >
     </E>
-    <E key="NULL | $damage_electricity" value="16" >
+    <E key="NULL | $damage_electricity" value="18" >
     </E>
-    <E key="NULL | $damage_explosion" value="156" >
+    <E key="NULL | $damage_explosion" value="169" >
     </E>
-    <E key="NULL | $damage_fire" value="256" >
+    <E key="NULL | $damage_fire" value="276" >
     </E>
-    <E key="NULL | $damage_melee" value="8" >
+    <E key="NULL | $damage_melee" value="9" >
     </E>
-    <E key="NULL | $damage_physicshit" value="94" >
+    <E key="NULL | $damage_physicshit" value="96" >
     </E>
-    <E key="NULL | $damage_projectile" value="3" >
+    <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_slice" value="1" >
+    <E key="NULL | $damage_projectile" value="4" >
+    </E>
+    <E key="NULL | $damage_slice" value="3" >
     </E>
     <E key="NULL | $status_apotheosis_hex_oil_name" value="1" >
     </E>
@@ -38,21 +40,29 @@
     </E>
     <E key="NULL | damage from material: (new_enemies) toxic goo" value="1" >
     </E>
+    <E key="NULL | damage from material: Hydroxide" value="1" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
     <E key="NULL | damage from material: Weak Acid" value="1" >
     </E>
     <E key="NULL | damage from material: acid" value="12" >
     </E>
-    <E key="NULL | damage from material: lava" value="10" >
+    <E key="NULL | damage from material: lava" value="11" >
     </E>
-    <E key="NULL | damage from material: toxic gas" value="1" >
+    <E key="NULL | damage from material: toxic gas" value="3" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="14" >
     </E>
+    <E key="NULL | damage from material: weak acid" value="2" >
+    </E>
     <E key="NULL | damage from mbutterial: acid" value="1" >
     </E>
-    <E key="axeman | $damage_melee" value="1" >
+    <E key="axeman | $damage_melee" value="4" >
     </E>
     <E key="bean_pod_crackle | $damage_explosion" value="9" >
+    </E>
+    <E key="bigbat | $damage_melee" value="1" >
     </E>
     <E key="bigfirebug | $damage_melee" value="2" >
     </E>
@@ -76,7 +86,7 @@
     </E>
     <E key="enlightened_alchemist | $damage_fire" value="1" >
     </E>
-    <E key="eye_bat | $damage_melee" value="7" >
+    <E key="eye_bat | $damage_melee" value="8" >
     </E>
     <E key="fairy_big | $damage_projectile" value="3" >
     </E>
@@ -84,7 +94,7 @@
     </E>
     <E key="firebug | $damage_melee" value="1" >
     </E>
-    <E key="firemage_weak | $damage_melee" value="6" >
+    <E key="firemage_weak | $damage_melee" value="7" >
     </E>
     <E key="forgotten_alchemist | $damage_explosion" value="2" >
     </E>
@@ -98,7 +108,7 @@
     </E>
     <E key="goomonster | $damage_melee" value="1" >
     </E>
-    <E key="hazmat | $damage_melee" value="17" >
+    <E key="hazmat | $damage_melee" value="24" >
     </E>
     <E key="hideous_mass | $damage_projectile" value="4" >
     </E>
@@ -144,7 +154,7 @@
     </E>
     <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="50" >
+    <E key="player | $damage_explosion" value="53" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -152,11 +162,11 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="965" >
+    <E key="player | $damage_projectile" value="1045" >
     </E>
     <E key="player | $damage_rock_curse" value="88" >
     </E>
-    <E key="player | $damage_slice" value="65" >
+    <E key="player | $damage_slice" value="71" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="3" >
     </E>
@@ -170,7 +180,7 @@
     </E>
     <E key="playerghost | $damage_melee" value="1" >
     </E>
-    <E key="poring | $damage_melee" value="1" >
+    <E key="poring | $damage_melee" value="2" >
     </E>
     <E key="random_spell_chaotic | $damage_explosion" value="1" >
     </E>
@@ -266,7 +276,7 @@
     </E>
     <E key="zombie" value="1" >
     </E>
-    <E key="zombie_water" value="1" >
+    <E key="zombie_water" value="2" >
     </E>
     <E key="zombie_weak" value="17" >
     </E>

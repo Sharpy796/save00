@@ -1,10 +1,10 @@
-<Stats deaths="212" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="252" kills="22" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_electricity" value="6" >
+    <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
-    <E key="NULL | $damage_fire" value="20" >
+    <E key="NULL | $damage_fire" value="26" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -22,13 +22,15 @@
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
+    <E key="mimic_explosive_box | $damage_melee" value="1" >
+    </E>
     <E key="miner_weak | $damage_explosion" value="1" >
     </E>
-    <E key="miner_weak | $damage_melee" value="3" >
+    <E key="miner_weak | $damage_melee" value="4" >
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="84" >
+    <E key="player | $damage_projectile" value="110" >
     </E>
     <E key="player | $damage_rock_curse" value="1" >
     </E>
@@ -38,7 +40,7 @@
     </E>
     <E key="player_ai | $damage_melee" value="1" >
     </E>
-    <E key="skeleton | $damage_melee" value="5" >
+    <E key="skeleton | $damage_melee" value="6" >
     </E>
     <E key="slimeshooter_weak | $damage_explosion" value="1" >
     </E>
@@ -46,11 +48,13 @@
     </E>
     <E key="zombie_water | $damage_melee" value="3" >
     </E>
+    <E key="zombie_water | $damage_projectile" value="1" >
+    </E>
     <E key="zombie_weak | $damage_melee" value="3" >
     </E>
   </death_map>
   <kill_map>
-    <E key="longleg" value="7" >
+    <E key="longleg" value="8" >
     </E>
     <E key="longleg_free" value="1" >
     </E>
@@ -60,7 +64,7 @@
     </E>
     <E key="skeleton" value="3" >
     </E>
-    <E key="zombie_weak" value="6" >
+    <E key="zombie_weak" value="7" >
     </E>
   </kill_map>
 </Stats>

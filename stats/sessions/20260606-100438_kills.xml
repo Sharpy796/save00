@@ -1,0 +1,78 @@
+<Stats deaths="1" kills="84" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="necromancer_shop | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="ccc_bat_psychic" value="4" >
+    </E>
+    <E key="chaoticpolyshooter" value="1" >
+    </E>
+    <E key="crawler" value="3" >
+    </E>
+    <E key="dripper" value="2" >
+    </E>
+    <E key="fairy_big" value="5" >
+    </E>
+    <E key="fallen_alchemist" value="1" >
+    </E>
+    <E key="fireworkman" value="1" >
+    </E>
+    <E key="goblin_bomb" value="1" >
+    </E>
+    <E key="goo_slug" value="1" >
+    </E>
+    <E key="hazmat" value="1" >
+    </E>
+    <E key="invisiman" value="1" >
+    </E>
+    <E key="knight" value="2" >
+    </E>
+    <E key="larva_crawler" value="2" >
+    </E>
+    <E key="longleg" value="11" >
+    </E>
+    <E key="mimic_explosive_box" value="2" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="mutant2" value="1" >
+    </E>
+    <E key="mutant_blob" value="1" >
+    </E>
+    <E key="nautilus" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="skeleton" value="7" >
+    </E>
+    <E key="slime_roller" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sporeling_tiny" value="3" >
+    </E>
+    <E key="summoner" value="1" >
+    </E>
+    <E key="toxicmage" value="2" >
+    </E>
+    <E key="toxicskull" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie3" value="2" >
+    </E>
+    <E key="zombie_water" value="7" >
+    </E>
+  </kill_map>
+</Stats>

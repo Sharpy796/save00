@@ -1,4 +1,4 @@
-<Stats deaths="966" kills="71" player_kills="0" player_projectile_count="0" >
+<Stats deaths="976" kills="72" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="3" >
     </E>
@@ -10,11 +10,11 @@
     </E>
     <E key="NULL | $damage_explosion" value="115" >
     </E>
-    <E key="NULL | $damage_physicshit" value="41" >
+    <E key="NULL | $damage_physicshit" value="42" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_water" value="4" >
+    <E key="NULL | $damage_water" value="5" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Water" value="9" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) swamp" value="1" >
     </E>
-    <E key="NULL | damage from material: Water" value="42" >
+    <E key="NULL | damage from material: Water" value="45" >
     </E>
     <E key="NULL | damage from material: acid" value="1" >
     </E>
@@ -50,11 +50,15 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
+    <E key="invisiman | $damage_slice" value="1" >
+    </E>
     <E key="longleg | $damage_melee" value="1" >
     </E>
     <E key="lukki_fire_miniboss | $damage_curse" value="3" >
     </E>
     <E key="lukki_fire_tiny | $damage_curse" value="5" >
+    </E>
+    <E key="mexxi | $damage_projectile" value="1" >
     </E>
     <E key="miner | $damage_explosion" value="2" >
     </E>
@@ -78,7 +82,7 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="230" >
+    <E key="player | $damage_projectile" value="233" >
     </E>
     <E key="player | $damage_rock_curse" value="50" >
     </E>
@@ -125,6 +129,8 @@
     <E key="fireskull" value="1" >
     </E>
     <E key="goblin_bomb" value="6" >
+    </E>
+    <E key="goomonster" value="1" >
     </E>
     <E key="longleg" value="1" >
     </E>

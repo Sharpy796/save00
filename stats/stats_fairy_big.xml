@@ -1,12 +1,12 @@
-<Stats deaths="252" kills="30" player_kills="0" player_projectile_count="0" >
+<Stats deaths="270" kills="37" player_kills="1" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="7" >
+    <E key="NULL | $damage_drowning" value="8" >
     </E>
-    <E key="NULL | $damage_electricity" value="1" >
+    <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="35" >
+    <E key="NULL | $damage_explosion" value="36" >
     </E>
-    <E key="NULL | $damage_fire" value="19" >
+    <E key="NULL | $damage_fire" value="23" >
     </E>
     <E key="NULL | $damage_physicshit" value="18" >
     </E>
@@ -66,11 +66,11 @@
     </E>
     <E key="player | $damage_plasmabeam" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="84" >
+    <E key="player | $damage_projectile" value="89" >
     </E>
     <E key="player | $damage_rock_curse" value="4" >
     </E>
-    <E key="player | $damage_slice" value="3" >
+    <E key="player | $damage_slice" value="7" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="9" >
     </E>
@@ -82,7 +82,11 @@
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
     <E key="spore_sentient | $damage_explosion" value="1" >
+    </E>
+    <E key="summoner | $damage_projectile" value="1" >
     </E>
     <E key="tank_fire | $damage_explosion" value="1" >
     </E>
@@ -106,15 +110,23 @@
     </E>
     <E key="plague_rats_rat" value="2" >
     </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="2" >
+    </E>
     <E key="radioactive_shot" value="1" >
     </E>
     <E key="rat" value="1" >
     </E>
     <E key="seed_shot" value="1" >
     </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
     <E key="sporeling_tiny" value="2" >
     </E>
-    <E key="whisp" value="7" >
+    <E key="whisp" value="9" >
     </E>
   </kill_map>
 </Stats>

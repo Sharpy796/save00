@@ -1,4 +1,4 @@
-<Stats deaths="608" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="615" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_curse" value="1" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="22" >
+    <E key="NULL | $damage_explosion" value="23" >
     </E>
     <E key="NULL | $damage_melee" value="2" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="324" >
+    <E key="NULL | run out of material" value="329" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -57,6 +57,8 @@
     <E key="fairy_big | $damage_projectile" value="1" >
     </E>
     <E key="forsaken_eye | $damage_projectile" value="1" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
     </E>
     <E key="frog_bot | $damage_projectile" value="1" >
     </E>

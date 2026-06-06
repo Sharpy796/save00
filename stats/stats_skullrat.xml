@@ -1,10 +1,10 @@
-<Stats deaths="132" kills="36" player_kills="0" player_projectile_count="0" >
+<Stats deaths="134" kills="37" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_fire" value="6" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | $damage_physicshit" value="9" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="poring_magic" value="1" >
     </E>
-    <E key="scorpion" value="11" >
+    <E key="scorpion" value="12" >
     </E>
     <E key="tentacler_small" value="2" >
     </E>

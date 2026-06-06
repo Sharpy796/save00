@@ -1,4 +1,4 @@
-<Stats deaths="3246" kills="75" player_kills="0" player_projectile_count="0" >
+<Stats deaths="3275" kills="75" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_electricity" value="58" >
     </E>
-    <E key="NULL | $damage_explosion" value="206" >
+    <E key="NULL | $damage_explosion" value="209" >
     </E>
     <E key="NULL | $damage_fire" value="87" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="contact_damage | $damage_curse" value="2" >
     </E>
-    <E key="crawler | $damage_projectile" value="1" >
+    <E key="crawler | $damage_projectile" value="2" >
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="7" >
     </E>
@@ -100,6 +100,8 @@
     </E>
     <E key="electrolukki | zap!" value="6" >
     </E>
+    <E key="eye_monster | $damage_melee" value="2" >
+    </E>
     <E key="eye_monster | $damage_projectile" value="2" >
     </E>
     <E key="fairy_big | $damage_projectile" value="1" >
@@ -110,7 +112,9 @@
     </E>
     <E key="fireskull | $damage_melee" value="1" >
     </E>
-    <E key="fireworkman | $damage_projectile" value="4" >
+    <E key="fireworkman | $damage_explosion" value="1" >
+    </E>
+    <E key="fireworkman | $damage_projectile" value="7" >
     </E>
     <E key="flamer | $damage_fire" value="2" >
     </E>
@@ -180,7 +184,7 @@
     </E>
     <E key="icemage_big2 | $damage_ice" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="19" >
+    <E key="iceskull | $damage_explosion" value="20" >
     </E>
     <E key="iceskull | $damage_ice" value="95" >
     </E>
@@ -234,6 +238,8 @@
     </E>
     <E key="monkey | $damage_projectile" value="1" >
     </E>
+    <E key="mutant2 | $damage_melee" value="1" >
+    </E>
     <E key="nautilus | $damage_projectile" value="1" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02 | $damage_melee" value="2" >
@@ -260,13 +266,13 @@
     </E>
     <E key="player | $damage_physicshit" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="222" >
+    <E key="player | $damage_projectile" value="230" >
     </E>
     <E key="player | $damage_radioactive" value="1" >
     </E>
     <E key="player | $damage_rock_curse" value="15" >
     </E>
-    <E key="player | $damage_slice" value="25" >
+    <E key="player | $damage_slice" value="29" >
     </E>
     <E key="player | $perkname_graham_zaptap" value="1" >
     </E>
@@ -330,9 +336,9 @@
     </E>
     <E key="shaman_greater_apotheosis | $damage_projectile" value="2" >
     </E>
-    <E key="shotgunner | $damage_melee" value="32" >
+    <E key="shotgunner | $damage_melee" value="33" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="133" >
+    <E key="shotgunner | $damage_projectile" value="134" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="6" >
     </E>
@@ -340,11 +346,11 @@
     </E>
     <E key="slicing_blade | chop!" value="2" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="34" >
+    <E key="slimeshooter | $damage_explosion" value="36" >
     </E>
     <E key="slimeshooter | $damage_melee" value="4" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="75" >
+    <E key="slimeshooter | $damage_projectile" value="76" >
     </E>
     <E key="sniper | $damage_explosion" value="19" >
     </E>

@@ -1,0 +1,26 @@
+<Stats deaths="1" kills="17" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="dripper" value="1" >
+    </E>
+    <E key="hisii_giga_bomb" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner_weak" value="3" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="poring" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="skeleton" value="1" >
+    </E>
+    <E key="skullmage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

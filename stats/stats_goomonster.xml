@@ -1,4 +1,4 @@
-<Stats deaths="19" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="21" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -6,15 +6,19 @@
     </E>
     <E key="chainsawer | Minced!" value="1" >
     </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
     <E key="goomonster | $damage_melee" value="1" >
     </E>
     <E key="mexxi | $damage_projectile" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="8" >
+    <E key="player | $damage_projectile" value="9" >
     </E>
   </death_map>
   <kill_map>
     <E key="archer" value="1" >
+    </E>
+    <E key="conduit" value="1" >
     </E>
     <E key="goomonster" value="1" >
     </E>

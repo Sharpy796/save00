@@ -1,8 +1,8 @@
-<Stats deaths="86" kills="5" player_kills="0" player_projectile_count="0" >
+<Stats deaths="96" kills="5" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="14" >
     </E>
-    <E key="NULL | $damage_explosion" value="21" >
+    <E key="NULL | $damage_explosion" value="24" >
     </E>
     <E key="NULL | $damage_fire" value="6" >
     </E>
@@ -22,13 +22,17 @@
     </E>
     <E key="gem_tiny | $damage_explosion" value="1" >
     </E>
+    <E key="hisii_minecart_tnt | $damage_explosion" value="1" >
+    </E>
     <E key="mexxi | $damage_projectile" value="1" >
+    </E>
+    <E key="mutant2 | $damage_melee" value="1" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="17" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="3" >
     </E>
@@ -36,7 +40,7 @@
     </E>
     <E key="toxicmage2 | $damage_melee" value="1" >
     </E>
-    <E key="worm | worm bite" value="1" >
+    <E key="worm | worm bite" value="2" >
     </E>
   </death_map>
   <kill_map>

@@ -1,8 +1,8 @@
-<Stats deaths="787" kills="76" player_kills="0" player_projectile_count="0" >
+<Stats deaths="794" kills="76" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | " value="8" >
     </E>
-    <E key="NULL | $damage_drowning" value="74" >
+    <E key="NULL | $damage_drowning" value="76" >
     </E>
     <E key="NULL | $damage_electricity" value="13" >
     </E>
@@ -74,7 +74,7 @@
     </E>
     <E key="hisii_hobo | $damage_melee" value="52" >
     </E>
-    <E key="invisiman | $damage_melee" value="1" >
+    <E key="invisiman | $damage_melee" value="2" >
     </E>
     <E key="longleg | $damage_melee" value="1" >
     </E>
@@ -112,7 +112,7 @@
     </E>
     <E key="player | $damage_melee" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="88" >
+    <E key="player | $damage_projectile" value="92" >
     </E>
     <E key="player | $damage_radioactive" value="4" >
     </E>

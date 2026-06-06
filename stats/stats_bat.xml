@@ -1,16 +1,18 @@
-<Stats deaths="791" kills="59" player_kills="1" player_projectile_count="0" >
+<Stats deaths="813" kills="59" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
     <E key="NULL | " value="9" >
     </E>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
     <E key="NULL | $damage_explosion" value="34" >
     </E>
-    <E key="NULL | $damage_fire" value="100" >
+    <E key="NULL | $damage_fire" value="102" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
     </E>
     <E key="NULL | $damage_physicshit" value="30" >
     </E>
@@ -26,7 +28,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="4" >
     </E>
-    <E key="NULL | damage from material: lava" value="20" >
+    <E key="NULL | damage from material: lava" value="21" >
     </E>
     <E key="NULL | damage from material: toxic gas" value="1" >
     </E>
@@ -44,7 +46,7 @@
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
-    <E key="mexxi | $damage_projectile" value="3" >
+    <E key="mexxi | $damage_projectile" value="4" >
     </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
@@ -68,7 +70,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="215" >
+    <E key="player | $damage_projectile" value="230" >
     </E>
     <E key="player | $damage_slice" value="40" >
     </E>
@@ -92,7 +94,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="2" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="1" >
+    <E key="slimeshooter | $damage_explosion" value="2" >
     </E>
     <E key="sunbaby | $damage_sun" value="4" >
     </E>

@@ -1,6 +1,6 @@
-<Stats deaths="28" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="33" kills="14" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="2" >
+    <E key="NULL | $damage_drowning" value="3" >
     </E>
     <E key="NULL | $damage_explosion" value="4" >
     </E>
@@ -10,14 +10,16 @@
     </E>
     <E key="hisii_minecart | $damage_projectile" value="1" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="1" >
+    <E key="miner_weak | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="10" >
+    <E key="player | $damage_projectile" value="13" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
   </death_map>
   <kill_map>
+    <E key="ccc_bat_psychic" value="1" >
+    </E>
     <E key="conduit" value="2" >
     </E>
     <E key="firebug" value="2" >
@@ -26,7 +28,11 @@
     </E>
     <E key="invisiman" value="1" >
     </E>
+    <E key="monkey" value="1" >
+    </E>
     <E key="peasant" value="1" >
+    </E>
+    <E key="rat" value="1" >
     </E>
     <E key="skullmage" value="1" >
     </E>

@@ -1,12 +1,12 @@
-<Stats deaths="641" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="650" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="10" >
+    <E key="NULL | $damage_drowning" value="11" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="156" >
+    <E key="NULL | $damage_explosion" value="157" >
     </E>
-    <E key="NULL | $damage_fire" value="60" >
+    <E key="NULL | $damage_fire" value="62" >
     </E>
     <E key="NULL | $damage_physicshit" value="10" >
     </E>
@@ -35,6 +35,8 @@
     <E key="bloom | $damage_projectile" value="4" >
     </E>
     <E key="boss_pit | $damage_projectile" value="2" >
+    </E>
+    <E key="chest_great_boss | $damage_melee" value="1" >
     </E>
     <E key="chest_mimic | $damage_melee" value="1" >
     </E>
@@ -66,11 +68,11 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="39" >
+    <E key="player | $damage_projectile" value="41" >
     </E>
     <E key="player | $damage_rock_curse" value="8" >
     </E>
-    <E key="player | $damage_slice" value="2" >
+    <E key="player | $damage_slice" value="3" >
     </E>
     <E key="player | bzzt!" value="1" >
     </E>
@@ -93,6 +95,8 @@
     <E key="tank | $damage_projectile" value="1" >
     </E>
     <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_electricity" value="1" >
     </E>
     <E key="wizard_tele | $damage_projectile" value="1" >
     </E>

@@ -57,7 +57,7 @@
   </Mod>
   <Mod enabled="1" name="hamis_endscreen" settings_fold_open="0" workshop_item_id="3502041976" >
   </Mod>
-  <Mod enabled="1" name="SpicyTP_EUI" settings_fold_open="0" workshop_item_id="2887405712" >
+  <Mod enabled="0" name="SpicyTP_EUI" settings_fold_open="0" workshop_item_id="2887405712" >
   </Mod>
   <Mod enabled="1" name="Copis_Wand_Diversity" settings_fold_open="0" workshop_item_id="2829763064" >
   </Mod>
@@ -69,7 +69,7 @@
   </Mod>
   <Mod enabled="1" name="advanced_inventory" settings_fold_open="0" workshop_item_id="2762972423" >
   </Mod>
-  <Mod enabled="1" name="time_sync" settings_fold_open="0" workshop_item_id="3001353456" >
+  <Mod enabled="0" name="time_sync" settings_fold_open="0" workshop_item_id="3001353456" >
   </Mod>
   <Mod enabled="1" name="BetterVuoksikivi" settings_fold_open="0" workshop_item_id="3325205627" >
   </Mod>
@@ -93,7 +93,7 @@
   </Mod>
   <Mod enabled="1" name="grahamsperks" settings_fold_open="1" workshop_item_id="2840072000" >
   </Mod>
-  <Mod enabled="1" name="more-stuff" settings_fold_open="0" workshop_item_id="2910427839" >
+  <Mod enabled="0" name="more-stuff" settings_fold_open="0" workshop_item_id="2910427839" >
   </Mod>
   <Mod enabled="1" name="Hydroxide" settings_fold_open="0" workshop_item_id="2866701037" >
   </Mod>
@@ -131,7 +131,7 @@
   </Mod>
   <Mod enabled="0" name="noita.fairmod" settings_fold_open="1" workshop_item_id="3357618827" >
   </Mod>
-  <Mod enabled="1" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
+  <Mod enabled="0" name="spell_lab_shugged" settings_fold_open="0" workshop_item_id="3284126816" >
   </Mod>
   <Mod enabled="0" name="NoitaDearImGui" settings_fold_open="0" workshop_item_id="0" >
   </Mod>
@@ -208,5 +208,7 @@
   <Mod enabled="0" name="conga_worst_luck" settings_fold_open="0" workshop_item_id="3713134977" >
   </Mod>
   <Mod enabled="0" name="-- add skullflys after this step" settings_fold_open="0" workshop_item_id="3711858570" >
+  </Mod>
+  <Mod enabled="0" name="noita.fairend" settings_fold_open="0" workshop_item_id="3637480868" >
   </Mod>
 </Mods>

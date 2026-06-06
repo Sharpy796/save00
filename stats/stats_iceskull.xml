@@ -1,10 +1,10 @@
-<Stats deaths="498" kills="471" player_kills="0" player_projectile_count="0" >
+<Stats deaths="502" kills="476" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="13" >
     </E>
-    <E key="NULL | $damage_drowning" value="3" >
+    <E key="NULL | $damage_drowning" value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="gazer_greater_cold | $damage_projectile" value="2" >
     </E>
-    <E key="graham_miner_gasser | $damage_radioactive" value="1" >
+    <E key="graham_miner_gasser | $damage_radioactive" value="2" >
     </E>
     <E key="homunculus | $damage_projectile" value="1" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="player | $damage_melee" value="10" >
     </E>
-    <E key="player | $damage_projectile" value="117" >
+    <E key="player | $damage_projectile" value="118" >
     </E>
     <E key="player | $damage_rock_curse" value="31" >
     </E>
@@ -88,7 +88,7 @@
     </E>
     <E key="sniper | $damage_explosion" value="2" >
     </E>
-    <E key="sniper | $damage_projectile" value="20" >
+    <E key="sniper | $damage_projectile" value="21" >
     </E>
     <E key="tank | $damage_projectile" value="11" >
     </E>
@@ -114,7 +114,7 @@
   <kill_map>
     <E key="acidshot" value="2" >
     </E>
-    <E key="axeman" value="9" >
+    <E key="axeman" value="10" >
     </E>
     <E key="coldshot" value="46" >
     </E>
@@ -132,7 +132,7 @@
     </E>
     <E key="iceskull" value="69" >
     </E>
-    <E key="invisiman" value="1" >
+    <E key="invisiman" value="2" >
     </E>
     <E key="noita.fairmod_enemy_corrupted_02" value="2" >
     </E>
@@ -148,11 +148,11 @@
     </E>
     <E key="radioactive_blob_trail" value="1" >
     </E>
-    <E key="rat" value="155" >
+    <E key="rat" value="156" >
     </E>
     <E key="scavenger_glue" value="6" >
     </E>
-    <E key="scavenger_grenade" value="14" >
+    <E key="scavenger_grenade" value="16" >
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
