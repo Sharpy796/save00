@@ -1,4 +1,4 @@
-<Stats deaths="943" kills="248" player_kills="3" player_projectile_count="0" >
+<Stats deaths="956" kills="255" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="4" >
     </E>
@@ -6,17 +6,17 @@
     </E>
     <E key="NULL | $damage_drowning" value="23" >
     </E>
-    <E key="NULL | $damage_electricity" value="15" >
+    <E key="NULL | $damage_electricity" value="17" >
     </E>
-    <E key="NULL | $damage_explosion" value="107" >
+    <E key="NULL | $damage_explosion" value="109" >
     </E>
-    <E key="NULL | $damage_fire" value="52" >
+    <E key="NULL | $damage_fire" value="53" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="71" >
+    <E key="NULL | $damage_physicshit" value="73" >
     </E>
-    <E key="NULL | $damage_radioactive" value="67" >
+    <E key="NULL | $damage_radioactive" value="68" >
     </E>
     <E key="NULL | Drowning" value="1" >
     </E>
@@ -56,6 +56,8 @@
     </E>
     <E key="commander | $damage_explosion" value="4" >
     </E>
+    <E key="drone_face2 | $damage_slice" value="1" >
+    </E>
     <E key="drone_lasership | $damage_explosion" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="4" >
@@ -94,7 +96,7 @@
     </E>
     <E key="player | $damage_explosion" value="44" >
     </E>
-    <E key="player | $damage_fire" value="9" >
+    <E key="player | $damage_fire" value="10" >
     </E>
     <E key="player | $damage_ice" value="13" >
     </E>
@@ -102,11 +104,11 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="233" >
+    <E key="player | $damage_projectile" value="234" >
     </E>
     <E key="player | $damage_radioactive" value="3" >
     </E>
-    <E key="player | $damage_slice" value="53" >
+    <E key="player | $damage_slice" value="54" >
     </E>
     <E key="player | $spell_apotheosis_electrosphere_name" value="7" >
     </E>
@@ -140,7 +142,7 @@
     </E>
     <E key="smoke_bot | $damage_explosion" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="11" >
+    <E key="sniper | $damage_projectile" value="12" >
     </E>
     <E key="thundermage | $damage_electricity" value="1" >
     </E>
@@ -164,6 +166,8 @@
     </E>
     <E key="crawler" value="1" >
     </E>
+    <E key="fairy_big" value="1" >
+    </E>
     <E key="firebug" value="7" >
     </E>
     <E key="fireskull" value="1" >
@@ -186,7 +190,7 @@
     </E>
     <E key="pollen" value="4" >
     </E>
-    <E key="rat" value="167" >
+    <E key="rat" value="170" >
     </E>
     <E key="scavenger_heal" value="1" >
     </E>
@@ -202,7 +206,7 @@
     </E>
     <E key="whisp" value="1" >
     </E>
-    <E key="zombie" value="19" >
+    <E key="zombie" value="22" >
     </E>
   </kill_map>
 </Stats>

@@ -1,4 +1,4 @@
-<Stats deaths="813" kills="59" player_kills="1" player_projectile_count="0" >
+<Stats deaths="817" kills="60" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="7" >
     </E>
@@ -10,7 +10,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="34" >
     </E>
-    <E key="NULL | $damage_fire" value="102" >
+    <E key="NULL | $damage_fire" value="103" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -50,6 +50,8 @@
     </E>
     <E key="miner | $damage_explosion" value="1" >
     </E>
+    <E key="miner_boss | $damage_melee" value="1" >
+    </E>
     <E key="miner_weak | $damage_melee" value="1" >
     </E>
     <E key="monkey | $damage_projectile" value="1" >
@@ -70,7 +72,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="230" >
+    <E key="player | $damage_projectile" value="232" >
     </E>
     <E key="player | $damage_slice" value="40" >
     </E>
@@ -113,6 +115,8 @@
     <E key="forsaken_eye" value="1" >
     </E>
     <E key="miner" value="1" >
+    </E>
+    <E key="monkey" value="1" >
     </E>
     <E key="player" value="1" >
     </E>

@@ -1,22 +1,22 @@
-<Stats deaths="262" kills="66" player_kills="0" player_projectile_count="0" >
+<Stats deaths="274" kills="75" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="7" >
+    <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_electricity" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="22" >
+    <E key="NULL | $damage_explosion" value="25" >
     </E>
-    <E key="NULL | $damage_fire" value="15" >
+    <E key="NULL | $damage_fire" value="16" >
     </E>
     <E key="NULL | $damage_ice" value="2" >
     </E>
-    <E key="NULL | $damage_physicshit" value="12" >
+    <E key="NULL | $damage_physicshit" value="14" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="17" >
+    <E key="NULL | $damage_radioactive" value="18" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="7" >
     </E>
@@ -52,11 +52,11 @@
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="6" >
+    <E key="player | $damage_explosion" value="7" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
-    <E key="player | $damage_ice" value="1" >
+    <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="9" >
     </E>
@@ -92,19 +92,21 @@
     </E>
     <E key="worm_tiny | worm bite" value="1" >
     </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
   </death_map>
   <kill_map>
     <E key="bubble_liquid" value="2" >
     </E>
     <E key="eye_bat" value="1" >
     </E>
-    <E key="fairy_big" value="2" >
+    <E key="fairy_big" value="3" >
     </E>
     <E key="firebug" value="3" >
     </E>
     <E key="forsaken_eye" value="1" >
     </E>
-    <E key="longleg" value="4" >
+    <E key="longleg" value="6" >
     </E>
     <E key="longleg_pillar" value="1" >
     </E>
@@ -114,7 +116,7 @@
     </E>
     <E key="miniblob" value="2" >
     </E>
-    <E key="rat" value="39" >
+    <E key="rat" value="40" >
     </E>
     <E key="skeleton" value="2" >
     </E>
@@ -124,7 +126,7 @@
     </E>
     <E key="whisp" value="1" >
     </E>
-    <E key="zombie" value="3" >
+    <E key="zombie" value="8" >
     </E>
     <E key="zombie_weak" value="1" >
     </E>

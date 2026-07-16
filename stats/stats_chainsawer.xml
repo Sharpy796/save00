@@ -1,4 +1,4 @@
-<Stats deaths="192" kills="14" player_kills="0" player_projectile_count="0" >
+<Stats deaths="199" kills="15" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -28,7 +28,7 @@
     </E>
     <E key="chainsawer | $damage_explosion" value="2" >
     </E>
-    <E key="chainsawer | Minced!" value="4" >
+    <E key="chainsawer | Minced!" value="5" >
     </E>
     <E key="commander | $damage_explosion" value="2" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | $damage_electricity" value="3" >
     </E>
-    <E key="player | $damage_explosion" value="18" >
+    <E key="player | $damage_explosion" value="22" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="player | $damage_melee" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="54" >
+    <E key="player | $damage_projectile" value="56" >
     </E>
     <E key="player | $damage_radioactive" value="2" >
     </E>
@@ -69,6 +69,8 @@
   </death_map>
   <kill_map>
     <E key="chainsawer" value="2" >
+    </E>
+    <E key="crawler" value="1" >
     </E>
     <E key="frog" value="1" >
     </E>

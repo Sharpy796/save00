@@ -1,4 +1,4 @@
-<Stats deaths="87" kills="23" player_kills="1" player_projectile_count="0" >
+<Stats deaths="87" kills="24" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
@@ -67,6 +67,8 @@
     <E key="scavenger_undercover" value="1" >
     </E>
     <E key="skeleton" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
     </E>
     <E key="whisp" value="2" >
     </E>

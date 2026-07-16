@@ -1,10 +1,10 @@
-<Stats deaths="176" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="179" kills="3" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="9" >
+    <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
@@ -32,6 +32,8 @@
     </E>
     <E key="cargobot | $damage_electricity" value="1" >
     </E>
+    <E key="cargobot | $damage_explosion" value="1" >
+    </E>
     <E key="cyborg | $damage_explosion" value="1" >
     </E>
     <E key="drone_lasership | $damage_projectile" value="1" >
@@ -48,7 +50,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="11" >
+    <E key="player | $damage_explosion" value="12" >
     </E>
     <E key="player | $damage_ice" value="8" >
     </E>

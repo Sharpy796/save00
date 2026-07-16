@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="4" damage_taken="8.74635" dead="1" death_count="0" death_pos.x="-2282.31" death_pos.y="2463.06" enemies_killed="7" gold="158" gold_all="158" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="6" killed_by=" | explosion" killed_by_extra="" places_visited="4" playtime="212.067" playtime_str="0:03:32" projectiles_shot="109" streaks="0" teleports="0" wands_edited="2" world_seed="629188716" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="3.425" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="3" gold="90" gold_all="90" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="5" kicks="5" killed_by="" killed_by_extra="" places_visited="2" playtime="118.733" playtime_str="0:01:58" projectiles_shot="45" streaks="0" teleports="0" wands_edited="2" world_seed="629188716" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="Aquifer" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

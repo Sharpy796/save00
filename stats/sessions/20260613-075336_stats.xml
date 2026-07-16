@@ -1,0 +1,30 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="10" damage_taken="187.725" dead="1" death_count="0" death_pos.x="6402.83" death_pos.y="15179.7" enemies_killed="58" gold="292" gold_all="557" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="21" kicks="65" killed_by=" | midas" killed_by_extra="" places_visited="10" playtime="1031.77" playtime_str="0:17:11" projectiles_shot="851" streaks="0" teleports="0" wands_edited="7" world_seed="829254520" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="5" damage_taken="8.25635" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="41" gold="259" gold_all="524" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="16" kicks="55" killed_by="" killed_by_extra="" places_visited="5" playtime="721.783" playtime_str="0:12:01" projectiles_shot="669" streaks="0" teleports="0" wands_edited="4" world_seed="829254520" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_arena" value="1" >
+    </E>
+    <E key="$biome_boss_victoryroom" value="1" >
+    </E>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="Frozen Passages" value="1" >
+    </E>
+    <E key="Hiisi Village" value="1" >
+    </E>
+    <E key="The Forge" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

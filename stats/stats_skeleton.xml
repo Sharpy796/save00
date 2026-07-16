@@ -1,12 +1,12 @@
-<Stats deaths="366" kills="16" player_kills="0" player_projectile_count="0" >
+<Stats deaths="392" kills="16" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="18" >
+    <E key="NULL | $damage_drowning" value="21" >
     </E>
     <E key="NULL | $damage_electricity" value="5" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="28" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="15" >
     </E>
     <E key="NULL | $damage_physicshit" value="14" >
     </E>
@@ -54,9 +54,9 @@
     </E>
     <E key="longleg | $damage_melee" value="3" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="30" >
+    <E key="miner_weak | $damage_explosion" value="33" >
     </E>
-    <E key="miner_weak | $damage_melee" value="19" >
+    <E key="miner_weak | $damage_melee" value="21" >
     </E>
     <E key="miner_weak | $damage_projectile" value="1" >
     </E>
@@ -66,7 +66,9 @@
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="91" >
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="97" >
     </E>
     <E key="player | $damage_slice" value="21" >
     </E>
@@ -76,13 +78,15 @@
     </E>
     <E key="player_ai | $damage_fire" value="1" >
     </E>
+    <E key="player_ai | $damage_projectile" value="1" >
+    </E>
     <E key="playerghost | $damage_melee" value="2" >
     </E>
     <E key="poring | $damage_melee" value="1" >
     </E>
     <E key="shotgunner_weak | $damage_melee" value="5" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="25" >
+    <E key="shotgunner_weak | $damage_projectile" value="28" >
     </E>
     <E key="skeleton | $damage_explosion" value="1" >
     </E>
@@ -108,7 +112,7 @@
     </E>
     <E key="worm_big | worm bite" value="2" >
     </E>
-    <E key="worm_tiny | worm bite" value="1" >
+    <E key="worm_tiny | worm bite" value="5" >
     </E>
   </death_map>
   <kill_map>

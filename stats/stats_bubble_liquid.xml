@@ -1,4 +1,4 @@
-<Stats deaths="615" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="638" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_curse" value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="12" >
     </E>
-    <E key="NULL | $damage_plasmabeam" value="1" >
+    <E key="NULL | $damage_plasmabeam" value="2" >
     </E>
     <E key="NULL | $damage_projectile" value="3" >
     </E>
@@ -28,7 +28,13 @@
     </E>
     <E key="NULL | damage from material: Liquid Nitrogen" value="1" >
     </E>
-    <E key="NULL | run out of material" value="329" >
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="NULL | run out of material" value="345" >
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
@@ -122,7 +128,7 @@
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="1" >
     </E>
-    <E key="scavenger_laser | $damage_projectile" value="3" >
+    <E key="scavenger_laser | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_plasma | $damage_projectile" value="6" >
     </E>
@@ -142,9 +148,9 @@
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
     </E>
-    <E key="sniper | $damage_projectile" value="8" >
+    <E key="sniper | $damage_projectile" value="9" >
     </E>
-    <E key="tank | $damage_projectile" value="2" >
+    <E key="tank | $damage_projectile" value="3" >
     </E>
     <E key="tank_drill | $damage_melee" value="1" >
     </E>

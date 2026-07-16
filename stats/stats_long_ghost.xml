@@ -1,4 +1,4 @@
-<Stats deaths="26" kills="3" player_kills="0" player_projectile_count="0" >
+<Stats deaths="28" kills="4" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -6,7 +6,11 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="1" >
     </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
+    </E>
+    <E key="face_worm | worm bite" value="1" >
     </E>
     <E key="phantom_c_apotheosis | $damage_melee" value="1" >
     </E>
@@ -26,7 +30,7 @@
     </E>
     <E key="scavenger_laser" value="1" >
     </E>
-    <E key="scorpion" value="1" >
+    <E key="scorpion" value="2" >
     </E>
   </kill_map>
 </Stats>

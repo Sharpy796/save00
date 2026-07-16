@@ -1,4 +1,4 @@
-<Stats deaths="22" kills="44" player_kills="0" player_projectile_count="0" >
+<Stats deaths="22" kills="59" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="player | $damage_curse" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="bubble_liquid" value="1" >
     </E>
-    <E key="dripping_water" value="1" >
+    <E key="dripping_water" value="2" >
     </E>
     <E key="drone_mini" value="1" >
     </E>
@@ -30,19 +30,25 @@
     </E>
     <E key="frog_bot" value="3" >
     </E>
+    <E key="ground_terror" value="1" >
+    </E>
     <E key="lavashooter" value="1" >
     </E>
     <E key="miniblob" value="15" >
     </E>
+    <E key="nautilus" value="1" >
+    </E>
     <E key="scavenger_electrocuter2" value="1" >
     </E>
-    <E key="scavenger_glue" value="2" >
+    <E key="scavenger_glue" value="4" >
     </E>
-    <E key="scavenger_grenade" value="6" >
+    <E key="scavenger_grenade" value="13" >
     </E>
-    <E key="scavenger_heal" value="1" >
+    <E key="scavenger_heal" value="2" >
     </E>
-    <E key="scavenger_smg" value="3" >
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="4" >
     </E>
     <E key="tank_rocket" value="1" >
     </E>

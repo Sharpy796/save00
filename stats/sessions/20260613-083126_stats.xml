@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="4" damage_taken="10.2486" dead="1" death_count="0" death_pos.x="1133.78" death_pos.y="3977" enemies_killed="54" gold="472" gold_all="862" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="46" killed_by="$animal_kiwiki | ice" killed_by_extra="" places_visited="4" playtime="479.533" playtime_str="0:07:59" projectiles_shot="477" streaks="0" teleports="0" wands_edited="6" world_seed="501391653" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="0.473331" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="40" gold="322" gold_all="522" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="6" kicks="8" killed_by="" killed_by_extra="" places_visited="2" playtime="293.417" playtime_str="0:04:53" projectiles_shot="356" streaks="0" teleports="0" wands_edited="5" world_seed="501391653" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="Aquifer" value="1" >
+    </E>
+    <E key="Blast Pit" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

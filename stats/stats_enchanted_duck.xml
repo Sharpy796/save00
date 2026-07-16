@@ -1,4 +1,4 @@
-<Stats deaths="48" kills="7" player_kills="0" player_projectile_count="0" >
+<Stats deaths="48" kills="8" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -36,7 +36,7 @@
   <kill_map>
     <E key="enchanted_duck" value="1" >
     </E>
-    <E key="scorpion" value="4" >
+    <E key="scorpion" value="5" >
     </E>
     <E key="wizard_returner" value="1" >
     </E>

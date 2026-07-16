@@ -1,8 +1,8 @@
-<Stats deaths="176" kills="11" player_kills="0" player_projectile_count="0" >
+<Stats deaths="190" kills="13" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
-    <E key="NULL | $damage_explosion" value="5" >
+    <E key="NULL | $damage_explosion" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="conduit | $damage_melee" value="3" >
     </E>
-    <E key="fallen_alchemist | $damage_projectile" value="3" >
+    <E key="fallen_alchemist | $damage_projectile" value="4" >
     </E>
     <E key="hazmat | $damage_melee" value="1" >
     </E>
@@ -32,15 +32,15 @@
     </E>
     <E key="mexxi | $damage_projectile" value="1" >
     </E>
-    <E key="mimic_explosive_box | $damage_melee" value="2" >
+    <E key="mimic_explosive_box | $damage_melee" value="4" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="20" >
+    <E key="miner_weak | $damage_explosion" value="22" >
     </E>
     <E key="miner_weak | $damage_melee" value="11" >
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="49" >
+    <E key="player | $damage_projectile" value="54" >
     </E>
     <E key="player | $damage_slice" value="22" >
     </E>
@@ -50,7 +50,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="1" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="11" >
+    <E key="shotgunner_weak | $damage_projectile" value="13" >
     </E>
     <E key="skullmage | $damage_explosion" value="1" >
     </E>
@@ -66,7 +66,9 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="eye_bat" value="4" >
+    <E key="conduit" value="1" >
+    </E>
+    <E key="eye_bat" value="5" >
     </E>
     <E key="zombie_water" value="7" >
     </E>

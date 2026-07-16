@@ -1,14 +1,14 @@
-<Stats deaths="459" kills="313" player_kills="0" player_projectile_count="0" >
+<Stats deaths="465" kills="318" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="4" >
     </E>
-    <E key="NULL | $damage_drowning" value="5" >
+    <E key="NULL | $damage_drowning" value="6" >
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="62" >
+    <E key="NULL | $damage_explosion" value="63" >
     </E>
     <E key="NULL | $damage_fire" value="19" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="29" >
+    <E key="NULL | $damage_radioactive" value="30" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="1" >
     </E>
@@ -72,7 +72,7 @@
     </E>
     <E key="player | $damage_electricity" value="6" >
     </E>
-    <E key="player | $damage_explosion" value="18" >
+    <E key="player | $damage_explosion" value="21" >
     </E>
     <E key="player | $damage_fire" value="6" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="blob" value="1" >
     </E>
-    <E key="bubble_liquid" value="8" >
+    <E key="bubble_liquid" value="9" >
     </E>
     <E key="chaoticpolyshooter" value="1" >
     </E>
@@ -148,7 +148,7 @@
     </E>
     <E key="pollen" value="37" >
     </E>
-    <E key="rat" value="141" >
+    <E key="rat" value="143" >
     </E>
     <E key="scavenger_civilian" value="1" >
     </E>
@@ -156,9 +156,9 @@
     </E>
     <E key="scavenger_smg" value="6" >
     </E>
-    <E key="shotgunner" value="11" >
+    <E key="shotgunner" value="12" >
     </E>
-    <E key="slimeshooter" value="24" >
+    <E key="slimeshooter" value="25" >
     </E>
     <E key="sniper" value="4" >
     </E>

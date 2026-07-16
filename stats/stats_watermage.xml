@@ -1,4 +1,4 @@
-<Stats deaths="43" kills="41" player_kills="0" player_projectile_count="0" >
+<Stats deaths="45" kills="42" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -10,6 +10,8 @@
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
@@ -18,7 +20,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_ice" value="2" >
+    <E key="player | $damage_ice" value="3" >
     </E>
     <E key="player | $damage_projectile" value="20" >
     </E>
@@ -49,6 +51,8 @@
     <E key="rat" value="28" >
     </E>
     <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
     </E>
     <E key="seeker" value="2" >
     </E>
