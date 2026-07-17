@@ -1,4 +1,4 @@
-<Stats deaths="461" kills="177" player_kills="1" player_projectile_count="0" >
+<Stats deaths="471" kills="186" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="4" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="7" >
+    <E key="NULL | damage from material: freezing vapour" value="8" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="firebug | $damage_fire" value="1" >
     </E>
-    <E key="firebug | $damage_melee" value="1" >
+    <E key="firebug | $damage_melee" value="2" >
     </E>
     <E key="goblin_bomb | $damage_melee" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_fire" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="114" >
+    <E key="player | $damage_projectile" value="119" >
     </E>
     <E key="player | $damage_slice" value="18" >
     </E>
@@ -72,11 +72,13 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_projectile" value="3" >
+    <E key="scavenger_grenade | $damage_projectile" value="4" >
     </E>
     <E key="scavenger_smg | $damage_explosion" value="1" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="13" >
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="14" >
     </E>
     <E key="slimeshooter | $damage_explosion" value="7" >
     </E>
@@ -112,7 +114,7 @@
     </E>
     <E key="ant" value="1" >
     </E>
-    <E key="bat" value="1" >
+    <E key="bat" value="3" >
     </E>
     <E key="bigfirebug" value="3" >
     </E>
@@ -122,7 +124,7 @@
     </E>
     <E key="drone_mini" value="3" >
     </E>
-    <E key="firebug" value="2" >
+    <E key="firebug" value="3" >
     </E>
     <E key="fly" value="2" >
     </E>
@@ -138,11 +140,13 @@
     </E>
     <E key="radioactive_blob_trail" value="4" >
     </E>
-    <E key="rat" value="119" >
+    <E key="rat" value="122" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
-    <E key="scavenger_smg" value="2" >
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
     <E key="shotgunner" value="11" >
     </E>
@@ -152,7 +156,7 @@
     </E>
     <E key="wizard_dark" value="2" >
     </E>
-    <E key="zombie" value="4" >
+    <E key="zombie" value="5" >
     </E>
   </kill_map>
 </Stats>

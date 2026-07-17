@@ -1,20 +1,20 @@
-<Stats deaths="97" kills="66" player_kills="1" player_projectile_count="0" >
+<Stats deaths="103" kills="70" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="10" >
+    <E key="NULL | $damage_explosion" value="11" >
     </E>
     <E key="NULL | $damage_fire" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="6" >
+    <E key="NULL | $damage_physicshit" value="7" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
     <E key="NULL | $damage_radioactive" value="6" >
     </E>
-    <E key="NULL | damage from material: acid" value="1" >
+    <E key="NULL | damage from material: acid" value="2" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="2" >
+    <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
     <E key="iceskull | $damage_melee" value="1" >
     </E>
@@ -30,13 +30,15 @@
     </E>
     <E key="player | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="33" >
+    <E key="player | $damage_projectile" value="34" >
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
     <E key="player_rng_items | $damage_explosion" value="1" >
     </E>
     <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
     </E>
     <E key="thundermage_big | $damage_electricity" value="1" >
     </E>
@@ -52,6 +54,8 @@
     </E>
     <E key="blob" value="1" >
     </E>
+    <E key="fly" value="1" >
+    </E>
     <E key="glue" value="5" >
     </E>
     <E key="iceskull" value="5" >
@@ -64,13 +68,17 @@
     </E>
     <E key="rat" value="16" >
     </E>
-    <E key="scavenger_grenade" value="3" >
+    <E key="scavenger_grenade" value="4" >
     </E>
     <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="scavenger_leader" value="1" >
     </E>
     <E key="scavenger_smg" value="2" >
     </E>
     <E key="scorpion" value="1" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

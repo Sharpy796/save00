@@ -1,8 +1,8 @@
-<Stats deaths="94" kills="111" player_kills="0" player_projectile_count="0" >
+<Stats deaths="99" kills="114" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_explosion" value="10" >
     </E>
-    <E key="NULL | $damage_physicshit" value="1" >
+    <E key="NULL | $damage_physicshit" value="3" >
     </E>
     <E key="NULL | damage from material: (Vanilla) freezing vapour" value="1" >
     </E>
@@ -10,13 +10,13 @@
     </E>
     <E key="devourer_magic | Taikuuden syöjä's bite" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="7" >
+    <E key="player | $damage_explosion" value="8" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
     <E key="player | $damage_melee" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="58" >
+    <E key="player | $damage_projectile" value="59" >
     </E>
     <E key="player | $damage_slice" value="2" >
     </E>
@@ -30,19 +30,21 @@
     </E>
     <E key="thundermage | $damage_explosion" value="1" >
     </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
     <E key="worm_skull | worm bite" value="1" >
     </E>
   </death_map>
   <kill_map>
     <E key="bigzombie" value="1" >
     </E>
-    <E key="blob" value="1" >
+    <E key="blob" value="2" >
     </E>
     <E key="glue" value="14" >
     </E>
     <E key="iceskull" value="4" >
     </E>
-    <E key="miniblob" value="11" >
+    <E key="miniblob" value="13" >
     </E>
     <E key="pollen" value="2" >
     </E>

@@ -2,10 +2,10 @@
   _version="1" 
   name="DEBUG_NAME:player" 
   serialize="0" 
-  tags="mortal,human,hittable,peasant,prey,player_unit,teleportable" >
+  tags="mortal,hittable,human,peasant,prey,player_unit,teleportable" >
   <_Transform 
-    position.x="227" 
-    position.y="-79.0028" 
+    position.x="329.067" 
+    position.y="-102.003" 
     rotation="0" 
     scale.x="1" 
     scale.y="1" >
@@ -306,7 +306,7 @@
     is_player="1" 
     name="player" 
     player_polymorph_count="0" 
-    stats_filename="??STA/sessions/20260401-211013_kills.xml" >
+    stats_filename="??STA/sessions/20260716-192651_kills.xml" >
   </GameStatsComponent>
   <GenomeDataComponent 
     _enabled="1" 
@@ -446,6 +446,18 @@
     player_kickforce="28" 
     telekinesis_throw_speed="25" >
   </KickComponent>
+  <LightComponent 
+    _enabled="1" 
+    b="255" 
+    blinking_freq="1" 
+    fade_out_time="5" 
+    g="255" 
+    offset_x="0" 
+    offset_y="0" 
+    r="255" 
+    radius="350" 
+    update_properties="1" >
+  </LightComponent>
   <LiquidDisplacerComponent 
     _enabled="1" 
     radius="1" 
@@ -463,7 +475,7 @@
     limit_all_callbacks="0" 
     limit_how_many_times_per_frame="-1" 
     limit_to_every_n_frame="-1" 
-    mLastExecutionFrame="970" 
+    mLastExecutionFrame="170" 
     mModAppendsDone="1" 
     mTimesExecutedThisFrame="1" 
     remove_after_executed="0" 
@@ -601,7 +613,7 @@
     x_vel_max="7" 
     x_vel_min="-7" 
     y_pos_offset_max="0" 
-    y_pos_offset_min="7.64925e-005" 
+    y_pos_offset_min="8.14481e-026" 
     y_vel_max="180" 
     y_vel_min="80" >
   </ParticleEmitterComponent>
@@ -937,8 +949,8 @@
     next_rect_animation="" 
     offset_animator_offset.x="0" 
     offset_animator_offset.y="0" 
-    offset_x="-51.3694" 
-    offset_y="26.347" 
+    offset_x="-53.4294" 
+    offset_y="7.58946" 
     rect_animation="" 
     smooth_filtering="0" 
     special_scale_x="1" 
@@ -1876,8 +1888,8 @@
     limit_to_max_velocity="1" 
     liquid_death_threshold="0" 
     liquid_drag="1" 
-    mVelocity.x="0" 
-    mVelocity.y="0.0972137" 
+    mVelocity.x="0.00445557" 
+    mVelocity.y="0" 
     mass="0.05" 
     terminal_velocity="1000" 
     updates_velocity="0" >
@@ -1895,9 +1907,9 @@
     serialize="1" 
     tags="player_arm_r" >
     <_Transform 
-      position.x="224" 
-      position.y="-85.0028" 
-      rotation="-0.187102" 
+      position.x="326.067" 
+      position.y="-109.003" 
+      rotation="0.0339697" 
       scale.x="1" 
       scale.y="1" >
     </_Transform>
@@ -1942,7 +1954,7 @@
       offset_animator_offset.y="0" 
       offset_x="0" 
       offset_y="0" 
-      rect_animation="default" 
+      rect_animation="down" 
       smooth_filtering="0" 
       special_scale_x="1" 
       special_scale_y="1" 
@@ -1962,8 +1974,8 @@
     serialize="1" 
     tags="" >
     <_Transform 
-      position.x="226" 
-      position.y="-87.0028" 
+      position.x="328.067" 
+      position.y="-110.003" 
       rotation="0" 
       scale.x="1" 
       scale.y="1" >
@@ -2001,8 +2013,8 @@
       gets_entity_velocity_coeff="0" 
       liquid_damping="0.7" 
       m_is_culled_previous="0" 
-      m_position_previous.x="226" 
-      m_position_previous.y="-87.0028" 
+      m_position_previous.x="328.067" 
+      m_position_previous.y="-110.003" 
       mass_max="0.2" 
       mass_min="0.1" 
       materials=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," 
@@ -2027,8 +2039,8 @@
     serialize="1" 
     tags="no_heal_in_meat_biome" >
     <_Transform 
-      position.x="227" 
-      position.y="-79.0028" 
+      position.x="329.067" 
+      position.y="-102.003" 
       rotation="0" 
       scale.x="1" 
       scale.y="1" >
@@ -2217,9 +2229,9 @@
       serialize="1" 
       tags="teleportable_NOT,item,wand" >
       <_Transform 
-        position.x="228.616" 
-        position.y="-84.2643" 
-        rotation="-0.267288" 
+        position.x="330.531" 
+        position.y="-107.368" 
+        rotation="0.0485281" 
         scale.x="1" 
         scale.y="1" >
       </_Transform>
@@ -2248,9 +2260,9 @@
         mNextFrameUsable="0" 
         mReloadFramesLeft="0" 
         mReloadNextFrameUsable="0" 
-        mana="122" 
-        mana_charge_speed="39" 
-        mana_max="122" 
+        mana="129" 
+        mana_charge_speed="37" 
+        mana_max="129" 
         max_amount_in_inventory="1" 
         max_charged_actions="0" 
         never_reload="0" 
@@ -2272,7 +2284,7 @@
         <gun_config 
           actions_per_round="1" 
           deck_capacity="2" 
-          reload_time="22" 
+          reload_time="27" 
           shuffle_deck_when_empty="0" >
         </gun_config>
         <gunaction_config 
@@ -2313,7 +2325,7 @@
           explosion_damage_to_materials="0" 
           explosion_radius="0" 
           extra_entities="" 
-          fire_rate_wait="11" 
+          fire_rate_wait="15" 
           friendly_fire="0" 
           game_effect_entities="" 
           gore_particles="0" 
@@ -2429,8 +2441,8 @@
         remove_default_child_actions_on_death="0" 
         remove_on_death="1" 
         remove_on_death_if_empty="0" 
-        spawn_pos.x="228.616" 
-        spawn_pos.y="-84.2543" 
+        spawn_pos.x="330.595" 
+        spawn_pos.y="-107.642" 
         stats_count_as_item_pick_up="1" 
         ui_description="" 
         ui_display_description_on_pick_up_hint="0" 
@@ -2883,7 +2895,7 @@
           drinkable="1" 
           enable_orb_hacks="0" 
           has_been_picked_by_player="0" 
-          inventory_slot.x="0" 
+          inventory_slot.x="1" 
           inventory_slot.y="0" 
           is_all_spells_book="0" 
           is_consumable="0" 
@@ -3080,8 +3092,8 @@
       serialize="1" 
       tags="teleportable_NOT,item,wand" >
       <_Transform 
-        position.x="227" 
-        position.y="-79.0028" 
+        position.x="329.067" 
+        position.y="-102.003" 
         rotation="0" 
         scale.x="1" 
         scale.y="1" >
@@ -3111,9 +3123,9 @@
         mNextFrameUsable="0" 
         mReloadFramesLeft="0" 
         mReloadNextFrameUsable="0" 
-        mana="96" 
-        mana_charge_speed="11" 
-        mana_max="96" 
+        mana="102" 
+        mana_charge_speed="5" 
+        mana_max="102" 
         max_amount_in_inventory="1" 
         max_charged_actions="0" 
         never_reload="0" 
@@ -3135,7 +3147,7 @@
         <gun_config 
           actions_per_round="1" 
           deck_capacity="1" 
-          reload_time="7" 
+          reload_time="9" 
           shuffle_deck_when_empty="1" >
         </gun_config>
         <gunaction_config 
@@ -3176,7 +3188,7 @@
           explosion_damage_to_materials="0" 
           explosion_radius="0" 
           extra_entities="" 
-          fire_rate_wait="7" 
+          fire_rate_wait="3" 
           friendly_fire="0" 
           game_effect_entities="" 
           gore_particles="0" 
@@ -3292,8 +3304,8 @@
         remove_default_child_actions_on_death="0" 
         remove_on_death="1" 
         remove_on_death_if_empty="0" 
-        spawn_pos.x="227" 
-        spawn_pos.y="-79.0028" 
+        spawn_pos.x="329.062" 
+        spawn_pos.y="-102.003" 
         stats_count_as_item_pick_up="1" 
         ui_description="" 
         ui_display_description_on_pick_up_hint="0" 
@@ -3494,7 +3506,7 @@
           current_slot_durability="-1" 
           drop_as_item_on_death="1" 
           entity_count="1" 
-          entity_file="data/entities/projectiles/bomb.xml" 
+          entity_file="data/entities/projectiles/tnt.xml" 
           fast_projectile="0" 
           gun_level="1" 
           is_petris_gun="0" 
@@ -3526,7 +3538,7 @@
           stat_times_player_has_shot="0" 
           swim_propel_amount="0" 
           throw_as_item="1" 
-          ui_name="$action_bomb" 
+          ui_name="$action_high_explosive" 
           use_entity_file_as_projectile_info_proxy="1" 
           use_gun_script="0" >
           <gun_config 
@@ -3620,7 +3632,7 @@
         <ItemActionComponent 
           _enabled="0" 
           _tags="enabled_in_world" 
-          action_id="BOMB" >
+          action_id="DYNAMITE" >
         </ItemActionComponent>
         <ItemComponent 
           _enabled="0" 
@@ -3664,7 +3676,7 @@
           ui_description="" 
           ui_display_description_on_pick_up_hint="0" 
           ui_sprite="" 
-          uses_remaining="3" >
+          uses_remaining="16" >
         </ItemComponent>
         <SimplePhysicsComponent 
           _enabled="0" 
@@ -3679,7 +3691,7 @@
           emissive="0" 
           fog_of_war_hole="0" 
           has_special_scale="0" 
-          image_file="data/ui_gfx/gun_actions/bomb.png" 
+          image_file="data/ui_gfx/gun_actions/dynamite.png" 
           is_text_sprite="0" 
           kill_entity_after_finished="0" 
           never_ragdollify_on_death="0" 
@@ -3769,15 +3781,15 @@
           emissive="0" 
           fog_of_war_hole="0" 
           has_special_scale="0" 
-          image_file="data/items_gfx/in_hand/bomb_in_hand.png" 
+          image_file="data/items_gfx/in_hand/tnt_in_hand.png" 
           is_text_sprite="0" 
           kill_entity_after_finished="0" 
           never_ragdollify_on_death="0" 
           next_rect_animation="" 
           offset_animator_offset.x="0" 
           offset_animator_offset.y="0" 
-          offset_x="3.5" 
-          offset_y="6" 
+          offset_x="2.5" 
+          offset_y="4.5" 
           rect_animation="" 
           smooth_filtering="0" 
           special_scale_x="1" 
@@ -3861,8 +3873,8 @@
       serialize="1" 
       tags="teleportable_NOT,hittable,item_physics,item_pickup,potion" >
       <_Transform 
-        position.x="227" 
-        position.y="-79.0028" 
+        position.x="329.067" 
+        position.y="-102.003" 
         rotation="0" 
         scale.x="1" 
         scale.y="1" >
@@ -4206,8 +4218,8 @@
         remove_default_child_actions_on_death="0" 
         remove_on_death="0" 
         remove_on_death_if_empty="0" 
-        spawn_pos.x="227" 
-        spawn_pos.y="-79.0028" 
+        spawn_pos.x="329.062" 
+        spawn_pos.y="-102.003" 
         stats_count_as_item_pick_up="1" 
         ui_description="$item_description_potion" 
         ui_display_description_on_pick_up_hint="0" 

@@ -1,4 +1,4 @@
-<Stats deaths="1146" kills="33" player_kills="1" player_projectile_count="0" >
+<Stats deaths="1203" kills="42" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="5" >
     </E>
@@ -8,19 +8,23 @@
     </E>
     <E key="NULL | $damage_electricity" value="9" >
     </E>
-    <E key="NULL | $damage_explosion" value="94" >
+    <E key="NULL | $damage_explosion" value="95" >
     </E>
-    <E key="NULL | $damage_fire" value="193" >
+    <E key="NULL | $damage_fire" value="196" >
     </E>
     <E key="NULL | $damage_melee" value="7" >
     </E>
     <E key="NULL | $damage_physicshit" value="80" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
     </E>
     <E key="NULL | damage from material: (Vanilla) acid" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) lava" value="6" >
     </E>
     <E key="NULL | damage from material: (Vanilla) toxic gas" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="6" >
     </E>
     <E key="NULL | damage from material: Weak Acid" value="1" >
     </E>
@@ -62,6 +66,8 @@
     </E>
     <E key="kantele_d | " value="4" >
     </E>
+    <E key="longleg | $damage_melee" value="9" >
+    </E>
     <E key="lukki | hit" value="3" >
     </E>
     <E key="lukki_tentacle_hungry | $damage_projectile" value="2" >
@@ -74,15 +80,19 @@
     </E>
     <E key="miner_weak | $damage_melee" value="7" >
     </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
     <E key="player | " value="9" >
     </E>
-    <E key="player | $damage_explosion" value="11" >
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="22" >
     </E>
     <E key="player | $damage_fire" value="16" >
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="340" >
+    <E key="player | $damage_projectile" value="363" >
     </E>
     <E key="player | $damage_slice" value="16" >
     </E>
@@ -114,7 +124,7 @@
     </E>
     <E key="slimeshooter_weak | $damage_melee" value="2" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="8" >
+    <E key="slimeshooter_weak | $damage_projectile" value="9" >
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
@@ -128,6 +138,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="longleg" value="9" >
+    </E>
     <E key="miner_weak" value="5" >
     </E>
     <E key="player" value="1" >

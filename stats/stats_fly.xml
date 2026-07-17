@@ -1,4 +1,4 @@
-<Stats deaths="329" kills="18" player_kills="0" player_projectile_count="0" >
+<Stats deaths="354" kills="25" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="33" >
     </E>
-    <E key="NULL | $damage_physicshit" value="18" >
+    <E key="NULL | $damage_physicshit" value="20" >
     </E>
     <E key="NULL | damage from material: (Vanilla) Poison" value="1" >
     </E>
@@ -14,11 +14,15 @@
     </E>
     <E key="acidshooter | $damage_projectile" value="2" >
     </E>
-    <E key="bloom | $damage_projectile" value="2" >
+    <E key="bloom | $damage_projectile" value="6" >
     </E>
     <E key="contact_damage | $damage_curse" value="3" >
     </E>
-    <E key="fly | $damage_melee" value="1" >
+    <E key="fly | $damage_melee" value="7" >
+    </E>
+    <E key="lukki | hit" value="2" >
+    </E>
+    <E key="lukki_longleg | hit" value="3" >
     </E>
     <E key="miniblob | $damage_melee" value="1" >
     </E>
@@ -28,13 +32,15 @@
     </E>
     <E key="player | $damage_explosion" value="17" >
     </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
     <E key="player | $damage_ice" value="6" >
     </E>
     <E key="player | $damage_melee" value="20" >
     </E>
     <E key="player | $damage_projectile" value="137" >
     </E>
-    <E key="player | $damage_slice" value="29" >
+    <E key="player | $damage_slice" value="30" >
     </E>
     <E key="player | chop!" value="5" >
     </E>
@@ -48,9 +54,17 @@
     </E>
     <E key="roboguard | $damage_projectile" value="2" >
     </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
     <E key="scavenger_clusterbomb | $damage_projectile" value="2" >
     </E>
-    <E key="scavenger_poison | $damage_projectile" value="1" >
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="3" >
     </E>
     <E key="shooterflower | $damage_projectile" value="10" >
     </E>
@@ -70,13 +84,15 @@
   <kill_map>
     <E key="acidshooter" value="2" >
     </E>
-    <E key="fly" value="1" >
+    <E key="fly" value="7" >
     </E>
     <E key="frog" value="2" >
     </E>
     <E key="miniblob" value="3" >
     </E>
     <E key="rat" value="1" >
+    </E>
+    <E key="sheep" value="1" >
     </E>
     <E key="tentacler_small" value="3" >
     </E>

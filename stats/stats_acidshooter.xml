@@ -1,4 +1,4 @@
-<Stats deaths="173" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="188" kills="41" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="16" >
     </E>
-    <E key="NULL | $damage_fire" value="14" >
+    <E key="NULL | $damage_fire" value="17" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -36,15 +36,17 @@
     </E>
     <E key="orb_green | $damage_projectile" value="1" >
     </E>
+    <E key="phantom_b | $damage_projectile" value="1" >
+    </E>
     <E key="player | $damage_electricity" value="4" >
     </E>
     <E key="player | $damage_explosion" value="3" >
     </E>
-    <E key="player | $damage_fire" value="2" >
+    <E key="player | $damage_fire" value="3" >
     </E>
     <E key="player | $damage_melee" value="13" >
     </E>
-    <E key="player | $damage_projectile" value="55" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="player | $damage_slice" value="6" >
     </E>
@@ -55,6 +57,8 @@
     <E key="player_rng_items | $damage_projectile" value="3" >
     </E>
     <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="1" >
     </E>
     <E key="scavenger_laser | $damage_projectile" value="1" >
     </E>
@@ -78,13 +82,13 @@
     </E>
     <E key="miner_weak" value="1" >
     </E>
-    <E key="miniblob" value="1" >
+    <E key="miniblob" value="8" >
     </E>
     <E key="peasant" value="1" >
     </E>
     <E key="rat" value="7" >
     </E>
-    <E key="scorpion" value="12" >
+    <E key="scorpion" value="13" >
     </E>
     <E key="sheep" value="2" >
     </E>

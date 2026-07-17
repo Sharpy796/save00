@@ -1,12 +1,12 @@
-<Stats deaths="158" kills="31" player_kills="1" player_projectile_count="0" >
+<Stats deaths="160" kills="32" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="011000011a9632a8_base | " value="1" >
     </E>
     <E key="NULL | " value="1" >
     </E>
-    <E key="NULL | $damage_drowning" value="6" >
+    <E key="NULL | $damage_drowning" value="7" >
     </E>
-    <E key="NULL | $damage_explosion" value="20" >
+    <E key="NULL | $damage_explosion" value="21" >
     </E>
     <E key="NULL | $damage_physicshit" value="2" >
     </E>
@@ -88,7 +88,7 @@
   <kill_map>
     <E key="gazer" value="1" >
     </E>
-    <E key="lasershooter" value="1" >
+    <E key="lasershooter" value="2" >
     </E>
     <E key="miniblob" value="4" >
     </E>
